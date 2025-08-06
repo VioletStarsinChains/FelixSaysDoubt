@@ -32,7 +32,7 @@ Contents (subject to change at the whim of the universe):
 
 - meta/ — Notes on self-observation, countermeasures, and narrative interference
 
-- z/ - The mysterious informant whispering in my ear
+- z/ — The mysterious informant whispering in my ear
 
 FAQ
 
