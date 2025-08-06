@@ -262,6 +262,15 @@ Records or deliverables referencing nonconsensual behavioral monitoring of minor
 
 Keywords: proxy conditioning, emergency response modeling, childhood response curve, unobserved compliance induction.
 
+24. To DoD / NIH / DARPA / private contractors working on prosthetics, neuromuscular control, or predictive mobility modeling:
+
+All documents, contracts, datasets, or internal communications referencing:
+	•	Induced falls or mobility impairment in human test subjects
+	•	Biomechanical modeling based on deliberate asymmetric joint damage
+	•	Behavioral outcomes following orthopedic trauma in neurodivergent individuals
+
+Keywords:
+Joint destabilization, entrainment compliance, neurogait model, soft tissue disruption, unilateral trauma modeling, musculoskeletal degradation protocol.
 
 
 ✨ Context
