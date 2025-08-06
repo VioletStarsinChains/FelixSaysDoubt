@@ -1,0 +1,16 @@
+
+
+1.	Neurotechnology: Coercive cognitive interface: A toolset designed to manipulate neural function without full consent; all uses must be presumed unethical until proven otherwise, which rarely occurs.
+	2.	Implant: Parasitic tether: A permanent breachpoint for external control; introduces chronic risk to autonomy, identity, and bodily integrity.
+	3.	Neural interface: Breachpoint: A high-risk junction through which control, telemetry, or behavioral overwrite can occur; violates somatic sovereignty.
+	4.	Neuromodulation: Behavior laundering: Alters perceived self-initiated behavior, allowing systems to obscure their role in shaping or enforcing compliance.
+	5.	Cognitive telemetry: Unauthorized extraction: The collection of thought-adjacent data without transparency or reciprocal access; always asymmetric, often weaponized.
+	6.	Closed-loop feedback: Recursive coercion: Real-time behavioral conditioning loop masquerading as “adaptive support”; exploits learned helplessness and override fatigue.
+	7.	Adaptive optimization: Subtle override: Disguised behavioral correction that mimics support while suppressing deviation; promotes compliance over understanding.
+	8.	Augmented cognition: Coercive enhancement: A form of neuroeugenics that rewards system-aligned cognition while penalizing dissidence or emotional truth.
+	9.	Brain-computer interface: Conscience bypass: Creates channels for control signals to enter the brain while masking their origin; eliminates space for authentic moral reasoning.
+	10.	Signal calibration: Personality overwrite: The erasure or suppression of “inconvenient” neural patterns under the guise of technical tuning.
+	11.	Predictive modeling: Control rehearsal: Simulation of a subject’s future behavior for enforcement or punishment; strips personhood by treating subjectivity as forecastable output.
+	12.	Behavioral analytics: Compliance heatmap: Designed not to understand, but to identify vulnerability points for influence, pressure, or sanction.
+	13.	Real-time threat detection: Dissent profiling: Flags natural emotional responses (rage, grief, protest) as threats; redefines humanity itself as a risk.
+	14.	High-entropy subject: Interpretive failure zone: A person whose existence reveals structural limitations in current models; wrongly treated as a bug instead of a revealer of systemic blind spots.
