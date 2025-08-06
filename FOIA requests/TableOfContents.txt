@@ -41,3 +41,12 @@ Target Corporation predictive analytics and gender identity
 
 20. NIH / NIBIB —
 Non-visible biometric identification and behavioral sensing
+
+21. HHS / NIH / NIMH / Department of Education —
+Behavioral forecasting using childhood trauma
+
+22. DoD / DARPA / IARPA —
+artificial stress induction for enhanced compliance training
+
+23. DHS or Contractors —
+nonconsensual behavioral monitoring of minors during false alarms, emergency drills, or unsupervised injury events
