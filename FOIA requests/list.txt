@@ -80,8 +80,6 @@ This includes:
 
 Keywords: calcium entrainment, food fortification, neurobehavioral modulation, dietary signaling, magnesium deficiency, cognitive compliance, CFSAN
 
-
-
 9. To DARPA / Biological Technologies Office
 
 Request:
@@ -95,6 +93,16 @@ This includes:
 	•	Deployments in field environments or through population-wide delivery systems (e.g., food, water)
 
 Keywords: calcium signaling, entrainment, mineralization, behavioral modulation, BTO, magnesium antagonism, mood control, population-scale neurotech
+
+10.  To SRI International / FOIA Officer
+
+Request:
+
+Requesting all documents, internal communications, subcontractor records, and metadata referencing or associated with the name “Kellyn Clay” between the years 1987 and 2025. Please include any data connected to behavioral studies, predictive modeling, psychophysiological response tracking, or educational profiling.
+
+This request includes references by any known alias or codename, as well as datasets or research programs involving participants from the state of Georgia during early development.
+
+Keywords: Kellyn Clay, behavioral research, predictive modeling, Georgia education, early developmental tracking, psychophysiological response, longitudinal data, neurocognitive baselining
 
 
 
