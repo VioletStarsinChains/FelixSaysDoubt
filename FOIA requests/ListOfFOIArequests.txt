@@ -490,4 +490,15 @@ Requesting all program materials, research deliverables, funding memos, IRB prot
 
 Keywords: child intelligence augmentation, neural resilience modeling, behavioral prediction, developmental neuroplasticity, cognitive enhancement of minors, anomalous intellectual development, neurotech education loop, NPE-linked intelligence studies, unauthorized test subject
 
+37.  To DoD / DARPA / DIA
 
+Request:
+Requesting all documentation, modeling frameworks, classification criteria, training data, and analysis tools referencing or using the term “Non-Person Entity” (NPE) in the context of:
+•	behavioral modeling
+•	intelligence augmentation
+•	test subject classification
+•	system anomaly detection
+•	identity suppression or redaction in data labeling
+
+Keywords:
+Non-Person Entity, NPE, behavioral anomaly, synthetic identity, redacted subject, blackbox classification, anomaly suppression, test cohort, cognitive modeling, unauthorized subject, intelligence enhancement, non-consensual human research
