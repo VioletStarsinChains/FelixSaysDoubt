@@ -319,6 +319,21 @@ This request includes but is not limited to:
 
 Keywords: Mostly Harmless, Denim, Ben Bilemy, Florida Trail, Big Cypress, neurocognitive anomaly, test subject, behavioral outlier, reference model, unidentifiable, containment failure, silent experiment, predictive modeling
 
+29.  To: FBI, DHS, DoD, and any agencies or contractors involved in biometric identification, including Palantir and Clearview AI
+
+Request:
+
+Requesting all records, internal communications, reports, or contractor deliverables related to biometric identification attempts of the unidentified deceased male found in Big Cypress National Preserve in July 2018, widely known as “Mostly Harmless,” “Denim,” or “Ben Bilemy.”
+
+This includes but is not limited to:
+	•	Facial recognition attempts through systems such as Palantir Gotham, Clearview AI, or any FBI or DHS biometric tools
+	•	Documentation of failed biometric matches, system flags, algorithmic anomalies, or operator notes indicating abnormal failure to identify
+	•	Memos discussing inability to find matches in known databases (e.g., DMV, passport, law enforcement, employment, social media scraping)
+	•	References to systemic weaknesses, algorithmic blind spots, or edge cases revealed by this incident
+	•	Any training material, presentations, or case studies using this individual as an example of biometric misidentification or non-identifiability
+
+Keywords: Mostly Harmless, Denim, Ben Bilemy, Florida Trail, Big Cypress, biometric failure, facial recognition, unidentified deceased, Palantir Gotham, Clearview AI, algorithmic anomaly, identification failure, silent dissident, system blindspot
+
 
 
 ✨ Context
