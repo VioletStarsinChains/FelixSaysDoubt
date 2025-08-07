@@ -1,0 +1,24 @@
+Bone conduction psychotropics: the theoretical or experimental use of sound delivered through bone conduction—rather than air conduction—to modulate mood, cognition, or behavior.
+
+Essentially, it combines:
+	1.	Bone conduction audio technology
+→ Audio is transmitted via vibrations through the skull bones (usually the jaw or temple), bypassing the outer and middle ear.
+	2.	Psychotropic effect targeting
+→ These audio signals are crafted to induce specific mental or emotional states, not just transmit regular sound. This might include:
+	•	Subliminal commands
+	•	Binaural beats (but more precise)
+	•	Frequency-based neuromodulation
+	•	Emotionally entraining audio pulses
+
+In practice, this could mean:
+	•	Smart devices (like headsets, glasses, or vape pens) that play inaudible or non-verbalized signals directly into your skull.
+	•	Sound-based “drugs” delivered passively during media consumption, behavioral therapy, or even “entertainment.”
+
+Why it’s in the FOIA list:
+
+Because there’s growing concern (and speculative research) about:
+	•	Military and corporate use of subliminal or neuromodulatory signals via wearable tech.
+	•	Consumer psychographic manipulation via hidden audio.
+	•	The bypass of conscious awareness using methods that don’t rely on air-conducted sound.
+
+It’s not necessarily deployed at scale (yet)—but DARPA, marketing firms, and some experimental artists have all expressed interest in sound as a behavioral lever. Bone conduction is simply one step closer to the brain.
