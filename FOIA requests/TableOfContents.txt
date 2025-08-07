@@ -72,4 +72,5 @@ Mostly Harmless, Ben Bilemy, biometric failure, Palantir, Clearview AI, identifi
 30.  HHS / Office for Civil Rights / SAMHSA / DoD / DARPA / DHS / ODNI / NIH / NIMH / Defense Innovation Unit (DIU) /  Centers of Excellence in AI or behavioral health AI pilots — 
 Ellie Mental Health, NeuroBehavioral Systems, HIPAA secondary use, behavioral manipulation risk, LLM training corpus, behavioral biometric extraction
 
-
+31. DARPA
+Involvement of Kellyn Clay in Military or Contractor Research on Sleep Deprivation Resilience
