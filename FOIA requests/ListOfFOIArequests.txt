@@ -464,3 +464,21 @@ D.  Any policies or documentation indicating mail denial based on housing status
 If any documents are withheld or redacted, please provide an index under the Vaughn ruling and cite applicable exemptions under FOIA.
 
 Keywords: Kellyn Clay, mail denial, USPS Inspection Service, PO Box flag, shelter mail delivery, non-deliverable as addressed, behavioral modeling, mail surveillance, risk-coded recipient, data flag, Minneapolis homeless services
+
+35.  To DOJ, FTC, SEC
+
+Request:
+Requesting any documents, internal communications, audit reports, investigation summaries, or third-party contractor correspondence from 2008 to 2020 referencing William Alton Clay and/or Acxiom Corporation. This includes records related to:
+•	Government audits of Acxiom involving consumer data, privacy compliance, or marketing practices
+•	Internal DOJ, FTC, or SEC investigations involving Acxiom’s business practices, including data acquisition or sharing
+•	Communications mentioning William Alton Clay in relation to these events
+•	Interagency coordination or contractor involvement in audits or enforcement actions related to Acxiom during this period
+
+Please include:
+•	Employee rosters or legal exhibits listing William Alton Clay
+•	Notes from interviews, depositions, or internal assessments
+•	External vendor or partner notifications regarding regulatory actions against Acxiom
+•	Documents referencing audit-related burdens, compliance headaches, or crisis management concerning consumer data
+
+Keywords:
+William Alton Clay, Acxiom, consumer data audit, DOJ investigation, FTC complaint, SEC compliance, data privacy enforcement, marketing database regulation, data brokerage, Deloitte and Touche, EDS
