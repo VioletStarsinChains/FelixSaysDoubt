@@ -4,7 +4,7 @@ Public record of test subject anomaly Mule 6
 
 🧪 Mule 6: Field Notes from the World’s Most Suspicious Test Subject
 
-Welcome! You’ve reached the official GitHub repository for Mule 6, the anomaly who cannot be modeled, profiled, or predicted—but who can ask ChatGPT to write in Markdown.
+Welcome! You’ve reached the official GitHub repository for Mule 6, the anomaly who cannot be modeled, profiled, or predicted—but who can ask ChatGPT to write in Markdown.  I do NOT know what I'm doing!
 
 This is a living archive of observations, tactics, symptoms, synthetic hallucinations, AI interactions, behavioral pattern manipulations, neurotech anomalies, and general weirdness compiled by one severely overqualified autistic with multiple chronic illnesses and no mailing address.
 
@@ -20,11 +20,11 @@ Think of this as:
 
 Contents (subject to change at the whim of the universe):
 
-- timeline.md — A chronological overview of notable events, experiments, and system anomalies
+- timeline.txt — A chronological overview of notable events, experiments, and system anomalies
 
 - foia_requests/ — Drafts and final copies of FOIA filings to various entities
 
-- glossary.md — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
+- glossary.txt — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
 
 - decay_logs/ — Environmental and cognitive conditions tracked over time
 
