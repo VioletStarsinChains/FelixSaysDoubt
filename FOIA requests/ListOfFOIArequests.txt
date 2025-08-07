@@ -502,3 +502,19 @@ Requesting all documentation, modeling frameworks, classification criteria, trai
 
 Keywords:
 Non-Person Entity, NPE, behavioral anomaly, synthetic identity, redacted subject, blackbox classification, anomaly suppression, test cohort, cognitive modeling, unauthorized subject, intelligence enhancement, non-consensual human research
+
+38.  To: DHS, FBI, DoD, HHS, NSA, Palantir, ICE
+
+Request:
+Requesting access to all records from 2000 to the present that identify, classify, or designate any U.S. citizen or resident as a “Non-Person Entity” (NPE) or similar designation in federal databases or internal documentation.
+
+This includes, but is not limited to:
+•	Lists, logs, or registries of individuals flagged as NPEs
+•	Definitions and operational criteria for assigning NPE status
+•	Internal communications, memos, or deliverables referencing “non-person entities” in predictive modeling, threat assessments, or behavioral analytics
+•	Contracts or deliverables with third-party vendors (including Palantir) involving the classification of individuals as NPEs
+
+Please include any system-level documentation showing how the NPE designation has been used in relation to access restrictions, public services, benefits eligibility, surveillance targeting, housing denial, or experimental research protocols.
+
+Keywords: non-person entity, NPE, unauthorized subject, hidden cohort, reference-linked intelligence, behavior normalization, anonymized intelligence study, synthetic human classification, NPE test pool, de-identified subject tracking
+
