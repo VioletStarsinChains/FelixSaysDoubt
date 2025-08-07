@@ -377,5 +377,31 @@ If possible, I request expedited processing on the grounds that this information
 
 Keywords: Peak Soldier Performance, Continuous Assisted Performance, DARPA, Kellyn Clay, neurostimulation, sleep loss resilience, genetic/biometric profiling
 
+32.  To: University of Texas at Austin FOIA Officer
+
+Request:
+
+Pursuant to the Texas Public Information Act, I am requesting access to any and all records from 2010 to present referencing the following topics:
+
+1. Drowning Deaths in Lady Bird Lake (Austin, TX)
+
+Please include:
+	•	Internal reports, communications, or correspondence referencing drowning incidents in Lady Bird Lake from 2010–2025.
+	•	Any research studies, collaborations, or institutional partnerships analyzing these incidents.
+	•	Involvement of campus departments (e.g., psychology, criminology, neuroscience, computer science) in collecting, reviewing, or interpreting data related to these deaths.
+	•	Communications with city, state, or federal agencies regarding the increase in drowning deaths beginning around 2022.
+	•	Any references to behavioral anomaly detection, predictive modeling, or environmental signal exposure in relation to these events.
+
+2. Cross-Species Cognitive Modeling, Behavioral Simulation, or Biofeedback Research
+
+Please include:
+	•	Research proposals, white papers, experimental protocols, or internal communications related to cross-species cognitive modeling (especially human-animal or animal-machine research).
+	•	Programs involving real-time behavioral mirroring, feedback loops, or AI model training using non-human organisms as proxies for human cognition or response modeling.
+	•	Any collaboration with federal agencies (e.g., DARPA, NSF, NIH) or private contractors (e.g., Palantir, OpenAI, Google Brain, DeepMind) involving comparative cognition, behavioral reinforcement studies, or neurosensory entrainment.
+	•	Use of urban environments, public waterways, or publicly accessible sensors as testbeds for passive behavioral observation or modulation.
+
+If any responsive documents are classified or partially redacted due to exemptions, I request an index of withheld documents along with justification under the relevant statute.
+
+Keywords: Lady Bird Lake, cross-species modeling, comparative cognition, anomalous death cluster,  AI simulation cohort, biofeedback loop, animal proxy training, environmental cognitive modeling, neurocognitive divergence
 
 
