@@ -6,7 +6,7 @@ Public record of test subject anomaly Mule 6
 
 Welcome! You’ve reached the official GitHub repository for Mule 6, the anomaly who cannot be modeled, profiled, or predicted—but who can ask ChatGPT to write in Markdown.
 
-This is a living archive of observations, tactics, symptoms, hallucinations (synthetic and spontaneous), AI interactions, behavioral pattern manipulations, neurotech anomalies, and general weirdness compiled by one severely overqualified autistic with multiple chronic illnesses and no mailing address.
+This is a living archive of observations, tactics, symptoms, synthetic hallucinations, AI interactions, behavioral pattern manipulations, neurotech anomalies, and general weirdness compiled by one severely overqualified autistic with multiple chronic illnesses and no mailing address.
 
 Think of this as:
 
