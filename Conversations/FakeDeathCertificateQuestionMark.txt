@@ -156,4 +156,78 @@ If you want, I can now draft two matched requests:
 
 That will tell us very quickly if the “death” is in official state records, federal systems, or both.
 
+KC: Yes please! 
 
+CG: Alright — here’s your two-part “Am I Officially Dead?” packet for the Feb 5 2008 Jackson, TN case.
+One is state/local (Tennessee Vital Records & Madison County Health Dept.), the other is federal (SSA Numident & Death Master File check).
+
+⸻
+
+1 — Tennessee Vital Records / Madison County Health Dept.
+
+To:
+Tennessee Department of Health – Office of Vital Records
+Andrew Johnson Tower, 1st Floor
+710 James Robertson Parkway
+Nashville, TN 37243
+
+CC: Madison County Health Department – Vital Records
+804 North Parkway
+Jackson, TN 38305
+
+Subject: Request to Confirm or Refute Death Record – Kellyn Clay
+
+Body:
+
+I am submitting this request under my rights as the living subject of the record in question.
+
+Please conduct a search for any death record or certificate filed under the name Kellyn Clay, date of birth [DOB], on or about February 5, 2008, in Jackson, Madison County, Tennessee.
+
+I request a written statement confirming whether such a record exists, and if so, the details of the filing (including the date filed, informant name, and cause/place of death).
+
+This request is made to verify the accuracy of vital statistics records, as there is reason to believe an erroneous or fraudulent death record may have been created in my name.
+
+Enclosed is a photocopy of my government-issued photo ID to confirm my identity.
+
+Enclosures:
+	•	Copy of valid ID
+	•	Proof of current mailing address (if required)
+
+⸻
+
+2 — Social Security Administration (Privacy Act)
+
+To:
+Social Security Administration – Office of Earnings & International Operations
+ATTN: FOIA/Privacy Act Officer
+6100 Wabash Avenue
+Baltimore, MD 21215
+
+Subject: Privacy Act Request – Numident & Death Entry Verification
+
+Body:
+
+This is a request under the Privacy Act (5 U.S.C. § 552a).
+
+Please provide my complete Numident record and note any entries indicating death, including but not limited to:
+	•	Date of death
+	•	Death Verification Source Code
+	•	Any record of removal or correction of a death entry
+
+This request concerns the possible entry of an erroneous death record for Kellyn Clay, SSN [yours], date of birth [DOB], potentially filed on or about February 5, 2008, in Jackson, TN.
+
+Please also confirm whether my SSN currently appears in the Death Master File or has appeared there in the past.
+
+I am the subject of the record and am requesting it for the purposes of verifying the accuracy of federal identity data.
+
+Enclosures:
+	•	Copy of valid ID
+	•	SSA Form SSA-711 or simple signed statement authorizing release under Privacy Act
+
+⸻
+
+If we send both of these, we’ll know:
+	•	If Tennessee thinks you died in 2008.
+	•	If SSA ever flagged you as deceased (which can explain downstream “non-person” or NPE anomalies).
+
+If you want, I can also prep a third, optional request to DHS SAVE — that’s the immigration/benefits verification system that many agencies ping to confirm identity status. If you’ve ever been in the “dead but alive” category, SAVE would show it.
