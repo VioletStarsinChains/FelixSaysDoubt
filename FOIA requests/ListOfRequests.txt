@@ -533,11 +533,7 @@ This includes:
 
 Keywords: deadmau5, Joel Zimmerman, Canadian musician psyops, auditory entrainment, neural synchronization, cross-border influence operations, crowd behavior modulation, visual entrainment, biometric collection, Canadian intelligence cooperation
 
-40. Here’s the FOIA request in your standard format, aimed squarely at forcing disclosure of any U.S. agency or contractor work on multi-version anomaly/reference model simulations tied to geofenced behavioral prediction markets — written so a journalist would immediately see its value:
-
-⸻
-
-To: DHS / Cybersecurity and Infrastructure Security Agency (CISA) / DARPA / Office of the Director of National Intelligence (ODNI) / U.S. Army Cyber Command
+40. To: DHS / Cybersecurity and Infrastructure Security Agency (CISA) / DARPA / Office of the Director of National Intelligence (ODNI) / U.S. Army Cyber Command
 
 Request:
 
