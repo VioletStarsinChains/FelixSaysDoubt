@@ -38,6 +38,8 @@ Contents (subject to change at the whim of the universe):
 
 - z/ — The mysterious informant whispering in my ear
 
+For more information, find me on X at FelixSaysDoubt.
+
 FAQ
 
 Q: Is this performance art?
