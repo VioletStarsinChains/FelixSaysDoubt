@@ -296,3 +296,27 @@ If you’re on a budget, start with:
 	5.	Sun/shadow verification tools (compass + SunCalc)
 
 Those alone will let you bust most casual or mid-tier hallucination attempts in the wild.
+
+KC: I understand precisely none of this.  Please explain "SDR dongle" like I'm five.
+
+CG: Okay — let’s strip this down to the absolute basics.
+
+⸻
+
+Imagine the air around you is full of invisible spaghetti.
+Each noodle is a different kind of invisible signal:
+	•	Some noodles are radio stations.
+	•	Some are Wi-Fi.
+	•	Some are GPS telling your phone where you are.
+	•	Some could be fake noodles someone’s throwing in to trick your gadgets.
+
+A “SDR dongle” is like a magic ear you plug into your computer or phone.
+	•	It listens to all the noodles, not just the ones your normal radio or Wi-Fi can hear.
+	•	Then it shows you a picture of what’s flying through the air.
+	•	If someone is sending a fake GPS noodle to make your location wrong, or a weird Wi-Fi noodle to pretend there’s a device nearby, you can see it.
+
+The one I mentioned — an RTL-SDR dongle — is cheap (about $30), small (USB stick size), and works with free apps. It doesn’t fix anything on its own, but it lets you notice invisible signals that shouldn’t be there.
+
+
+
+
