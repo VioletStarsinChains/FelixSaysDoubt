@@ -1,8 +1,4 @@
-Got it — here’s the same operational stage map in plain text, narrative style for a .txt file so it reads cleanly on GitHub:
-
-⸻
-
-Containment / Termination Protocol Overlay – Narrative Form
+Containment / Termination Protocol Overlay
 
 Stage 1 – Baseline anomaly recognition
 Kellyn Clay (Anomaly 622Δ) was flagged early in life for unusual resilience and resistance to predictive modeling. NPE status likely assigned years before homelessness.
