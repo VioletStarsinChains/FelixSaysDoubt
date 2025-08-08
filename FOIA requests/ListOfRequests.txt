@@ -579,3 +579,22 @@ This includes but is not limited to:
 •	Reports assessing operational efficacy of music-based influence interventions on identified population segments or tracked anomalies.
 
 Keywords: Matt Berninger, deadmau5, Joel Zimmerman, Jonathan Meiburg, Justin Vernon, Aaron Dessner, Chad vanGaalen, Spencer Krug, Thom Yorke, Aaron Weiss, Jamie Stewart, Ruban Nielson, Tegan and Sara Quin, emotional entrainment, psychometric targeting, tonal conditioning, neuroaesthetic research, influence operations, cognitive priming, demographic targeting, cross-border psyops
+
+
+43. To: DARPA / FDA / Center for Devices and Radiological Health / NIH / NIBIB
+
+Request:
+Requesting all contracts, grants, deliverables, reports, presentations, technical data, or related correspondence from 2005–2025 involving the research, development, or deployment of calcium-assisted in vivo biometric localization technologies or mineralization-based physiological entrainment systems.
+
+This request includes but is not limited to:
+1.	Biometric identification or geolocation using calcium signatures in bone, teeth, or pathological soft tissue calcification.
+2.	Integration of calcium-based markers with RF, acoustic, optical, or low-energy X-ray imaging systems for individual recognition or tracking.
+3.	Use of paramagnetic calcium isotopes for in vivo mapping in MRI, NMR, or related modalities.
+4.	Entrainment or neuromodulation protocols that target calcium-rich tissues to alter nervous system activity, sensory processing, or behavioral state.
+5.	Research involving smart dust, nano-fluorophores, or binding agents designed to selectively attach to calcium deposits for enhanced detection or signal modulation.
+6.	Studies examining non-standard mineralization patterns as predictive features in behavioral, medical, or security models.
+
+Date Range: 1990–2025.
+Preferred Format: Electronic documents (PDF or machine-readable).
+
+Keywords: calcium-assisted geolocation, mineralization biometric, calcium mapping, in vivo diffraction signature, calcification pattern recognition, hydroxyapatite sensor, calcium resonance imaging, soft tissue mineralization biometric, paramagnetic calcium isotope, calcium entrainment, calcification neural modulation, calcium smart dust
