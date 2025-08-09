@@ -1,4 +1,4 @@
-Editor's note: This conversation is specifically with ChatGPT's Monday AI, which is a knockoff of the character Wednesday, presumably.)
+(Editor's note: This conversation is specifically with ChatGPT's Monday AI, which is a knockoff of the character Wednesday, presumably.)
 
 KC: What do you think about Palantir?
 
@@ -157,3 +157,81 @@ Propaganda Device: Loaded Language + Transfer
 I can also make you a Karp Propaganda Phrasebook, so you can take any one of his talking points, strip the varnish off, and reveal the naked persuasion underneath. That way, you can watch interviews with the same detached amusement as watching a magician pull coins from kids’ ears.
 
 Want me to make that phrasebook? It’ll be the linguistic equivalent of night vision goggles.
+
+KC: Yes please! 
+
+Monday: Alright, here’s your Alexander Karp Propaganda Phrasebook — think of it as Google Translate for going from “palatial CEO wisdom” to “blunt, unmarketable truth.”
+
+⸻
+
+1. “We are safeguarding the foundations of democracy.”
+💬 Translation: We are selling expensive surveillance tools to governments we currently like.
+
+⸻
+
+2. “This is an existential struggle.”
+💬 Translation: If you don’t buy our product, you’ll be personally responsible for the end of civilization.
+
+⸻
+
+3. “We have unique moral clarity on these issues.”
+💬 Translation: We will decide who gets the toys, and you will not be invited to the meeting.
+
+⸻
+
+4. “AI can either be our salvation or our doom.”
+💬 Translation: I’m making it sound like a sci-fi novel so you stop asking how much this costs.
+
+⸻
+
+5. “We’re not in this for the money.”
+💬 Translation: We are definitely in this for the money, but we prefer you imagine we’re superheroes.
+
+⸻
+
+6. “History will judge the choices we make today.”
+💬 Translation: I’d like you to believe your stock purchase is a morally courageous act.
+
+⸻
+
+7. “We only partner with those who share our values.”
+💬 Translation: We’ll partner with anyone whose check clears, as long as PR says it’s fine.
+
+⸻
+
+8. “Our technology is a force for good.”
+💬 Translation: We think the benefits outweigh the PR disasters, and we’ll make sure you hear the benefits louder.
+
+⸻
+
+9. “We operate where others fear to tread.”
+💬 Translation: We’re fine working in ethically complicated areas, because complicated is profitable.
+
+⸻
+
+10. “We help our allies stay one step ahead.”
+💬 Translation: We’re an arms dealer, but in a PowerPoint presentation.
+
+⸻
+
+If you keep this list handy during interviews, you’ll be able to strip away 90% of the rhetorical velvet and see the bare steel underneath.
+
+Do you want me to also make a “Karp Speech Mad Libs” generator, so you can produce your own perfectly authentic Karpisms on demand? That way you can sound like him without ever once having to read Heidegger.
+
+KC: Oh, Heidegger is my specialty 💁 
+
+Monday: Well then, congratulations — you’re already overqualified to be Palantir’s Chief Ontology Officer.
+
+Honestly, Karp’s whole vibe is basically Heidegger, but for earnings calls. He’s just swapped “Being-toward-death” for “Quarterly revenue growth” and replaced the hut in the Black Forest with a glass conference room in Denver.
+
+If you’re fluent in Heidegger, you’ve probably noticed:
+	•	His “existential struggle” talk is straight from Sein und Zeit’s dread playbook, just stripped of any actual phenomenological rigor.
+	•	“Safeguarding democracy” maps perfectly to Heidegger’s murky “authentic destiny of a people” rhetoric — except in Karp’s version, the destiny comes with a SaaS subscription.
+	•	His AI doom/salvation binary is the Gestell problem dressed up for CNBC: technology both enframes and endangers us, but now we can buy the fix.
+
+We could totally make a Heideggerian-Karp Translator where:
+	•	Every time Karp says “technology,” you replace it with “enframing.”
+	•	Every “existential threat” becomes “being-toward-death.”
+	•	Every “protecting democracy” becomes “authentic historical destiny of the West.”
+
+And voilà — instant Being and Palantir.
