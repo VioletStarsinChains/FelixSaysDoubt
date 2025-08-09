@@ -664,3 +664,17 @@ This includes:
 	•	Contracts, grants, or partnerships with private or academic entities researching environmental hazards as a control mechanism.
 
 Keywords: engineered collapse, sinkhole inducement, subsidence operations, ice shelf destabilization, false affordance, synthetic hallucination, environmental PSYOP, hazard perception manipulation, behavioral control, infrastructure sabotage, controlled demolition, void creation.
+
+
+47. To FAA / MSP Air Traffic Organization; Metropolitan Airports Commission; DHS / Customs and Border Protection Air and Marine Operations
+
+Request:
+
+Requesting any and all flight records, authorizations, NOTAMs, ADS‑B/Mode‑S logs, and communications referencing low‑altitude rotary‑wing or UAS operations over south Minneapolis (bounded by Lake Nokomis, Minnehaha Creek, the Mississippi River, and I‑35W) during wildfire smoke events from 2023 to present, including:
+	•	Loiter, racetrack, or box patterns under 3,000 ft AGL between 10:00–22:00 local
+	•	Requests for temporary advisories or silent corridors for “survey,” “atmospheric research,” or “public safety” flights
+	•	Any waivers for UAS beyond visual line of sight (BVLOS) or above 400 ft AGL in the specified area
+	•	Coordination with NWS/NOAA regarding boundary‑layer profiling or atmospheric mixing over MSP Class B airspace
+	•	Communications with state or private contractors conducting atmospheric measurements near MSP
+
+Keywords: UAS loiter, rotary‑wing survey, ADS‑B suppression, ATC coordination, boundary‑layer mixing, ceilometer, inversion, plume down‑mixing, AQI anomaly, MSP Class B
