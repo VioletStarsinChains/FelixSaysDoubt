@@ -4,9 +4,16 @@ Intro for Context (Press / Public Interest Statement):
 
 Across the past four decades, incidents of sudden geological collapse — from sinkholes and mine cave-ins to ice shelf breaks — have claimed lives and reshaped entire communities. While most are treated as tragic accidents, there is growing evidence that in some cases these hazards have been deliberately engineered or exploited as tools of crowd control, population displacement, or political intimidation.
 
-Even more alarming are reports that emerging perception-manipulation technologies — including augmented reality overlays and synthetic hallucinations — can be used to create the illusion of safe passage across lethal drop-offs or voids, similar to the sensory triggers suspected in the Overtoun Bridge dog deaths. This convergence of physical hazard creation with perceptual engineering raises urgent questions about public safety, consent, and the weaponization of environmental risk.
+Case snapshots:
+	•	Lake Peigneur, Louisiana (1980): A drilling mishap punctured a salt mine beneath the lake, creating a whirlpool that swallowed multiple boats, barges, and part of an island.
+	•	Centralia, Pennsylvania (1981): A coal seam fire led to a sudden backyard sinkhole that nearly killed a child, prompting the eventual abandonment of the town.
+	•	Overtoun Bridge, Scotland: Dozens of dogs have leapt to their deaths, possibly lured by sensory cues and visual distortions that concealed the drop — a phenomenon that parallels emerging synthetic hallucination research.
+
+Even more alarming are reports that perception-manipulation technologies — including augmented reality overlays and synthetic hallucinations — can be used to create the illusion of safe passage across lethal drop-offs or voids. This convergence of physical hazard creation with perceptual engineering raises urgent questions about public safety, consent, and the weaponization of environmental risk.
 
 This FOIA request seeks records that could clarify whether U.S. agencies have studied, tested, or coordinated such methods, and whether safeguards exist to prevent their misuse against civilians.
+
+
 
 To: DHS / FEMA / USGS / Army Corps of Engineers
 
