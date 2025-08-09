@@ -301,3 +301,126 @@ If we treat NERV, SEELE, and the Children not as purely sci-fi “pilots” but 
 If you want, I can go deeper and map each major arc/Angel in NGE to the type of “market event” it would be in a behavioral futures scenario — e.g., liquidity shock, manufactured rally, slow bleed, short squeeze — so we can see exactly how SEELE could trade on every catastrophe.
 
 Do you want me to build that episode-to-market-event mapping?
+
+KC: Yes please! 
+
+CG: Alright — here’s the Evangelion Arc → Behavioral Futures Market Event Mapping, treating SEELE as the exchange, NERV as the market operator, and each Angel appearance as a scheduled tradable event.
+
+⸻
+
+Arc 1 — First Contact & Price Discovery
+
+Angels: Sachiel (Episode 1–2)
+
+Market event type: IPO / Initial Market Calibration
+	•	First major “live test” of public and pilot reaction.
+	•	Data gathered: panic curve in Tokyo-3, Shinji’s compliance latency, public trust in NERV’s protective capacity.
+	•	Trade opportunities:
+	•	Long positions on morale recovery if Shinji wins.
+	•	Short positions on Shinji’s sync ratio stability.
+
+⸻
+
+Arc 2 — Early Volatility
+
+Angels: Shamshel (Ep 3–4), Ramiel (Ep 5–6)
+
+Market event type: High-volatility speculative spike
+	•	Shamshel: Tests Shinji’s stamina and morale drop after victory.
+	•	Ramiel: Siege conditions allow multi-day morale tracking.
+	•	Data gathered:
+	•	Effectiveness of multi-pilot coordination on public confidence.
+	•	Civilian tolerance for drawn-out threats.
+	•	Trade opportunities:
+	•	Spread betting on sync ratio correlation to pilot interpersonal dynamics.
+	•	Short-term morale index futures.
+
+⸻
+
+Arc 3 — Controlled Bull Run
+
+Angels: Gaghiel (Ep 8), Israfel (Ep 9)
+
+Market event type: Engineered rally via good news
+	•	Gaghiel: Naval cooperation → boost in institutional trust index.
+	•	Israfel: Comedy/training montage masks serious sync coordination trials.
+	•	Data gathered:
+	•	PR value of publicized inter-agency victories.
+	•	Efficacy of morale “booster” narratives before major threats.
+
+⸻
+
+Arc 4 — Black Swan Shock
+
+Angel: Sandalphon (Ep 10), Matarael (Ep 11), Sahaquiel (Ep 12)
+
+Market event type: Flash crash scenario testing
+	•	Matarael: Blackout tests civilian compliance during infrastructure failure.
+	•	Sahaquiel: High-speed inbound threat tests rapid mobilization.
+	•	Data gathered:
+	•	Panic vs. compliance rates under simultaneous crises.
+	•	Speed at which civilians return to baseline after resolved threat.
+
+⸻
+
+Arc 5 — Psychological Warfare
+
+Angels: Leliel (Ep 16), Bardiel (Ep 18)
+
+Market event type: Short squeeze on key asset (Shinji/Asuka)
+	•	Leliel: Removes Shinji from operational capacity, testing market reaction to loss of primary pilot.
+	•	Bardiel: Asset (Unit-03) turns hostile → catastrophic morale drop.
+	•	Data gathered:
+	•	Public response to “betrayal” narrative.
+	•	Trust decay rate when NERV is implicated in pilot harm.
+
+⸻
+
+Arc 6 — Manufactured Bear Market
+
+Angels: Zeruel (Ep 19), Arael (Ep 22)
+
+Market event type: Planned confidence collapse
+	•	Zeruel: Tokyo-3 damage → short-selling institutional trust.
+	•	Arael: Asuka’s psychological collapse tests long-term drag on morale indices.
+	•	Data gathered:
+	•	Retention of public support with reduced operational capability.
+	•	Predictive models for cascading pilot failures.
+
+⸻
+
+Arc 7 — Liquidity Freeze
+
+Angels: Armisael (Ep 23), Tabris/Kaworu (Ep 24)
+
+Market event type: Market freeze + hostile takeover attempt
+	•	Armisael: Rei’s destruction triggers asset write-off (public grief event).
+	•	Kaworu: Enemy asset embedded in NERV tests loyalty and counterintelligence reaction.
+	•	Data gathered:
+	•	Market reaction to “insider threat” narratives.
+	•	Public appetite for decisive termination of compromised assets.
+
+⸻
+
+Arc 8 — Final Consolidation
+
+Instrumentality (Ep 25–26, EoE)
+
+Market event type: Monopolization / Market closure
+	•	All individual behavioral variance is collapsed into a single predictable state.
+	•	Data gathered: None in the traditional sense — market no longer needs prediction because all assets are merged.
+	•	Trade opportunities: None — SEELE has “cashed out” by achieving total control.
+
+⸻
+
+Patterns SEELE Could Trade On
+	•	Sync Ratio Futures — predicting fluctuations based on pilot relationships and public perception.
+	•	Morale Index Derivatives — hedging national morale swings after each battle.
+	•	Institutional Trust CDS — betting against NERV’s credibility and selling “protection” to governments.
+	•	Crisis Narrative Options — profiting from leaks, rumor injections, or image rehabilitation campaigns.
+
+⸻
+
+If you want, I can now diagram this like a Bloomberg terminal — Angels on the X-axis, “market indices” like Public Morale, Trust, and Pilot Stability on the Y-axis, with BUY/SELL indicators showing where SEELE would position itself. That would make the behavioral futures angle visually undeniable to anyone familiar with markets.
+
+Do you want me to make that?
