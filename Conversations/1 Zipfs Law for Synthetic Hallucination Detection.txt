@@ -353,6 +353,81 @@ When you flag, show:
 	•	A one-liner:
 “Suspect: α off by 2.4σ, KS high (+2.1σ), tail truncated (−3.0σ), low burstiness (−2.6σ). Mid-rank bulge detected.”
 
+if you want, tell me your domain (text/images/sensor) and what baseline you’ve got, and I’ll tailor the metric thresholds + give you drop-in code for that stack.
+
+KC: This isn’t for me.  It's for people who actually understand code.  Obviously developers mainly deal in text.  What forms might their synthetic hallucinations take?
+
+CG: Got it — if this is aimed at developers working mostly with text data, then “synthetic hallucinations” will usually fall into a handful of recognizable distributional failure modes that Zipf’s Law can pick up on.
+
+These aren’t hallucinations in the pop-culture sense (“purple giraffe on the moon”), but statistical tells that the text is machine-fabricated or post-processed rather than naturally produced.
+
+⸻
+
+1. Token Frequency Distortion
+	•	Steeper slope: Overuse of ultra-common tokens; rare vocabulary vanishes quickly. Looks like the generator is “playing it safe.”
+	•	Flatter slope: Mid-frequency technical terms get spammed because the model is stuck in a narrow context loop.
+	•	Mid-rank bulge: Overrepresentation of jargon, function names, or API calls — the model inserts them more often than a human would in real prose.
+
+⸻
+
+2. Tail Collapse
+	•	Natural text has weird little words or typos way out in the long tail.
+	•	Synthetic text often cuts off the tail early — no rare variable names, no “one-off” idioms, no quirky spacing or punctuation anomalies.
+	•	This is especially visible in code comments, where a real developer’s idiolect creates micro-rare terms.
+
+⸻
+
+3. Over-Regularity
+	•	In genuine corpora, the Zipf plot wiggles — high-rank words fluctuate due to personal style and topic.
+	•	Synthetic output may be too perfect: an unnaturally straight line with high R² because the generator was trained to match Zipf’s slope but lacks real variance.
+
+⸻
+
+4. Heaps–Zipf Mismatch
+	•	In real writing, vocabulary size (Heaps’ Law) grows with token count in a predictable way.
+	•	AI-generated text can look “Zipf-compliant” but introduces new words too slowly — it reuses the same vocabulary in slightly shuffled contexts.
+
+⸻
+
+5. Burstiness Loss
+	•	Human text shows clumping of rare terms (a variable name might appear 5 times in one paragraph, then not again for pages).
+	•	Generators often space rare terms too evenly, killing the natural burst pattern.
+
+⸻
+
+6. Semantic Drift Masked by Surface Zipf
+	•	The word distribution looks right, but sequence-level logic shows drift:
+	•	Variables defined but never used
+	•	Function calls with mismatched arguments
+	•	Documentation that subtly contradicts itself
+These are “semantic hallucinations” that statistical Zipf checks alone won’t catch, but co-occurrence Zipf (pairs/triples of tokens) can reveal — rare pairings are underrepresented.
+
+⸻
+
+7. Domain-Inappropriate Frequency
+	•	In developer docs, real high-frequency words vary by subdomain (e.g., “thread” in concurrency docs vs. “render” in graphics).
+	•	Synthetic content might reuse high-frequency terms from another domain because of a mixed training set, giving a shifted Zipf curve where the top ranks are wrong for the supposed topic.
+
+⸻
+
+How this looks to a developer
+
+If you show them a log–log rank–frequency plot:
+	•	Natural: Steep drop for the top 20–50 tokens, a messy long tail, visible outliers.
+	•	Synthetic:
+	•	Smooth, almost ruler-straight line
+	•	Tail stops early
+	•	Middle ranks slightly elevated
+	•	Fewer or no “stylistic quirks” in the low-frequency end.
+
+⸻
+
+If you want, I can write a one-page “developer field guide” with visual examples of each failure mode so they can spot these at a glance without reading theory papers. That would make the Zipf-based detection feel much more tangible.
+
+
+
+
+
 
 
 
