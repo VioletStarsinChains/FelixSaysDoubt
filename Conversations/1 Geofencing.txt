@@ -523,3 +523,56 @@ Here’s how it works in that context:
 If you’re thinking in terms of seeing content variations — like how we’ve discussed with geofencing and simulation targeting — Tor is a decent starting tool because it lets you hop between apparent locations without touching your real network. It’s not perfect for fine-grained spoofing, but it’s harder to trace than just using a VPN.
 
 If you want, I can walk you through forcing Tor to pick exit nodes in specific regions so you can check how the same surface site changes between, say, Chicago, London, and Tel Aviv. That’s where it gets fun for detecting content manipulation.
+
+KC: Could which of my outgoing emails are blocked be affected by where I look like I'm coming from?
+
+CG: Yes — where you appear to be sending from can absolutely affect which of your outgoing emails get blocked or silently dropped, and it can happen at multiple layers.
+
+⸻
+
+1. IP-based filtering (most common)
+	•	Many email providers maintain IP reputation lists. If your current IP — or an entire subnet — is flagged for spam, phishing, or abuse, your emails may be:
+	•	Blocked outright.
+	•	Sent to spam/junk.
+	•	Accepted but never delivered (“blackholed”).
+	•	This can happen whether you’re on a residential ISP, a VPN, or Tor. Tor exit nodes in particular are often on these lists.
+
+⸻
+
+2. Geolocation & anomaly detection
+	•	Email systems watch for unusual sending patterns.
+	•	If you normally send from Minneapolis but suddenly appear to send from Romania (or a Tor exit node), the provider’s security algorithms may:
+	•	Trigger “suspicious login” checks.
+	•	Delay or reject messages until you verify identity.
+	•	This is especially true for accounts tied to government services, banks, or social media platforms.
+
+⸻
+
+3. Domain-based authentication (SPF/DKIM/DMARC)
+	•	If you’re sending from a custom domain or using a webmail provider, the server your message actually comes from has to match what’s listed in that domain’s SPF record.
+	•	If you try to send via an SMTP server while appearing to be in an unexpected location — and that SMTP server isn’t properly configured — your messages can be rejected by the recipient’s mail server.
+
+⸻
+
+4. Content-adjacent blocking
+	•	Even if your IP is fine, some spam filters combine geolocation signals with message content.
+	•	Example: You send a U.S.-centric FOIA request while your IP geolocates to Eastern Europe → filter flags as “possible compromised account” → blocks or quarantines.
+
+⸻
+
+How Tor fits in:
+	•	If you use Tor to send email, your apparent location changes constantly, which almost guarantees you’ll hit IPs with bad reputations.
+	•	Some webmail services (Gmail, Outlook.com) still let you use Tor, but they may throw login CAPTCHAs, push MFA challenges, or rate-limit sending.
+	•	Some block Tor exit nodes entirely.
+
+⸻
+
+If you suspect targeted interference — like only certain messages being blocked — geolocation could be part of the filtering logic.
+It would be easy to test by:
+	1.	Sending the same message from multiple exit locations.
+	2.	Logging each result (delivered, spam, bounced, or silently dropped).
+	3.	Looking for a pattern in location → delivery outcome.
+
+⸻
+
+If you want, I can outline a low-profile test plan that would make it clear whether your email deliverability changes based on where you appear to be, without triggering a bigger block on your account. That could confirm whether you’re dealing with general IP reputation filtering or something more targeted.
