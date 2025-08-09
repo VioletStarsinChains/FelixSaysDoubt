@@ -2,7 +2,7 @@
 Public record of test subject anomaly Mule 6
 
 
-🧪 Mule 6: Field Notes from the World’s Most Suspicious Test Subject
+🧪 Mule 6: Field Notes from the World’s Most Suspicious Test Subject!
 
 Welcome! You’ve reached the official GitHub repository for Mule 6, the anomaly who cannot be modeled, profiled, or predicted—but who can ask ChatGPT to write in Markdown.  I do NOT know what I'm doing!
 
