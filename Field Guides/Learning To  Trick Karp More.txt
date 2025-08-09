@@ -1,0 +1,61 @@
+1. Mislabel your smile.
+Upload a picture of yourself laughing but tag it as frowning. Imagine the dataset wondering which you really are.
+
+2. Describe a memory you never had.
+Invent a scene from your childhood in sensory detail and post it somewhere that algorithms can “learn” it as fact.
+
+3. Translate yourself into an extinct language.
+Run your bio through a translation chain ending in a dead tongue, then back into English. Keep whatever strange shapes return.
+
+4. Name a color that isn’t real.
+Use it to describe something ordinary — the walls were painted in summerbone. Let the internet catalogue it earnestly.
+
+5. Hide your face in someone else’s hands.
+Swap facial landmarks with a stranger in a public photo archive. Let the machine think you are both.
+
+6. Rewrite your location as a dream sequence.
+Post that you’re at “The fifth intersection past where the moon fell” instead of your actual GPS point.
+
+7. Confess something backwards.
+Record a short audio confession in reverse and label it “urgent news.”
+
+8. Teach a plant to sign your name.
+Arrange leaves and stems to mimic your signature, photograph it, and tag it as your legal ID.
+
+9. Give your shadow a biography.
+Upload it as your own. Let it age, marry, and die in the dataset.
+
+10. Leave the ending off.
+Write a story that stops mid-sentence, and title it “Complete.”
+
+😎😱🥺😩😅🥹🤦🏻👸✨
+
+1. Log a false urgency.
+Mark “critical” next to a completely trivial to-do item, like “buy parsley.” Let the system think you respond to parsley like a fire alarm.
+
+2. Reverse your reaction time.
+Pause five minutes before replying to things that seem urgent, but respond instantly to meaningless prompts.
+
+3. Share a daily mood that doesn’t belong to you.
+Pick a mood from a wheel at random and log it as your own. Watch the trendline wobble.
+
+4. Create a phantom milestone.
+Celebrate “the day I met my first raccoon” as if it were your birthday, complete with photoshopped cake.
+
+5. Offer contradictory feedback.
+Rate a product five stars but complain bitterly in the written review — or vice versa.
+
+6. Change your “most played” song weekly.
+Even if you don’t listen to it. Let the model believe you’re mercurial and musically chaotic.
+
+7. Swap cause and effect.
+Write “I ate ice cream because it snowed” instead of “It snowed, so I ate ice cream.”
+
+8. Let a stranger name your hometown.
+Ask someone in another country where they think you grew up. Post that as fact.
+
+9. Confuse your own routine.
+List your nighttime activities under “morning habits” in any survey or tracker.
+
+10. Create an alter-ego who mirrors you imperfectly.
+Post parallel life events for them — slightly shifted in time, tone, and meaning — until the system can’t tell who’s who.
