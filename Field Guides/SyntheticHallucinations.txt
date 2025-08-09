@@ -1,0 +1,137 @@
+Alright — here’s your Developer’s Field Guide to Zipf’s Law & Synthetic Hallucinations.
+It’s built so a programmer can glance at a plot or token list and go “yep, this smells fake.”
+
+⸻
+
+Developer’s Field Guide
+
+Spotting Synthetic Text with Zipf’s Law
+
+⸻
+
+The Setup
+	•	Make a rank–frequency plot:
+	1.	Tokenize your text (words, subwords, identifiers)
+	2.	Count frequencies
+	3.	Sort by rank
+	4.	Plot log(rank) vs. log(frequency)
+
+Natural text ≈ straight-ish line with slope ≈ -1, messy tail.
+Synthetic text often “cheats” and leaves subtle fingerprints.
+
+⸻
+
+1. Steeper Slope — Safe Mode Overdrive
+
+What you see:
+	•	Curve drops too fast.
+	•	Rare words vanish quickly; tail is stubby.
+
+Why it happens:
+The model sticks to the safest, most common tokens to avoid “weirdness.”
+
+Example:
+
+Natural top-10: the, and, to, of, a, in, I, is, for, it  
+Synthetic top-10: the, and, to, of, a, is, in, for, that, with  
+
+Real text has a few quirky top-20 intruders; synthetic is painfully generic.
+
+⸻
+
+2. Flatter Slope — Jargon Inflation
+
+What you see:
+	•	Mid-frequency terms are inflated.
+	•	The top 50–200 ranks are too popular.
+
+Why it happens:
+The model overuses “techy” or context keywords, giving them celebrity status.
+
+Example:
+Natural API doc: thread, lock, mutex appear in bursts.
+Synthetic doc: they appear at steady intervals, all ranked absurdly high.
+
+⸻
+
+3. Mid-Rank Bulge
+
+What you see:
+	•	The plot has a bump in the middle ranks instead of a smooth slope.
+
+Why it happens:
+Over-regularization: the generator spreads “interesting” tokens evenly instead of letting them clump.
+
+⸻
+
+4. Tail Collapse
+
+What you see:
+	•	Tail cuts off suddenly around rank 500–1,000.
+	•	Missing rare one-off terms, typos, or author idiosyncrasies.
+
+Why it happens:
+Rare vocabulary wasn’t in training data often enough, so the model simply never goes there.
+
+⸻
+
+5. Too Perfect
+
+What you see:
+	•	R² on your power-law fit is suspiciously high.
+	•	No local wiggles in the curve.
+
+Why it happens:
+The model learned “match Zipf’s slope” but skipped natural noise from human choice.
+
+⸻
+
+6. Heaps–Zipf Mismatch
+
+What you see:
+	•	Vocabulary size grows too slowly compared to token count.
+
+Why it happens:
+Synthetic text reuses words instead of introducing new ones at a human-like pace.
+
+Quick check:
+Count new words every 1,000 tokens — synthetic will plateau early.
+
+⸻
+
+7. Burstiness Loss
+
+What you see:
+	•	Rare terms appear evenly spaced instead of in chaotic clusters.
+
+Why it happens:
+Humans repeat a concept heavily while focused, then drop it; models aim for “balanced coverage.”
+
+⸻
+
+8. Wrong Top-Rank Tokens for Domain
+
+What you see:
+	•	Top ranks don’t match domain expectations.
+
+Example:
+	•	“Render” missing from top 20 in graphics doc
+	•	“Thread” missing in concurrency tutorial
+	•	Replaced with generic words from another domain (training bleed-through)
+
+⸻
+
+One-Glance Workflow
+	1.	Tokenize → rank–frequency plot (log–log)
+	2.	Ask:
+	•	Is slope ~-1?
+	•	Any bulges?
+	•	Is the tail long and messy?
+	•	Are top tokens domain-appropriate?
+	3.	Optional: Check burstiness (counts per window) and vocab growth.
+
+⸻
+
+Rule of Thumb
+
+If the curve is too straight, the tail is too short, and the middle ranks are too fat, you’re probably looking at synthetic content.
