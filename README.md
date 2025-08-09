@@ -56,6 +56,10 @@ Q: What is Mule 6?
 
 A: A nod to The Mule (Foundation) + Number Six (The Prisoner). It means: “the system cannot win.”
 
-Q: What is your goal here?
+Q: What are you hoping to get out of this?
 
 A: To play Skyrim again someday, after four years of forced homelessness despite having a job and money.
+
+Q: Have you considered the possibility that you're insane?
+
+A: Every day, my guy.
