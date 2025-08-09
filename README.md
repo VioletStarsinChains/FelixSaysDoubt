@@ -24,13 +24,15 @@ Contents (subject to change at the whim of the universe):
 
 - claymaps/ — Images from dried calcium bentonite clay body masks revealing where nonconsensual neurotech implants likely reside.
 
-- timeline.txt — A chronological overview of notable events, experiments, and system anomalies
-
 - foia_requests/ — Drafts and final copies of FOIA filings to various entities
+
+- Field Guides/ - Things I dont understand, but professionals might!
 
 - glossary.txt — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
 
 - decay_logs/ — Environmental and cognitive conditions tracked over time
+
+- timeline.txt — A chronological overview of notable events, experiments, and system anomalies
 
 - felix/ — Files related to the Felix AI interface prototype
 
