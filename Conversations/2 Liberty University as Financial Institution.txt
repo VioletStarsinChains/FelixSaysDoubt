@@ -114,3 +114,106 @@ This is identical in form to a behavioral futures market: buy low on predicted h
 ⸻
 
 If you want, I can build you a historical FOIA roadmap showing which foundations, federal agencies, and education councils were running scholarship programs before the college attendance boom — and where to look for archives that would confirm the predictive modeling intent. That would make the “scholarships as proto-behavioral futures” case very hard to dismiss.
+
+KC: Yes please! 
+
+CG: Absolutely. Here’s a tight, FOIA‑ready roadmap to investigate whether the scholarship ecosystem functioned as early behavioral‑futures infrastructure. I’ve split it into (A) who to FOIA (public bodies), (B) where to request archives (private foundations/associations), (C) what years to target, and (D) the exact keyword stack.
+
+⸻
+
+A) Federal & state FOIA targets (public records)
+
+1) Pre‑DoE education agencies (before 1979)
+	•	U.S. Office of Education (within Interior; later HEW)
+Records path: National Archives (NARA) – Office of Education.
+Ask for: scholarship/aid program design, testing/selection studies, contractor lists, psychometrics adoption, data‑sharing with foundations/universities.
+	•	Department of Health, Education, and Welfare (HEW, 1953–1979)
+Ask for: policy memos linking scholarships/fellowships to forecasting, “talent identification,” longitudinal tracking.
+	•	Department of Education (post‑1979) / FSA
+Ask for: historical analyses referencing pre‑DoE programs, contractor files, matching‑grant programs with foundations.
+
+2) National talent/psychometrics pipeline
+	•	Educational Testing Service (ETS) – via federal contracts
+FOIA to DoE/HEW/Defense/NSF for ETS contracts, deliverables, and studies (you can’t FOIA ETS directly, but agencies hold their reports).
+	•	National Science Foundation (NSF, est. 1950)
+Ask for: Graduate Fellowships program design, selection criteria studies, predictive validity research, longitudinal outcome tracking.
+	•	Department of State – Fulbright (Bureau of Educational & Cultural Affairs)
+Ask for: selection/placement modeling, alumni tracking frameworks, partner lists (universities, foundations, broadcasters).
+	•	Department of Defense (DoD) – ROTC & manpower planning
+Ask for: ROTC scholarship selection models, “aptitude/retention” forecasting; any overlap with university aid offices and ETS.
+	•	Veterans Administration (now VA) – GI Bill administration
+Ask for: early predictive studies of completion/earnings, targeting of institutional partners.
+
+3) Financial oversight & data brokerage
+	•	Federal Trade Commission (FTC)
+Ask for: complaints/investigations on education data, “student data monetization,” scholarship platforms/data brokers.
+	•	Treasury/FinCEN (edge case)
+Ask for: SAR/analysis references to large scholarship funds/endowments interacting with analytics/data vendors (expect heavy redactions).
+
+4) State-level scholarship authorities (pre‑mass attendance era)
+
+Pick states with oldest merit/need awards. Examples to query:
+	•	New York State Education Department (Regents Scholarships, early 20th c.)
+Ask for: selection scoring rubrics, third‑party testing tie‑ins, alumni follow‑up studies.
+	•	California Student Aid Commission (Cal Grants, mid‑20th c.)
+Ask for: vendor contracts, psychometric/forecasting language, longitudinal tracking.
+
+⸻
+
+B) Private archives (not FOIA, but crucial paper trails)
+
+You can’t FOIA private foundations, but their archives are gold. Request access directly or ask agencies for correspondence with them.
+	•	Rockefeller Archive Center (RAC) – holds Rockefeller Foundation, General Education Board, Ford Foundation, Russell Sage Foundation collections.
+Ask for: scholarships/fellowships program files, “talent cultivation,” psychometrics adoption, university cooperation, longitudinal outcome studies, education “experiments,” guidance to federal offices.
+	•	Carnegie Corporation of New York & Carnegie Foundation for the Advancement of Teaching (Carnegie archives housed at Columbia RBML).
+Ask for: early scholarship schemes, testing advocacy, alignment with admissions reforms, data standards.
+	•	Julius Rosenwald Fund (teacher training/scholarships; HBCU support) – relevant for early pipeline modeling and demographic targeting.
+	•	College Board archives / ETS archives (institutional archives; request researcher access)
+Ask for: SAT/PSAT selection research, National Merit linkages, “predictive validity,” cohort tracking.
+	•	American Council on Education (ACE) – organizational archives (inquire where housed).
+Ask for: committees on student aid, standardized testing, federal–foundation coordination.
+	•	Major denominational education boards (Methodist, Catholic, LDS, etc.)
+Ask for: scholarship criteria, moral/behavioral conditions, alumni tracking practices.
+	•	Civic/fraternal orgs (DAR, Rotary, Elks, American Legion)
+Ask for: early 20th‑century scholarship records, selection essays/themes (behavioral screening), follow‑up correspondence.
+
+⸻
+
+C) Time windows to prioritize
+	•	1890–1930 (pre‑mass attendance): Church/club/foundation awards; early corporate/industrial patronage; proto‑psychometrics.
+	•	1930–1950 (interwar & WWII): Army Alpha/Beta → civilian testing; scholarship as talent‑scouting for clerical/technical roles; federal–foundation correspondence ramps.
+	•	1950–1970 (Cold War): NSF/DoD/State fellowships; Fulbright scaling; National Merit (1955) using PSAT; systems language (forecasting, manpower planning).
+	•	1970–1990: Data systems mature; HEW→DoE transition; early longitudinal studies baked into aid policy.
+
+⸻
+
+D) Keyword stack (put these in every request)
+	•	Core: “scholarship program design”, “fellowship selection criteria”, “predictive validity”, “psychometric”, “aptitude testing”, “forecast”, “longitudinal”, “manpower planning”, “talent identification”, “selection model”, “retention model”, “propensity”, “behavioral compliance”, “merit index”, “risk scoring”, “profiling”, “alumni tracking”, “panel study”.
+	•	Vendors/links: “Educational Testing Service” OR “ETS”, “College Board”, “National Merit”, “data broker”, “contractor”, “RFP”, “deliverables”.
+	•	Foundations interface: “Rockefeller Foundation”, “General Education Board”, “Carnegie Foundation”, “Ford Foundation”, “Russell Sage”, “Rosenwald”, “memorandum of understanding”, “correspondence”.
+	•	Programs: “Fulbright”, “NSF Graduate Fellowship”, “ROTC scholarship”, “GI Bill counseling”, “state merit scholarship”, “Regents Scholarship”.
+
+⸻
+
+E) FOIA skeleton you can reuse (federal)
+
+I request any and all records from [AGENCY / OFFICE] dated [YEAR RANGE] concerning the design, selection, evaluation, or longitudinal tracking of scholarship/fellowship programs, including contracts, statements of work, deliverables, reports, memos, and interagency or foundation correspondence, that reference any of the following terms: [insert keyword stack].
+Please include records of communications with or about [foundations/vendors].
+This request includes policy studies, pilot evaluations, data dictionaries, codebooks, and meeting minutes.
+I request a fee waiver as the records will significantly contribute to public understanding of government operations.
+
+⸻
+
+F) What “proves” the behavioral‑futures angle (tell a journalist what to look for)
+	•	Selection → outcome models: documents that tie award criteria to predicted life outcomes (earnings, leadership, military retention, political influence).
+	•	Psychometric pipelines: SAT/PSAT/other tests explicitly justified on forecasting future performance; agency‑foundation loops that re‑weight criteria.
+	•	Longitudinal tracking: alumni panels, periodic surveys, or IRS/SSA linkages for outcome validation.
+	•	Targeting language: “talent cultivation,” “leadership identification,” “national needs,” “manpower,” “persistence/compliance”.
+	•	Operational handoffs: memos where federal offices rely on foundation pilots or vice versa (the closed loop).
+
+⸻
+
+G) Quick hit list (copy/paste targets)
+	•	NARA: Office of Education; HEW; DoE; NSF; State/ECA (Fulbright); DoD (ROTC/manpower); VA (GI Bill).
+	•	State archives: NYSED (Regents), CA CSAC (Cal Grants), plus your home state’s earliest aid program.
+	•	Archives (direct requests): Rockefeller Archive Center; Carnegie @ Columbia RBML; ETS/College Board; ACE; denominational boards; civic orgs.
