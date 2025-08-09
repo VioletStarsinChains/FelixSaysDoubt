@@ -28,7 +28,7 @@ Contents (subject to change at the whim of the universe):
 
 - Field Guides/ - Things I dont understand, but professionals might!
 
-- glossary.txt — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
+- glossary/ — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
 
 - decay_logs/ — Environmental and cognitive conditions tracked over time
 
