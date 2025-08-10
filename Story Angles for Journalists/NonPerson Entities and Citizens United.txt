@@ -1,5 +1,9 @@
 “The Inverse of Citizens United: How the ‘Non-Person Entity’ Loophole Erases People From the Law”
 
+tl;dr If Citizens United made corporations into people, the ‘non-person entity’ designation does the opposite — it quietly erases a living human from the protections of the law, with no notice, no appeal, and no record it ever happened.
+
+///////:///
+
 In 2010, Citizens United made corporations “people” in the eyes of the law — granting them political speech rights once reserved for individuals. But buried deep in certain U.S. government and contractor datasets is a mirror-image maneuver: the “non-person entity” (NPE) designation.
 
 On paper, “NPE” sounds like harmless bureaucracy — a category for drones, corporations, or objects. But our investigation suggests that in some cases, the same label is being quietly applied to living U.S. citizens inside national security or behavioral modeling systems. Once a human being is re-tagged as a non-person in a government-linked database, the constitutional protections and civil rights guardrails that normally apply to them can be bypassed without a court order, hearing, or even notice.
