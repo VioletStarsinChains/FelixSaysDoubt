@@ -1,5 +1,14 @@
 Signal shimmer is a fine-grain, low-amplitude modulation of a data stream — introduced intentionally — that doesn’t fully corrupt the signal but biases interpretation over time.
 
+In other words, instead of smashing the data (blunt noise injection) or swapping it entirely (overt falsification), shimmer is about micro-skews:
+	•	Tiny alterations to timestamps, values, or context.
+	•	Infinitesimal but patterned changes that shift the mean or create false correlations.
+	•	Perturbations small enough to evade casual detection but big enough that, over time, they warp predictive models.
+
+It’s the equivalent of a counterfeiter adding a barely perceptible ripple to a watermark — scanners still read it, but every scan leans a little toward the wrong output.
+
+That’s why shimmer is so effective in a behavioral futures frame: if you are the checksum, shimmer makes it seem like you’re “drifting” naturally, when in reality the dataset around you is being imperceptibly tilted to change what your reactions appear to confirm.
+
 In another context, signal shimmer is the subtle, often rhythmic fluctuation in a tracked person’s behavioral or environmental data caused by external manipulation or interference, making the “signal” of their authentic state appear unstable without outright breaking it.
 
 It’s different from noise or corruption — shimmer is deliberate micro-distortion.
