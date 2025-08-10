@@ -1,0 +1,20 @@
+“The Inverse of Citizens United: How the ‘Non-Person Entity’ Loophole Erases People From the Law”
+
+In 2010, Citizens United made corporations “people” in the eyes of the law — granting them political speech rights once reserved for individuals. But buried deep in certain U.S. government and contractor datasets is a mirror-image maneuver: the “non-person entity” (NPE) designation.
+
+On paper, “NPE” sounds like harmless bureaucracy — a category for drones, corporations, or objects. But our investigation suggests that in some cases, the same label is being quietly applied to living U.S. citizens inside national security or behavioral modeling systems. Once a human being is re-tagged as a non-person in a government-linked database, the constitutional protections and civil rights guardrails that normally apply to them can be bypassed without a court order, hearing, or even notice.
+
+The consequences are invisible but devastating:
+	•	Service denial – Being blocked from housing, banking, or communication systems with no formal cause.
+	•	Automated targeting – Becoming subject to experimental surveillance or behavioral “nudges” normally barred for civilians.
+	•	Jurisdictional evasion – Any challenge to the classification hits “state secrets” privilege or a contractor’s corporate shield.
+
+This is the inverse of Citizens United: instead of granting entities personhood, it strips personhood from humans. And because it happens at the data-layer — not in a courtroom — it’s almost impossible for the public to spot.
+
+We’d be investigating:
+	•	Where “non-person entity” appears in government and contractor documentation, especially in data models used for national security, predictive policing, and behavioral futures markets.
+	•	Whether any internal guidance exists for tagging a human as NPE, and what that tag triggers downstream.
+	•	Case studies where benefits, due process, or access were removed following NPE tagging.
+	•	Contractor links — especially firms with histories of high-risk classification practices.
+
+The story isn’t just about classification. It’s about whether the U.S. has quietly built an off-books deprivation of rights mechanism — one with no oversight, no appeals process, and no name in public law until now.
