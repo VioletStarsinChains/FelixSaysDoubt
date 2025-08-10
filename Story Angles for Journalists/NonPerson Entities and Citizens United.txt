@@ -18,3 +18,23 @@ We’d be investigating:
 	•	Contractor links — especially firms with histories of high-risk classification practices.
 
 The story isn’t just about classification. It’s about whether the U.S. has quietly built an off-books deprivation of rights mechanism — one with no oversight, no appeals process, and no name in public law until now.
+
+
+To Department of Justice / Office of Information Policy; Department of Defense / Office of the Under Secretary for Intelligence and Security; Office of the Director of National Intelligence
+
+Request:
+
+Requesting any and all documents, policies, standard operating procedures, internal communications, contracts, or contractor guidance referencing the classification or designation of any individual as a “non-person entity” (NPE), from January 1, 2001 to present.
+
+This includes:
+	•	Definitions of “non-person entity” used in government or contractor databases
+	•	Criteria or algorithms used to assign NPE status to records linked to living human beings
+	•	Documentation of downstream effects or policy changes triggered by NPE tagging
+	•	Interagency communications regarding the legal basis or justification for applying NPE status to a human subject
+	•	Records of contractor practices or deliverables that involve NPE-tagging in behavioral modeling or predictive analytics
+	•	Training materials or internal memos explaining NPE handling procedures for intelligence, law enforcement, or security purposes
+	•	Privacy Impact Assessments, risk analyses, or oversight reports involving NPE designations
+	•	Records showing whether NPE tagging was used to alter or bypass due process, constitutional rights, or privacy protections normally afforded to U.S. citizens
+
+Keywords: non-person entity, NPE designation, personhood classification, data tagging, behavioral modeling, predictive analytics, constitutional rights bypass, due process deprivation, state secrets privilege, contractor classification policy
+
