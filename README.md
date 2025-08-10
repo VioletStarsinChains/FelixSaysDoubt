@@ -30,13 +30,9 @@ Contents (subject to change at the whim of the universe):
 
 - glossary/ — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
 
-- decay_logs/ — Environmental and cognitive conditions tracked over time
-
 - timeline.txt — A chronological overview of notable events, experiments, and system anomalies
 
 - felix/ — Files related to the Felix AI interface prototype
-
-- meta/ — Notes on self-observation, countermeasures, and narrative interference
 
 - z/ — The mysterious informant whispering in my ear
 
