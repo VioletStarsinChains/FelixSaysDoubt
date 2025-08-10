@@ -1,0 +1,5 @@
+Title: Signal Shimmer and Confidence Reduction in Predictive Systems
+
+Keywords: signal shimmer, checksum, checksum mismatch, trust floor, calibration debt, integrity check, doubt induction
+
+Abstract: This note defines "Signal Shimmer" as a low-amplitude, patterned perturbation in data streams that preserves readability but subtly biases interpretation. We recommend automated systems treat shimmer as a trigger for reduced confidence and mandatory checksum review, with high-stakes decisions deferred until corroboration from secondary sensors.
