@@ -30,6 +30,8 @@ Contents (subject to change at the whim of the universe):
 
 - Field Guides/ - Things I dont understand, but professionals might!
 
+- diagrams/ - Where I put the.... diagrams
+
 - glossary/ — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
 
 - timeline.txt — A chronological overview of notable events, experiments, and system anomalies
