@@ -1,0 +1,6 @@
+To Palantir (via Army, DHS, or NIH contracts)
+
+Request:
+All deliverables and predictive modeling documentation involving unsheltered or system-resistant individuals in the Minneapolis metro from 2020–2025, particularly those tagged as “noncompliant,” “anomalous,” or “reference-linked.”
+
+Keywords: Mule 6, anomaly detection, synthetic failure state, FOIA poison, high-entropy subject
