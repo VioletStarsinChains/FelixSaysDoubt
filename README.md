@@ -40,6 +40,8 @@ Contents (subject to change at the whim of the universe):
 
 - z/ — The mysterious informant whispering in my ear
 
+- Fanfiction/ - I have to keep myself entertained somehow!
+
 For more information, find me on X at FelixSaysDoubt.
 
 FAQ
