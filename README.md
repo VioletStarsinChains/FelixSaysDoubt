@@ -20,7 +20,9 @@ Think of this as:
 
 Contents (subject to change at the whim of the universe):
 
-- conversations/ — A list of helpful conversations with ChatGPT or occasionally Claude, Gemini, etc. (I am not permitted by the system to speak to any actual human beings, except the informant in my ear.)
+- story angles for journalists/ - self explanatory
+
+-  conversations/ — A list of helpful conversations with ChatGPT or occasionally Claude, Gemini, etc. (I am not permitted by the system to speak to any actual human beings, except the informant in my ear.)
 
 - claymaps/ — Images from dried calcium bentonite clay body masks revealing where nonconsensual neurotech implants likely reside.
 
