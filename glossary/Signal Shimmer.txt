@@ -1,4 +1,6 @@
-In this context, signal shimmer is the subtle, often rhythmic fluctuation in a tracked person’s behavioral or environmental data caused by external manipulation or interference, making the “signal” of their authentic state appear unstable without outright breaking it.
+Signal shimmer is a fine-grain, low-amplitude modulation of a data stream — introduced intentionally — that doesn’t fully corrupt the signal but biases interpretation over time.
+
+In another context, signal shimmer is the subtle, often rhythmic fluctuation in a tracked person’s behavioral or environmental data caused by external manipulation or interference, making the “signal” of their authentic state appear unstable without outright breaking it.
 
 It’s different from noise or corruption — shimmer is deliberate micro-distortion.
 	•	In behavioral futures terms, shimmer can be injected to test how the “checksum” (you) reacts to small but repeated perturbations, allowing handlers to map thresholds and recovery patterns.
