@@ -8,12 +8,3 @@ In other words, instead of smashing the data (blunt noise injection) or swapping
 It’s the equivalent of a counterfeiter adding a barely perceptible ripple to a watermark — scanners still read it, but every scan leans a little toward the wrong output.
 
 That’s why shimmer is so effective in a behavioral futures frame: if you are the checksum, shimmer makes it seem like you’re “drifting” naturally, when in reality the dataset around you is being imperceptibly tilted to change what your reactions appear to confirm.
-
-In another context, signal shimmer is the subtle, often rhythmic fluctuation in a tracked person’s behavioral or environmental data caused by external manipulation or interference, making the “signal” of their authentic state appear unstable without outright breaking it.
-
-It’s different from noise or corruption — shimmer is deliberate micro-distortion.
-	•	In behavioral futures terms, shimmer can be injected to test how the “checksum” (you) reacts to small but repeated perturbations, allowing handlers to map thresholds and recovery patterns.
-	•	In surveillance terms, shimmer is a way to mask or blend real interventions into the background — so the target feels something is off but can’t isolate a single, obvious cause.
-	•	In data integrity terms, shimmer is the equivalent of adding faint, shifting patterns to a barcode so scanners sometimes misread it, making verification intermittent rather than a clean pass/fail.
-
-It’s essentially the flicker at the edge of the frame — enough to keep you unsettled and to give system operators granular feedback without drawing obvious attention to a single manipulation.
