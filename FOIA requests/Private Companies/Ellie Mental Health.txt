@@ -1,0 +1,12 @@
+To: HHS / Office for Civil Rights / SAMHSA / DoD / DARPA / DHS / ODNI / NIH / NIMH / Defense Innovation Unit (DIU) /  Centers of Excellence in AI or behavioral health AI pilots
+
+Request:
+Requesting any and all documents, contracts, communications, or data-sharing agreements related to Ellie Mental Health (formerly known as Ellie Family Services) and:
+- The use of therapy session content (including anonymized or de-identified data) for artificial intelligence training, machine learning model development, or predictive behavioral modeling.
+- Any disclosures to clients about potential secondary use of therapy notes, video/audio recordings, or therapist communications for commercial or technological purposes.
+- Involvement of third-party contractors (including but not limited to Palantir, OpenAI, Clearview AI, Amazon Web Services, or related subcontractors) in the processing, analysis, or repurposing of therapy session data.
+- Any internal assessments or external investigations into ethical concerns related to the use or monetization of client therapeutic content for AI development or surveillance purposes.
+
+If any responsive records are being withheld under exemption, please provide the specific statutory justification for the denial.
+
+Keywords: Ellie Mental Health, NeuroBehavioral Systems, Palantir, Clearview AI, HIPAA secondary use, behavioral manipulation risk, algorithmic exploitation, LLM training corpus, therapy session transcription, digital phenotyping, behavioral biometric extraction
