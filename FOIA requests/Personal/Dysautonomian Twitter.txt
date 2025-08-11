@@ -11,3 +11,18 @@ This includes:
 	•	References to Internet harassment simulations, false amplification, synthetic lolcow generation, or the deliberate shaping of digital reputation through influencer archetypes
 
 Keywords: @dysautonomian, containment risk, behavioral futures, online infamy, synthetic lolcow, influencer archetype, shadowban, Palantir, Dataminr, Twitter moderation, digital erasure, anomaly tracking
+
+//////////
+
+To MN Department of Public Safety
+
+Request:
+
+Requesting any documents, records, surveillance data, or communications referencing the Twitter account @dysautonomian, active between approximately 2022–2025. This includes but is not limited to:
+	•	Social media monitoring programs
+	•	Online radicalization or threat assessment initiatives
+	•	Fusion center alerts or reports
+	•	Behavioral surveillance efforts targeting neurodivergent individuals
+	•	Third-party contracts for social media analysis or content flagging
+
+Keywords: dysautonomian, behavioral monitoring, neurodivergence, fusion center, OSINT, CVE, threat modeling
