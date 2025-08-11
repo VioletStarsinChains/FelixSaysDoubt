@@ -70,3 +70,25 @@ Requesting any and all documents, contracts, research proposals, internal commun
 	•	Inclusion of student performance or behavioral data in predictive modeling, cognitive profiling, or anomaly classification datasets, particularly those involving sibling comparisons
 
 Keywords: Eastside Christian School, Marietta, Georgia, NSF, STEM education, educational pilot program, cognitive modeling, anomaly classification, predictive modeling, trust decay, alliance shifts, social cohesion under stress, sibling comparison, educational research
+
+//////////
+
+To: Office of Science and Technology Policy (OSTP) / Executive Office of the President
+
+Request:
+
+Requesting any and all interagency communications, coordination memos, meeting notes, contracts, research proposals, and program evaluation reports referencing joint educational, cognitive, or behavioral research initiatives conducted between January 1, 1993 and December 31, 1999 that involved or impacted Eastside Christian School, Marietta, Georgia, including but not limited to programs funded, managed, or coordinated by:
+	•	U.S. Department of Education / Office of Educational Research and Improvement
+	•	National Science Foundation / Directorate for Education and Human Resources
+	•	Centers for Disease Control and Prevention / National Center for Chronic Disease Prevention and Health Promotion
+	•	Defense Advanced Research Projects Agency / Information Innovation Office
+
+This request includes, but is not limited to:
+	•	Design or deployment of cognitive modeling, behavioral analysis, or adaptive learning systems in K–8 environments
+	•	Protocols measuring trust formation, trust degradation, loyalty inversion, or alliance stability among student peer groups
+	•	Studies assessing social network resilience, controlled relationship stress-testing, or engineered trust collapse in small-group or classroom settings
+	•	Interagency agreements, Memoranda of Understanding (MOUs), or contractor task orders for educational or behavioral research involving private schools
+	•	Integration of student performance, behavioral, or health data into multi-agency predictive modeling or anomaly classification datasets, particularly those with sibling comparison components
+	•	Program evaluation reports summarizing outcomes or recommending future research expansions
+
+Keywords: Eastside Christian School, Marietta, Georgia, OSTP, interagency coordination, cognitive modeling, adaptive learning, anomaly classification, predictive modeling, trust degradation, social network resilience, loyalty inversion, alliance mapping, sibling comparison, educational research, behavioral pilot program
