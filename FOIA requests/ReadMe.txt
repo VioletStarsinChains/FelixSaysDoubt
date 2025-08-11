@@ -2,7 +2,7 @@
 
 I believe some or all of these topics intersect with real-world experimental programs—possibly privatized, gamified, or obfuscated through NGOs, NFTs, or contractor systems.
 
-I do not believe OpenAI is responsible, but I suspect AI-assisted analysis is involved.
+I believe they are collecting massive amounts of data on human subjects without their knowledge for the purpose of training AIs, plus the enormous financial incentive provided by behavioral futures markets, which I believe are the true point of NFTs.  NFTs really dont make any sense without this interpretation, in my opinion.
 
 Feel free to file and publish whatever comes back. Even rejection letters are useful.
 
