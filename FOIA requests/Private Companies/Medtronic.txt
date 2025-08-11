@@ -1,0 +1,17 @@
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+Cc: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, regulatory filings, or interagency agreements referencing Medtronic’s development, testing, or deployment of implantable or wearable neurotechnology with potential applications for behavioral or physiological modulation, from January 1, 2005 to present.
+
+This includes:
+	•	Correspondence between Medtronic and federal agencies regarding neural interface safety, efficacy, or classified use cases
+	•	Documentation of experiments or clinical trials involving deep brain stimulation, vagus nerve stimulation, or trigeminal nerve stimulation with behavioral endpoints
+	•	Reports or assessments on the use of implantable devices for non-consensual human experimentation or surveillance purposes
+	•	Risk assessment or mitigation strategies related to adverse neurological or psychological effects
+	•	Contracts, grants, or cooperative research and development agreements (CRADAs) involving Medtronic and agencies such as DARPA, IARPA, or DoD medical branches
+	•	Internal or external communications on device telemetry, remote adjustment, or wireless data extraction capabilities
+	•	Records on export controls, foreign partnerships, or technology transfer related to neural modulation devices
+
+Keywords: Medtronic, neurotechnology, deep brain stimulation, vagus nerve stimulation, trigeminal stimulation, behavioral modulation, telemetry, remote programming, DARPA, CDRH
