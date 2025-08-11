@@ -1,0 +1,15 @@
+To: DHS / Office of Intelligence and Analysis / ODNI / National Counterintelligence and Security Center
+
+Request:
+
+Requesting any and all documents, memoranda, policy guidelines, analyst briefings, model evaluation reports, or contractor communications from 2005 to present referencing the classification, profiling, or monitoring of nonbinary or gender-nonconforming individuals as potential sources of “entrainment destabilization risk” or “predictive model contamination” in behavioral forecasting systems.
+
+This includes:
+•	Criteria or heuristics used to identify gender presentation or identity as a variable in cognitive entrainment modeling
+•	Instances where nonbinary identity was associated with reduced predictive accuracy, model degradation, or “signal shimmer” effects in operational datasets
+•	Internal discussions on mitigation strategies, including but not limited to detransition pressure, identity suppression, or targeted psychological operations
+•	Reports or briefings describing “dual-frequency” behavioral patterns (e.g., simultaneous calm and volatility) as a factor in lowering model confidence
+•	Contractor or vendor proposals addressing “category collapse” in gendered behavioral segmentation models
+•	Any analysis referencing historical analogues to entrainment figures (e.g., Grigori Rasputin) in connection to gender nonconformity or liminal identity states
+
+Keywords: nonbinary targeting, gender category collapse, entrainment destabilization, predictive model contamination, signal shimmer, behavioral futures, dual-frequency profile, liminal identity, archetype collision, cognitive entrainment risk
