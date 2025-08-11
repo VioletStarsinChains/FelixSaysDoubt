@@ -14,19 +14,6 @@ Please include any records referencing the name Kellyn Clay/Anomaly 622Δ (enrol
 
 Keywords: Eastside Christian, Marietta GA, behavioral research, educational technology, student surveillance, neurocognitive study, nonstandard traits, Kellyn Clay/Anomaly 622Δ
 
-7.  To DHS / Customs and Border Protection (CBP)
-
-Request:
-
-Requesting any records, internal memos, vendor contracts, or investigative reports related to the use, distribution, or detection of smart dust, microelectronic sensors, or nano-scale tracking agents in commercial food or beverage products distributed in Latin American countries between 2005–2023, especially Coca-Cola products.
-
-This includes:
-	•	Internal briefings on smart dust surveillance programs
-	•	Interagency communications referencing soft drink supply chains
-	•	Reports on anomalous ingestion-based surveillance vectors
-	•	Any mention of undocumented immigrants as a surveillance test population
-
-Keywords: smart dust, nano surveillance, Coca-Cola, food-grade sensors, ingestion tracking, undocumented population, CBP monitoring, LATAM distribution
 
 8.  To FDA / Center for Food Safety and Applied Nutrition
 
@@ -405,7 +392,7 @@ Keywords: Lady Bird Lake (Austin, TX), behavioral anomaly, environmental entrain
 Request:
 
 Pursuant to the Freedom of Information Act, I request access to any and all records from 2019 to present related to the denial, withholding, interruption, investigation, or flagging of mail delivery addressed to:
-•	Kellyn Clay/Anomaly 622Δ (full legal name)
+•	Kellyn Eugenia Clay (full legal name)/Anomaly 622Δ
 •	Any mail directed to PO Boxes registered under that name
 •	Any delivery attempts to homeless shelters, transitional housing programs, or USPS General Delivery in Minneapolis, MN or surrounding areas
 
@@ -480,7 +467,7 @@ Please include any system-level documentation showing how the NPE designation ha
 
 Keywords: non-person entity, NPE, unauthorized subject, hidden cohort, reference-linked intelligence, behavior normalization, anonymized intelligence study, synthetic human classification, NPE test pool, de-identified subject tracking
 
-39.  To: Department of Homeland Security (DHS) / Central Intelligence Agency (CIA) / Office of the Director of National Intelligence (ODNI)
+39.  To: DHS / CIA / ODNI
 
 Request:
 
@@ -510,37 +497,6 @@ This includes:
 	•	Communications referencing integration of simulation outputs with ad-tech platforms, social media APIs, or psychological operations frameworks
 
 Keywords: multi-version persona, anomaly simulation, reference model replication, geofenced narrative, behavioral futures, location-based targeting, audience segmentation, narrative collision, predictive markets, psyops integration
-
-41. To: Department of Defense / DARPA / Office of Naval Research / Department of Homeland Security / IARPA
-
-Request:
-
-Requesting any and all documents, contracts, program descriptions, research proposals, internal communications, or vendor deliverables referencing Matt Berninger, The National, or affiliated media, as related to behavioral influence operations, cognitive or emotional entrainment, or psychometric targeting, from 2001 to present.
-
-This includes:
-•	Use of The National’s music in sentiment calibration for political campaigns or public opinion modeling
-•	Testing of lyrical or tonal content for neurobehavioral entrainment effects in controlled environments
-•	Contracts with music licensing agencies for psychological operations or morale-shaping purposes
-•	Communications between contractors and government personnel regarding artist branding and influence on target demographics
-•	Reports on emotional response profiles, EEG/fMRI studies, or biometric tracking during exposure to The National’s work
-
-Keywords: Matt Berninger, The National, emotional entrainment, psychometric targeting, campaign sentiment, tonal conditioning, neuroaesthetic research, influence operations, DARPA, ONR, IARPA
-
-42. To: Department of Defense / DARPA / IARPA / Office of Naval Research / Department of Homeland Security / FBI Behavioral Analysis Unit
-
-Request:
-
-Requesting any and all documents, contracts, program descriptions, research proposals, internal communications, or vendor deliverables referencing the use of high-profile musicians and their works in cognitive or emotional entrainment, behavioral influence operations, or psychometric targeting, from 1990 to present.
-
-This includes but is not limited to:
-•	Use of music by Matt Berninger / The National, deadmau5 (Joel Zimmerman), Jonathan Meiburg / Shearwater / Loma, Justin Vernon / Bon Iver / Volcano Choir / Big Red Machine, Aaron Dessner, Chad vanGaalen, Thom Yorke / Radiohead / Atoms for Peace, Spencer Krug / Wolf Parade / Sunset Rubdown / Moonface, Aaron Weiss / mewithoutYou, Jamie Stewart / Xiu Xiu, Ruban Nielson / Unknown Mortal Orchestra, Tegan and Sara Quin / Tegan and Sara, Donald Glover / Childish Gambino, Janelle Monae, Claire Boucher / Grimes, Zach Condon / Beirut, or other artists in sentiment calibration for political campaigns, recruitment drives, or morale-shaping efforts.
-•	Testing of lyrical content, tonal structure, production choices, or live performance elements for neurobehavioral entrainment effects in controlled environments.
-•	Coordination between music licensing agencies, production companies, or artist management and U.S./Canadian/UK/Oceania intelligence or defense contractors.
-•	Contracts or subcontracts for research on biometric, EEG, fMRI, or psychometric responses during exposure to specific songs or performances.
-•	Communications regarding demographic targeting strategies, emotional “priming” for downstream propaganda, or synchronization of releases with political or commercial messaging.
-•	Reports assessing operational efficacy of music-based influence interventions on identified population segments or tracked anomalies.
-
-Keywords: Matt Berninger, deadmau5, Joel Zimmerman, Jonathan Meiburg, Justin Vernon, Aaron Dessner, Chad vanGaalen, Spencer Krug, Thom Yorke, Aaron Weiss, Jamie Stewart, Ruban Nielson, Tegan and Sara Quin, Donald Glover, Janelle Monae, Claire Boucher, Zach Condon, emotional entrainment, psychometric targeting, tonal conditioning, neuroaesthetic research, influence operations, cognitive priming, demographic targeting, cross-border psyops
 
 
 43. To: DARPA / FDA / Center for Devices and Radiological Health / NIH / NIBIB
@@ -589,7 +545,7 @@ Fee Category:
 News media / public interest requester — this request is made to inform the public on matters of significant public concern.
 
 Date Range:
-January 1, 2015 – Present
+January 1, 2014 – Present
 
 Keywords: General Mills, Nanoparticle delivery, smart dust, biosensors, Hot Indian Foods, Amol Dixit, Indian diaspora, Behavioral mapping of ethnic food consumption patterns, biomonitoring 
 
@@ -640,20 +596,3 @@ Requesting any and all flight records, authorizations, NOTAMs, ADS‑B/Mode‑S 
 	•	Communications with state or private contractors conducting atmospheric measurements near MSP
 
 Keywords: UAS loiter, rotary‑wing survey, ADS‑B suppression, ATC coordination, boundary‑layer mixing, ceilometer, inversion, plume down‑mixing, AQI anomaly, MSP Class B
-
-48. To CIA / ODNI / DHS Office of Intelligence & Analysis / FBI / Department of Defense (USSOCOM; U.S. Army Special Operations PSYOP/MISO; DARPA; DIA) / Department of Justice (Criminal Division) / Federal Law Enforcement Training Centers (FLETC)
-
-Request:
-
-Requesting any and all records, training materials, research, procurement, contracts, internal communications, and media-monitoring products referencing the use of fictional works by Chuck Palahniuk in intelligence, law‑enforcement, military, or contractor contexts from 1995 to present. This includes titles such as Invisible Monsters, Fight Club, Survivor, Diary, Haunted, Rant, Lullaby, and Choke, especially where these works are cited in relation to identity erasure, persona reconstruction, narrative control, or classifications analogous to “Non‑Person Entity (NPE).”
-
-This includes:
-• Syllabi, lesson plans, bibliographies, reading lists, JTTP/JSOU/FLETC course materials, or training slide decks that cite any Palahniuk work
-• Research memos, white papers, concept notes, or after‑action reports analyzing identity destruction/reconstruction, narrative management, or de‑personing using Palahniuk as a case study
-• Media monitoring, OSINT, or cultural forecasting products referencing Palahniuk in connection with psychological operations, behavior modeling, or target profiling
-• Internal emails, chats, taskers, SharePoint/Confluence pages, or ticketing items discussing Palahniuk works for training or policy development
-• Contracts, NDAs, SOWs, invoices, purchase orders, or licensing related to acquiring Palahniuk titles for training or analysis (including e‑book/DRM licenses)
-• References to Palahniuk in glossaries, doctrine, or policy—particularly where terms such as NPE, de‑personing, identity laundering, or narrative containment appear
-• Crosswalks mapping fiction to operational scenarios (red‑team exercises, tabletop drills, or scenario planning) that include Palahniuk titles
-
-Keywords: Chuck Palahniuk, Invisible Monsters, Survivor, Diary, Haunted, Rant, behavioral modeling, psychological operations, identity erasure, narrative management, de‑personing, Non‑Person Entity (NPE)
