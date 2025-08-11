@@ -10,11 +10,12 @@ Requesting any and all documents, contracts, research proposals, internal commun
 	•	Contracts or subcontracts awarded to private companies for in-school research or technology deployment
 	•	Communications between Eastside Christian School staff and any federal or contractor personnel regarding student participation in research
 	•	Inclusion of student data from Eastside Christian in larger anonymized or de-identified datasets used for predictive modeling or anomaly classification
-	•	Records referencing or containing outcome assessments comparing multiple siblings within the same household
+	•	Programs designed to assess trust formation, trust degradation, loyalty inversion, or alliance stability among student peer groups
+	•	Documentation of “social network resilience” or “controlled relationship stress-testing” in K–8 settings, including studies involving sibling comparisons
 
-Keywords: Eastside Christian School, Marietta, Georgia, cognitive modeling, adaptive learning, educational pilot program, anomaly classification, behavioral research, predictive modeling, student dataset, sibling comparison, OERI
+Keywords: Eastside Christian School, Marietta, Georgia, cognitive modeling, adaptive learning, educational pilot program, anomaly classification, behavioral research, predictive modeling, trust degradation, social network resilience, loyalty inversion, alliance mapping, sibling comparison, OERI
 
-///////////////
+///////////
 
 To: DARPA / Information Innovation Office (I2O)
 CC: Defense Advanced Research Projects Agency / Tactical Technology Office (TTO)
@@ -26,13 +27,14 @@ Requesting any and all documents, contracts, research proposals, internal commun
 	•	Early adoption or trial deployments of computer-based learning platforms or adaptive testing systems
 	•	Programs integrating DoD STEM outreach or youth talent identification
 	•	Data acquisition or surveillance trials in educational settings
+	•	Studies modeling “engineered trust collapse,” “relationship stress inoculation,” or “peer network disruption” in small-group environments
 	•	Contracts or subcontracts awarded to private companies for in-school research or technology deployment in non-public schools
 	•	Communications between Eastside Christian School staff and any DARPA personnel or contractor representatives regarding student participation in research
 	•	Records indicating inclusion of student data in predictive modeling or anomaly classification datasets, particularly those involving sibling comparisons
 
-Keywords: Eastside Christian School, Marietta, Georgia, DARPA, educational pilot program, cognitive modeling, anomaly classification, adaptive learning, predictive modeling, STEM outreach, student dataset, sibling comparison
+Keywords: Eastside Christian School, Marietta, Georgia, DARPA, educational pilot program, cognitive modeling, anomaly classification, adaptive learning, predictive modeling, trust degradation, relationship stress inoculation, peer network disruption, alliance mapping, sibling comparison
 
-⸻
+////////////
 
 To: Centers for Disease Control and Prevention / National Center for Chronic Disease Prevention and Health Promotion
 CC: CDC / National Center on Birth Defects and Developmental Disabilities
@@ -43,14 +45,14 @@ Requesting any and all documents, contracts, research proposals, internal commun
 	•	School-based health, cognitive, or developmental screening programs
 	•	Neurodevelopmental or behavioral research involving K–8 students
 	•	Data collection initiatives for child health surveillance or longitudinal studies
-	•	Programs integrating health-based technology trials or behavioral intervention pilots in private school settings
+	•	Programs assessing psychological resilience, trust erosion, or interpersonal stability in developing peer groups
 	•	Contracts or subcontracts awarded to private companies for in-school research, health screenings, or educational technology deployment
 	•	Communications between Eastside Christian School staff and any CDC personnel or contractor representatives regarding student participation in research
 	•	Inclusion of student health or performance data in datasets used for predictive modeling, anomaly classification, or epidemiological research — particularly those noting sibling comparisons
 
-Keywords: Eastside Christian School, Marietta, Georgia, CDC, neurodevelopment, behavioral research, anomaly classification, student health surveillance, predictive modeling, developmental screening, sibling comparison, school-based research
+Keywords: Eastside Christian School, Marietta, Georgia, CDC, neurodevelopment, behavioral research, anomaly classification, student health surveillance, predictive modeling, trust erosion, interpersonal stability, social resilience mapping, sibling comparison
 
-////////////
+/////////
 
 To: National Science Foundation / Directorate for Education and Human Resources
 CC: Division of Research on Learning in Formal and Informal Settings; Division of Human Resource Development
@@ -58,13 +60,13 @@ CC: Division of Research on Learning in Formal and Informal Settings; Division o
 Request:
 
 Requesting any and all documents, contracts, research proposals, internal communications, and program evaluation reports referencing research, testing, or pilot programs conducted at Eastside Christian School, Marietta, Georgia between January 1, 1993 and December 31, 1999, including:
-	•	Science, technology, engineering, or mathematics (STEM) education pilot programs involving K–8 students
+	•	STEM education pilot programs involving K–8 students
 	•	Early adoption or trial deployment of computer-based learning systems, adaptive testing platforms, or digital classroom technologies
 	•	Programs funded through NSF’s education research initiatives or in collaboration with other federal agencies
+	•	Research protocols measuring “social cohesion under variable stress,” “trust decay curves,” or “peer alliance shifts”
 	•	Data collection or longitudinal tracking of student performance and aptitude
 	•	Contracts or subcontracts awarded to private companies, universities, or non-profits for educational technology research in private schools
 	•	Communications between Eastside Christian School staff and any NSF personnel or contractor representatives regarding student participation in research
 	•	Inclusion of student performance or behavioral data in predictive modeling, cognitive profiling, or anomaly classification datasets, particularly those involving sibling comparisons
 
-Keywords: Eastside Christian School, Marietta, Georgia, NSF, STEM education, educational pilot program, cognitive modeling, anomaly classification, adaptive learning, predictive modeling, student dataset, sibling comparison, educational research
-
+Keywords: Eastside Christian School, Marietta, Georgia, NSF, STEM education, educational pilot program, cognitive modeling, anomaly classification, predictive modeling, trust decay, alliance shifts, social cohesion under stress, sibling comparison, educational research
