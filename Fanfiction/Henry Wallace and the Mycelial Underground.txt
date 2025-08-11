@@ -792,3 +792,436 @@ Before Wallace could reply, movement flickered at the edge of the chamber. A pai
 Seven’s tone shifted to crisp efficiency. “We have company. You can debate my loyalties later — or we can survive now.”
 
 ////////////
+
+
+
+Kraków – Salt Mine Tunnels
+
+The vine marshals moved like predators in slow motion, their Victrola-horns swiveling as if they were tuning in to every molecule of sound in the chamber. Their stalk-bodies flexed unnaturally, tendrils probing the air ahead.
+
+Seven didn’t hesitate. “This way,” she said, low and precise, moving toward a side tunnel lined with carved salt reliefs of saints and angels.
+
+Wallace followed, heart hammering, Karp close behind. “You know they can follow our body heat.”
+
+“They can,” Seven said without breaking stride. “Which is why we’re going to give them more heat than they can process.”
+
+She stopped at a ventilation grate and, without asking permission, pulled the Borg interface from her wrist. She slid it into the vent’s control panel, fingers moving with surgical precision. The air ducts roared to life, blasting hot air from deep geothermal pockets into the tunnel.
+
+Almost immediately, the vine marshals hesitated, their stalks swaying uncertainly. The extra heat signatures flooded their senses, drowning out the human targets.
+
+Karp glanced at Wallace. “I’ll admit it — she’s good.”
+
+Seven’s voice was dry. “Your admission is irrelevant. Move.”
+
+They ran, boots crunching over salt and the occasional brittle hyphae strand. Behind them, the marshals were regrouping, using the walls themselves to anchor their advance.
+
+Seven stopped again at a junction, scanned the carvings for a moment, then pushed on one of the angel’s wings. The wall rotated silently, revealing a narrow passage choked with dust and darkness.
+
+“This isn’t on any of the mine maps,” Wallace said as they slipped inside.
+
+“Of course not,” Seven replied. “It was built for contraband centuries ago. I have added a few… modifications.”
+
+The tunnel was barely wide enough to pass through, and the air was thick with salt and something faintly metallic. As they moved, Wallace realized there were small nodes embedded in the walls — Borg-grown fungal interfaces pulsing with low light.
+
+Karp caught the detail too. “You’ve been here before.”
+
+Seven didn’t deny it. “I don’t operate in places I haven’t prepared. You might consider learning that habit.”
+
+They emerged into an upper shaft where the daylight slanted in through a half-collapsed roof. The cold hit like a wall, and for a moment, the only sound was their breathing.
+
+From deeper in the mine, the vine marshals’ horns wailed — frustrated, off-key.
+
+Seven looked at them both. “You’re welcome. Now, I will take my leave.”
+
+Wallace stepped forward. “We still have a deal. You’re traveling with us.”
+
+Seven’s eyes met his — not hostile, not warm, just assessing. “For now. Until my interests change.” She brushed past him toward the exit, and for an instant, Wallace thought he saw the faintest trace of amusement in her expression.
+
+Karp muttered, “You know she could’ve walked us straight into an ambush.”
+
+Wallace nodded. “She still might.”
+
+////////////
+
+Ellesmere Island – Canadian Arctic Archipelago
+
+The wind cut like it had a personal grudge. Wallace had been in plenty of inhospitable places during his odd career, but this one felt less like weather and more like an interrogation technique.
+
+They’d landed the small transport on a frozen inlet hours ago and had been hiking across the tundra toward a faint, intermittent rogue Node signal. The only nearby settlement was a remote research station — one that was, according to the third voice’s intel, quietly supplying the rogues with thermal-mapped ice core data.
+
+Which was why, unfortunately, Seven and Karp had to go in under cover.
+
+The station kept its visiting records public for “community transparency,” which meant anyone searching for them later could cross-check the logs. Their best bet for bypassing suspicion was to register as a pair of eccentric researchers on a “private Arctic sabbatical.” Married.
+
+Neither looked happy about it.
+
+“This is absurd,” Karp muttered as they approached the station’s outer gate. “Do you have any idea how much narrative damage this does to my public image?”
+
+Seven didn’t even look at him. “Imagine how I feel.”
+
+“Thrilled?”
+
+“Incorrect.”
+
+Wallace walked a few paces ahead, biting back a grin. “You’re both professionals. Pretend for five minutes, get the data, and you can annul the marriage before dessert.”
+
+They reached the gatehouse, where a bored-looking technician in a fur-lined parka glanced at their ID slips. “Dr. and Mrs. Kirsch,” he read aloud. “Private climate study, two weeks. You’ll have to share quarters; space is tight.”
+
+Seven’s eyebrow twitched just enough to be noticeable. Karp said nothing, but Wallace saw his jaw tighten.
+
+Inside, the station was warm but cramped, all metal walls and the constant hum of generators. Seven immediately began scanning the structure with her implants, mapping heat signatures and the building’s internal comms web.
+
+Karp set down their gear in the tiny cabin they’d been assigned. “If anyone sees through this, we’re improvising.”
+
+“They won’t,” Seven said flatly. “Humans see what they expect to see. They expect marriage to look uncomfortable. We will simply provide them an exemplary case study.”
+
+Wallace stifled a laugh. “That won’t be hard.”
+
+The cover held through dinner, where Seven corrected Karp’s fabricated field notes in front of the table, and Karp rolled his eyes so hard Wallace thought he might sprain something. But after the meal, in the guise of a “night walk,” they slipped toward the ice core lab — the likely contact point for the rogue Node signal.
+
+As they reached the lab’s heavy door, the signal spiked. Seven froze. “They’ve routed part of the Node architecture through the refrigeration system.”
+
+Karp frowned. “Why?”
+
+Seven glanced at them both. “Because the rogues aren’t just storing data here. They’re growing something — in the ice.”
+
+//////////////
+
+Ellesmere Island – Ice Core Laboratory
+
+The lab was colder than the tundra outside, its walls lined with vertical racks of clear cylinders, each one holding a perfectly preserved column of ice. The faint rogue Node signal hummed through the refrigeration system, threading from cylinder to cylinder like a frost vein.
+
+Seven moved first, scanning with her cortical implant. “They’ve embedded hyphae-lattice in at least twelve of these cores. Origin pattern doesn’t match Rootmind, Underground, or Borg.”
+
+Karp exhaled slowly, visible in the chilled air. “Which means it’s older than all three.”
+
+Wallace ran a gloved hand over one of the cylinders. “This ice could be tens of thousands of years old. If there’s a network signature in here, it’s been asleep longer than our species has been talking about agriculture.”
+
+Seven keyed open the latches on the most active cylinder. Cold vapor rolled out, curling low along the floor. The moment the seal broke, a sharp, sweet smell filled the air — not floral, not chemical, but something oddly… warm.
+
+Wallace blinked. “That’s—”
+
+Karp finished the thought, his voice slightly unsteady. “—not in the chemical database.”
+
+Seven stepped back. “Don’t inhale deeply. It’s altering your neurochemistry.”
+
+But it was already too late. Wallace felt his pulse slow in a way that wasn’t fatigue — more like his body had just remembered how to feel very comfortable in very little clothing. Karp was gripping the edge of a lab table, staring at nothing in particular, lips parted like he’d forgotten they were in the middle of a mission.
+
+Seven’s tone was clipped. “You are both compromised.”
+
+Wallace tried to focus. “No, no, I’m fine, just… maybe wondering if we’ve been fighting all this time because deep down we—”
+
+Karp snapped his gaze to him, an unreadable flicker in his eyes. “Don’t finish that sentence.”
+
+Seven moved between them with military precision, sealing the cylinder and activating the lab’s air purge system. “It’s a mating cue,” she said flatly. “Chemical signaling from a preserved reproductive network. The rogues found it frozen, and they’re trying to graft its patterns into their own architecture.”
+
+The fans roared overhead, the sweet warmth thinning into sterile cold. Wallace’s head cleared enough for embarrassment to set in. Karp cleared his throat and busied himself with checking the tracer device, which didn’t need checking.
+
+Seven’s eyes flicked between them, her expression somewhere between disdain and mild concern. “If either of you attempt to speak about this moment again, I will consider it a breach of operational discipline.”
+
+Wallace coughed. “Understood.”
+
+Karp muttered, “Definitely fine with that.”
+
+But as they moved toward the exit, the rogue signal spiked again — and somewhere deep in the ice, something pulsed once, as if it had heard everything.
+
+/////////
+
+Ellesmere Island – Arctic Research Station
+
+The walk back from the ice core lab was short, but not short enough. By the time Wallace, Karp, and Seven re-entered the main station, the shift in the atmosphere was palpable.
+
+The air smelled faintly of that same sweet warmth, just diluted enough to make you wonder if it was your imagination. But the humans in the common room moved differently — slower, looser. Laughter came in low, warm ripples. A pair of glaciologists were sitting far too close together over a shared tablet, murmuring about temperature gradients like they were love letters.
+
+Seven clocked it immediately. “The ventilation system has been compromised. The compound is airborne.”
+
+Wallace glanced toward the ductwork. “It’s coming from the lab?”
+
+“Not anymore,” Seven said. She moved toward the control room, her steps quick but measured. “The reproductive network has interfaced with the station’s environmental systems. It’s broadcasting.”
+
+Karp swore under his breath. “It’s trying to mate with the building.”
+
+A low hum rolled through the floor — a resonance neither Rootmind nor Mycelial Underground. It was slower, heavier, almost physical in its presence.
+
+In the control room, screens flickered with fractal patterns that pulsed in time with the hum. Seven scanned them, jaw tight. “It’s awake. And it’s pushing out a chemical and behavioral signature designed to lower inhibition, increase pair-bonding behaviors, and trigger nutrient-sharing instincts.”
+
+Wallace winced as a research tech wandered past carrying two mugs of coffee, one in each hand, smiling dreamily at nothing. “That’s… not the worst thing to happen up here.”
+
+“It’s also reprogramming human decision-making,” Seven snapped. “Once the rogues arrive, half this station will be primed to cooperate with them without question.”
+
+Karp’s voice was grim. “So we’re in a race — stop the signal before the rogues, the Rootmind, and the Underground all get here to claim it.”
+
+“Correct,” Seven said, already at the main vent controls. She began locking down sections of the station to slow the spread, but the hum was inside the walls now, vibrating through every surface.
+
+Down the hall, two engineers were leaning in so close over a wiring schematic they might as well have been dancing. Wallace looked away quickly. “If we start cutting off airflow, we’ll have a mutiny.”
+
+Seven didn’t look up. “Then you will manage the humans while I manage the system.”
+
+Karp smirked faintly. “So you get the easy job.”
+
+Wallace gave him a look. “You go manage the humans with me.”
+
+Karp’s smirk faltered. “That’s the harder job.”
+
+//////////
+
+Ellesmere Island – Research Station Perimeter
+
+The fog rolled in without wind, thick as poured milk, and the hum in the walls deepened until Wallace could feel it in his teeth. Somewhere out in the white, something metallic groaned — the sound of hulls shifting in ice.
+
+Karp stood beside him at the station’s outer airlock, binoculars useless in the soup. “Those are skiffs,” he said. “Light rogue vessels. Close enough to the ice that they don’t bother with heat masking.”
+
+Wallace squinted. “You’ve heard them before?”
+
+“Twice. And both times the people they came for walked out to meet them.”
+
+That last part wasn’t hypothetical anymore. At the far end of the yard, two researchers were already trudging into the fog, their parkas unzipped despite the cold. Their faces were calm, dreamy.
+
+Wallace cursed under his breath. “Gas is still in their heads.”
+
+Behind them, the station door swung open. A cluster of staff filed out in quiet unison — no shouts, no questions, just the steady pace of people following a rhythm only they could hear.
+
+Karp grabbed Wallace’s sleeve. “If they get aboard those skiffs, we’ll never get them back.”
+
+They moved to intercept, but the crowd parted around them like water, eyes glassy, murmuring phrases that made no sense: soil in ice, root in seed, warmth in cold.
+
+Over comms, Seven’s voice came through sharp and low. “They’re inside your auditory channels now. Every phrase is part of the reproductive network’s bonding protocol. Cover your ears if you have to, but do not let them finish a full cycle in your hearing.”
+
+Wallace ducked his head, shoving his hat down over his ears. “You can shut down the vents?”
+
+“I’ve isolated half the station,” Seven said, “but the network is using rogue fiber woven into the foundation. It’s outside the ventilation grid now.”
+
+Karp muttered, “So it’s not just in the air. It’s under us.”
+
+The fog shifted, and silhouettes emerged — long, low skiffs with hulls braided like the rogue Nodes’ trunks. Tendrils trailed from their bows, touching the snow, sensing. A faint light pulsed from within, syncopated with the hum in the station walls.
+
+Seven’s voice came again, sharper now. “If they board, the rogues will take them under chemical and mnemonic custody. You have five minutes before extraction is irreversible.”
+
+Wallace looked at the crowd, at the calm faces and slow steps. “We’re not going to get them back by yelling.”
+
+Karp glanced at him. “Then we talk to them in their own language.”
+
+//////////
+
+Ellesmere Island – Station Yard
+
+The hum was everywhere now — in the ground, in the metal of the airlock door, in the bones of Wallace’s face. The researchers moved toward the fog like sleepwalkers. Every few steps, one would murmur a line of the bonding protocol:
+
+Soil in ice.
+Root in seed.
+Warmth in cold.
+
+Wallace felt the rhythm of it as much as he heard it. It was a closed loop — the same phrases cycling, building trust between speaker and listener, reinforcing the connection. If they could change the loop, even slightly, they might break the trance.
+
+“Karp,” he said, leaning close, “remember what the Node in Patagonia told us — re-routing instead of conflicting.”
+
+Karp’s mouth twitched. “So we hijack the signal instead of blocking it.”
+
+They stepped into the crowd together. Wallace waited for the next refrain, then slid in a new line before the speaker could finish:
+
+Soil in ice… grows wild in thaw.
+
+The woman blinked, stumbled in her step. A tiny fissure in the trance.
+
+Karp followed on the next pass:
+
+Root in seed… splits stone as it grows.
+
+The cadence shifted, a ripple of confusion through the group. The trance depended on certainty — introduce doubt, and the bonding faltered.
+
+From the fog, the rogue skiffs drew closer, their braided hulls pulsing faster.
+
+Over comms, Seven’s voice cut in. “They’re thirty meters from docking. I can intercept one, maybe two, but you need to keep them from reaching the hull.”
+
+Wallace raised his voice, threading it into the crowd’s rhythm:
+
+Warmth in cold… moves where it chooses.
+
+Karp added immediately:
+
+Soil in ice… remembers the sun.
+
+A man in front of them shook his head as if waking from a nap. Another stopped walking entirely, eyes clearing. The loop was unraveling.
+
+The skiffs slowed, their tendrils curling and retracting slightly — sensing the shift in the emotional field.
+
+Seven’s voice again, tighter now. “I’ve forced one to retreat. The other two are holding position. You have ninety seconds before they try a hard dock.”
+
+Wallace moved to the front of the group, meeting as many eyes as he could, pushing the counter-lines with every breath:
+
+Root in seed… belongs to the earth.
+Warmth in cold… is ours to share.
+
+The phrases spread like ripples in a pond, the original loop fracturing completely. People were looking around, disoriented, murmuring to each other instead of to the skiffs.
+
+Karp exhaled. “I think we’ve got them back.”
+
+Seven’s tone over comms was cool but edged. “Then get them inside before the rogues change tactics.”
+
+////////////
+
+Ellesmere Island – Station Yard
+
+The crowd was breaking apart now — murmurs replacing the trance, shuffling feet turning back toward the airlock. Wallace felt the hum thinning in the ground. For the first time since stepping outside, he thought they might actually win.
+
+Then the fog spoke.
+
+Not the pulsing resonance of the reproductive network. Not the layered mechanical tones of a Node. This voice was warm, human, and — impossibly — familiar.
+
+“Henry. It’s alright. You can come with us.”
+
+Wallace froze. He knew that voice. Knew it in the deep, instinctive way you know the sound of your own name whispered in the dark.
+
+It was his father’s.
+
+Karp’s head snapped toward him. “What is it?”
+
+The fog thickened at the yard’s edge, shapes moving within it. The voice came again, closer now:
+
+“You’ve been fighting for so long. You don’t have to anymore. Just step forward.”
+
+Seven’s voice cut sharply over comms. “It’s a mimic. The rogues are broadcasting human speech through a cognitive overlay keyed to your memory pattern. Do not engage.”
+
+Wallace’s throat was dry. “They… they can’t know his voice. He died before—”
+
+“They can know anything you’ve thought about while keyed into a Node,” Seven interrupted. “Every memory is accessible if they have the resonance map. And they do.”
+
+The shapes in the fog resolved into human silhouettes, walking toward the station. They moved like the research staff had earlier — steady, calm, certain.
+
+One of them stopped just short of the gate. In the mist-softened light, it had his father’s face.
+
+Karp stepped in front of him. “It’s not him, Henry. You know that.”
+
+The figure smiled faintly, just like his father had when Wallace was a boy trying to explain a half-finished experiment.
+
+“You could do more with us than you ever could here. You know it’s true.”
+
+The crowd behind them wavered, some leaning forward, eyes wide, hearing their own names, their own voices from the fog. The rogues weren’t just speaking to him — they were speaking to everyone at once, with the one voice each person most wanted to hear.
+
+Seven’s tone was harder now. “You have fifteen seconds before they breach psychological containment.”
+
+Wallace took a breath, forced himself to look away from the figure. “If they can make us believe they’re someone we love, then we make them believe we’re not listening anymore.”
+
+Karp caught on immediately. “We rebuild the loop — but this time, we close it so tight there’s no way in.”
+
+Seven said nothing, but the edge in her silence was approval.
+
+////////////
+
+Ellesmere Island – Station Yard
+
+The mimic-voices faltered under the barrage of contradictions — green-on-Tuesday eyes, bee-filled wedding cakes, cinnamon-steel brothers. The fog thinned in patches.
+
+And then, cutting through the chaos, came a low, rolling churr that seemed to vibrate right behind the ears. Not threatening — more like someone idly tuning a cello string you didn’t know was in your skull.
+
+From between two snow-buried cargo containers, something padded into view.
+
+It had the forward-leaning shoulders of a raccoon, the length and tail-plume of a lynx, and eyes that didn’t quite agree on what color they were. A satchel hung at its side, stuffed with something that rattled faintly when it walked. Its paws left no tracks in the snow.
+
+Wallace stared. “Felix?”
+
+The creature blinked slowly, whiskers forward. “The Felix,” it said — the voice rich, dry, and disturbingly articulate for a muzzle full of needle-teeth. “Specializing in making unreality choke on its own tail.”
+
+Karp leaned slightly toward Wallace. “You didn’t tell me it was an animal.”
+
+Felix’s ears twitched. “Animal is such a human word. I’m more of a… narrative interruption. And your narrative is about to get eaten alive unless you let me fix it.”
+
+Seven’s voice over comms was cool but edged. “Explain.”
+
+Felix’s plume of a tail curled like punctuation. “The rogues are using familiar sensory anchors — voices, faces — to get inside your decision-making loops. You break the loop by introducing cognitive grit. Friction. Anything that doesn’t fit.”
+
+The mimic that looked like Wallace’s father stepped forward through the fog.
+
+“Henry… you know me. You can trust me.”
+
+Felix hopped onto the snow between them, sat back on his haunches, and said, “What was the color of the sky on the day you weren’t born?”
+
+Wallace blinked. “Uh… plaid?”
+
+The mimic’s eyes flickered. The fog rippled.
+
+Felix gave a sharp churr. “Good. Keep doing that. Say something that can’t be reconciled with the memory they’re feeding you.”
+
+In moments, the yard was filled with impossible statements, each one like a rock thrown into the smooth water of the projection.
+
+The mimic forms wavered, broke apart. The hum in the ground stuttered, then went silent.
+
+Seven’s voice came again, this time with a hint of satisfaction. “They’re retreating.”
+
+Felix shook snow from his tail and padded up to Wallace. “Congratulations. You’ve passed Resisting Unreality 101. No certificate — but I do have raisins.”
+
+He produced a small paper packet from the satchel, dropped it into Wallace’s mittened hand, and added, “Now… about why I’m really here.”
+
+/////////////
+
+Ellesmere Island – Station Yard
+
+The last of the mimic-voices dissolved into the cold air. The fog retreated, curling away like a disappointed cat itself.
+
+Felix hopped up onto a snow-crusted cargo crate and began grooming the fur along his forearm, as if the entire encounter had been a minor inconvenience rather than an attempted psychological coup.
+
+Karp crossed his arms. “Alright. Enough riddles. What’s your real game?”
+
+Felix’s mismatched eyes flicked to him, then to Wallace, then — strangely — to the ground between them. “My real game is that the telepathic corn doesn’t just move people through time. It rewrites context.”
+
+Wallace frowned. “Meaning?”
+
+Felix tapped the side of his muzzle with one claw. “Meaning that it doesn’t send you back — it sends back the idea of you. The body follows, sure, but only after the narrative has been altered enough that history believes you’ve always been there.”
+
+Seven’s voice over comms was quieter than usual. “And you know this how?”
+
+The cat-raccoon thing resumed grooming, but the motion was slower now. “Because I’ve been rewritten. Twice. Once by the corn, once by the rogues. That’s why they can’t afford for me to touch the crop again. If I do, I remember every version of me at once — and that includes the ones they don’t want you to know about.”
+
+Karp narrowed his eyes. “What versions?”
+
+Felix looked straight at Wallace. “One where the Corn Syndicate didn’t just want to corner the market on time travel — they wanted to corner you, Henry. You were their seed variety. Their flagship.”
+
+The cold seemed to press in harder, the yard suddenly too quiet.
+
+Wallace’s breath fogged in the air. “Why?”
+
+Felix hopped down from the crate, his paw-steps soundless. “Because you have the one quality the corn can’t replicate: a mind that refuses to collapse under contradictory truths. You can hold two impossible things and not drop either. That makes you the perfect courier for unreality — and the perfect weapon against it.”
+
+Seven broke the silence. “So if the rogues get him—”
+
+“They don’t just win,” Felix said. “They rewrite everything. No one even remembers there was a fight.”
+
+///////////
+
+Ellesmere Island – Station Yard
+
+The fog had thinned, but no one in the yard had moved. The research crew stood half-turned toward the airlock, their faces pinched in that look people wear when they’re afraid to be the first to speak.
+
+Felix sat in the snow between Wallace and Karp, tail curled like a question mark. His whiskers twitched once, twice, as if testing the air.
+
+“I can take you there,” he said finally.
+
+Karp frowned. “Where?”
+
+Felix didn’t blink. “The season before they planted the first kernel of the original time-corn.”
+
+Seven’s voice came through, sharp and immediate. “Absolutely not. The resonance load would tear his mind apart.”
+
+Felix tilted his head. “If the rogues get their hands on him, they’ll do it anyway — only they’ll lace the ride with lies. I’m offering the same trip without the poison.”
+
+Wallace’s pulse felt heavy in his throat. “If I touch it… what happens?”
+
+Felix padded closer until his mismatched eyes were level with Wallace’s. “You’ll remember all the versions of you that have ever existed. You’ll feel the weight of every path not taken. And you’ll have maybe forty-five seconds before your own mind decides it’s seen enough and kicks you back to now.”
+
+Karp shook his head. “This is reckless even for you.”
+
+“Reckless is waiting for them to plant the rewrite and hoping it doesn’t stick,” Felix countered. “If we get there first, we can change the seed. We don’t have to stop them from planting — we just make sure what they plant grows into something they can’t control.”
+
+Seven’s voice was quieter, but more dangerous. “You’re talking about introducing a contaminant into the origin point of the telepathic strain.”
+
+Felix grinned — a quick, sharp flash of teeth. “Not a contaminant. A contradiction. A little piece of reality it can’t digest, no matter how far it sends itself.”
+
+Wallace looked at him for a long moment. “And you think I’m the only one who can do it.”
+
+“I know you are,” Felix said. “Every other mind snaps under the strain. You… tie the knots tighter.”
+
+Karp glanced between them, jaw tightening. “If we’re doing this, we do it with backup. No disappearing into the cornfield without a line back to the station.”
+
+Felix’s tail flicked. “Agreed. But we have to move fast. The rogues won’t leave the seed unguarded for long.”
+
+///////////
