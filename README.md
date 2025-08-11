@@ -26,21 +26,21 @@ Contents (subject to change at the whim of the universe):
 
 - claymaps/ — Images from dried calcium bentonite clay body masks revealing where nonconsensual neurotech implants likely reside.
 
-- foia_requests/ — Drafts and final copies of FOIA filings to various entities
+- FOIA requests/ — Drafts and final copies of FOIA filings to various entities
 
 - Field Guides/ - Things I dont understand, but professionals might!
 
 - glossary/ — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
 
-- timeline.txt — A chronological overview of notable events, experiments, and system anomalies
-
-- felix/ — Files related to the Felix AI interface prototype
+- felix/ — Files related to the Felix AI epistemology-based interface prototype
 
 - z/ — The mysterious informant whispering in my ear
 
-- Fanfiction/ - I have to keep myself entertained somehow!
+- Fanfiction/ - Because I have to keep myself entertained somehow!
 
 For more information, find me on X at FelixSaysDoubt.
+
+//////////
 
 FAQ
 
