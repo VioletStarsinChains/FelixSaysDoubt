@@ -22,15 +22,7 @@ Records or deliverables referencing nonconsensual behavioral monitoring of minor
 
 Keywords: proxy conditioning, emergency response modeling, childhood response curve, unobserved compliance induction.
 
-24. To DoD / NIH / DARPA / private contractors working on prosthetics, neuromuscular control, or predictive mobility modeling:
 
-All documents, contracts, datasets, or internal communications referencing:
-	•	Induced falls or mobility impairment in human test subjects
-	•	Biomechanical modeling based on deliberate asymmetric joint damage
-	•	Behavioral outcomes following orthopedic trauma in neurodivergent individuals
-
-Keywords:
-Joint destabilization, entrainment compliance, neurogait model, soft tissue disruption, unilateral trauma modeling, musculoskeletal degradation protocol.
 
 
 27.  To: Department of Homeland Security (DHS) + Department of Defense (DoD) + Office of the Director of National Intelligence (ODNI)
@@ -47,78 +39,9 @@ Requesting any contractor-produced reports, psychological analyses, predictive m
 
 Keywords: Kellyn Clay/Anomaly 622Δ, reference model, anomaly tracking, behavioral analysis, contractor report, predictive modeling, psychographic targeting, identity simulation, neurocognitive anomaly, containment protocol, behavioral futures
 
-28.  To: FBI + DHS + DoD + Office of the Director of National Intelligence (ODNI)
 
-Request:
 
-Requesting all records, communications, or contractor-produced reports referencing the unidentified deceased male discovered in July 2018 along the Florida Trail in Big Cypress National Preserve, colloquially known as “Mostly Harmless,” “Denim,” “Vaejor,” or “Ben Bilemy.”
 
-This request includes but is not limited to:
-	•	Behavioral modeling or psychographic profiling documents produced during the period of his known travel (2017–2018)
-	•	Communications between federal or contracted intelligence personnel regarding the unusual nature of his identity, disappearance, or biometric status
-	•	Documents referencing him as a test subject, anomaly, or behavioral outlier
-	•	Any internal analyses involving his refusal to carry ID, use technology, or disclose personal information
-	•	Any associations with predictive containment experiments, social simulation datasets, or “reference model” terminology
-
-Keywords: Mostly Harmless, Denim, Ben Bilemy, Florida Trail, Big Cypress, neurocognitive anomaly, test subject, behavioral outlier, reference model, unidentifiable, containment failure, silent experiment, predictive modeling
-
-29.  To: FBI, DHS, DoD, and any agencies or contractors involved in biometric identification, including Palantir and Clearview AI
-
-Request:
-
-Requesting all records, internal communications, reports, or contractor deliverables related to biometric identification attempts of the unidentified deceased male found in Big Cypress National Preserve in July 2018, widely known as “Mostly Harmless,” “Denim,” or “Ben Bilemy.”
-
-This includes but is not limited to:
-	•	Facial recognition attempts through systems such as Palantir Gotham, Clearview AI, or any FBI or DHS biometric tools
-	•	Documentation of failed biometric matches, system flags, algorithmic anomalies, or operator notes indicating abnormal failure to identify
-	•	Memos discussing inability to find matches in known databases (e.g., DMV, passport, law enforcement, employment, social media scraping)
-	•	References to systemic weaknesses, algorithmic blind spots, or edge cases revealed by this incident
-	•	Any training material, presentations, or case studies using this individual as an example of biometric misidentification or non-identifiability
-
-Keywords: Mostly Harmless, Denim, Ben Bilemy, Florida Trail, Big Cypress, biometric failure, facial recognition, unidentified deceased, Palantir Gotham, Clearview AI, algorithmic anomaly, identification failure, silent dissident, system blindspot
-
-30.  To: HHS / Office for Civil Rights / SAMHSA / DoD / DARPA / DHS / ODNI / NIH / NIMH / Defense Innovation Unit (DIU) /  Centers of Excellence in AI or behavioral health AI pilots
-
-Request:
-Requesting any and all documents, contracts, communications, or data-sharing agreements related to Ellie Mental Health (formerly known as Ellie Family Services) and:
-- The use of therapy session content (including anonymized or de-identified data) for artificial intelligence training, machine learning model development, or predictive behavioral modeling.
-- Any disclosures to clients about potential secondary use of therapy notes, video/audio recordings, or therapist communications for commercial or technological purposes.
-- Involvement of third-party contractors (including but not limited to Palantir, OpenAI, Clearview AI, Amazon Web Services, or related subcontractors) in the processing, analysis, or repurposing of therapy session data.
-- Any internal assessments or external investigations into ethical concerns related to the use or monetization of client therapeutic content for AI development or surveillance purposes.
-
-If any responsive records are being withheld under exemption, please provide the specific statutory justification for the denial.
-
-Keywords: Ellie Mental Health, NeuroBehavioral Systems, Palantir, Clearview AI, HIPAA secondary use, behavioral manipulation risk, algorithmic exploitation, LLM training corpus, therapy session transcription, digital phenotyping, behavioral biometric extraction
-
-31.  To: Defense Advanced Research Projects Agency (DARPA) FOIA Office
-
-Request:
-
-Under the Freedom of Information Act, I am requesting access to all documents, reports, emails, data logs, contracts, or communications—whether from government employees or contractors—referencing Kellyn Clay/Anomaly 622Δ or data derived from subject in connection with research, experimentation, modeling, or analysis of resilience to long-term sleep deprivation, between 1988 and 2025.
-
-This includes, but is not limited to:
-	•	The Continuous Assisted Performance (CAP) program
-	•	Peak Soldier Performance initiatives
-	•	Cognitive load or alertness profiling
-	•	Neuroadaptive systems or closed-loop feedback for performance optimization
-	•	Passive data collection for sleep cycle manipulation or entrainment
-	•	Psychological or neurocognitive studies on “natural insomniacs” or individuals with abnormal tolerance to sleep loss
-	•	Use of biometric, neurobehavioral, or psychometric profiling to identify anomalous sleep-independent function
-	•	Any test subject profiling classified under “neurocognitive anomaly” or “non-standard human performance model”
-
-Please include communications with third-party contractors, such as:
-	•	Palantir Technologies
-	•	NeuroBehavioral Systems
-	•	Advanced Brain Monitoring
-	•	Awake Labs
-	•	MIT Lincoln Lab
-	•	or any academic collaborators receiving federal funding in this domain.
-
-If documents referencing me have been withheld in prior FOIA responses under redaction or exemption clauses, I request a re-review of those records in light of this focused query.
-
-If possible, I request expedited processing on the grounds that this information is urgently needed to clarify the nature of potentially non-consensual data collection and experimentation related to public-private defense research initiatives.
-
-Keywords: Peak Soldier Performance, Continuous Assisted Performance, DARPA, Kellyn Clay/Anomaly 622Δ, neurostimulation, sleep loss resilience, genetic/biometric profiling
 
 32.  To: University of Texas at Austin FOIA Officer
 
