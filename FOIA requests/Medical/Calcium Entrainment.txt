@@ -11,3 +11,21 @@ This includes:
 	•	Reports on behavioral side effects or neuropsychiatric correlates in subpopulations
 
 Keywords: calcium entrainment, food fortification, neurobehavioral modulation, dietary signaling, magnesium deficiency, cognitive compliance, CFSAN
+
+
+////////////
+
+
+To DARPA / Biological Technologies Office
+
+Request:
+
+Requesting any research proposals, white papers, contracts, or internal memos related to the use of calcium signaling pathways for cognitive entrainment, mood stabilization, or neuromodulation in civilian populations, with or without their knowledge.
+
+This includes:
+	•	Program proposals using calcium as a signal amplifier or behavioral anchor
+	•	Investigations into soft tissue mineralization as a side effect or feature
+	•	Cross-referencing with mast cell behavior, magnesium depletion, or neuroinflammation
+	•	Deployments in field environments or through population-wide delivery systems (e.g., food, water)
+
+Keywords: calcium signaling, entrainment, mineralization, behavioral modulation, BTO, magnesium antagonism, mood control, population-scale neurotech
