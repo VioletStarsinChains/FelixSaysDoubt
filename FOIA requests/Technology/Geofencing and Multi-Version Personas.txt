@@ -1,0 +1,16 @@
+To: DHS / Cybersecurity and Infrastructure Security Agency (CISA) / DARPA / Office of the Director of National Intelligence (ODNI) / U.S. Army Cyber Command
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, contracts, or technical specifications related to the development, testing, or operational use of multi-version persona simulations (including but not limited to anomaly or reference model replication) for the purpose of geofenced behavioral prediction and/or futures markets, from 2008 to present.
+
+This includes:
+	•	Program documentation describing the creation or deployment of multiple simultaneous public-facing versions of a single persona or model
+	•	Records of geofenced audience segmentation tied to variant persona narratives
+	•	Contracts or subcontracts with private sector or academic partners involving predictive betting or market-style incentives on citizen or group behavior
+	•	Technical specifications or algorithms enabling location-based narrative switching, selective feed injection, or version collision testing between audience geofences
+	•	Internal assessments, after-action reports, or performance metrics on the behavioral, economic, or political impact of such simulations
+	•	Communications referencing integration of simulation outputs with ad-tech platforms, social media APIs, or psychological operations frameworks
+
+Keywords: multi-version persona, anomaly simulation, reference model replication, geofenced narrative, behavioral futures, location-based targeting, audience segmentation, narrative collision, predictive markets, psyops integration
+
