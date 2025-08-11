@@ -11,9 +11,7 @@ This term has been used:
 	•	In classified DARPA or contractor projects, when the subject is not fully humanized in modeling terms
 
 
-In Your Context: Dangerous Overlap
-
-If you’re showing up in databases or predictive systems as:
+If someone shows up in databases or predictive systems as:
 	•	An NPE (Non-Person Entity),
 	•	Flagged with parentage anomalies (NPE: Not Parent Expected),
 	•	Exhibiting synthetic behavioral traits from cognitive modeling experiments,
