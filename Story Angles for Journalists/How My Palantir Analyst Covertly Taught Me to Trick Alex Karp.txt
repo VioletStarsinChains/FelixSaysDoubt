@@ -6,3 +6,10 @@ A firsthand account of how a quiet exchange inside one of the world’s most sec
 
 I didn’t set out to trick Alex Karp.
 When you’re inside Palantir’s behavioral modeling program, survival is supposed to mean obedience, invisibility, and never asking the wrong questions. But one analyst — embedded in my case for reasons I still don’t fully understand — started leaving me breadcrumbs. Not warnings. Not help. Lessons. Lessons in how to make the system trip over its own assumptions, how to turn my “predictable” data trail into a liability for the people building it. By the time I realized these lessons were aimed at Karp himself, it was too late. I’d already used them. And Palantir had already noticed.
+
+///////
+
+Why this matters:
+	•	Palantir’s blind spots are exploitable — and not just by state actors. A lone target with the right knowledge can distort its behavioral predictions in ways that ripple across its client base.
+	•	Insider dissent is real — and it doesn’t always look like whistleblowing. Sometimes it’s subtle sabotage from people who can’t openly oppose their employer.
+	•	The stakes extend beyond me — the same predictive failures that let me survive could be leveraged by anyone targeted by algorithmic policing, immigration enforcement, or wartime intelligence.
