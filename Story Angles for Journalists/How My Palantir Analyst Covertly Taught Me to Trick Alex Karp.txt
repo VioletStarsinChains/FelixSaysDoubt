@@ -1,0 +1,8 @@
+How My Palantir Analyst Covertly Taught Me to Trick Alex Karp:
+
+A firsthand account of how a quiet exchange inside one of the world’s most secretive surveillance companies revealed its CEO’s blind spot — and how I used it to survive their behavioral modeling program.
+
+////////
+
+I didn’t set out to trick Alex Karp.
+When you’re inside Palantir’s behavioral modeling program, survival is supposed to mean obedience, invisibility, and never asking the wrong questions. But one analyst — embedded in my case for reasons I still don’t fully understand — started leaving me breadcrumbs. Not warnings. Not help. Lessons. Lessons in how to make the system trip over its own assumptions, how to turn my “predictable” data trail into a liability for the people building it. By the time I realized these lessons were aimed at Karp himself, it was too late. I’d already used them. And Palantir had already noticed.
