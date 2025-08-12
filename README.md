@@ -30,7 +30,7 @@ Contents (subject to change at the whim of the universe):
 
 - Field Guides/ - Things I dont understand, but professionals might!
 
-- glossary/ — A lexicon of invented terms, symptoms, AI phrases, and tagged hallucinations
+- glossary/ — A lexicon of terms, invented and otherwise
 
 - felix/ — Files related to the Felix AI epistemology-based interface prototype
 
