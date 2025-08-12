@@ -1,0 +1,99 @@
+To: DARPA / DoE / CDC / OSTP / 
+
+Request:
+
+Requesting any and all documents, protocols, after-action reports, program evaluation summaries, or research closure statements from January 1, 1990 to present referencing endpoint criteria or saturation thresholds for human-subject research programs involving:
+•	Trust degradation (including terms such as loyalty inversion, engineered trust collapse, social network resilience testing, relationship stress inoculation)
+•	Health destabilization (including sustained inflammation induction, environmental stress testing, or controlled illness modeling)
+•	Resource control (including deprivation/abundance cycles, contingency-based resource access, or scarcity simulation)
+•	Sensory overload (including hypersensory exposure, synthetic sensory hallucinations, or environmental signal flooding)
+
+This request includes, but is not limited to:
+•	Documents outlining termination criteria, saturation points, or conditions under which a subject is considered to no longer provide novel or actionable data in the above domains.
+•	Internal communications, meeting notes, or interagency memos discussing diminishing returns or protocol exhaustion for specific individuals or demographic categories.
+•	Contractor deliverables or performance reviews referencing endpoint evaluation for trust degradation, health destabilization, resource control, or sensory overload trials.
+•	Statistical or modeling reports demonstrating changes in response amplitude over repeated exposures and the decision-making process for protocol retirement or variable pivoting.
+
+Keywords: protocol closure, endpoint criteria, saturation threshold, diminishing returns, trust degradation, loyalty inversion, engineered trust collapse, social network resilience, relationship stress inoculation, health destabilization, resource control, scarcity simulation, sensory overload, synthetic hallucination, environmental signal flooding, protocol retirement
+
+//////////
+
+To: DARPA / DoE / CDC / OSTP / FOIA Office
+
+Request:
+
+Requesting any and all contracts, subcontracts, deliverables, research proposals, internal communications, program evaluation reports, or project closure statements from January 1, 1990 to present involving the following contractors in connection with endpoint criteria or saturation thresholds for human-subject research programs:
+
+Contractors:
+	•	Electronic Data Systems (EDS)
+	•	Science Applications International Corporation (SAIC)
+	•	IBM
+	•	Northrop Grumman
+	•	Raytheon
+	•	SRA International
+	•	Battelle Memorial Institute
+	•	RAND Corporation
+	•	Westat
+	•	Pearson PLC / National Computer Systems (NCS)
+	•	Educational Testing Service (ETS)
+	•	MITRE Corporation
+	•	Johns Hopkins Applied Physics Laboratory
+
+Research domains to be searched:
+•	Trust degradation (including loyalty inversion, engineered trust collapse, social network resilience testing, relationship stress inoculation)
+•	Health destabilization (including sustained inflammation induction, environmental stress testing, or controlled illness modeling)
+•	Resource control (including deprivation/abundance cycles, contingency-based resource access, or scarcity simulation)
+•	Sensory overload (including hypersensory exposure, synthetic sensory hallucinations, or environmental signal flooding)
+
+This request includes, but is not limited to:
+•	Contractor-authored termination criteria, saturation point documentation, or conditions under which a subject is considered to no longer provide novel or actionable data.
+•	Contractor reports or deliverables noting diminishing returns or protocol exhaustion for specific individuals or demographic categories.
+•	Communications between contractors and agency personnel discussing protocol retirement, variable pivoting, or subject reclassification due to endpoint conditions.
+•	Statistical analyses or modeling outputs from contractors demonstrating decreased responsiveness over repeated exposures.
+
+Keywords: protocol closure, endpoint criteria, saturation threshold, diminishing returns, trust degradation, loyalty inversion, engineered trust collapse, social network resilience, relationship stress inoculation, health destabilization, resource control, scarcity simulation, sensory overload, synthetic hallucination, environmental signal flooding, protocol retirement, contractor deliverable
+
+/////////
+
+To: National Archives and Records Administration (NARA) / FOIA Office
+
+Request:
+
+Requesting access to any and all archived records, including contracts, subcontracts, program evaluation reports, research protocols, internal memoranda, and interagency coordination documents, from January 1, 1990 to December 31, 2010 related to endpoint criteria or saturation thresholds in human-subject research programs involving:
+	•	Trust degradation (loyalty inversion, engineered trust collapse, social network resilience testing, relationship stress inoculation)
+	•	Health destabilization (sustained inflammation induction, environmental stress testing, controlled illness modeling)
+	•	Resource control (deprivation/abundance cycles, contingency-based resource access, scarcity simulation)
+	•	Sensory overload (hypersensory exposure, synthetic sensory hallucinations, environmental signal flooding)
+
+This request includes records originating from, or referencing contracts or cooperative agreements with, the following agencies and contractors:
+
+Agencies:
+	•	U.S. Department of Education / Office of Educational Research and Improvement
+	•	Defense Advanced Research Projects Agency (DARPA)
+	•	Centers for Disease Control and Prevention (CDC)
+	•	National Science Foundation (NSF)
+	•	Office of Science and Technology Policy (OSTP)
+
+Contractors:
+	•	Electronic Data Systems (EDS)
+	•	Science Applications International Corporation (SAIC)
+	•	IBM
+	•	Northrop Grumman
+	•	Raytheon
+	•	SRA International
+	•	Battelle Memorial Institute
+	•	RAND Corporation
+	•	Westat
+	•	Pearson PLC / National Computer Systems (NCS)
+	•	Educational Testing Service (ETS)
+	•	MITRE Corporation
+	•	Johns Hopkins Applied Physics Laboratory
+
+This request should include, but is not limited to:
+	•	Protocol closure or termination criteria documents defining when a subject no longer yields novel or actionable data in any of the listed domains.
+	•	After-action reviews or final program evaluations documenting diminishing returns, variable pivoting, or protocol exhaustion.
+	•	Contractor deliverables or interagency memos noting specific cases of subject reclassification due to endpoint conditions.
+	•	Statistical summaries or longitudinal datasets archived with program materials showing decreasing responsiveness across repeated exposures.
+
+Keywords: protocol closure, endpoint criteria, saturation threshold, diminishing returns, trust degradation, loyalty inversion, engineered trust collapse, social network resilience, relationship stress inoculation, health destabilization, resource control, scarcity simulation, sensory overload, synthetic hallucination, environmental signal flooding, protocol retirement, archived contractor files
+
