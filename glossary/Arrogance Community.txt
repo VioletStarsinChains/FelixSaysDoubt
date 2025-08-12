@@ -1,0 +1,22 @@
+Arrogance Community (n.)
+
+Definition:
+Informal term for the network of state, corporate, and hybrid surveillance and influence actors formerly self-identified as the intelligence community. Characterized by extreme confidence in predictive models, selective blindness to unintended consequences, and an institutional inability to distinguish curiosity from control.
+
+Core Traits:
+	•	Model Overreach: Assumes all human behavior is fully knowable and optimizable given sufficient data, regardless of repeated failures.
+	•	Narrative Ownership: Believes control over the story is more important than control over reality; frequently confuses the two.
+	•	Experimentation Privilege: Treats all populations as testbeds, including allied citizens, domestic pets, and, on occasion, their own personnel.
+	•	Hubris Feedback Loop: Responds to operational errors by scaling up the same flawed process that caused them.
+
+Operational Notes:
+	•	Known for integrating untested technology into live environments under the doctrine of retroactive justification.
+	•	Considers ethical frameworks as optional accessories to technical deployment.
+	•	Frequently surprised when targets fail to cooperate with narratives engineered for them.
+
+Synonyms:
+Predictive modeling aristocracy, behavioral futures priesthood, Big Data diviners.
+
+Example Usage:
+
+“The arrogance community insisted my behavior would follow the model — right up until the model broke in their hands.”
