@@ -13,3 +13,39 @@ This includes:
 •	Cross-agency or contractor meetings where such strategies were discussed or evaluated for operational use
 
 Keywords: behavioral recruitment, romantic deprivation, personnel pipeline, social engineering, subculture targeting, occupational motivation, controlled scarcity, online radicalization, cyber talent acquisition, psychological operations
+
+////////////
+
+To: Department of Defense / DARPA / Department of Homeland Security / Office of the Director of National Intelligence
+
+Request:
+
+Requesting any and all documents, reports, internal communications, or contractor deliverables from January 1, 2005 to present regarding the deliberate creation, amplification, or maintenance of synthetic loneliness among targeted male populations in the United States, particularly as part of recruitment or retention strategies for intelligence, military, or security roles.
+
+This includes:
+	•	Studies or modeling of artificially induced social or romantic isolation as a tool for behavioral influence or occupational motivation
+	•	Research into controlling or limiting perceived access to women, dating opportunities, or intimate relationships to increase susceptibility to recruitment
+	•	Analyses of online communities or subcultures as reservoirs for recruitment following prolonged social isolation
+	•	Development of simulations, information environments, or content moderation strategies designed to alter perceived relationship availability
+	•	Cross-agency or contractor communications about exploiting loneliness metrics, social deprivation scores, or romantic scarcity indices for talent acquisition in surveillance or cybersecurity fields
+	•	Ethical, legal, or operational risk assessments related to induced isolation programs
+
+Keywords: synthetic loneliness, social deprivation, romantic scarcity, relationship access control, recruitment psychology, online subculture targeting, behavioral engineering, occupational motivation, loneliness metrics, social isolation programs
+
+//////////
+
+To: [Contractor FOIA contacts for] Booz Allen Hamilton / Palantir Technologies (via applicable federal contract records) / SAIC / Leidos / MITRE Corporation / RAND Corporation
+
+Request:
+
+Requesting any and all documents, proposals, internal communications, or deliverables from January 1, 2005 to present concerning the deliberate creation, amplification, or maintenance of synthetic loneliness among targeted male populations in the United States, particularly in connection with recruitment or retention strategies for intelligence, military, cybersecurity, or surveillance-related roles.
+
+This includes:
+	•	Contractor research into artificially induced romantic, sexual, or social deprivation as a motivational tool for workforce recruitment or stability
+	•	Analyses of “relationship scarcity” as a variable in predictive modeling for career choice or occupational compliance
+	•	Design, testing, or deployment of content moderation, algorithmic filtering, or information environment shaping to influence perceived access to relationships
+	•	Studies of online subcultures as recruitment pools following prolonged social or romantic isolation
+	•	Reports or presentations to government clients on the behavioral effects of induced loneliness and its applicability to recruitment or retention
+	•	Internal ethics reviews, legal opinions, or communications regarding such programs
+
+Keywords: synthetic loneliness, social deprivation, romantic scarcity, relationship access control, recruitment psychology, online subculture targeting, behavioral engineering, occupational motivation, loneliness metrics, social isolation programs
