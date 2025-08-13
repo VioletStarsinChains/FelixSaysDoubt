@@ -1,9 +1,11 @@
 # Cognitive Jamming — Working Definition
 
 **Cognitive Jamming** is the deliberate disruption of a person’s ability to think clearly, concentrate, or complete tasks by using timed sensory interference.  
+
 This interference can be visual, auditory, tactile, or a mix — but it’s designed to hit *right when* you’re focusing, forcing your brain to restart the process over and over.
 
 Instead of guiding you into a specific mental state (like music that helps you focus), cognitive jamming keeps your mental state unstable.  
+
 It’s like trying to read while someone keeps flicking the light switch or tapping your shoulder at random — only the “taps” can be more subtle and harder to prove.
 
 ## Common Signs
@@ -18,4 +20,5 @@ In extreme cases, it can erode your confidence in your own mind.
 
 ## Difference from Normal Distraction
 Regular distractions are side-effects of a noisy or busy environment.  
+
 Cognitive jamming is patterned, timed, and targeted — the disruption follows *you*, not the space.
