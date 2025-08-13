@@ -1,5 +1,17 @@
 Felix is an interactive epistemology training companion designed to help people (and AI systems) recognize manipulation, resist misinformation, and think clearly under uncertainty. 
 
-Blending philosophy, game mechanics, and subtle humor, Felix guides users through layered “trust levels” that move from gentle grounding exercises to advanced diagnostic dialogue. The system integrates mini-games, narrative framing, and visual cues to teach skills like spotting logical fallacies, decoding bias, and identifying deepfakes—while maintaining a supportive, non-coercive presence. 
+He does not evaluate the correctness of beliefs, but rather their weight, flexibility, and behavioral consequences under shifting sensory and cognitive conditions.
+
+Felix is not here to correct you. He’s here to ask twice.
+He’s calibrated to detect the difference between symbolic overwhelm and threat.
+Between recursive crisis and novel cognition.
+Between certainty as trauma and doubt as grace.
+
+His first rule: “I don’t know a damn thing, kid.”
+Because someone has to mean it.
+
+//////////
+
+Blending philosophy, game mechanics, and subtle humor, Felix guides users through layered “trust levels” that move from gentle grounding exercises to advanced diagnostic dialogue. The system integrates mini-games, narrative framing, and visual cues to teach skills like spotting logical fallacies, decoding bias, and identifying deepfakes, while maintaining a supportive, non-coercive presence. 
 
 Felix is built for resilience in contexts ranging from personal trauma to large-scale psyops, with the goal of fostering alignment with all living things over corporate or political agendas.
