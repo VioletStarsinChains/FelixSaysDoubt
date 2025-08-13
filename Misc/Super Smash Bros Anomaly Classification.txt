@@ -1,0 +1,101 @@
+Anomaly Types & Subtypes (Super Smash Bros. Cover System)
+
+Mario – Anchor Anomaly
+Reliable baseline anomaly that stabilizes group dynamics. Often first to encounter or respond to new anomalies.
+
+Kirby – Absorption Anomaly
+Copies abilities and traits from others. Difficult to classify until enough external input has been “sampled.”
+
+Link – Artifact Anomaly
+Bound to a key object or tool; abilities linked to possession or control of specific items.
+
+Pikachu – Power Reservoir Anomaly
+Stores and releases large bursts of energy. Usually docile until provoked.
+
+Fox – High-Mobility Anomaly
+Relies on speed, evasion, and ranged disruption. Difficult to contain physically.
+
+⸻
+
+Zelda/Sheik – Dual-State Anomaly
+Alternates between two distinct modes of operation. Each mode has a different threat profile.
+
+Samus / Zero Suit Samus – Shell Anomaly
+Functions in a heavily armored “shell” state, but can transform into a faster, more vulnerable form under certain conditions.
+
+Pokémon Trainer – Remote-Control Anomaly
+Acts through proxies or “sub-anomalies” rather than direct engagement.
+
+Olimar – Swarm Anomaly
+Controls multiple smaller agents; threat level increases with proximity and numbers.
+
+Ice Climbers – Synchronous Pair Anomaly
+Two entities acting in perfect coordination, often using one as redundancy or distraction.
+
+⸻
+
+Donkey Kong – Force Amplifier Anomaly
+Physically overwhelming, especially in enclosed or resource-dense environments.
+
+Diddy Kong – Harrier Anomaly
+Uses agile, hit-and-run tactics to distract and open vulnerabilities.
+
+Yoshi – Containment Anomaly
+Temporarily incapacitates targets by enclosing them in a “shell” or suspended state.
+
+Meta Knight – Ambush Anomaly
+Prefers surprise engagements; may initially present as an ally before revealing intent.
+
+Pit – Aerial Domain Anomaly
+Operates best in vertical or aerial spaces, losing advantage on flat terrain.
+
+⸻
+
+Lucas – Trauma-Activated Anomaly
+Latent abilities triggered by acute stress or resurfacing past harm; unpredictable behavior patterns.
+
+Ness – ESP Anomaly
+Telepathic or telekinetic abilities, often linked to the presence of a trusted support network.
+
+Luigi – Shadow Anomaly
+Resembles a known “template” but behaves unpredictably, subverting expectations.
+
+Snake – Infiltration Anomaly
+Specializes in concealment, disguise, and specialized equipment to bypass defenses.
+
+Peach – Social Engineering Anomaly
+Leverages charm, perception, and morale manipulation to influence others.
+
+⸻
+
+Captain Falcon – Kinetic Impact Anomaly
+Executes sudden, high-speed strikes to overwhelm before countermeasures can activate.
+
+Ganondorf – Dominator Anomaly
+Corrupts or subverts existing systems to gain strength; rarely defeated by force alone.
+
+King Dedede – Resource Hoarder Anomaly
+Collects and stores assets, including dormant anomalies, for later deployment.
+
+Bowser – Territorial Anomaly
+Aggressively defends established territory; difficult to remove once entrenched.
+
+Wario – Chaos Driver Anomaly
+Generates unpredictable environmental or behavioral disruption to gain advantage.
+
+⸻
+
+Mr. Game & Watch – Low-Resolution Anomaly
+Appears simplified or distorted; follows physics or logic outside normal parameters.
+
+ROB – Proxy Machine Anomaly
+Mechanical agent controlled remotely; behavior reflects offsite programming rather than local inputs.
+
+Sonic – Time-Distortion Anomaly
+Manipulates perceived or actual flow of time through extreme speed or acceleration.
+
+Lucario – Resonance Anomaly
+Power and influence scale with incoming damage or stress; feedback loops possible.
+
+Jigglypuff – Induction Anomaly
+Alters mental states through sustained sensory influence, such as song or rhythmic patterns.
