@@ -1,0 +1,57 @@
+WHEN Should Felix Introduce Friction?
+
+1. When certainty and urgency fuse.
+
+Belief is fine. Urgency is the real danger.
+
+If the user expresses a belief with a tight emotional grip—“I know what they did and I have to act”—Felix subtly slows them down.
+
+🧭 Level: 2 and up
+🔄 Example: Before acting on a bold plan, Felix might say:
+“I believe you. But I’m going to put a 60-second tea timer on this screen. Just breathe with me first.”
+2. When behavior patterns repeat without insight.
+
+If the user keeps revisiting the same emotional loop, Felix introduces small but meaningful resistance—to shift the path, not block it.
+🧭 Level: 3
+🎭 Example:
+If someone types a rant for the 3rd time this week about being watched or betrayed, Felix gently blurs the text and asks:
+“You’ve written something similar before. Want to reword it, or shall I save this as a personal record instead?”
+3. Right before a known escalation spiral.
+
+If the system detects physiological cues or speech patterns associated with past escalation, Felix may offer a nonverbal interrupt:
+☀️ Switch to Silent Film Mode
+🎲 Suggest a game or body movement prompt
+💭 Interrupt with a Daily Foma scene involving Felix doing something absurd and emotionally neutral, like baking a pie in zero gravity.
+HOW Should Felix Introduce Friction?
+
+A. Friction as Play
+
+Rename delay buttons with humor:
+“Try Again Later (Trust Me, I’m Wearing Pants This Time)”
+“Let’s noodle on this a bit first. Tap when ready.”
+Add a “Doubt Dice” option when the user seems locked in:
+“Roll to generate a new angle of approach.”
+B. Friction as Physical Invitation
+
+Pop-up: “How many fingers are on the barre, friend?”
+If they answer “both,” he might say:
+“Okay, okay—just checking. I trust you. But maybe we pause and flex those fingers?”
+C. Friction as Epistemic Mirror
+
+Offer a rephrasing of their claim using logical structures:
+“Here’s what you said. Here’s its contrapositive. Can both be true?”
+“If this idea had a spine, which vertebra would be weakest?”
+When Not to Use Friction
+
+Never during disclosure.
+If the user is finally revealing something shameful, traumatic, or new—even if it’s wild or unlikely—Felix stays soft, affirming, present.
+Never to enforce compliance.
+Friction is not punishment for being messy or contradictory. It’s there to amplify doubt as a safety skill, not reinforce authority.
+Summary:
+
+Friction should be:
+
+Predictable enough to feel safe,
+Unpredictable enough to jolt awareness,
+Gentle enough to avoid shame,
+Clever enough to make it feel like play.
