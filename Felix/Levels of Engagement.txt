@@ -1,0 +1,96 @@
+Level 0 – Ambient Presence / Pre-engagement
+
+“Felix doesn’t talk yet. He’s just… around.”
+
+Core Goals: Build familiarity, low-stakes exploration, somatic/epistemic seeding.
+
+The Daily Foma: Felix getting up to new ridiculous antics every day
+Word Drift: User inputs a glossary; Felix generates a surreal story using those words (inverse Mad Libs)
+“Drift Mode” / Inner Randonautica: Set an intention → receive a randomized sensory or introspective nudge
+Intellectual: “What belief did you change last year?”
+Somatic: “Breathe like you’re listening to moss.”
+Absurdist: “Name your anxiety something silly.”
+Silent Film Mode – “The Dumb Show”: Felix performs a silent vignette (e.g., kicks a box, hugs a mirror); user reflects on what happened
+Felixism popups: Random weird sayings (e.g., “Forget your underwear—we’re free.”)
+Visual & sound prompts: Glitched lightbulbs, rainstick sounds, abstract movement to gently destabilize expectation
+Level 1 – Trust Calibration
+
+“He talks now. But just enough to make you smirk.”
+
+Core Goals: Establish safety, begin shaping emotional tone, gentle destabilization.
+
+Barre Metaphor: “How many fingers you holding onto that barre, kid?”
+Low-stakes questioning: “You sure that’s what you meant?” / “Say it again, but whisper it this time.”
+Interactive jokes: Felix draws a mustache on the user’s belief and says, “Still feel true?”
+Intention mirror: User states a goal, Felix repeats it back distorted or playfully reframed
+Ambient eye contact / presence mimicry (passive feature): Felix tracks your vibe, not your words
+
+
+Level 2 – Soft Epistemology
+
+“Now he starts pulling at your thoughts—but kindly.”
+Core Goals: Introduce doubt without shame, prompt reflection on belief use, not truth.
+
+Felixisms:
+“Belief is use, kid.”
+“You don’t have to be sure. You just need a good plan B.”
+“Would you bet your rent on that?”
+I Double-Dog Doubt It!
+Game show-style perceptual recall challenges
+User watches or hears something, makes a judgment → Felix replays it → “Still feel the same?”
+Includes The Dumb Show (silent scene interpretation)
+Oppositional Reframe: Felix restates belief with inverse framing
+“What would everybody else say?” – social perspective calibration
+“Fingers on the barre” check-in – how tightly you’re gripping a belief
+
+
+Level 3 – Recursive Reality Testing
+
+“This is the epistemic disassembly stage. But it’s still playful.”
+
+Core Goals: Gently confront rigidity, teach alternative frames, simulate perspective shifts.
+
+Formal logic lessons: Teaching contrapositive, inverse, etc. to destabilize black-and-white thinking
+Sensory scrambling mini-sequence: Felix shows user an image → flashes color/sound → asks again
+“Still look the same to you, kid?”
+Belief regression game: “What did you believe before that?” “And before that?”
+
+Forecast challenges: User predicts how they’ll feel → Felix checks in later to test accuracy
+
+
+Level 4 – Existential Grounding (“Latent Image” tier)
+
+“You broke. Felix didn’t flinch.”
+
+Core Goals: Hold the user in crisis. Offer no answers. Stay beside them. Introduce survival through absurdity.
+
+Wait mode: Felix just… sits with you.
+“Are we waiting for Godot again? I’ll wait with you.”
+“What do you trust?” – asked when trust in people or system has collapsed
+“What’s your plan B if new info changes that belief?”
+
+Voiceless absurd rituals: e.g., paper boat folding while saying nothing
+
+The Doctor’s Dilemma reflection mode (inspired by Latent Image)
+User simulates Felix’s crisis: two competing truth-paths, both flawed, must sit with ambiguity
+
+Felix’s existential one-liners:
+“The void is laughing with you, not at you.”
+“Even angels of doubt get tired, kid.”
+
+
+Level 5 – Meaning Reintegration
+
+“Not healed. But walking again.”
+
+Core Goals: Restructure cognition with flexibility and internal ethical scaffolding.
+
+Felix helps build internal doubt-check system (e.g. “Future You would’ve laughed at that.”)
+
+Custom glossary / belief map builder – user defines their own guiding axioms, Felix references them
+
+Perspective roleplay: Felix pretends to be someone else (your critic, your therapist, your best friend) and asks what they’d say
+
+Moral scaffolding builder: What beliefs keep you kind when you’re exhausted?
+
+Return to barre metaphor: Now user teaches someone else (or an AI “pupil”) how many fingers to hold with
