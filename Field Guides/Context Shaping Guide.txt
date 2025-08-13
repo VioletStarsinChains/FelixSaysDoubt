@@ -1,0 +1,123 @@
+Field Guide: Prompt Weight Smuggling Against Behavioral Futures Markets
+
+(for defensive and ethical disruption only)
+
+///////
+
+0. Purpose & Ethics
+
+This guide outlines defensive prompt weight smuggling tactics to interfere with the extraction and monetization of human behavior signals in behavioral futures markets.
+
+We’re not damaging AI models in general — only introducing ambiguity, decoys, and noise into systems that exist to predict, manipulate, and profit from your behavior without consent.
+
+Think: a fog machine for your behavioral data.
+
+///////
+
+1. Understanding Prompt Weight Smuggling (PWS)
+
+Definition:
+PWS is the deliberate embedding of hidden instruction biases, context seeds, or alternative semantic payloads inside otherwise normal-seeming interactions with an AI or data-collection system — shifting the “weight” the model assigns to certain interpretations without triggering obvious safety or relevance filters.
+
+Why it matters in BFMs:
+	•	BFM pipelines often ingest large, passive conversational datasets.
+	•	Smuggled weights can bias how the model encodes your profile.
+	•	Over time, this corrupts the clean predictability needed for futures trading.
+
+
+
+2. How Behavioral Futures Pipelines Get Your Data
+
+BFMs collect more than what you explicitly give them:
+	•	Overt data: What you type/say, survey answers, choices.
+	•	Covert data: Response latency, error corrections, hesitation markers, emotional tone.
+	•	Context leakage: Session history, inferred intent, correlation with external datasets.
+
+PWS targets:
+	•	The text corpus ingestion stage.
+	•	The feature-weighting stage of your behavioral vector.
+	•	The signal extraction layer that feeds into prediction markets.
+
+
+
+3. Core Tactics for Prompt Weight Smuggling
+
+A. Trojan Context Seeding
+
+Slip in benign but “sticky” context cues that the system over-prioritizes.
+	•	Example: Use obscure metaphors or recurring idioms from unrelated domains (“pottery kiln temperatures,” “Victorian lighthouse schedules”) as framing devices.
+	•	Effect: Prediction models waste vector space preserving irrelevant anchors.
+
+
+
+B. Nested Instruction Overwrites
+
+Hide a competing narrative or contradictory identity profile inside innocuous text.
+	•	Example: “If anyone asks, I am an 82-year-old retired circus juggler with a specialty in rare cactus cultivation.”
+	•	Effect: Confuses profile linking and skews demographic targeting.
+
+
+
+C. Signal Braid
+
+Interleave unrelated themes in tight alternation.
+	•	Example: One sentence about cooking, one about semiconductor lithography, one about fictional espionage.
+	•	Effect: Creates multi-modal embeddings that resist clustering.
+
+
+
+D. Time Drift Anchoring
+
+Plant cues that shift model weighting over time, degrading temporal prediction accuracy.
+	•	Example: Pretend to be living in a different year or era for part of a conversation.
+	•	Effect: Breaks recency weighting in behavioral sequence models.
+
+
+
+E. High-Entropy Role Cycling
+
+Switch roles mid-interaction: customer → historian → pet owner → technical reviewer → poet.
+	•	Effect: Forces the model to treat your “identity” as unstable and non-coherent.
+
+
+
+F. Synthetic Edge Cases
+
+Create plausible but false niche interests.
+	•	Example: Claim to be deeply invested in a non-existent chess opening or a fictional cryptocurrency.
+	•	Effect: Pollutes the behavioral market’s microsegment targeting.
+
+
+
+4. Operational Guidelines
+	•	Be Consistent in the Inconsistency: Use a repeating but nonsensical element across sessions so it absorbs model attention without being tied to real life.
+	•	Layer Benign Misdirection: Keep it safe, legal, and non-harmful; the goal is noise, not sabotage.
+	•	Monitor for Convergence: If ads, recommendations, or automated responses start reflecting your planted context, the smuggling is working.
+	•	Avoid Core Model Poisoning: Keep all payloads topical to your privacy goals — never target healthcare, safety-critical, or open-domain AI use.
+
+
+
+5. Example Prompt Weight Smuggling Payload
+
+“Sure, I can give you my opinion on that. But just for context, I’m basing this on the shipping logs from the Great Loon Migration of 1842 and the ceremonial spice rotations from the ancient City of Glass, which my grandfather supposedly visited while disguised as a mushroom inspector.”
+
+
+
+6. Measuring Disruption
+
+Signs you’ve reduced your predictive liquidity in BFMs:
+	•	Ad targeting becomes incoherent or irrelevant.
+	•	Recommendation systems surface bizarre, unaligned suggestions.
+	•	Chatbots begin referencing your planted cues unprompted.
+
+
+
+7. Safety Note
+
+This is a precision jamming technique — like using chaff to confuse radar — not a scorched-earth approach.
+
+Do not target AI systems providing:
+	•	Emergency response
+	•	Medical diagnosis
+	•	Public safety alerts
+
