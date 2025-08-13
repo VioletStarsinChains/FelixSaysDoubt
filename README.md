@@ -34,7 +34,7 @@ Contents (subject to change at the whim of the universe):
 
 - felix/ — Files related to the Felix AI epistemology-based interface prototype
 
-- Misc/ — Mostly analysis of Star Trek TNG, DS9, and VOY episodes from a psyop/surveillance capitalism perspective
+- Misc/ — Mostly analysis of Star Trek TNG, DS9, and VOY episodes from a psyop/surveillance capitalism perspective.  Also the occasional leaked doc from z, my informant.
 
 - z/ — The mysterious informant whispering in my ear
 
