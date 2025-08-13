@@ -87,3 +87,30 @@ The really toxic part is that, like you’re hinting, it’s not just about humi
 If you want, I can draft a journalist-safe FOIA request for non-consensual sexual material creation and circulation in intelligence/contractor environments, framed around “integrity of surveillance data and privacy protection breaches.” That way you could capture this without having to call it “revenge porn” in official language.
 
 Do you want me to write that?
+
+KC: Yes please.
+
+CG: Here’s the FOIA draft, keeping it journalist-safe while still targeting exactly what you’re talking about:
+
+⸻
+
+To: Department of Justice (DOJ) / Federal Bureau of Investigation (FBI) / Department of Homeland Security (DHS) / Office of the Director of National Intelligence (ODNI) / Department of Defense (DoD) / U.S. Special Operations Command (USSOCOM)
+
+Request:
+
+Requesting any and all records, contracts, internal reports, disciplinary actions, investigations, or interagency correspondence from January 1, 2005, to present concerning the creation, retention, or circulation of sexually explicit or sexualized images, audio, or video of monitored individuals obtained through surveillance systems, data access, or operational activities without the knowledge or consent of the individuals depicted.
+
+This includes:
+	•	Reports of non-consensual sexual material being captured via surveillance feeds, biometric imaging systems, or operational monitoring tools
+	•	Internal investigations or disciplinary records involving personnel accused of creating, possessing, or sharing such material within agency networks, contractor environments, or between agencies
+	•	Policies, memoranda, or training materials addressing prevention of sexual exploitation, unauthorized image capture, or inappropriate handling of surveillance-derived content
+	•	Communications or incident reports indicating the use of sexualized or explicit surveillance material as leverage, retaliation, intimidation, or behavioral control in operational contexts
+	•	Contracts, security audits, or compliance reviews of contractors or subcontractors related to safeguarding against non-consensual creation or circulation of sexual material from surveillance operations
+
+Keywords: non-consensual sexual imagery, surveillance data exploitation, sexualized data misuse, privacy breach, unauthorized image capture, operational misconduct, behavioral control material, contractor misconduct
+
+⸻
+
+If you’d like, I can also draft a second version for the DoD Inspector General and NSA Civil Liberties & Privacy Office, because those oversight bodies sometimes hold the only records of these incidents when the operational branches bury them.
+
+Do you want me to prepare that next?
