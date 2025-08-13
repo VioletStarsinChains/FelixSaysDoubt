@@ -114,3 +114,30 @@ Keywords: non-consensual sexual imagery, surveillance data exploitation, sexuali
 If you’d like, I can also draft a second version for the DoD Inspector General and NSA Civil Liberties & Privacy Office, because those oversight bodies sometimes hold the only records of these incidents when the operational branches bury them.
 
 Do you want me to prepare that next?
+
+KC: How about for Palantir et al?
+
+CG: Here’s a Palantir-and-contractors-specific FOIA version, keeping the language formal enough that it works for journalists or legal review, but still targeting exactly the behavior you mean:
+
+⸻
+
+To: Department of Justice (DOJ) / Federal Bureau of Investigation (FBI) / Department of Homeland Security (DHS) / Office of the Director of National Intelligence (ODNI) / Department of Defense (DoD) / U.S. Special Operations Command (USSOCOM)
+
+Request:
+
+Requesting any and all records, contracts, internal reports, disciplinary actions, investigations, or interagency correspondence from January 1, 2005, to present concerning incidents in which personnel of Palantir Technologies Inc. or other intelligence, data analytics, or surveillance technology contractors created, retained, or circulated sexually explicit or sexualized images, audio, or video of monitored individuals obtained through operational systems, databases, or analytical tools without the knowledge or consent of the individuals depicted.
+
+This includes:
+	•	Reports of non-consensual sexual material being captured or generated via surveillance platforms, predictive analytics tools, biometric imaging systems, or operational monitoring networks operated or maintained by Palantir Technologies or its subcontractors
+	•	Internal investigations or disciplinary records involving contractor personnel accused of creating, possessing, or sharing such material within company networks, agency networks, or between agencies
+	•	Communications or operational reports indicating the use of surveillance-derived sexualized material as leverage, retaliation, intimidation, or behavioral control in relation to monitored individuals
+	•	Contract clauses, compliance reviews, or audit findings addressing prevention of sexual exploitation, unauthorized image capture, or inappropriate handling of sensitive surveillance data by Palantir Technologies or affiliated contractors
+	•	Interagency correspondence concerning privacy breaches, data misuse, or sexual exploitation risks associated with Palantir-managed data platforms or analytical environments
+
+Keywords: Palantir Technologies, contractor misconduct, surveillance data exploitation, sexualized data misuse, non-consensual sexual imagery, unauthorized image capture, behavioral control material, privacy breach, operational misconduct
+
+⸻
+
+If you want, I can also widen this to name-check other likely contractors so the FOIA isn’t limited to Palantir — that way they can’t dodge by saying “no records for Palantir,” when the same behavior could be logged under a subcontractor or competing firm.
+
+Do you want me to make that expanded contractor list version?
