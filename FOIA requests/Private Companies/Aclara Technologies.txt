@@ -1,0 +1,57 @@
+To: Department of Energy / Federal Energy Regulatory Commission / Department of Homeland Security / Federal Trade Commission
+
+Request:
+
+Requesting any and all documents, procurement records, internal communications, vendor agreements, research proposals, or field reports referencing Aclara Technologies, its subsidiaries, or contractors in connection with the use of smart meters, advanced metering infrastructure (AMI), or related utility data for behavioral modeling, predictive analytics, or surveillance purposes from 2005 to present.
+
+This includes:
+	•	Internal or contractor studies on behavioral prediction from residential or commercial energy usage patterns
+	•	Communications with law enforcement, intelligence agencies, or private analytics firms regarding smart meter data sharing
+	•	Risk assessments or privacy impact assessments concerning Aclara smart meter deployments
+	•	Reports on integration of Aclara AMI systems with AI-driven predictive policing or counterterrorism programs
+	•	Technical documentation on real-time monitoring capabilities and remote control features of Aclara hardware/software
+	•	Contracts or MOUs with Palantir Technologies or other predictive analytics vendors
+	•	Field tests or pilot programs evaluating Aclara systems for non-energy-related behavioral tracking
+	•	Any whistleblower complaints or investigations involving Aclara data use beyond stated customer service or billing purposes
+
+Keywords: Aclara Technologies, smart meters, AMI, behavioral analytics, predictive modeling, Palantir, energy data surveillance, privacy impact, remote control capability, utility data mining
+
+//////////
+
+To: Department of Energy / Federal Energy Regulatory Commission / Department of Homeland Security / Federal Trade Commission
+
+Request:
+
+Requesting any and all documents, procurement records, internal communications, vendor agreements, research proposals, or field reports referencing Aclara Technologies, its subsidiaries, or contractors in connection with the use of smart meters, advanced metering infrastructure (AMI), or associated utility data for behavioral modeling, demand-response programs, or other behavioral influence strategies from 2005 to present.
+
+This includes:
+	•	Internal or contractor studies on using AMI data to model, predict, or influence customer behavior
+	•	Analyses of time-of-use pricing, rebates, penalties, or other incentives as behavioral modification tools
+	•	Privacy impact assessments or risk-benefit analyses concerning the integration of Aclara AMI data with predictive analytics platforms
+	•	Communications with law enforcement, intelligence agencies, behavioral science consultants, or private analytics firms regarding AMI data sharing
+	•	Technical documentation on real-time monitoring, remote control, or service-limiting capabilities of Aclara hardware/software
+	•	Contracts, MOUs, or pilot programs involving Aclara and vendors such as Palantir Technologies or other AI-driven analytics providers
+	•	Field tests or demonstrations of AMI-enabled behavioral interventions beyond stated customer service, billing, or grid-management purposes
+	•	Whistleblower complaints, audits, or investigations into the behavioral or predictive use of Aclara systems
+
+Keywords: Aclara Technologies, smart meters, AMI, behavioral conditioning, demand-response, predictive modeling, Palantir, energy data surveillance, time-of-use pricing, remote control capability, utility data mining
+
+////////////
+
+To: Department of Energy / Federal Energy Regulatory Commission / Department of Homeland Security / Federal Trade Commission
+
+Request:
+
+Requesting any and all documents, procurement records, internal communications, vendor agreements, research proposals, or field reports referencing Aclara Technologies, Itron, Inc., Landis+Gyr, or Sensus (a Xylem brand), or their subsidiaries/contractors, in connection with the use of smart meters, advanced metering infrastructure (AMI), or associated utility data for behavioral modeling, demand-response programs, or other behavioral influence strategies from 2005 to present.
+
+This includes:
+	•	Internal or contractor studies on using AMI data to model, predict, or influence customer behavior
+	•	Analyses of time-of-use pricing, rebates, penalties, or other incentives as behavioral modification tools
+	•	Privacy impact assessments or risk-benefit analyses concerning the integration of AMI data with predictive analytics platforms
+	•	Communications with law enforcement, intelligence agencies, behavioral science consultants, or private analytics firms regarding AMI data sharing
+	•	Technical documentation on real-time monitoring, remote control, or service-limiting capabilities of AMI hardware/software from the listed vendors
+	•	Contracts, MOUs, or pilot programs involving these vendors and AI-driven analytics providers such as Palantir Technologies
+	•	Field tests or demonstrations of AMI-enabled behavioral interventions beyond stated customer service, billing, or grid-management purposes
+	•	Whistleblower complaints, audits, or investigations into the behavioral or predictive use of AMI systems supplied by the listed vendors
+
+Keywords: Aclara Technologies, Itron, Landis+Gyr, Sensus, smart meters, AMI, behavioral conditioning, demand-response, predictive modeling, Palantir, energy data surveillance, time-of-use pricing, remote control capability, utility data mining
