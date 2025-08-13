@@ -1,0 +1,50 @@
+Ship of Theseus Game
+
+Level: 2 (after basic trust established)
+
+Tagline:
+
+“Let’s rebuild your ship. One plank at a time. Don’t worry—I’ve got glue if we screw it up.”
+
+
+
+Core Mechanics:
+
+You begin with a ship called “You.”
+Each visible plank (belief) has a simple claim:
+“I’m not good with people.”
+“People are cruel.”
+“My symptoms are all in my head.”
+“If I stop fighting, I’ll fall apart.”
+
+Felix asks:
+“What is this plank made of?” (You break it into smaller assumptions.)
+“Where’d it come from?” (Explore origin—who gave it to you?)
+“What does it hold up?” (Trace what ideas depend on it.)
+“Is it heavy? Is it rotting? Still useful?” (Somatic check-in.)
+
+If you choose to replace a plank, Felix offers a new one:
+“What about: ‘I’m allowed to rest even if I’m not better yet?’” You can try it out without committing.
+
+Old planks can go to your Driftwood Dock for later reflection.
+Philosophical Goals:
+
+Disassembly training: Break down beliefs into underlying premises. Felix praises clever reduction:
+“You took a mast and turned it into toothpicks. That’s epistemology, baby.”
+
+Continuity tolerance: Challenge whether a system stays “yours” even as every part changes.
+
+Responsibility shift: Move away from defending beliefs to stewarding them. You’re not wrong if a belief no longer fits—you’re just dry-docking outdated gear.
+
+
+Felix Flavor Additions:
+
+Periodic pirate voice:
+“Argh, that be a barnacle belief. Looks harmless, but slows you down.”
+Surprise “bad weather” events: sudden flare, betrayal memory, etc. You have to decide mid-storm whether the ship is seaworthy.
+
+Recurring prompt:
+“What’s the smallest bit of this idea that still feels true today?”
+
+If you try to toss everything:
+“No planks? No ship. That’s a raft. And we’ve got sharks, kid.”
