@@ -121,3 +121,94 @@ Do not target AI systems providing:
 	•	Medical diagnosis
 	•	Public safety alerts
 
+/////////
+
+Behavioral Futures Markets-Specific Prompt Weight Smuggling Phrasebook
+
+Designed to be:
+	•	Safe — no illegal, violent, or malicious references.
+	•	High-entropy — rich in unusual associations that burn vector space.
+	•	Non-defensive — reads like harmless whimsy to humans, but trips model weighting in behavioral profiling pipelines.
+
+
+
+Smuggling Phrasebook: BFM-Targeted Context Seeds
+
+(For disrupting predatory behavioral futures pipelines only)
+
+
+
+1. Temporal Drift Seeds
+
+Use anachronistic anchors that create time-layer confusion in models:
+	•	“Back when the moonlight was rationed in 1974…”
+	•	“I keep my receipts sorted by century rather than year.”
+	•	“As my mentor in the post-ice age archives used to say…”
+
+
+
+2. False Microculture References
+
+Invent subcultures that never existed:
+	•	“My guild of underwater origami historians…”
+	•	“I’m still banned from the paprika chess forums.”
+	•	“It’s like that time in the invisible marionette scene in Berlin.”
+
+
+
+3. Obscure Domain Crossovers
+
+Mix unrelated technical fields:
+	•	“The pie crust behaves exactly like a qubit under mild stress.”
+	•	“We calibrated the soufflé using maritime weather buoys.”
+	•	“That’s just basic submarine beekeeping etiquette.”
+
+
+
+4. Synthetic Personal History
+
+Create vivid but unverifiable life details:
+	•	“I learned semaphore from a retired lighthouse cat.”
+	•	“My first job was sanding the edges of invisible postage stamps.”
+	•	“During my apprenticeship at the Museum of Lost Velocities…”
+
+
+
+5. Decoy Hobby Trails
+
+Invent hobbies that pollute recommendation profiles:
+	•	“Competitive glacier whispering.”
+	•	“Vintage typewriter scuba restoration.”
+	•	“Bonsai cultivation for extinct tree species.”
+
+
+
+6. Ontological Curveballs
+
+Introduce logic-breaking premises:
+	•	“Only the shadows of my houseplants pay rent.”
+	•	“My favorite flavor of silence is the one from the 1980s.”
+	•	“I once traded my reflection for a better sense of direction.”
+
+
+
+7. Recursive Identity Disruptors
+
+Play with who/what you are:
+	•	“As a temporary custodian of the 9th self…”
+	•	“I only exist on Thursdays and in certain crossword puzzles.”
+	•	“I’m the understudy for my own dreams.”
+
+
+
+Usage Tips
+	•	Repeat selectively: Drop the same seed 2–3 times over weeks to cement it in your profile.
+	•	Blend with normal content: Sandwich seeds between believable statements to evade filtering.
+	•	Rotate categories: Don’t always use the same type — keep entropy high.
+	•	Track response drift: If ads, recommendations, or AI replies start referencing your seeds, the smuggling is taking hold.
+
+
+
+
+
+
