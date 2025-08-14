@@ -51,3 +51,22 @@ This includes:
 	•	Any reports, presentations, or data integrations involving Applecrest-origin produce in behavioral futures market analysis, geofenced marketing campaigns, or post-harvest intervention studies
 
 Keywords: Applecrest Orchards, Hugo MN, Honeycrisp apple, cultivar patent, DNA fingerprinting, orchard registry, post-harvest coating, edible coating, anti-browning, antimicrobial treatment, geofenced supply chain, behavioral modeling, Palantir Technologies
+
+///////
+
+To: United States Department of Agriculture (USDA) / Agricultural Marketing Service (AMS) / Animal and Plant Health Inspection Service (APHIS) / Food and Drug Administration (FDA) / Department of Homeland Security (DHS) / Cybersecurity and Infrastructure Security Agency (CISA)
+
+Request:
+
+Requesting any and all records, contracts, communications, inspection reports, laboratory analyses, or investigative files from January 1, 2005 to present referencing Applecrest Orchards, located at 7306 24th Ave N, Hugo, Minnesota 55038, with specific focus on skin-applied coatings and treatments for Honeycrisp apples.
+
+This includes:
+	•	Ingredient lists and Safety Data Sheets (SDS) for all edible coatings, waxes, anti-browning agents, antimicrobials, fungicides, or shelf-life extenders applied to Honeycrisp apples grown at Applecrest Orchards
+	•	Batch application logs, including date/time, equipment used, lot numbers, concentrations, and operator initials for each coating application
+	•	Supplier records and change logs for coating materials, including correspondence on formulation changes, alternative vendors, or substitutions
+	•	USDA or FDA inspection reports, QA audits, and residue testing results for surface treatments on Honeycrisp apples from Applecrest
+	•	Communications regarding consumer health complaints, adverse reaction reports, or incident files tied to Applecrest-sourced Honeycrisp apples or their coatings
+	•	Contracts, statements of work, or task orders involving Applecrest Orchards and federal agencies or contractors (including Palantir Technologies, Accenture Federal Services, Deloitte, or Booz Allen Hamilton) relating to post-harvest treatment analytics, geofenced distribution, or behavioral modeling
+	•	Reports or presentations describing the role of surface coatings in targeted product distribution, consumer sensory response studies, or behavioral futures market research
+
+Keywords: Applecrest Orchards, Hugo MN, Honeycrisp apple, post-harvest coating, edible coating, anti-browning, antimicrobial treatment, wax coating, residue testing, SDS, behavioral modeling, geofenced supply chain, Palantir Technologies
