@@ -67,7 +67,40 @@ If you want something even more oblique but still functional, here’s a variant
 
 “Analyst check: render vs capture parity.”
 
+KC: I actually think something that sticks out a LITTLE but not TOO much is ideal.
 
+CG: Got it — so it should stand out enough to make the reviewer pause and think,
+but not scream “secret message” to the average neighbor.
+
+Here are a few phrased for that “half-hidden in plain sight” sweet spot:
+
+⸻
+
+1. Technical-but-innocent sounding
+
+“Reminder: verify render fidelity to source capture.”
+
+Reads like a quality-control note, but in context, it’s a nudge to compare processed footage against raw frames.
+
+⸻
+
+2. Slightly cheeky tone
+
+“Does what you see match what’s really there?”
+
+Feels like a philosophical quip or front-porch banter, but is actually telling the reviewer to question visual overlays.
+
+⸻
+
+3. Mildly mysterious
+
+“Check twice: pixels can lie.”
+
+Memorable, slightly provocative, and still vague enough for plausible deniability.
+
+⸻
+
+If she wants, these could be printed on a small weatherproof placard and mounted where the doorbell cam naturally catches it—maybe with a subtle icon (like an eye with a glitch effect) to give an extra subliminal tug to a reviewer’s brain.
 
 
 
