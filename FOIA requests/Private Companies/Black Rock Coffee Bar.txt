@@ -1,0 +1,39 @@
+To: Department of Homeland Security (DHS) / Cybersecurity and Infrastructure Security Agency (CISA) / Food and Drug Administration (FDA) / United States Department of Agriculture (USDA) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all records, communications, contracts, investigative files, procurement documents, or technical specifications referencing the use of Palantir Technologies or other federal contractors in food supply chain analytics, monitoring, or behavioral modeling in the League City–Galveston, Texas area from January 1, 2015 to present.
+
+This includes:
+	•	Records describing contracts, subcontracts, statements of work, or task orders involving Palantir Technologies, Booz Allen Hamilton, Accenture Federal Services, or similar entities conducting analytics or intelligence activities related to local or regional food distribution networks
+	•	Communications between DHS, CISA, FDA, USDA, or FTC and any bakery, commissary, or central kitchen supplying Black Rock Coffee Bar locations in the League City–Galveston area
+	•	Documentation on the tracking, analysis, or experimental modification of baked goods or other food products destined for multiple retail locations, including gluten-free products
+	•	Any reports, dashboards, or analysis outputs integrating point-of-sale (POS) data, customer demographics, or location data from Black Rock Coffee Bar locations
+	•	Records of government or contractor use of supply chain nodes as behavioral modeling choke points, including targeted product alterations, contamination studies, or controlled test batches routed through League City bakeries
+	•	Interagency communications or incident reports referencing contamination concerns, labeling anomalies, or targeted health product supply in the Black Rock Coffee Bar distribution network in Texas
+
+Keywords: Palantir Technologies, Booz Allen Hamilton, Accenture Federal Services, League City TX, Galveston TX, Black Rock Coffee Bar, gluten-free bakery, food supply chain analytics, behavioral modeling, commissary, central kitchen, product alteration, targeted distribution, POS integration, geofenced supply chain
+
+//////////
+
+To: Palantir Technologies / Booz Allen Hamilton / Accenture Federal Services / Deloitte / RAND Corporation
+
+Request:
+
+Requesting any and all internal communications, contracts, procurement documents, analytic models, or project deliverables from January 1, 2015 to present concerning the monitoring, analysis, or behavioral modeling of food supply chains in the League City–Galveston, Texas area, specifically including suppliers to Black Rock Coffee Bar locations.
+
+This includes:
+	•	Full copies of contracts, subcontracts, purchase orders, task orders, and associated modification documents for work involving local or regional food distribution nodes in Texas, particularly League City and Galveston
+	•	Statements of Work (SOW), Performance Work Statements (PWS), and Deliverable Acceptance Reports referencing food supply chain analytics, targeted product alterations, or customer behavioral profiling
+	•	Internal project documentation on the use of bakeries, commissaries, or central kitchens supplying multiple retail endpoints (e.g., gluten-free bakeries serving Black Rock Coffee Bar locations) as surveillance or intervention nodes
+	•	Analysis outputs integrating point-of-sale (POS) data, payment processing data, location/geofencing data, or customer demographics from Black Rock Coffee Bar transactions
+	•	Research or testing logs on altered or bespoke product batches introduced into the League City–Galveston supply chain, including contamination or ingredient variation
+	•	Presentations, slide decks, or executive summaries delivered to government or corporate clients describing supply chain–level behavioral modeling in the region
+	•	Documentation of collaboration with DHS, CISA, FDA, USDA, or other federal agencies on food distribution analytics in Texas
+
+Keywords: Palantir Technologies, Booz Allen Hamilton, Accenture Federal Services, Deloitte, RAND Corporation, League City TX, Galveston TX, Black Rock Coffee Bar, gluten-free bakery, food supply chain analytics, behavioral modeling, commissary, central kitchen, product alteration, targeted distribution, POS integration, geofenced supply chain
+
+
+
+
+
