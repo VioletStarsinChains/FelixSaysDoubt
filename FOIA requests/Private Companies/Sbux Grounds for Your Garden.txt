@@ -36,6 +36,23 @@ This includes:
 
 Keywords: Starbucks, Grounds for Your Garden, used coffee grounds, pesticide residue, mycotoxin, acrylamide, synthetic flavor, soil amendment, compost, microbial impact, persistence testing, waste stream analysis, geofenced distribution, behavioral futures, Palantir Technologies, Accenture Federal Services, Deloitte, Booz Allen Hamilton
 
+//////////
 
+To: United States Department of Agriculture (USDA) / Food and Drug Administration (FDA) / Environmental Protection Agency (EPA) / Department of Homeland Security (DHS) / Cybersecurity and Infrastructure Security Agency (CISA)
 
+Request:
 
+Requesting any and all records, contracts, communications, laboratory analyses, inspection reports, or investigative files from January 1, 2000 to present concerning the composition, safety, distribution, and chemical persistence in compost/soil systems of used coffee grounds provided to the public through Starbucks’ “Grounds for Your Garden” program.
+
+This includes:
+	•	Laboratory testing results for pesticide residues, mycotoxins, acrylamide, synthetic flavoring compounds, or other contaminants present in coffee grounds distributed through this program
+	•	Reports, studies, or pilot projects evaluating persistence of compounds found in coffee grounds through municipal/commercial composting, home composting, and agricultural soil amendment systems, including effects on soil microbiota and uptake into edible plants
+	•	Waste stream analysis mapping the flow of coffee grounds from Starbucks locations to composting facilities, farms, or community gardens, including batch or origin tracking
+	•	Consumer or organizational complaints, adverse reports, or incident files referencing contamination, plant damage, or health effects linked to the use of Starbucks’ distributed coffee grounds
+	•	Contracts, statements of work, or task orders involving Starbucks, its waste management vendors, or federal contractors (including Palantir Technologies, Accenture Federal Services, Deloitte, Booz Allen Hamilton) for tracking, mapping, or analyzing the geographic dispersal of coffee grounds
+	•	Geospatial analysis files, dashboards, or mapping outputs showing targeted distribution patterns of coffee grounds by store, region, or recipient group
+	•	Communications regarding targeted distribution of grounds through specific stores, regions, or community organizations, particularly where distribution was linked to environmental, agricultural, or behavioral research studies
+	•	Internal or contracted reports describing the role of the “Grounds for Your Garden” program in sustainability initiatives, geofenced community engagement, or behavioral futures market research
+	•	Records of coordination between Starbucks and USDA, FDA, EPA, DHS, or other agencies on safety guidelines, risk assessments, persistence testing, or environmental impact monitoring for public distribution of used coffee grounds
+
+Keywords: Starbucks, Grounds for Your Garden, used coffee grounds, pesticide residue, mycotoxin, acrylamide, synthetic flavor, soil amendment, compost, microbial impact, persistence testing, waste stream analysis, geofenced distribution, behavioral futures, Palantir Technologies, Accenture Federal Services, Deloitte, Booz Allen Hamilton
