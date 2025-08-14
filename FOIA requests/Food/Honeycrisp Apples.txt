@@ -1,0 +1,35 @@
+To: United States Department of Agriculture (USDA) / Agricultural Marketing Service (AMS) / Animal and Plant Health Inspection Service (APHIS) / Department of Homeland Security (DHS) / Cybersecurity and Infrastructure Security Agency (CISA)
+
+Request:
+
+Requesting any and all records, contracts, communications, technical specifications, or investigative files from January 1, 2005 to present concerning the monitoring, tracking, or supply chain analytics of Honeycrisp apples, including but not limited to patented cultivar licensing, genetic fingerprinting, orchard registration, and post-harvest treatments.
+
+This includes:
+	•	Contracts, subcontracts, statements of work, or task orders involving the University of Minnesota or any licensed Honeycrisp propagators relating to supply chain data collection, orchard mapping, or DNA-based batch tracing
+	•	Documentation on the use of Honeycrisp cultivar registration data in federal or contractor-led consumer behavior modeling, audience segmentation, or geofencing
+	•	Records on post-harvest treatments, coatings, or chemical applications specific to Honeycrisp apples, including food safety evaluations, coating ingredient lists, and any studies on consumer sensory or physiological response
+	•	Communications regarding the controlled distribution of patented non-GMO cultivars as part of supply chain intervention, risk analysis, or predictive modeling studies
+	•	Testing logs, QA audits, or incident reports for coating application facilities handling Honeycrisp apples under federal inspection or contract oversight
+	•	Reports, dashboards, or presentations describing the use of traceable DNA crops (including Honeycrisp) in behavioral futures market research, targeted marketing, or post-harvest intervention analysis
+
+Keywords: Honeycrisp apple, University of Minnesota, cultivar patent, DNA fingerprinting, orchard registry, supply chain analytics, post-harvest coating, consumer behavior modeling, geofenced agricultural product, behavioral futures
+
+//////
+
+To Palantir Technologies / Accenture Federal Services / Deloitte / Booz Allen Hamilton / RAND Corporation (and all subsidiaries/affiliates)
+
+Request:
+
+Requesting any and all internal communications, datasets, contracts, procurement records, technical reports, or project deliverables from January 1, 2005 to present concerning the monitoring, tracing, modeling, or intervention testing within the Honeycrisp apple supply chain—including cultivar licensing/registration, DNA fingerprinting, orchard mapping, and post‑harvest coatings.
+
+This includes:
+	•	Full copies of contracts, subcontracts, task orders, purchase orders, and modifications involving Honeycrisp analytics or post‑harvest treatment work for government agencies, grower co‑ops, packers, distributors, or retailers; include Contract/Task IDs, NAICS/PSC codes, client names, period of performance, and deliverable titles
+	•	Statements of Work (SOW), Performance Work Statements (PWS), and final deliverables covering geofenced logistics, consumer behavior modeling, or POS linkage that use Honeycrisp batch/lot data
+	•	Dataset inventories and schema for Honeycrisp projects: DNA fingerprint IDs, cultivar/clone IDs, licensed orchard/lot IDs, packhouse run numbers, coating recipes (ingredients, concentrations), application logs (temperature/humidity/time/equipment), cold‑chain telemetry (temperature/humidity/ethylene), and distribution scan events
+	•	Experimental or pilot studies conducted on privately held orchards owned or managed by your employees, contractors, or executives; include all Outside Business Activity (OBA) and conflict‑of‑interest (COI) disclosures, approvals/denials, IRB/ethics reviews (if any), and risk assessments
+	•	Communications referencing University of Minnesota Honeycrisp licenses, enforcement checks, or cultivar registry lookups connected to your projects
+	•	Vendor lists and MSDS/SDS for post‑harvest coatings, waxes, edible films, antimicrobials, and anti‑browning agents used on Honeycrisp; QA/CAPA files, deviations, and residue testing results
+	•	Algorithms, feature dictionaries, and codebooks used for propensity scoring, audience segmentation, or health/sensory‑response modeling tied to Honeycrisp consumption or targeted distribution
+	•	Presentations/briefings to clients describing how traceable DNA cultivars (including Honeycrisp) enable targeted interventions, measurement, or behavioral futures analysis, and any communications risk or reputational mitigation plans
+
+Keywords: Honeycrisp, post‑harvest coating, edible coating, anti‑browning, DNA fingerprinting, cultivar license, orchard registry, geofenced supply chain, consumer behavior modeling, QA/CAPA, Outside Business Activity, conflict of interest, Palantir, Accenture
