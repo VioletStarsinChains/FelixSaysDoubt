@@ -1,0 +1,17 @@
+To USPS Inspection Service / DHS (incl. CISA) / Federal Trade Commission (FTC) / Food & Drug Administration (FDA) / Consumer Product Safety Commission (CPSC)
+
+Request:
+
+Requesting any and all records, complaints, incident reports, contracts, emails, memoranda, technical specifications, or investigative files referencing Amazon fulfillment and print‑on‑demand operations in or routed through Katy, Texas, from January 1, 2015 to present, with particular focus on bespoke or altered items produced/handled post‑purchase (e.g., books whose “publication date” post‑dates the order) and any contamination/adulteration concerns.
+
+This includes:
+	•	Records describing print‑on‑demand (POD) workflows, vendors, or equipment used by Amazon or its contractors serving the Katy, TX corridor, including KDP/CreateSpace legacy integrations
+	•	Documentation or logs showing order‑level routing flags (“special handling,” “exception,” geofence targeting) associated with Katy‑routed shipments
+	•	Chain‑of‑custody and scan event data (ingress/egress, cross‑dock, handoff to last‑mile) for Katy‑routed orders identified as POD or “manufactured after order”
+	•	Investigations, QA audits, or CAPA (Corrective and Preventive Action) files related to consumer complaints of contaminated/adulterated products linked to Katy‑routed fulfillment
+	•	Communications with Amazon regarding ISBN/metadata issuance, “publication date” assignment timing, or on‑press timestamp practices for POD items shipped via Katy
+	•	Consumer complaint datasets, adverse event reports, or product hazard files (including CPSC SaferProducts and FTC consumer complaint channels) referencing Amazon orders routed through Katy
+	•	Risk assessments, vendor agreements, or statements of work with third parties providing POD, serialization, labeling, or item personalization services tied to the Katy pipeline
+	•	Interagency or agency–private sector communications regarding the use of geofenced logistics, targeted production, or behavioral modeling in relation to Amazon’s Katy operations
+
+Keywords: Amazon Katy, fulfillment center, print‑on‑demand, KDP/CreateSpace, ISBN metadata, publication date anomaly, geofenced routing, special handling flags, contaminated goods, chain of custody, last‑mile scan anomalies, behavioral modeling
