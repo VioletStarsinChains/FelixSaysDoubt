@@ -126,3 +126,30 @@ This includes:
 
 
 Keywords: Applecrest Orchards, Hugo MN, Honeycrisp apple, post-harvest coating, edible coating, anti-browning, antimicrobial treatment, wax coating, residue testing, SDS, compost persistence, soil amendment, waste stream analysis, Outside Business Activity, conflict of interest, Coca-Cola, orange juice, behavioral modeling, geofenced supply chain, acrylamide
+
+///////////
+
+To: Palantir Technologies / Accenture Federal Services / Deloitte / Booz Allen Hamilton (and all subsidiaries/affiliates)
+
+Request:
+
+Requesting any and all internal communications, contracts, procurement records, datasets, laboratory analyses, conflict-of-interest filings, or project deliverables from January 1, 2005 to present concerning Applecrest Orchards (7306 24th Ave N, Hugo, Minnesota 55038) and/or Honeycrisp apple supply chain analytics, with specific focus on skin-applied coatings, their persistence in compost/soil environments, consumer disposal patterns, and potential environmental/climate impacts.
+
+This includes:
+	•	Full copies of contracts, subcontracts, task orders, purchase orders, and modification documents (including Contract/Task IDs, NAICS/PSC codes, client names, period of performance, and deliverable titles) involving Applecrest Orchards or Honeycrisp apple post-harvest treatments
+	•	Statements of Work (SOW), Performance Work Statements (PWS), and Deliverable Acceptance Reports for projects covering coating formulation analysis, post-harvest treatment tracking, residue testing, oxidation control, or environmental impact assessment
+	•	Dataset inventories, ingestion logs, and schema for Honeycrisp-related projects, including:
+	•	DNA fingerprinting or cultivar/clone IDs
+	•	Orchard registry or licensing data
+	•	Batch/lot numbers linked to coating application
+	•	Ingredient lists and Safety Data Sheets (SDS) for coatings, waxes, anti-browning agents, antimicrobials, fungicides, or shelf-life extenders
+	•	Application logs with date/time, equipment, concentrations, and operator data
+	•	Vendor and supplier records for coating materials, including any change logs or formulation substitutions
+	•	Reports or studies evaluating persistence of coatings in composting or soil amendment systems, including municipal/commercial compost, home compost, and agricultural reuse pathways
+	•	Waste stream analysis and research on consumer disposal patterns for Honeycrisp apples, including partial consumption rates, skin discard frequency, and compost integration
+	•	Outside Business Activity (OBA) and Conflict of Interest (COI) disclosures, approvals, or denials for any employees, contractors, or executives working on food/agriculture or coating-related projects who also own, manage, or are financially involved in orchards or other agricultural production operations
+	•	Communications or records describing career transitions of such individuals to other food/beverage companies (including Coca-Cola or its subsidiaries) where their role involved coatings, preservation chemistry, or product formulation for fruit/juice markets in domestic or foreign regions
+	•	Climate impact clause (expanded): Records, studies, modeling outputs, or contractor deliverables assessing the contribution of Honeycrisp apple coatings or related post-harvest chemical treatments to greenhouse gas emissions, reactive nitrogen cycling, or soil carbon sequestration capacity, including any evaluations or modeling of intentional or strategic acceleration of climate change effects through agricultural chemical interventions, targeted crop amendments, or managed waste stream dispersal
+	•	Records of collaboration with USDA, FDA, DHS, CISA, or other agencies on geofenced distribution, consumer sensory response, or behavioral futures market research using Applecrest-grown Honeycrisp apples
+
+Keywords: Applecrest Orchards, Hugo MN, Honeycrisp apple, post-harvest coating, edible coating, anti-browning, antimicrobial treatment, wax coating, residue testing, SDS, compost persistence, soil amendment, waste stream analysis, Outside Business Activity, conflict of interest, Coca-Cola, orange juice, greenhouse gas emissions, reactive nitrogen, carbon sequestration, intentional climate acceleration, behavioral modeling, geofenced supply chain, Palantir Technologies
