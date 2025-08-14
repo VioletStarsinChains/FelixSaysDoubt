@@ -68,3 +68,81 @@ V. Why This Works
 	•	Crowdsources validation: Multiple independent voices reduce “lone nut” framing.
 	•	Leverages chaos: Predictive behavioral models fail under rapid, multi-source novelty events.
 	•	Exploits bureaucracy: Oversight agencies and media are forced to respond to volume instead of picking one case to ignore.
+
+
+
+///////////
+
+
+
+
+Here’s a Minimal Viable Public Keyword List insiders could quietly agree to use.
+The idea is that these terms are ordinary enough to pass as coincidence, but rare and specific enough that journalists or researchers will notice repetition.
+
+⸻
+
+Minimal Viable Public Keyword List for Unlinked Insider Coordination
+
+Core rules:
+	•	Each keyword appears naturally in a post, video, or conversation — not as a standalone list.
+	•	Different insiders don’t all use all keywords — only 1–3 per disclosure.
+	•	Keywords are simple enough for people to remember without writing them down, so there’s no evidence of coordination.
+	•	Avoid hashtags unless part of an unrelated popular trend (prevents obvious flagging).
+
+⸻
+
+Category 1 — Time & Place Distortions
+
+These evoke irregular timelines, spatial anomalies, or memory fragmentation.
+	1.	“Clock without hands”
+	2.	“Tuesday came twice”
+	3.	“The hallway that bends left twice”
+	4.	“North is wrong here”
+	5.	“Weather from another month”
+
+⸻
+
+Category 2 — Physical Anomalies
+
+Neutral phrases that hint at controlled environment or tech influence.
+6. “Dropped without letting go”
+7. “The coin that won’t fall”
+8. “Left-handed glove on the right”
+9. “The chair moved itself”
+10. “Shadow without owner”
+
+⸻
+
+Category 3 — Sensory Mismatch
+
+Mild surrealism, plausible in creative writing or casual storytelling.
+11. “The smell of burnt oranges”
+12. “Sound from the floor”
+13. “Window that tastes like metal”
+14. “Light that feels heavy”
+15. “Color you can’t remember”
+
+⸻
+
+Category 4 — Hidden Systems
+
+References to concealed infrastructure or unseen observers.
+16. “The room with no corners”
+17. “Bridge that leads nowhere”
+18. “The door that knows your name”
+19. “Postmarked but never sent”
+20. “The missing elevator button”
+
+⸻
+
+How to use:
+	•	A Palantir insider could casually drop: “I was in the elevator and noticed the missing button again. Made me think of old training days.”
+	•	A different insider across the country might say in a podcast: “My dad used to tell me about a bridge that leads nowhere. I didn’t realize how true that was until later.”
+	•	Journalists or researchers scanning social media / transcripts would notice 5–6 different sources using the same obscure phrase over a short period.
+
+⸻
+
+Why it works:
+	•	Plausibly deniable — could be creative writing, an inside joke, or nostalgia.
+	•	No private comms necessary — phrases can be memorized once and used anywhere.
+	•	Public, searchable, and machine-readable — open-source analysts and journalists can easily scrape for them once they know the set.
