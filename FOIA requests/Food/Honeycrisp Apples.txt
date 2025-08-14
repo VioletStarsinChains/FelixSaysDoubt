@@ -33,3 +33,21 @@ This includes:
 	•	Presentations/briefings to clients describing how traceable DNA cultivars (including Honeycrisp) enable targeted interventions, measurement, or behavioral futures analysis, and any communications risk or reputational mitigation plans
 
 Keywords: Honeycrisp, post‑harvest coating, edible coating, anti‑browning, DNA fingerprinting, cultivar license, orchard registry, geofenced supply chain, consumer behavior modeling, QA/CAPA, Outside Business Activity, conflict of interest, Palantir, Accenture
+
+//////
+
+To: United States Department of Agriculture (USDA) / Agricultural Marketing Service (AMS) / Animal and Plant Health Inspection Service (APHIS) / Department of Homeland Security (DHS) / Cybersecurity and Infrastructure Security Agency (CISA) / Food and Drug Administration (FDA)
+
+Request:
+
+Requesting any and all records, contracts, communications, inspection reports, licensing documentation, or investigative files from January 1, 2005 to present referencing Applecrest Orchards, located at 7306 24th Ave N, Hugo, Minnesota 55038.
+
+This includes:
+	•	Orchard registration, licensing, and cultivar patent compliance records, including DNA fingerprinting or varietal authentication related to Honeycrisp apples or other patented cultivars grown at Applecrest
+	•	USDA inspection logs, packinghouse QA audits, and cold-chain monitoring reports for produce originating from Applecrest Orchards
+	•	Documentation on post-harvest treatments, edible coatings, anti-browning agents, or antimicrobial applications used at or for Applecrest’s harvests, including food safety evaluations and ingredient lists
+	•	Contracts, statements of work, or task orders involving Applecrest Orchards in connection with federal supply chain analytics, consumer behavior modeling, or targeted product distribution studies
+	•	Communications between USDA, DHS, CISA, FDA, or contractors (including Palantir Technologies, Accenture Federal Services, Deloitte, or Booz Allen Hamilton) regarding Applecrest operations, production volumes, or distribution networks
+	•	Any reports, presentations, or data integrations involving Applecrest-origin produce in behavioral futures market analysis, geofenced marketing campaigns, or post-harvest intervention studies
+
+Keywords: Applecrest Orchards, Hugo MN, Honeycrisp apple, cultivar patent, DNA fingerprinting, orchard registry, post-harvest coating, edible coating, anti-browning, antimicrobial treatment, geofenced supply chain, behavioral modeling, Palantir Technologies
