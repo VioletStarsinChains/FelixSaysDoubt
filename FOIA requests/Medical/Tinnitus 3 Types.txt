@@ -12,3 +12,20 @@ Requesting any and all research proposals, contracts, internal communications, r
 	•	Cross-agency or contractor collaborations involving tinnitus research in military or aerospace populations
 
 Keywords: tinnitus, reactive tinnitus, pulsatile tinnitus, auditory perception, hyperacusis, directed energy exposure, acoustic trauma, neuromodulation, dysautonomia, gravitational gradient, environmental exposure, acceleration environment, DARPA, DoD, VA, NIH
+
+
+//////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / National Aeronautics and Space Administration (NASA) / U.S. Air Force Research Laboratory (AFRL) / U.S. Navy (NAVSEA / Office of Naval Research)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, reports, or contractor deliverables from 1990 to present referencing tinnitus — including regular tinnitus, reactive tinnitus, and pulsatile tinnitus — in the context of:
+	•	Simulated, altered, or variable gravity environments (“terrestrial microgravity,” “artificial gravity,” or gravitational gradient conditions)
+	•	Acceleration or deceleration exposure studies (centrifuge, parabolic flight, rapid ascent/descent profiles) and their effects on auditory perception
+	•	Changes in tinnitus presentation linked to intracranial pressure variation, barometric pressure shifts, or altered blood flow under acceleration
+	•	Military, aerospace, or naval research into auditory system responses to environmental field effects, including gravitational or inertial modulation
+	•	Contractor or interagency projects assessing tinnitus as a marker for human adaptation or vulnerability in altered-gravity or acceleration environments
+
+Keywords: tinnitus, reactive tinnitus, pulsatile tinnitus, auditory perception, intracranial pressure, acceleration environment, gravitational gradient, artificial gravity, terrestrial microgravity, variable gravity, environmental field effects, aerospace medicine, DARPA, NASA, DoD, AFRL, NAVSEA, ONR
