@@ -1,0 +1,38 @@
+To: U.S. Department of Defense / Defense Advanced Research Projects Agency (DARPA) / National Science Foundation / Department of Commerce (NIST)
+
+Request:
+
+Requesting any and all research proposals, contracts, grant awards, internal communications, or ethics review documents from 1990 to present concerning the development of motion realism or “kinematic style transfer” technologies for use in computer-generated or AI-driven personas.
+
+This includes:
+	•	Contracts or grants involving large-scale human motion capture from fitness, sports, or group activity contexts for use in synthetic character animation or virtual agents
+	•	Studies on biomechanical authenticity, gesture modeling, or body language realism in avatars or virtual influencers
+	•	Integration projects combining wearable sensor data, optical motion capture, and demographic/behavioral metadata for persona generation
+	•	Ethical or risk assessment documents discussing the potential use of motion realism technology to influence or persuade audiences via digital actors
+	•	Communications with private-sector partners (including but not limited to Palantir Technologies, major fitness brands, sports analytics firms, and wearable manufacturers) regarding access to or use of motion datasets for synthetic persona development
+
+Keywords: kinematic style transfer, motion realism, biomechanical authenticity, synthetic persona body language, AI influencer gesture modeling, optical motion capture dataset, wearable biomechanics integration, virtual agent realism research
+
+
+///////////
+
+
+To HHS / Centers for Disease Control and Prevention (CDC) / National Institutes of Health (NIH) / Department of Defense (incl. Defense Health Agency, DARPA, CDAO)
+
+Request:
+
+Requesting any and all data-use agreements (DUAs), contracts, grants, cooperative research and development agreements (CRADAs), other transaction agreements (OTAs), purchase orders, protocols, privacy/ethics reviews, and interagency or contractor communications from 1990 to present concerning acquisition, receipt, or use of human movement or exercise-derived datasets from commercial fitness platforms, wearable manufacturers, gym chains, or group-class providers for public health, human performance, training, simulation, or readiness research.
+
+This includes:
+	•	DUAs/CRADAs/OTAs and related correspondence with fitness or wearable entities (including but not limited to Peloton, Les Mills, Equinox/Variis, Orangetheory, ClassPass, Planet Fitness, Apple, Google/Fitbit, WHOOP, Garmin, Catapult Sports).
+	•	Records describing ingestion or analysis of data from group exercise classes (in-person or streaming), including video-derived pose/skeleton data, IMU streams, heart rate, cadence, and instructor/voice command timing.
+	•	Documentation of kinematic feature extraction, pose estimation, “motion/kinematic style transfer,” gesture/affect modeling, or avatar/virtual agent realism using commercial fitness datasets.
+	•	Data-integration projects linking motion/biometric data with demographic, behavioral, or psychographic metadata for modeling or simulation.
+	•	Privacy Impact Assessments (PIAs), Systems of Records Notices (SORNs), IRB submissions/approvals, risk assessments for de-identification/re-identification, and ethics review materials relating to these datasets.
+	•	Program charters, statements of work, technical evaluations, deliverables, dashboards, codebooks, or schema documenting dataset structure, intended use, and performance metrics.
+	•	Communications, reports, or briefings describing the use of commercial fitness datasets for public health surveillance, physical readiness assessment, training simulation, or digital content generation involving virtual humans/agents.
+
+Keywords: data use agreement (DUA), CRADA, OTA, fitness platform dataset, group exercise streaming, pose estimation, skeletal tracking, wearable IMU, human performance/readiness, virtual agent realism, motion style transfer, Privacy Impact Assessment (PIA), SORN
+
+
+
