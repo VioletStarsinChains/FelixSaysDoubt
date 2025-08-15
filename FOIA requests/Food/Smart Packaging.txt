@@ -6,20 +6,14 @@ To:
 
 Request:
 
-Requesting any and all contracts, research proposals, internal communications, or interagency reports from 2005 to present referencing the use of smart packaging technologies in partnership with, or in relation to, Mondelēz International (including Clif Bar & Company, Nabisco, and Cadbury), The Coca-Cola Company, or Accenture, in the context of:
-	•	Development, deployment, or testing of intelligent packaging systems (including RFID, NFC, QR code, e-ink displays, or time–temperature indicators) for food or beverage products
-	•	Integration of packaging sensor data with retail point-of-sale systems, supply chain databases, or consumer loyalty programs
-	•	Use of packaging-linked data in behavioral segmentation, predictive analytics, or neuroresponse modeling
-	•	Packaging-enabled augmented reality or digital engagement campaigns funded or co-developed with federal agencies or contractors
+Requesting any and all contracts, research proposals, internal communications, or interagency reports from 2005 to present referencing the use of smart packaging and pigment-based thermal indicators in partnership with, or in relation to, Mondelēz International (including Clif Bar & Company, Nabisco, and Cadbury), The Coca-Cola Company, Accenture, or Starbucks Corporation, in the context of:
+	•	Development, deployment, or testing of intelligent packaging systems (including RFID, NFC, QR code, e-ink displays, or time–temperature indicators) for food, beverage, or consumer merchandise
+	•	Pigment chemistry research for thermal- or temperature-reactive packaging or merchandise (including color-changing cups, tumblers, and packaging films)
+	•	Integration of packaging or merchandise sensor data with retail point-of-sale systems, supply chain databases, or consumer loyalty programs
+	•	Use of packaging- or merchandise-linked data in behavioral segmentation, predictive analytics, or neuroresponse modeling
+	•	Packaging or merchandise-enabled augmented reality or digital engagement campaigns funded or co-developed with federal agencies or contractors
 	•	Supply chain traceability systems with dual use for public health surveillance or defense logistics optimization
-	•	Testing or evaluation of smart packaging as a delivery vector for nutritional or ingredient-level interventions tied to cognitive or behavioral outcomes
+	•	Testing or evaluation of thermal pigment products or smart packaging as delivery vectors for nutritional or ingredient-level interventions tied to cognitive or behavioral outcomes
 
 Keywords:
-smart packaging, intelligent packaging, active packaging, RFID, NFC, QR code marketing, connected packaging, e-ink label, time–temperature indicator, retail telemetry, behavioral segmentation, predictive modeling, neuroresponse
-
-
-
-
-
-
-
+smart packaging, intelligent packaging, active packaging, pigment-based thermal indicator, color-changing cups, RFID, NFC, QR code marketing, connected packaging, e-ink label, retail telemetry, behavioral segmentation, predictive modeling, neuroresponse
