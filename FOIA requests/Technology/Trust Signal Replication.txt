@@ -12,3 +12,44 @@ This includes:
 	•	Communications regarding intellectual property, consent, or ethical considerations in the use of public figures’ voice, cadence, or narrative structure as training anchors
 
 Keywords: reference model, narrative style anchor, linguistic baseline, audience resonance modeling, persona mimicry, tone calibration, public figure modeling, trust signal replication
+
+
+///////
+
+
+To: DARPA / IARPA / U.S. Army Research Laboratory / Naval Information Warfare Center / Department of Defense Chief Digital and AI Office / Office of the Director of National Intelligence
+
+Request:
+
+Requesting any and all documents, contracts, classification guidelines, research proposals, or internal communications from 2005 to present referencing internal designations or classifications applied to public figures in order to permit their publicly available work (speech, writing, performance, or media output) to be used in government or contractor artificial intelligence training or behavioral modeling programs.
+
+This includes:
+	•	Policies or procedures for assigning such designations to individuals with significant public platforms or highly recognizable communication styles
+	•	Documentation on the rationale, risk assessments, or legal reviews surrounding these classifications
+	•	Records showing integration of public figures’ work into AI model datasets for use in military, intelligence, or defense contractor projects
+	•	Reports evaluating the operational benefits or risks of using public figure material for audience influence, persuasion, or narrative engagement modeling
+	•	Communications regarding ethical, legal, or public relations considerations of applying these classifications to enable use of public figure content
+
+Keywords: internal classification, public figure modeling, narrative simulation, linguistic baseline, reference model, voice mimicry, audience influence modeling, AI training dataset provenancep
+
+
+///////
+
+
+To: DARPA / IARPA / U.S. Army Research Laboratory / Naval Information Warfare Center / Department of Defense Chief Digital and AI Office / Office of the Director of National Intelligence
+
+Request:
+
+Requesting any and all documents, contracts, classification guidelines, research proposals, or internal communications from 2005 to present referencing the designation of public figures as Non-Person Entities (NPE) in the context of artificial intelligence training, behavioral modeling, or narrative simulation programs.
+
+This includes:
+	•	Policies or procedures for assigning NPE status to individuals with significant public platforms or recognizable communication styles
+	•	Documentation on the rationale, risk assessments, or legal reviews surrounding NPE designation for public figures
+	•	Records showing integration of NPE-designated public figures’ work (speech, writing, performance, or media output) into government or contractor AI model datasets
+	•	Reports evaluating operational benefits or risks of using NPE-designated public figure data for influence, persuasion, or audience engagement modeling
+	•	Communications regarding ethical, legal, or public relations considerations of using NPE-designated public figure material in covert or classified contexts
+
+Keywords: Non-Person Entity, NPE designation, public figure modeling, narrative simulation, linguistic baseline, reference model, voice mimicry, audience influence modeling, AI training dataset provenance
+
+
+
