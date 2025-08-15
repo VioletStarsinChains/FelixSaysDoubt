@@ -26,3 +26,19 @@ Requesting any and all research proposals, contracts, internal communications, o
 	•	Contractor or interagency collaboration on algorithmic profiling of EDS patients for risk assessment or operational deployment purposes
 
 Keywords: Ehlers–Danlos Syndrome, hypermobility, connective tissue disorder, predictive modeling, biometric monitoring, occupational profiling, performance forecasting, injury risk, DARPA, DoD, behavioral profiling, workforce optimization
+
+///////////
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / National Aeronautics and Space Administration (NASA) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, reports, or contractor deliverables from 1990 to present referencing Ehlers–Danlos Syndrome (EDS), Postural Orthostatic Tachycardia Syndrome (POTS), or related connective tissue and autonomic disorders in the context of:
+	•	Simulated, altered, or variable gravity environments conducted on Earth (“terrestrial microgravity” or “artificial gravity” conditions)
+	•	Studies involving the physiological or behavioral impact of small changes in gravitational load, acceleration, or gravitational gradient
+	•	Medical or occupational health evaluations of individuals with EDS or POTS in centrifuge, parabolic flight, or gravity-simulation environments
+	•	Research into circulatory, musculoskeletal, or neurological responses to gravitational variation in hypermobile or dysautonomia-affected populations
+	•	Interagency or contractor collaborations on environmental exposure testing where gravitational conditions are a controlled or independent variable
+	•	Any use of gravitational field manipulation technology for human performance modeling, risk assessment, or environmental safety evaluation
+
+Keywords: Ehlers–Danlos Syndrome, hypermobility, Postural Orthostatic Tachycardia Syndrome, POTS, connective tissue disorder, dysautonomia, gravitational gradient, artificial gravity, terrestrial microgravity, gravity simulation, variable gravity, environmental exposure, DARPA, NASA, DoD
