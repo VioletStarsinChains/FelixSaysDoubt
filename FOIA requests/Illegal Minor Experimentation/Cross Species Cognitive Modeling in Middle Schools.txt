@@ -1,0 +1,13 @@
+To: U.S. Department of Education / National Science Foundation (NSF) / Defense Advanced Research Projects Agency (DARPA) / Office of Naval Research (ONR) / Department of Health and Human Services (HHS – Office of Human Research Protections)
+
+Request:
+
+Requesting any and all research proposals, grant awards, final reports, internal communications, meeting notes, and contractor deliverables from 1990 to present referencing the use of cross-species cognitive modeling in studies involving middle school–aged students (generally ages 11–14), including but not limited to:
+	•	Comparative cognition studies drawing on animal models (e.g., canine, feline, primate, cetacean, avian) to predict or influence human learning, decision-making, or group behavior in adolescent populations
+	•	Use of behavioral templates or algorithms derived from nonhuman species to inform educational interventions, social-emotional learning programs, or behavioral assessments in school settings
+	•	Human–animal interaction or communication studies applied to developmental psychology, educational technology, or social skills training in middle school students
+	•	Cross-species neurocognitive modeling in virtual reality, augmented reality, or simulation environments involving participants aged 11–14
+	•	Integration of animal-based cognitive or behavioral frameworks into predictive analytics tools for adolescent social dynamics, conflict resolution, or cooperative task performance
+	•	Risk assessments, ethical reviews, or IRB documentation addressing the application of nonhuman cognitive models to human minors in educational contexts
+
+Keywords: cross-species cognition, comparative cognition, animal behavior modeling, canine cognition, feline cognition, primate cognition, cetacean cognition, avian cognition, adolescent behavior prediction, middle school, ages 11–14, educational technology, behavioral algorithms, predictive modeling, social-emotional learning, VR simulation, IRB approval, developmental psychology
