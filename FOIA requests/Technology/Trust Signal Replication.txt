@@ -1,0 +1,14 @@
+To: DARPA / IARPA / U.S. Army Research Laboratory / Naval Information Warfare Center / Department of Defense Chief Digital and AI Office
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, meeting minutes, or internal communications from 2008 to present referencing the selection, evaluation, or use of public-facing communicators as reference models for linguistic, narrative, or behavioral patterning in artificial intelligence or human performance systems.
+
+This includes:
+	•	Criteria or selection processes for identifying public figures with large, demographically stable audiences as style or behavior baselines for AI model training
+	•	Documentation on the integration of such reference models into military, intelligence, or defense contractor AI programs
+	•	Research on cross-domain influence operations using stylistic mimicry, narrative pacing replication, or audience-specific tone calibration
+	•	Reports assessing the effectiveness of reference model outputs in retaining engagement, influencing perception, or enhancing message trustworthiness
+	•	Communications regarding intellectual property, consent, or ethical considerations in the use of public figures’ voice, cadence, or narrative structure as training anchors
+
+Keywords: reference model, narrative style anchor, linguistic baseline, audience resonance modeling, persona mimicry, tone calibration, public figure modeling, trust signal replication
