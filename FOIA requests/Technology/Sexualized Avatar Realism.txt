@@ -1,0 +1,79 @@
+To: U.S. Department of Defense / Defense Advanced Research Projects Agency (DARPA) / National Science Foundation / National Institute of Standards and Technology / Federal Trade Commission
+
+Request:
+
+Requesting any and all research proposals, contracts, interagency communications, ethics reviews, or program documentation from 1990 to present concerning the generation of realistic human avatars or digital personas using motion capture, pose estimation, or “kinematic style transfer” technologies, where the intended or potential application includes sexualized or intimate contexts.
+
+This includes:
+	•	Studies or technical evaluations on the non-consensual generation of sexualized or intimate likenesses using motion or biometric datasets
+	•	Privacy, ethics, or risk assessment documents addressing sexualized avatar realism, including potential for harassment, discreditation, or reputational harm
+	•	Integration projects combining movement data from fitness, sports, or group activity sources with facial likeness models for virtual human generation
+	•	Communications with private-sector partners, academic institutions, or contractors on avatar realism for adult entertainment, intimacy simulation, or sexual wellness applications
+	•	Research on detection, mitigation, or watermarking of synthetic sexualized media generated from real human motion datasets
+	•	Program charters, statements of work, or deliverables describing sexualized, intimate, or adult-themed testing scenarios in motion realism development projects
+
+Keywords: sexualized avatar realism, intimate likeness generation, non-consensual synthetic media, kinematic style transfer, pose estimation, motion capture dataset, harassment risk assessment, synthetic persona ethics, adult entertainment AI, biometric realism
+
+
+///////////
+
+
+To: United States Patent and Trademark Office (USPTO) – Office of Patent Legal Administration / World Intellectual Property Organization (WIPO) – PCT International Bureau
+
+Request:
+
+Requesting any and all patent filings, provisional applications, international search reports (ISR), written opinions (WO/ISA), bibliographic data, cited prior art lists, and non-confidential applicant/office correspondence from 1990 to present describing technologies for the generation of realistic human avatars or digital personas using motion capture, pose estimation, or “kinematic style transfer,” where the intended or potential application includes sexualized, intimate, or adult-themed contexts.
+
+This includes:
+	•	Patents describing integration of skeletal motion datasets from fitness, sports, or group activity sources into avatars used in sexual wellness, intimacy simulation, or adult entertainment applications
+	•	Filings referencing intimate or sexualized body language realism, gesture modeling, or affective movement replication in avatars
+	•	Methods for combining facial likeness modeling with full-body kinematic realism for virtual human interaction
+	•	Patents detailing detection, watermarking, or prevention methods for non-consensual generation of intimate or sexualized likenesses from motion datasets
+	•	Examiner notes, office actions, or correspondence identifying ethical, legal, or reputational risks in the described technology’s use
+	•	International (PCT) filings with IPC classifications linking motion realism technologies to adult entertainment, virtual companionship, or sexual wellness industries
+
+Keywords: sexualized avatar realism, intimate likeness generation, non-consensual synthetic media, kinematic style transfer, motion capture dataset, adult entertainment AI, biometric realism, virtual intimacy simulation, synthetic persona ethics
+
+
+/////////
+
+
+To: U.S. Department of Commerce – National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all research proposals, contracts, interagency communications, standards development documents, technical reports, or ethics review materials from 1990 to present concerning the generation of realistic human avatars or digital personas using motion capture, pose estimation, or “kinematic style transfer” technologies, where the intended or potential application includes sexualized, intimate, or adult-themed contexts.
+
+This includes:
+	•	Research on body language realism, gesture modeling, or affective movement replication in avatars for sexual wellness, intimacy simulation, or adult entertainment industries
+	•	Standards development or benchmarking projects evaluating kinematic realism in avatars, including those trained on datasets from fitness, sports, or group activities
+	•	Studies or technical reports on detection, watermarking, or authentication methods for identifying non-consensual sexualized media derived from motion datasets
+	•	Privacy, ethics, or legal risk assessment documents discussing the potential for harassment, discreditation, or reputational harm from synthetic intimate likeness generation
+	•	Records of collaboration with private-sector partners, research institutions, or other government agencies on standards for motion realism in avatars, particularly in contexts with potential adult or intimate use cases
+
+Keywords: sexualized avatar realism, intimate likeness generation, non-consensual synthetic media, kinematic style transfer, pose estimation, motion capture dataset, adult entertainment AI, biometric realism, virtual intimacy simulation, synthetic persona ethics, NIST standards development
+
+
+///////////
+
+
+To: Federal Trade Commission – Bureau of Consumer Protection / Office of Technology Research and Investigation
+
+Request:
+
+Requesting any and all consumer complaint records, investigations, interagency communications, research proposals, contracts, technical assessments, or policy documents from 1990 to present concerning the creation or use of realistic human avatars or digital personas using motion capture, pose estimation, or “kinematic style transfer” technologies, where the intended or potential application includes sexualized, intimate, or adult-themed contexts.
+
+This includes:
+	•	Consumer complaints or inquiries regarding the non-consensual generation of sexualized or intimate likenesses in synthetic media
+	•	Technical assessments of avatar realism, gesture modeling, or body language replication using datasets from fitness, sports, or group activity contexts
+	•	Investigations into potential deceptive practices, identity misuse, or reputational harm from synthetic intimate likeness generation
+	•	Interagency communications with the Department of Defense, Department of Commerce, or other agencies regarding standards, detection, or mitigation for synthetic sexualized media
+	•	Policy memoranda, enforcement guidance, or workshop materials addressing AI-generated adult content, including issues of consent, disclosure, and biometric data rights
+
+Keywords: sexualized avatar realism, intimate likeness generation, non-consensual synthetic media, kinematic style transfer, pose estimation, motion capture dataset, adult entertainment AI, biometric realism, virtual intimacy simulation, deceptive practices, FTC consumer protection
+
+
+
+
+
+
