@@ -11,3 +11,22 @@ Requesting any and all research proposals, grant awards, final reports, internal
 	•	Risk assessments, ethical reviews, or IRB documentation addressing the application of nonhuman cognitive models to human minors in educational contexts
 
 Keywords: cross-species cognition, comparative cognition, animal behavior modeling, canine cognition, feline cognition, primate cognition, cetacean cognition, avian cognition, adolescent behavior prediction, middle school, ages 11–14, educational technology, behavioral algorithms, predictive modeling, social-emotional learning, VR simulation, IRB approval, developmental psychology
+
+//////////
+
+To: U.S. Department of Education / National Science Foundation (NSF) / Defense Advanced Research Projects Agency (DARPA) / Office of Naval Research (ONR) / Department of Health and Human Services (HHS – Office of Human Research Protections)
+
+Request:
+
+Requesting any and all research proposals, grant awards, final reports, internal communications, meeting notes, contractor deliverables, and Institutional Review Board (IRB) documentation from 1990 to present referencing the integration (“data fusion”) of cross-species cognitive models with observational or predictive datasets on adolescent identity formation or social behavior, including but not limited to:
+	•	Application of animal cognition frameworks (e.g., primate social hierarchy modeling, canine cooperative behavior, cetacean communication systems) to the analysis of peer group dynamics, social network mapping, or behavioral clustering in middle and high school–aged students
+	•	Fusion of animal-derived behavioral algorithms with datasets tracking adolescent developmental milestones, psychosocial adaptation, or group role adoption
+	•	Modeling projects that combine nonhuman species behavior templates with survey, observational, or sensor data from minors in educational or extracurricular settings
+	•	Use of animal-based cognitive heuristics in AI/ML tools designed to forecast adolescent decision-making, conflict resolution, or cooperative task success
+	•	Analyses or pilot programs where animal cognition data is layered with indicators of self-concept, social identity, or interpersonal influence in youth populations
+	•	Ethical reviews, risk assessments, or oversight communications addressing the fusion of animal behavior models with human identity-related datasets involving minors
+
+Keywords: cross-species cognition, comparative cognition, animal behavior modeling, behavioral algorithms, primate social modeling, canine cooperation, cetacean communication, adolescent identity formation, social behavior prediction, data fusion, behavioral clustering, group dynamics, peer influence, developmental psychology, educational technology, IRB approval, youth social network analysis
+
+
+
