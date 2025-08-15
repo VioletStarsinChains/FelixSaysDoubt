@@ -18,3 +18,28 @@ Requesting any and all documents, research proposals, contracts, surveillance da
 
 Keywords:
 Clif Bar, Clif BLOKS, Clif SHOT, LUNA Bar, Builders Protein, sports nutrition, endurance fueling, neurochemical modulation, dopamine activation, predictive performance modeling, athlete biometric data, cognitive entrainment, CFSAN
+
+
+///////////
+
+
+To:
+	•	Federal Trade Commission (FTC) / Bureau of Consumer Protection
+	•	Department of Defense / Office of Net Assessment
+	•	Defense Innovation Unit (DIU)
+	•	U.S. Army Research Laboratory (ARL)
+	•	Department of Homeland Security / Science & Technology Directorate
+
+Request:
+
+Requesting any and all contracts, memoranda of understanding, data use agreements, research proposals, or interagency communications from 2005 to present involving Mondelēz International or Clif Bar & Company in the context of:
+	•	Collection, storage, or transfer of biometric, performance, or geolocation data from athletes using Clif sports nutrition products (including Clif Bar, Clif BLOKS, Clif SHOT Energy Gel, LUNA Bar, and Builders Protein)
+	•	Data sharing arrangements between sports event organizers, wearable technology companies (e.g., Garmin, Strava, Wahoo, Polar), and any federal agency or defense-affiliated research program
+	•	Integration of endurance athlete datasets into predictive modeling frameworks for cognitive or behavioral state estimation
+	•	Use of sports nutrition-linked datasets to train machine learning models for human performance forecasting, resilience assessment, or decision-making under fatigue
+	•	Evaluation of consumer privacy protections (or exemptions) for biometric and nutrition-related data when shared with military or intelligence-affiliated entities
+	•	Pilot programs or field studies involving real-time performance monitoring of athletes in coordination with federal research partners
+	•	Cross-referencing of nutrition purchase history with biometric performance data to identify or segment individuals for targeted interventions
+
+Keywords:
+Clif Bar, Clif BLOKS, Clif SHOT, LUNA Bar, Builders Protein, biometric data sharing, wearable technology, Garmin, Strava, predictive performance modeling, endurance sports surveillance, behavioral futures, FTC, defense contractor
