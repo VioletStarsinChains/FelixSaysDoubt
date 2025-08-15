@@ -1,0 +1,28 @@
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, internal communications, contracts, memoranda, or reports from 2000 to present referencing Ehlers–Danlos Syndrome (EDS) or related connective tissue disorders in the context of:
+	•	Military, aerospace, or high-performance physical applications, including injury modeling, joint stability under extreme conditions, and unique proprioceptive profiles in EDS cohorts
+	•	Performance prediction algorithms or training adaptations for individuals with hypermobility or connective tissue fragility
+	•	DARPA or DoD-funded studies into connective tissue vulnerability or resilience under environmental stressors (e.g., extreme temperature, microgravity, high G-force)
+	•	Research into environmental triggers or exacerbators of EDS symptoms, including chemical exposures, airborne particulates, mold, or electromagnetic/radiation environments
+	•	Cross-analysis of EDS with mast cell activation syndrome (MCAS) or dysautonomia in environmental exposure contexts
+	•	Interagency or contractor communications on predictive modeling or risk stratification of EDS patients in occupational or deployment settings
+
+Keywords: Ehlers–Danlos Syndrome, hypermobility, connective tissue disorder, performance prediction, injury modeling, DARPA, DoD, environmental exposure, mast cell activation syndrome, dysautonomia, microgravity, proprioception
+
+//////////////
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, or reports from 2000 to present referencing Ehlers–Danlos Syndrome (EDS) or related connective tissue disorders in the context of:
+	•	Predictive modeling of physical performance, injury risk, or task suitability for individuals with EDS or hypermobility spectrum disorders
+	•	Integration of EDS-specific variables into biometric, physiologic, or neurocognitive monitoring systems for forecasting individual capabilities or limitations
+	•	Cross-referencing of genetic, biometric, or environmental exposure data to identify behavioral or performance patterns unique to EDS populations
+	•	Application of EDS-related datasets in workforce optimization, mission role assignment, or occupational health surveillance programs
+	•	Contractor or interagency collaboration on algorithmic profiling of EDS patients for risk assessment or operational deployment purposes
+
+Keywords: Ehlers–Danlos Syndrome, hypermobility, connective tissue disorder, predictive modeling, biometric monitoring, occupational profiling, performance forecasting, injury risk, DARPA, DoD, behavioral profiling, workforce optimization
