@@ -1,0 +1,51 @@
+To: Food and Drug Administration / National Institutes of Health / Department of Defense
+
+Request:
+
+Requesting any and all research proposals, internal communications, safety assessments, or contractor deliverables from 1990 to present concerning the integration of microelectronic, bioresonant, or biometric devices into fingernail or toenail applications in cosmetic or salon settings.
+
+This includes:
+	•	Studies on embedding conductive, resonant, or sensor materials into gel, acrylic, dip powder, or polish formulations
+	•	Research on microneedle or microfilament arrays applied to nail beds for biometric monitoring, signal reception, or localized stimulation
+	•	Evaluations of bioactive chemical agents in nail products intended to alter peripheral nerve sensitivity or signal transmission
+	•	Safety assessments or regulatory reviews of cosmetic procedures incorporating electronic or microstructural components for data collection or identification
+	•	Interagency or contractor communications regarding the use of cosmetic nail procedures for biomedical or defense-related applications
+
+Keywords: cosmetic microelectronics, nail bed biosensor, microneedle manicure, conductive gel polish, piezoelectric cosmetic application, biometric nail implant, salon-based biometric device, cosmetic bioresonance research
+
+
+///////////
+
+
+To: United States Patent and Trademark Office (USPTO) – Office of Patent Legal Administration
+
+Request:
+
+Requesting any and all patent filings, provisional applications, correspondence, or examiner notes from 1990 to present concerning devices, systems, or formulations designed to integrate microelectronic, bioresonant, or biometric functions into fingernail or toenail applications.
+
+This includes:
+	•	Patents describing the embedding of conductive, resonant, or sensor materials into gel, acrylic, dip powder, or nail polish formulations
+	•	Designs for microneedle or microfilament arrays intended for application to nail beds for biometric monitoring, signal reception, or localized stimulation
+	•	Formulations containing bioactive compounds for altering peripheral nerve conductivity or sensitivity in the nail bed
+	•	Cosmetic nail applications incorporating RFID, NFC, piezoelectric, or other wireless communication capabilities
+	•	USPTO examiner comments or correspondence noting potential defense, biomedical, or surveillance applications of nail-applied technologies
+
+Keywords: cosmetic biosensor, biometric nail implant, microneedle manicure, conductive gel polish, piezoelectric nail coating, RFID nail application, NFC nail technology, bioresonant cosmetic device
+
+
+/////////
+
+
+To WIPO (World Intellectual Property Organization) / PCT PATENTSCOPE / International Searching Authorities (EPO, JPO, KIPO, USPTO-ISA)
+
+Request:
+
+Requesting any and all publicly accessible PCT application files, international search reports (ISR), written opinions (WO/ISA), international preliminary reports on patentability (IPRP Ch. I/II), bibliographic data, cited prior art lists, and non‑confidential applicant/office correspondence from 1990 to present referencing the integration of microelectronic, bioresonant, or biometric functionality into fingernail or toenail cosmetic applications, including:
+	•	PCT applications describing conductive, resonant, sensor, RFID/NFC, or piezoelectric elements embedded in gel, acrylic, dip powder, or polish
+	•	Designs/methods for microneedle or microfilament arrays applied to nail beds for biometric monitoring, signal reception, stimulation, or identification
+	•	Formulations using bioactive agents intended to alter peripheral nerve sensitivity or conductivity in the nail bed for device interfacing
+	•	Methods for wireless power or data coupling through nail coatings, including UV/LED-cured layers as encapsulants or antennas
+	•	Classifications, abstracts, and file wrapper documents for regional/national phase entries corresponding to such PCT filings
+	•	Any WIPO-compiled technology landscape, analytics dashboards, or guidance notes summarizing trends in cosmetic or wearable nail-based sensors/devices
+
+Keywords: cosmetic biosensor, microneedle manicure, biometric nail implant, conductive gel polish, piezoelectric nail coating, RFID/NFC nail, resonant nail tag, wearable cosmetic electronics, PCT PATENTSCOPE, IPC A61/A45D
