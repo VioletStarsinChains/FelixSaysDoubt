@@ -42,3 +42,29 @@ Requesting any and all research proposals, contracts, internal communications, r
 	•	Any use of gravitational field manipulation technology for human performance modeling, risk assessment, or environmental safety evaluation
 
 Keywords: Ehlers–Danlos Syndrome, hypermobility, Postural Orthostatic Tachycardia Syndrome, POTS, connective tissue disorder, dysautonomia, gravitational gradient, artificial gravity, terrestrial microgravity, gravity simulation, variable gravity, environmental exposure, DARPA, NASA, DoD
+
+
+//////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / National Aeronautics and Space Administration (NASA) / U.S. Navy (NAVSEA / Office of Naval Research) / U.S. Air Force Research Laboratory (AFRL) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, reports, or contractor deliverables from 1990 to present referencing Ehlers–Danlos Syndrome (EDS), Postural Orthostatic Tachycardia Syndrome (POTS), or related connective tissue and autonomic disorders in the context of:
+	•	Simulated, altered, or variable gravity environments conducted on Earth (“terrestrial microgravity” or “artificial gravity” conditions)
+	•	Studies involving the physiological or behavioral impact of small changes in gravitational load, acceleration, or gravitational gradient, including induced gradients aboard naval or aerospace platforms
+	•	Medical or occupational health evaluations of individuals with EDS or POTS in centrifuge, parabolic flight, or field-generated variable-gravity environments
+	•	Research into circulatory, musculoskeletal, or neurological responses to gravitational variation in hypermobile or dysautonomia-affected populations
+	•	Interagency or contractor collaborations on environmental exposure testing where gravitational conditions are a controlled or independent variable
+	•	Contractor or subcontractor work related to “field-effect” physiology, gravity-gradient health impact assessments, or variable gravity control for human factors research
+
+Please include responsive materials from or referencing the following facilities, programs, or contractors, where applicable:
+	•	NASA Glenn Research Center – Variable Gravity Research Facility
+	•	DARPA Biological Systems Under Variable Acceleration studies
+	•	NAVSEA / ONR gravity gradient crew performance experiments
+	•	AFRL Human Performance Wing – centrifuge and field-effect trials
+	•	US Army Natick Labs environmental control research
+	•	Contractors including BAE Systems Advanced Technologies, SAIC, Honeywell Aerospace, and any subcontractors working on gravity-simulation or gravitational field-effect apparatus with biomedical applications
+
+Keywords: Ehlers–Danlos Syndrome, POTS, hypermobility, connective tissue disorder, dysautonomia, gravitational gradient, artificial gravity, terrestrial microgravity, variable gravity, environmental exposure, field-effect physiology, acceleration environment, human performance, DARPA, NASA, DoD, AFRL, NAVSEA, ONR
