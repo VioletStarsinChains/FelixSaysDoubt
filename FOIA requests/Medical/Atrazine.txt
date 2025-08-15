@@ -19,18 +19,16 @@ To: Environmental Protection Agency (EPA) / Centers for Disease Control and Prev
 
 Request:
 
-Requesting any and all reports, toxicological assessments, epidemiological studies, meeting minutes, internal communications, and contractor deliverables from 1990 to present regarding human health impacts of atrazine exposure, with particular attention to:
-	•	Endocrine disruption and hormonal imbalance in adults or children, including low-dose and chronic exposure effects
-	•	Reproductive and developmental impacts, such as changes in fertility, pregnancy outcomes, and congenital abnormalities
-	•	Neurological and neurobehavioral outcomes, including mood regulation, attention, and cognitive function
-	•	Immunological effects, including altered immune response and increased susceptibility to infectious or autoimmune disease
-	•	Carcinogenic potential associated with both acute and cumulative exposure levels
-	•	Presence and persistence of atrazine in public and private drinking water systems, including regional and seasonal variation in concentrations
-	•	Synergistic or combined effects of atrazine with other agricultural chemicals, fertilizers, or industrial contaminants
-	•	Population-specific vulnerability, including disproportionate exposure or health effects in rural agricultural communities, economically disadvantaged populations, and historically marginalized groups
-	•	Intergenerational effects from prenatal or early-life exposure, including epigenetic changes and developmental programming outcomes
+Requesting any and all reports, toxicological assessments, epidemiological studies, meeting minutes, internal communications, contractor deliverables, and grant-funded research from 1990 to present regarding the impacts of atrazine exposure on adolescent and young adult human populations, including but not limited to:
+	•	Endocrine disruption and alterations in sex hormone balance during puberty
+	•	Neurodevelopmental outcomes tied to hormonal changes, including mood regulation, stress resilience, and social behavior
+	•	Reproductive health indicators in individuals under age 25
+	•	Regional or demographic analyses correlating atrazine exposure with developmental milestones or health disparities in rural or agricultural communities
+	•	Longitudinal studies tracking identity-related health outcomes and psychosocial development in atrazine-exposed populations
+	•	Cross-referenced datasets linking environmental exposure levels with mental health, educational attainment, or community health indicators in adolescents
+	•	Research on cumulative or synergistic effects of atrazine with other agricultural chemicals, particularly in rural drinking water supplies
 
-Keywords: atrazine, endocrine disruption, reproductive toxicity, developmental toxicity, neurobehavioral effects, immune suppression, carcinogenicity, drinking water contamination, pesticide exposure, hormonal imbalance, aromatase activation, low-dose effects, cumulative exposure, environmental justice, health disparities, combined pesticide exposure, epigenetic effects
+Keywords: atrazine, endocrine disruption, puberty timing, adolescent neurodevelopment, hormonal imbalance, environmental exposure mapping, rural health disparities, reproductive health outcomes, psychosocial development, longitudinal cohort, cumulative pesticide exposure, environmental justice, community health indicators
 
 
 
