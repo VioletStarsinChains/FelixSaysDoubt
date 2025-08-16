@@ -1,36 +1,36 @@
-Water Table + Body Villains – Children’s Shoes Edition
+# Water Table + Body Villains – Children’s Shoes Edition
 
-I. Heavy Metals
+## I. Heavy Metals
 	•	Examples: Lead, cadmium, chromium VI, mercury
 	•	Sources: Leather tanning (especially chromium VI), pigments in synthetic materials, decorative paints, metal eyelets/buckles
 	•	Persistence: Permanent in environment; bioaccumulative in bodies
 	•	Risks: Neurotoxicity, kidney damage, developmental delays, skin sensitization (esp. chromium VI allergies)
 
-II. Plasticizers (Phthalates & Substitutes)
+## II. Plasticizers (Phthalates & Substitutes)
 	•	Examples: DEHP, DINP, DBP, BBP, DOTP
 	•	Sources: Flexible PVC parts (soles, logos, synthetic leather uppers)
 	•	Persistence: Long-lived in dust and sediments
 	•	Risks: Hormone disruption, reproductive toxicity
 
-III. Formaldehyde & VOCs
+## III. Formaldehyde & VOCs
 	•	Examples: Formaldehyde, benzene, toluene, xylene
 	•	Sources: Glues, adhesives, synthetic fabrics, foams
 	•	Persistence: Moderate; off-gas indoors, leach from landfill waste
 	•	Risks: Respiratory irritation, allergic contact dermatitis, cancer risk (formaldehyde)
 
-IV. PFAS (“Forever Chemicals”)
+## IV. PFAS (“Forever Chemicals”)
 	•	Examples: PFOA, PFOS, newer fluorinated repellents
 	•	Sources: Water-repellent coatings on shoe uppers, stain-resistant treatments
 	•	Persistence: Extremely mobile in water; almost indestructible
 	•	Risks: Hormone disruption, immune suppression, cancer
 
-V. Azo Dyes & Dye Breakdown Products
+## V. Azo Dyes & Dye Breakdown Products
 	•	Examples: Benzidine-based dyes, disperse dyes
 	•	Sources: Brightly colored textiles, synthetic linings
 	•	Persistence: Some break down into carcinogenic aromatic amines
 	•	Risks: Skin sensitization, cancer risk from prolonged exposure
 
-VI. Antimicrobial/Anti-odor Treatments
+## VI. Antimicrobial/Anti-odor Treatments
 	•	Examples: Triclosan, silver nanoparticles, quaternary ammonium compounds
 	•	Sources: Insoles, linings, treated fabrics
 	•	Persistence: Can migrate into water and soils; some bioaccumulate
@@ -38,35 +38,35 @@ VI. Antimicrobial/Anti-odor Treatments
 
 //////////
 
-Chemicals in Kids’ Shoes with Potential to Increase Suggestibility
+# Chemicals in Kids’ Shoes with Potential to Increase Suggestibility
 
-I. Heavy Metals (Lead, Cadmium, Mercury)
+## I. Heavy Metals (Lead, Cadmium, Mercury)
 	•	Mechanism: Interfere with neurotransmitter systems (dopamine, glutamate, GABA) and synaptic plasticity; impair executive function and impulse control.
 	•	Possible Effect: Reduced critical thinking, heightened distractibility, increased susceptibility to external cues or emotional manipulation.
 	•	Evidence: Lead exposure in children is linked to poorer judgment, greater impulsivity, and increased vulnerability to peer influence.
 
-II. Phthalates (DEHP, DINP, DBP)
+## II. Phthalates (DEHP, DINP, DBP)
 	•	Mechanism: Endocrine disruption, particularly lowering testosterone and altering thyroid hormone levels; influences brain development and stress response.
 	•	Possible Effect: Changes in risk perception, attention regulation, and social dominance/submission behaviors.
 	•	Evidence: Some studies show prenatal and early childhood phthalate exposure correlates with increased emotional reactivity and reduced working memory.
 
-III. PFAS (“Forever Chemicals”)
+## III. PFAS (“Forever Chemicals”)
 	•	Mechanism: Interfere with thyroid hormones and glucocorticoid regulation; can cross the blood–brain barrier.
 	•	Possible Effect: Blunted stress resilience, increased fatigue, altered sleep patterns — all factors that can make someone more suggestible.
 	•	Evidence: Epidemiological links between PFAS exposure and anxiety/depression symptoms; animal studies show learning/memory impairments.
 
-IV. Formaldehyde & VOCs
+## IV. Formaldehyde & VOCs
 	•	Mechanism: Acute exposure can impair oxygen transport and cause low-grade neuroinflammation; chronic exposure may disrupt mood stability.
 	•	Possible Effect: Brain fog and reduced capacity for sustained attention may lower defenses against persuasion or manipulation.
 	•	Evidence: Indoor air quality research shows VOC exposure is linked to poorer decision-making in controlled tests.
 
-V. Heavy-Dye Aromatic Amines (from Azo Dye Breakdown)
+## V. Heavy-Dye Aromatic Amines (from Azo Dye Breakdown)
 	•	Mechanism: Less directly studied for neurobehavioral effects, but certain aromatic amines are neurotoxic in animal models.
 	•	Possible Effect: May subtly impair sensory processing or mood stability over time, especially with chronic skin contact.
 
 ⸻
 
-Why kids are at greater risk:
+*Why kids are at greater risk:*
 	•	Higher absorption: Thinner skin and faster breathing rates increase uptake.
 	•	Rapid brain development: Neurological pathways for critical thinking and self-regulation are still forming.
 	•	Longer exposure window: They’ll carry cumulative effects further into life.
