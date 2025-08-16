@@ -63,3 +63,28 @@ This includes:
 	•	Internal agency assessments or ethics reviews evaluating privacy, consent, or behavioral manipulation risks related to Medtronic–Palantir integration
 
 Keywords: Medtronic, Palantir, Foundry, Gotham, Tiberius, behavioral modeling, implantable telemetry, loop recorder, vagus nerve stimulator, neuromodulation, DARPA, BARDA, Colorado, surveillance infrastructure, predictive compliance
+
+
+/////////
+
+
+To: Department of Health and Human Services (HHS) / Biomedical Advanced Research and Development Authority (BARDA) / Defense Advanced Research Projects Agency (DARPA) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all contracts, research proposals, grant records, internal communications, vendor agreements, or ethics reviews from 2005 to present involving Medtronic’s Ireland- or India-based facilities in connection with:
+	•	Behavioral modeling
+	•	Implantable telemetry
+	•	Neurostimulation or neuromodulation
+	•	Predictive analytics systems
+	•	Compliance monitoring or psychophysiological segmentation
+
+This includes:
+	•	Documents referencing Medtronic Ireland or Medtronic India as manufacturing, research, or data processing hubs for U.S. government-funded projects
+	•	Communications discussing IP routing, clinical trial support, or behavioral research coordination through overseas subsidiaries
+	•	Records of DARPA- or BARDA-funded programs using data from devices produced or managed by Medtronic overseas
+	•	Use of Indian clinical populations or Irish R&D facilities in pre-market testing or post-market behavioral analytics pipelines
+	•	Documentation of any agreements with AI vendors (e.g., Palantir, Oracle) for integration of Medtronic telemetry data originating from Ireland or India
+	•	Ethical reviews or contractor audits noting risk factors associated with foreign population testing or offshored behavioral research models
+
+Keywords: Medtronic Ireland, Medtronic India, behavioral modeling, implantable telemetry, loop recorder, vagus nerve stimulator, neuromodulation, BARDA, DARPA, offshoring, foreign clinical trials, AI integration, predictive compliance, digital therapeutics
