@@ -1,3 +1,27 @@
+To: National Archives and Records Administration (NARA)
+
+Request:
+
+Requesting any finding aids, indexes, or descriptions of holdings from 1998–2001 that reference the Year 2000 (Y2K) event in connection with:
+	•	Public behavior or communication before, during, and after January 1, 2000
+	•	Infrastructure performance or incident reports from telecommunications, energy, transportation, or financial systems
+	•	Interagency coordination for Y2K response and continuity of operations
+	•	Contractor reports or datasets relating to behavioral analysis, contingency planning, or environmental monitoring during the Y2K event period
+
+Please include descriptions of any relevant collections originating from:
+	•	Department of Defense (DoD)
+	•	Defense Advanced Research Projects Agency (DARPA)
+	•	Department of Homeland Security (DHS) or predecessor agencies
+	•	Federal Emergency Management Agency (FEMA)
+	•	Department of Commerce (DOC)
+	•	National Aeronautics and Space Administration (NASA)
+
+Keywords: Year 2000, Y2K, behavioral modeling, infrastructure stress test, population response, system performance, contingency planning, environmental monitoring, DARPA, DoD, FEMA, DHS, NASA
+
+
+/////////
+
+
 To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Homeland Security (DHS) / Federal Emergency Management Agency (FEMA) / Department of Commerce (DOC) / National Aeronautics and Space Administration (NASA) / National Archives and Records Administration (NARA)
 
 Request:
