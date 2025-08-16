@@ -74,3 +74,20 @@ This includes:
 Keywords: Dexcom, CGM, continuous glucose monitor, non-diabetic, behavioral modeling, PTSD, emotional regulation, Verily, Onduo, Medicare billing, Medicaid, predictive diagnostics, psychophysiological reimbursement
 
 
+///////////
+
+
+To: Small Business Administration (SBA) / Department of Defense (DoD) / National Institutes of Health (NIH)
+
+Request:
+
+Requesting any and all SBIR (Small Business Innovation Research) or STTR (Small Business Technology Transfer) grant records, applications, project summaries, or communications involving Dexcom, Verily, or Onduo, from 2008 to present.
+
+This includes:
+	•	Awarded grants involving behavioral monitoring, emotional regulation, or integration of physiological telemetry with digital interfaces
+	•	Proposals using CGM platforms for non-diabetic use cases, including military, psychiatric, or predictive health applications
+	•	Submissions referencing biosensors, psychophysiological modeling, or affective computing as part of wearable technology platforms
+	•	Collaborations between Dexcom/Verily and university research labs, defense contractors, or mental health agencies
+	•	Any language in grant abstracts or review comments referencing dual-use, surveillance, or population-level monitoring potential
+
+Keywords: Dexcom, Verily, Onduo, SBIR, STTR, wearable biosensor, behavioral telemetry, CGM, affective computing, neurotech, small business grant, DARPA, NIH, SBA
