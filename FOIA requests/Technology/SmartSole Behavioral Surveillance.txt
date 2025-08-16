@@ -13,3 +13,23 @@ This includes:
 	•	Integration of SmartSole data with predictive modeling, electronic health records, or AI behavioral analysis platforms
 
 Keywords: SmartSole, GPS insole, wearable tracking, behavioral surveillance, geofencing, non-consensual monitoring, VA compliance, CMS reimbursement, neurodivergent tracking, digital leash, psych telematics, elder tech, location-based risk score
+
+
+///////
+
+
+To: U.S. Department of Education / Office of Juvenile Justice and Delinquency Prevention (OJJDP) / Department of Health and Human Services (HHS) / State Departments of Education and Child Protective Services
+
+Request:
+
+Requesting any and all documents, communications, pilot programs, grant applications, or procurement records referencing the use or proposed use of SmartSole or similar GPS-enabled footwear tracking devices in school systems, juvenile justice programs, or child protective services from 2010 to present.
+
+This includes:
+	•	Contracts or MOUs between public schools, juvenile detention centers, or CPS and SmartSole or its distributors
+	•	Pilot programs targeting neurodivergent, truant, or behaviorally “at-risk” children
+	•	Grant-funded proposals to implement wearable tracking devices under the guise of safety or behavioral compliance
+	•	Communications referencing geofencing, compliance scoring, or early intervention modeling tied to GPS data
+	•	Reports on psychological impact, adverse events, or parental objections regarding covert or coercive tracking
+	•	Discussions of SmartSole data integration with predictive analytics platforms or school safety dashboards
+
+Keywords: SmartSole, GPS tracking, student monitoring, behavioral telemetry, juvenile court, truancy, autism surveillance, geofencing, child compliance device, CPS wearable, predictive student modeling, psych telematics, non-consensual tracking
