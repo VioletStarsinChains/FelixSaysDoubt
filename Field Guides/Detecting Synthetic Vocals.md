@@ -7,64 +7,86 @@
 ## 1. Room Tone & Acoustic Signature
 
 Real recordings carry the fingerprint of the space they’re made in. Listen for:
-	•	Decay pattern – Does reverb tail off naturally or in a too-perfect curve?
-	•	Reflections – Are there subtle early echoes from nearby surfaces? Synthetic audio often misses these or overdoes them.
-	•	Inconsistencies – Compare to earlier works. If the artist recorded in the same room for years, the “space” should sound the same.
+
+•	Decay pattern – Does reverb tail off naturally or in a too-perfect curve?
+
+•	Reflections – Are there subtle early echoes from nearby surfaces? Synthetic audio often misses these or overdoes them.
+
+•	Inconsistencies – Compare to earlier works. If the artist recorded in the same room for years, the “space” should sound the same.
 
 
 
 ## 2. Noise Floor Character
 
 Every mic + preamp + environment has a unique background texture:
-	•	Analog hiss – Soft, natural, and slightly uneven hiss is harder to fake.
-	•	Electrical hums – 50/60 Hz hums, HVAC whooshes, or faint traffic can be telltales.
-	•	Uniform silence – A perfectly silent background can be a red flag if the artist’s old recordings never had that.
+
+•	Analog hiss – Soft, natural, and slightly uneven hiss is harder to fake.
+
+•	Electrical hums – 50/60 Hz hums, HVAC whooshes, or faint traffic can be telltales.
+
+•	Uniform silence – A perfectly silent background can be a red flag if the artist’s old recordings never had that.
 
 
 
 ## 3. Mic Placement & Movement
 
 Humans rarely hold perfectly still:
-	•	Proximity effect changes – When the singer leans closer, bass frequencies rise; if this never changes, it may be synthetic.
-	•	Head turns – Listen for panning shifts or changes in reverb as they move.
-	•	Breath placement – Real breath sounds vary in distance and tone; AI breath often sounds uniform or misplaced.
+
+•	Proximity effect changes – When the singer leans closer, bass frequencies rise; if this never changes, it may be synthetic.
+
+•	Head turns – Listen for panning shifts or changes in reverb as they move.
+
+•	Breath placement – Real breath sounds vary in distance and tone; AI breath often sounds uniform or misplaced.
 
 
 
 ## 4. Performance Imperfections
 
 Synthetic vocals often smooth out the human quirks:
-	•	Pitch microvariations – Perfectly straight notes = possible processing.
-	•	Timing drift – Real humans may hit notes slightly ahead or behind the beat.
-	•	Emotional push – Sudden changes in volume or tone mid-phrase are hard to model convincingly.
+
+•	Pitch microvariations – Perfectly straight notes = possible processing.
+
+•	Timing drift – Real humans may hit notes slightly ahead or behind the beat.
+
+•	Emotional push – Sudden changes in volume or tone mid-phrase are hard to model convincingly.
 
 
 
 ## 5. Sub-Threshold Resonances
 
 Deep background cues a casual listener might miss:
-	•	Low-frequency bumps – Footsteps, chair creaks, or mic stand vibrations.
-	•	Instrument bleed – Slightly audible keys clicking, guitar fret squeaks, or room resonance from other sources.
-	•	Body resonance – You can sometimes “hear” the singer’s chest cavity or jaw shape subtly influencing the tone.
+
+•	Low-frequency bumps – Footsteps, chair creaks, or mic stand vibrations.
+
+•	Instrument bleed – Slightly audible keys clicking, guitar fret squeaks, or room resonance from other sources.
+
+•	Body resonance – You can sometimes “hear” the singer’s chest cavity or jaw shape subtly influencing the tone.
 
 
 
 ## 6. Comparative Listening
 
 To confirm suspicion:
-	1.	Play an old verified track and a new suspicious one back-to-back.
-	2.	Focus only on the space and background, ignoring the vocal timbre at first.
-	3.	Switch focus to vocal imperfections — is the voice too controlled?
-	4.	If possible, run a spectral analysis to compare noise floors and reverb tails.
+
+1.	Play an old verified track and a new suspicious one back-to-back.
+
+2.	Focus only on the space and background, ignoring the vocal timbre at first.
+
+3.	Switch focus to vocal imperfections — is the voice too controlled?
+
+4.	If possible, run a spectral analysis to compare noise floors and reverb tails.
 
 
 
 ## 7. Document & Archive
 
 If you suspect tampering:
-	•	Save high-quality copies before platforms “update” them.
-	•	Note timestamps and specific sonic anomalies.
-	•	Cross-reference with known industry AI releases or posthumous reconstructions.
+
+•	Save high-quality copies before platforms “update” them.
+
+•	Note timestamps and specific sonic anomalies.
+
+•	Cross-reference with known industry AI releases or posthumous reconstructions.
 
 
 
