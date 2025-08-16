@@ -39,3 +39,27 @@ This includes:
 	•	References to third-party AI vendors (e.g., Palantir, Oracle) integrating data from Medtronic telemetry systems into behavioral risk scoring, digital ID infrastructure, or public health compliance models
 
 Keywords: Medtronic, implantable telemetry, loop recorder, vagus nerve stimulator, neurotech, behavioral modeling, neuromodulation, DARPA, BARDA, surveillance infrastructure, offshore manufacturing, predictive compliance, population monitoring
+
+
+//////////
+
+
+To: Department of Health and Human Services (HHS) / Biomedical Advanced Research and Development Authority (BARDA) / Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all internal communications, project documentation, contracts, grant records, or research proposals from 2008 to present involving collaborations, data integration, or platform interoperability between Medtronic and Palantir Technologies, particularly in the context of:
+	•	Implantable or wearable telemetry systems
+	•	Behavioral modeling
+	•	Neurostimulation or neuromodulation devices
+	•	Surveillance or compliance infrastructure
+
+This includes:
+	•	Communications referencing joint use of Medtronic device data (e.g., loop recorders, neural stimulators, wearable monitors) within Palantir platforms such as Foundry, Gotham, or Tiberius
+	•	Discussions of behavioral risk modeling, psychometric profiling, or public health segmentation using data originating from Medtronic implants
+	•	References to Colorado-based facilities or teams, including project staging, integration testing, or regional contract fulfillment
+	•	Federal pilot programs in which Palantir dashboards visualized or modeled physiological data collected via Medtronic systems
+	•	Any data-sharing agreements, API integrations, or technical documentation linking Medtronic telemetry outputs with Palantir analytics tools
+	•	Internal agency assessments or ethics reviews evaluating privacy, consent, or behavioral manipulation risks related to Medtronic–Palantir integration
+
+Keywords: Medtronic, Palantir, Foundry, Gotham, Tiberius, behavioral modeling, implantable telemetry, loop recorder, vagus nerve stimulator, neuromodulation, DARPA, BARDA, Colorado, surveillance infrastructure, predictive compliance
