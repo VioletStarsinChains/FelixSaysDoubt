@@ -112,3 +112,26 @@ This includes:
 
 Keywords: Medtronic Ireland, Medtronic India, neuromodulation, implantable telemetry, behavioral side effects, loop recorder, vagus nerve stimulation, psych monitoring, foreign clinical data, FDA inspection, post-market surveillance, CDRH, cognitive endpoints
 
+
+/////////
+
+
+To: Defense Advanced Research Projects Agency (DARPA) / Biomedical Advanced Research and Development Authority (BARDA) / Department of Health and Human Services (HHS)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, site assessments, or security protocols from 2005 to present referencing Medtronic facilities used for:
+	•	Behavioral modeling or neurocognitive research
+	•	Psychological or psychophysiological testing
+	•	Implantable telemetry calibration or live subject trials
+	•	Covert ingress/egress protocols, including vehicle light suppression, headlight restrictions, or visibility shielding
+
+This includes:
+	•	DARPA- or BARDA-funded programs involving Medtronic sites with controlled access protocols or modified vehicular procedures
+	•	Security documentation referencing participant or personnel anonymity, including obscured surveillance zones or light discipline signage
+	•	Internal communications or facility design plans referencing testing chambers, sensory isolation rooms, or behavioral modulation infrastructure
+	•	Contractor or subcontractor access procedures that required subjects, staff, or visitors to limit external traceability (e.g., no headlights, badge suppression, privacy routing)
+	•	Risk assessments or ethics board reviews discussing the psychological impact or behavioral side effects of protocols used at these sites
+	•	Any references to the Fridley, MN campus or former Medtronic facilities in Colorado, Ireland, or India that employed covert visibility controls
+
+Keywords: Medtronic, light discipline, covert ingress, behavioral testing, telemetry calibration, neurocognitive research, DARPA, BARDA, restricted access, anonymity protocol, psychophysiological trial site, Fridley campus, surveillance avoidance
