@@ -1,0 +1,16 @@
+To: Department of Health and Human Services (HHS) / Food and Drug Administration (FDA) / Centers for Disease Control and Prevention (CDC) / National Institutes of Health (NIH) / Biomedical Advanced Research and Development Authority (BARDA)
+
+Request:
+
+Requesting any and all documents, trial protocols, internal communications, contractor agreements, or outcome reports from 2019 to present related to comparative research on U.S.-approved COVID-19 vaccine platforms, including mRNA (Pfizer, Moderna), protein subunit (Novavax), and viral vector (Johnson & Johnson) vaccines.
+
+This includes:
+	•	Comparative studies examining differences in immune response durability, inflammatory profiles, or neurological outcomes across vaccine types
+	•	Behavioral or psychiatric correlates tracked alongside immunological data in trial participants
+	•	Head-to-head trials evaluating platform-specific effects in subpopulations (e.g., autoimmune, neurodivergent, immunocompromised)
+	•	Post-market surveillance comparing long-term physiological or behavioral impacts of each vaccine category
+	•	Internal analyses or third-party audits assessing adverse event patterns by vaccine platform
+	•	Communications regarding data sharing agreements between vaccine manufacturers, HHS, and AI modeling platforms
+	•	Any stratification protocols or behavioral segmentation methodologies used in platform comparisons
+
+Keywords: Pfizer, Moderna, Johnson & Johnson, Novavax, mRNA, protein subunit, viral vector, comparative trial, post-market surveillance, neuroinflammation, behavioral outcome, vaccine platform, BARDA, FDA, CDC
