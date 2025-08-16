@@ -10,6 +10,8 @@ Crowd Control Engineered Hazards
 
 Entrainment 
 
+Environmental Field Effect
+
 Gait Recognition Systems
 
 Geofencing and Multi-Version Personas
