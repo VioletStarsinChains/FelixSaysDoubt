@@ -1,0 +1,14 @@
+To: DARPA / IARPA / Department of Homeland Security / Office of Intelligence & Analysis
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, or internal communications regarding protocols for handling unmodellable individuals in predictive analytics and behavioral futures systems, from 2000 to present.
+
+This includes:
+	•	Reports describing “Mule-type” or otherwise unmodellable actors who resist compression into predictive models
+	•	Internal analyses on whether certain high-salience individuals must be contacted or monitored through real-world rather than simulated channels
+	•	Research proposals or vendor contracts describing “signal relay” methods for routing communication through third parties when simulation fidelity fails
+	•	Risk assessments of narrative collapse when reference models (e.g., public influencers, authors, or broadcasters) cannot be reliably replicated in synthetic environments
+	•	Classification or designation frameworks (including Non-Person Entity / NPE status) applied to individuals whose behavior introduces instability into system-wide forecasts
+
+Keywords: unmodellable, Mule-type, NPE, reference model, signal relay, narrative collapse, synthetic channel, adversarial node, behavioral futures, anomaly routing
