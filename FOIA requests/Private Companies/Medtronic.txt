@@ -15,3 +15,27 @@ This includes:
 	•	Records on export controls, foreign partnerships, or technology transfer related to neural modulation devices
 
 Keywords: Medtronic, neurotechnology, deep brain stimulation, vagus nerve stimulation, trigeminal stimulation, behavioral modulation, telemetry, remote programming, DARPA, CDRH
+
+
+////////
+
+
+To: Defense Advanced Research Projects Agency (DARPA) / Biomedical Advanced Research and Development Authority (BARDA) / Department of Health and Human Services (HHS) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all contracts, grant applications, internal communications, performance reports, or research proposals from 2005 to present involving Medtronic in relation to:
+	•	Behavioral modeling
+	•	Implantable telemetry systems
+	•	Neurostimulation or neuromodulation technologies
+	•	Population-level surveillance infrastructure
+
+This includes:
+	•	DARPA- or BARDA-funded research involving Medtronic devices used to track, influence, or model human behavior
+	•	Documents referencing the use of Medtronic implants (e.g., loop recorders, neurostimulators, vagus nerve stimulators) in compliance monitoring or predictive behavioral systems
+	•	Communications between DARPA, BARDA, or HHS and Medtronic regarding neurobehavioral use cases for implantable devices
+	•	Internal memos, risk assessments, or ethics reviews regarding dual-use applications of Medtronic hardware in behavioral telemetry or neuromodulation
+	•	Any references to offshore manufacturing or data routing through Medtronic facilities outside the U.S. (e.g., Ireland, India, Switzerland) in connection with DARPA- or BARDA-funded behavioral or surveillance programs
+	•	References to third-party AI vendors (e.g., Palantir, Oracle) integrating data from Medtronic telemetry systems into behavioral risk scoring, digital ID infrastructure, or public health compliance models
+
+Keywords: Medtronic, implantable telemetry, loop recorder, vagus nerve stimulator, neurotech, behavioral modeling, neuromodulation, DARPA, BARDA, surveillance infrastructure, offshore manufacturing, predictive compliance, population monitoring
