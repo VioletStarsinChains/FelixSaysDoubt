@@ -1,10 +1,10 @@
-Quick Reference: Fabricated Persona vs. Real Person + AR Overlay
+# Quick Reference: Fabricated Persona vs. Real Person + AR Overlay
 
 
 
-Reality Check: Quick Field Guide
+*Reality Check: Quick Field Guide*
 
-Step 1 – Physical Presence
+## Step 1 – Physical Presence
 	•	Touch test: Handshake, object pass.
 	•	No tactile feedback → fabricated likely.
 	•	Normal feel → real + overlay.
@@ -16,7 +16,7 @@ Step 1 – Physical Presence
 
 ⸻
 
-Step 2 – Transactions
+## Step 2 – Transactions
 	•	Cash/goods exchange:
 	•	Physical, functional items → real + overlay.
 	•	Independent sightings:
@@ -24,7 +24,7 @@ Step 2 – Transactions
 
 ⸻
 
-Step 3 – Behavior
+## Step 3 – Behavior
 	•	Conversation flow:
 	•	Odd lag/relay feel → fabricated likely.
 	•	Normal pace → real + overlay.
@@ -33,20 +33,20 @@ Step 3 – Behavior
 
 ⸻
 
-Step 4 – Overlay Tells
+## Step 4 – Overlay Tells
 	•	Visual “off” but sound/touch/smell are consistent → overlay.
 	•	Proportions feel wrong for how they interact with space → overlay.
 	•	Familiar gestures leak through altered face/clothes → overlay.
 
 ⸻
 
-Step 5 – Fabrication Tells
+## Step 5 – Fabrication Tells
 	•	Lighting/shadows don’t match environment.
 	•	Physics anomalies (floating, no weight).
 	•	No footprint outside curated interactions.
 
 ⸻
 
-Rule of Thumb:
+**Rule of Thumb:**
 	•	Consistent multisensory presence + real-world outcomes = Real person, altered appearance
 	•	Inconsistent sensory input + no verifiable existence = Fabricated persona
