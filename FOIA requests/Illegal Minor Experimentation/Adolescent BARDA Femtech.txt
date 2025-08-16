@@ -1,0 +1,15 @@
+To: Department of Health and Human Services (HHS) / Office of Population Affairs (OPA) / Centers for Disease Control and Prevention (CDC) / Biomedical Advanced Research and Development Authority (BARDA)
+
+Request:
+
+Requesting any and all records, contracts, communications, research proposals, or pilot programs from 2015 to present involving the collection, modeling, or third-party analysis of menstrual, hormonal, or fertility data from adolescent users (under age 18) via commercial apps or digital health platforms.
+
+This includes:
+	•	Records referencing adolescent data collected by femtech platforms such as Flo Health, Clue, Ava, Oura Ring, Apple Health, or Natural Cycles
+	•	Research involving hormonal or menstrual data as a predictive indicator of behavioral risk, educational performance, or mental health status in adolescent populations
+	•	Internal reports on adolescent user behavior patterns inferred from cycle tracking, wearable telemetry, or hormonal biometrics
+	•	Communications between BARDA (or BARDA DRIVe) and digital health companies regarding minors as behaviorally sensitive cohorts
+	•	Programs using cycle irregularity, suppression, or symptom reporting as a signal of post-vaccine reaction, stress response, or compliance deviation
+	•	Records discussing parental consent waivers, school-based onboarding, or Medicaid-funded femtech access for underage users
+
+Keywords: adolescent femtech, menstrual tracking minors, teen hormonal data, digital health surveillance, BARDA, behavioral modeling, cycle irregularity, fertility data, puberty monitoring, Apple Health minors, Flo Health teens, psychometric segmentation, wearable compliance
