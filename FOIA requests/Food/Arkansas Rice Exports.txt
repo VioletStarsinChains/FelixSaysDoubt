@@ -17,3 +17,22 @@ This includes:
 	•	Any intergovernmental negotiations or trade disputes between U.S. and China concerning contaminant levels in Arkansas rice, including waivers, exceptions, or downgrading of standards
 
 Keywords: Arkansas rice, rice exports, arsenic contamination, heavy metals, Riceland Foods, cotton field residues, food safety, geofenced distribution, behavioral modeling, China, USDA, FDA
+
+
+To USDA (AMS / FAS / ARS) / FDA / EPA / Department of Commerce (ITA) / DHS–CBP / USTR
+
+Request:
+
+Requesting any and all records, trade data, contracts, communications, modeling outputs, or investigative files concerning the diversion and reallocation of Arkansas-grown rice and other U.S. rice exports following the imposition of U.S.–China tariffs (2018 to present). Particular emphasis on arsenic contamination, destination market shifts, and environmental/health monitoring in recipient regions.
+
+This includes:
+	•	Records of export volumes, destinations, and re-routing patterns for Arkansas rice (including milled rice, rough rice, rice bran, hulls, and flour fractions) from 2018–present after China ceased large-scale purchases
+	•	Trade compliance filings, Certificates of Analysis, phytosanitary certificates, and residue testing performed for diverted shipments into Africa, Middle East, Southeast Asia, or domestic secondary markets
+	•	Interagency communications, risk assessments, or memoranda on the contaminant load of diverted rice (arsenic, cadmium, lead, mercury), and whether shifting markets created new health risks
+	•	Laboratory reports and surveillance studies on arsenic content in gluten-free or processed food products (rice flour, cereals, snacks) that may have absorbed redirected Arkansas rice
+	•	Records of federal contractor work (e.g., Palantir Technologies, Accenture Federal Services, Deloitte, Booz Allen Hamilton) analyzing supply-chain redirection, geofenced distribution, or health surveillance tied to diverted rice flows
+	•	Trade dispute filings, tariff adjustment documents, or intergovernmental negotiations reflecting concerns about residue levels in redirected rice exports
+	•	Guidance, reports, or incident files on the environmental dispersal of arsenic through rice byproducts used as animal feed, fertilizer, or compost inputs in new receiving markets
+	•	Any pilot projects, modeling dashboards, or white papers evaluating comparative health outcomes between pre-tariff Chinese consumer cohorts and post-tariff receiving populations
+
+Keywords: Arkansas rice, rice diversion, rice exports, China tariffs, arsenic contamination, heavy metals, rice flour, animal feed, soil amendment, geofenced distribution, behavioral modeling, surplus disposal, USDA, FDA
