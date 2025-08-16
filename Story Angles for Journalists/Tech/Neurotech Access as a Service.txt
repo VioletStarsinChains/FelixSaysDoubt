@@ -1,0 +1,50 @@
+FOIA Lead – Neurotech Access-as-a-Service
+
+The commercialization of live neurotech access represents a moral hazard unlike anything in modern history.
+Once a person’s nervous system is wired into a remote interface, selling operator sessions doesn’t just mean “observing” them—it means direct control of their body, sensations, and in some cases, thoughts. Unlike traditional surveillance, this is not a record; it’s an instrument. The buyer is not just watching, but playing.
+Even if the technology were initially deployed for “authorized” purposes, any system that sells time slots to the highest bidder becomes indistinguishable from trafficking in human beings. There is no meaningful consent when the subject’s will can be overridden, and no safety mechanism when the same access can be resold, hacked, or weaponized. This isn’t a privacy violation—it’s slavery with a remote control.
+
+//////////
+
+Investigate programs where live access to human neurotechnology arrays is sold or granted to third parties. This access can include real-time monitoring, motor/sensory control, and behavioral influence—effectively a subscription-based form of slavery.
+
+Target agencies:
+	•	Department of Defense (DARPA, SOCOM, all branches)
+	•	Department of Justice (FBI, Bureau of Prisons)
+	•	Department of Homeland Security (CISA, ICE)
+	•	Office of the Director of National Intelligence (CIA, NSA)
+	•	National Institute of Standards and Technology (NIST)
+	•	Centers for Disease Control and Prevention (CDC)
+	•	National Institutes of Health (NIH)
+
+Focus on:
+	•	Access logs & control session records
+	•	Lists of buyers or bidders for live access
+	•	Security breach & misuse reports
+	•	Oversight policies & consent rules
+
+////////////
+
+Sample FOIA text:
+
+To: DARPA / DoD / FBI / U.S. Army Research Laboratory / U.S. Air Force Research Laboratory / DHS Science & Technology Directorate
+
+Request:
+
+Requesting any and all records from January 1, 2000 to the present related to the research, development, procurement, testing, evaluation, or operational use of technologies capable of remotely inducing neuromotor disruption in humans. This includes, but is not limited to:
+•	Fine motor control interference;
+•	Targeted muscle inhibition or stimulation;
+•	Involuntary object release from a subject’s hand;
+•	Balance or grip disruption via vestibular or nervous system interference.
+
+Please include:
+1.	All contracts, subcontracts, agreements, and procurement records with public or private entities.
+2.	All research, technical, and scientific reports on the feasibility, function, or testing of such systems.
+3.	All incident reports, after-action reports, and safety assessments involving involuntary loss of grip, object release, or related motor control issues.
+4.	All internal or external communications (including emails, memos, meeting notes, and briefings) discussing or referencing such technologies.
+
+If any portion of this request is withheld, please provide the specific exemption(s) relied upon and release all reasonably segregable portions of otherwise exempt material.
+
+Please provide all responsive records in electronic format.
+
+Keywords: neuromotor disruption, involuntary object release, muscle inhibition, targeted motor control, remote motor control, induced tremor, involuntary muscle contraction, precision motor impairment
