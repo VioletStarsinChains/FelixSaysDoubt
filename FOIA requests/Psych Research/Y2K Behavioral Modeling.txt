@@ -37,3 +37,24 @@ This includes:
 	•	Post-event reports evaluating Y2K as a large-scale live trial for crisis communication, public compliance, or environmental safety measures
 
 Keywords: Year 2000, Y2K, behavioral modeling, infrastructure stress test, population response, system performance, environmental variation, gravitational gradient, electromagnetic environment, contingency planning, human domain effects, DARPA, DoD, FEMA, DHS, NASA
+
+
+//////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Homeland Security (DHS) / Federal Emergency Management Agency (FEMA) / Department of Commerce (DOC) / National Archives and Records Administration (NARA)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, reports, datasets, or contractor deliverables from 1998 to 2003 referencing comparative analysis of public behavior, infrastructure performance, or environmental conditions between the Year 2000 (Y2K) event and the September 11, 2001 terrorist attacks.
+
+This includes:
+	•	Studies or reports comparing population behavior (e.g., purchasing patterns, travel, communication volume, or compliance with official directives) across both events
+	•	Analyses of infrastructure resilience or failure modes during Y2K and 9/11, including telecommunications, energy, transportation, and financial systems
+	•	Behavioral modeling projects using Y2K and 9/11 as sequential datasets for predictive modeling of public response to crisis scenarios
+	•	Reports on public messaging effectiveness and information dissemination strategies across the two events
+	•	Interagency or contractor collaborations examining psychological, physiological, or environmental monitoring data collected during both periods
+	•	Any evaluations framing Y2K and 9/11 as part of a continuous research or operational testing sequence
+
+Keywords: Year 2000, Y2K, September 11, 9/11, comparative analysis, behavioral modeling, infrastructure performance, crisis response, public compliance, predictive modeling, environmental monitoring, DARPA, DoD, FEMA, DHS
+
