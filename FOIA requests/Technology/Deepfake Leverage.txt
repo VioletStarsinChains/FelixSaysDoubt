@@ -1,0 +1,14 @@
+To: Department of Justice / Federal Bureau of Investigation / Office of the Director of National Intelligence
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, or internal communications regarding the creation, use, or mitigation of synthetic blackmail material (including fabricated audiovisual or behavioral records) as applied to high-profile technology executives, from 2005 to present.
+
+This includes:
+	•	Reports on the use of deepfake or simulated material for leverage, influence, or compliance in leadership contexts
+	•	Internal analyses of risks posed by fabricated kompromat in destabilizing corporate governance of AI companies
+	•	Communications describing scenarios in which sibling, family, or close-associates of executives were included in synthetic blackmail datasets
+	•	Vendor contracts or research proposals for “synthetic adversarial content” or “plausible kompromat” generation tools
+	•	Risk/benefit assessments of using synthetic blackmail as a behavioral control mechanism versus the danger of public exposure
+
+Keywords: synthetic blackmail, kompromat, deepfake, adversarial content, executive leverage, familial associate, behavioral compliance, AI leadership, narrative injection, governance risk
