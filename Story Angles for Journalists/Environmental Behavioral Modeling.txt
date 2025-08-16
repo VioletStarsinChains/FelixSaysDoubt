@@ -1,4 +1,6 @@
-Tip: File a FOIA with the EPA asking whether, during Deputy Director Stan Meiburg’s tenure, environmental data was quietly repurposed for behavioral prediction. The request looks for reports or contracts linking air, water, or soil quality to cognitive or compliance outcomes, and for communications with defense agencies about “synthetic ecology” — environmental simulations used to anticipate social stability. On paper it’s just environmental science, but if true, it suggests the EPA may have been feeding pollution and ecosystem data into the same behavioral futures markets that now shape surveillance and AI.
+Tip: a FOIA with the EPA covering Deputy Director Stan Meiburg’s 40-year tenure, asking whether environmental monitoring data — pollution, water quality, soil chemistry — was ever shared with defense or intelligence agencies as input for behavioral prediction models. The request looks for records on “synthetic ecology,” where environmental datasets were used not just to track ecosystems but to anticipate human stability and compliance. If those links exist, it would mean that for decades the EPA wasn’t only regulating pollution — it may have been feeding into the same behavioral futures systems now guiding AI and surveillance.
+
+//////////
 
 Sample FOIA text:
 
