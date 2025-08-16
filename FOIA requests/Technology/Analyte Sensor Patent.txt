@@ -1,0 +1,19 @@
+To: Defense Advanced Research Projects Agency (DARPA) / Department of Defense (DoD) / U.S. Patent and Trademark Office (USPTO)
+
+Request:
+
+Requesting any and all documents, communications, grant records, contracts, internal memos, or partnership agreements referencing the following patent from 2005 to present:
+
+Patent number: US10278732B2
+Patent title: Transcutaneous analyte sensors, applicators therefor, and associated methods
+Inventor: Ryan Everett Schoonmaker and co-inventors
+
+This includes:
+	•	DARPA-funded research related to the development or deployment of the analyte sensor applicator
+	•	Internal evaluations or feasibility studies discussing behavioral telemetry, remote monitoring, or covert analyte sensing
+	•	Communications between DARPA and USPTO or between DARPA and any private contractors involving this patent
+	•	Application of this sensor technology in behavioral prediction, warfighter performance optimization, or human-machine teaming
+	•	Any DARPA programs, SBIR/STTR grants, or pilot studies incorporating or referencing this patent or its inventors
+	•	References to integration of this technology into wearables, implantables, or biosensor systems used for neuromodulation or psychophysiological monitoring
+
+Keywords: US10278732B2, Ryan Everett Schoonmaker, analyte sensor, sensor applicator, DARPA, biosensor patent, behavioral telemetry, neurotech interface, human performance enhancement, covert monitoring, digital phenotyping, SBIR, STTR
