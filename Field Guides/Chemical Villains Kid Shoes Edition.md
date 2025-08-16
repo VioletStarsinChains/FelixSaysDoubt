@@ -36,7 +36,6 @@
 	•	Persistence: Can migrate into water and soils; some bioaccumulate
 	•	Risks: Hormone disruption (triclosan), gut microbiome effects, antibiotic resistance
 
-//////////
 
 # Chemicals in Kids’ Shoes with Potential to Increase Suggestibility
 
