@@ -15,3 +15,26 @@ This includes:
 	•	Any memoranda or data-sharing agreements with defense agencies regarding PFAS neurobehavioral effects and perceptual modulation research
 
 Keywords: PFAS, forever chemicals, neurotoxicity, prosopometamorphopsia, face perception, visual distortions, hallucinations, neuroinflammation, calcium signaling, fusiform gyrus, Palantir, EPA, ATSDR, CDC, NIH, FDA
+
+
+////////
+
+
+To EPA / ATSDR / CDC-NCEH / NIH (NIEHS, NIMH, NINDS) / FDA
+
+Request:
+
+Requesting any and all records, studies, laboratory analyses, contractor reports, or interagency communications concerning interactions between PFAS exposure and metal homeostasis (especially copper, zinc, and iron) and the resulting neurological, cognitive, or perceptual outcomes, from January 1, 1995 to present.
+
+This includes:
+	•	Research on PFAS effects on ceruloplasmin, metallothionein, or other metal-binding proteins regulating copper, zinc, or iron metabolism
+	•	Laboratory or clinical studies on copper toxicity, copper deficiency, or dysregulated copper transport in PFAS-exposed populations
+	•	Epidemiological or case reports documenting neurological or psychiatric symptoms (hallucinations, migraines, seizures, perceptual distortions, prosopometamorphopsia) linked to combined PFAS and copper exposure
+	•	Records describing synergistic effects of PFAS and metals on oxidative stress, neuroinflammation, excitotoxicity, or calcium signaling
+	•	Animal studies involving PFAS exposure in the presence of elevated dietary copper or altered trace metal intake, and associated neurobehavioral outcomes
+	•	Interagency or contractor assessments (including Palantir Technologies, Accenture Federal Services, Deloitte, Booz Allen Hamilton) modeling PFAS–metal interactions in cognitive decline, neurodivergence, or perceptual disorders
+	•	Guidance documents, risk assessments, or briefing materials on the role of trace metal disruption in PFAS neurotoxicity
+	•	Communications with USDA, FDA, or EPA regional offices on PFAS contamination of agricultural products (e.g., eggs, rice, produce) where metal bioaccumulation in food could interact with PFAS exposure
+
+Keywords: PFAS, copper toxicity, metal homeostasis, ceruloplasmin, metallothionein, oxidative stress, neuroinflammation, prosopometamorphopsia, visual distortions, hallucinations, seizures, Palantir, EPA, NIH, CDC, FDA
+
