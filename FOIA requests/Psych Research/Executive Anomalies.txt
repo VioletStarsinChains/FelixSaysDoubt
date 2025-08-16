@@ -1,0 +1,14 @@
+To: Department of Defense / DARPA / IARPA / Office of the Director of National Intelligence
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, or internal communications regarding the identification and management of executive-level anomalies in predictive modeling and behavioral futures systems, from 2005 to present.
+
+This includes:
+	•	Reports describing senior corporate or government leaders classified as “unmodellable” or “Mule-type” actors
+	•	Internal analyses on the risk such individuals pose to the integrity of system-wide forecasts and compliance models
+	•	Communications or contractor reports regarding the need to route signals through real-world channels when simulation fidelity fails for executive-level figures
+	•	Vendor proposals describing “narrative stabilization” or “containment” strategies for high-salience executives whose behavior resists prediction
+	•	Risk/benefit assessments of allowing direct exposure of these individuals to anomalous communications (e.g., unsimulated public content, adversarial narratives, or uncensored media)
+
+Keywords: executive anomaly, Mule-type, unmodellable, signal relay, narrative stabilization, adversarial node, NPE, behavioral futures, leadership risk
