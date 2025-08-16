@@ -34,16 +34,16 @@ Keywords: GIS, remote sensing, biogeography, ecological modeling, synthetic ecol
 ////////
 
 
-To: Environmental Protection Agency / Department of Homeland Security / National Science Foundation
+To: National Science Foundation / Department of Defense / Environmental Protection Agency / National Institutes of Health
 
 Request:
 
-Requesting any and all documents, contracts, research proposals, or internal communications regarding federally funded projects at Wake Forest University’s Department of Environment and Sustainability that involve the use of ecological or environmental datasets for predictive modeling of human behavior, compliance, or community resilience, from 2010 to present.
+Requesting any and all documents, contracts, research proposals, or internal communications regarding federally funded projects at the University of Texas at Austin involving the use of biogeography, ecological distribution studies, or cross-species cognitive modeling as applied to predictive analytics of human behavior or population stability, from 1990 to present.
 
 This includes:
-	•	Reports linking climate adaptation or resilience research to models of social stability or behavioral compliance
-	•	Communications between Wake Forest faculty and federal agencies regarding “synthetic ecology” or ecological simulation frameworks applied to human populations
-	•	Contracts or grants describing GIS- or remote sensing–based modeling of community adaptation to environmental stressors
-	•	Risk/benefit assessments of using environmental curricula or sustainability research as a proxy for behavioral futures training
+	•	Reports linking ecological distribution research (e.g., avian migration, habitat range shifts) to predictive models of human migration, compliance, or resilience
+	•	Contracts or grants for research into cross-species cognitive modeling (e.g., parrot language studies, primate problem-solving, animal communication via buttons or AI interfaces) with explicit or implicit applications to human behavioral futures
+	•	Communications between UT Austin researchers and federal agencies regarding “synthetic ecology,” “indicator species,” or “cognitive proxies” for human populations
+	•	Risk/benefit assessments of applying cross-species behavioral models to human social systems in the context of resilience, compliance, or surveillance
 
-Keywords: Wake Forest, sustainability, community resilience, synthetic ecology, behavioral compliance, ecological modeling, GIS, remote sensing, adaptation forecasting, population stability
+Keywords: UT Austin, biogeography, cross-species cognition, animal communication, indicator species, synthetic ecology, behavioral futures, compliance modeling, ecological proxy data, migration forecasting
