@@ -1,0 +1,76 @@
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, pilot program records, or contractor partnerships involving the use of continuous glucose monitors (CGMs) in behavioral modeling or emotional regulation studies from 2008 to present.
+
+This includes:
+	•	Studies or trials using CGMs to track emotional states, psychological stress, or behavioral patterns
+	•	Research on correlations between blood glucose fluctuations and decision-making, aggression, or compliance
+	•	Military, clinical, or psychiatric uses of CGMs for mood or stress monitoring
+	•	Integration of CGM data into predictive analytics systems or digital twin modeling
+	•	DARPA or NIH funding for dual-use applications of CGM platforms in non-diabetic populations
+	•	Records referencing CGMs in the context of neuroendocrine monitoring, trauma-informed regulation strategies, or behavioral nudging systems
+
+Keywords: continuous glucose monitor, CGM, Dexcom, emotional regulation, behavioral telemetry, digital twin, neuroendocrine profiling, predictive modeling, DARPA, NIH, psychophysiological feedback, wearable sensor
+
+
+//////////
+
+
+To: Department of Health and Human Services (HHS) / NIH / Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documentation, internal communications, research collaborations, grant records, or contractor agreements involving Dexcom and Verily (Alphabet) from 2015 to present, specifically related to digital phenotyping or behavioral data modeling.
+
+This includes:
+	•	Records of Dexcom–Verily partnerships funded or monitored by DARPA, HHS, or NIH
+	•	Projects involving the use of CGM data in combination with biometric, behavioral, or affective computing data
+	•	Proposals or reports discussing the fusion of physiological and psychological telemetry using Dexcom-Verily platforms
+	•	Use of Dexcom devices in digital phenotyping trials, including for mental health, predictive diagnostics, or population surveillance
+	•	References to data integration across platforms (e.g., smartphone behavior, glucose levels, passive sensing) for behavioral analysis or AI training
+
+Keywords: Dexcom, Verily, Alphabet, Onduo, CGM, digital phenotyping, behavioral modeling, affective computing, glucose telemetry, DARPA, NIH, biosensor platform, psychophysiological data fusion
+
+
+/////////
+
+
+To: Veterans Health Administration (VHA) / Department of Veterans Affairs (VA)
+
+Request:
+
+Requesting any and all documents, pilot study records, internal communications, research proposals, or contractor agreements involving the use of continuous glucose monitors (CGMs)—particularly those manufactured by Dexcom or developed in partnership with Verily (Alphabet)—within the Veterans Health Administration from 2010 to present.
+
+This includes:
+	•	VHA-funded research using CGMs for mood tracking, PTSD monitoring, or emotional regulation
+	•	Behavioral modeling programs integrating CGM data with digital phenotyping or biometric surveillance
+	•	Contracts or MOUs between the VA and Dexcom, Verily, Onduo, or other Alphabet subsidiaries
+	•	Documentation of predictive analytics platforms using glucose or other physiological metrics to inform mental health treatment, risk stratification, or compliance protocols
+	•	Use of CGMs in post-deployment programs, psychiatric settings, or as part of experimental biosensor arrays
+	•	Ethics board reviews or adverse event reports involving CGM deployment in non-diabetic VA populations
+
+Keywords: Dexcom, CGM, Verily, Onduo, VA research, Veterans Health Administration, behavioral telemetry, PTSD monitoring, psychophysiological surveillance, digital phenotyping, predictive modeling, emotional regulation, biosensor, non-diabetic glucose tracking
+
+
+/////////
+
+
+To: Centers for Medicare & Medicaid Services (CMS)
+
+Request:
+
+Requesting any and all records, billing data, internal communications, reimbursement guidance, or audit reports related to the use of Dexcom or other continuous glucose monitors (CGMs) in non-diabetic populations from 2010 to present.
+
+This includes:
+	•	Reimbursement codes applied to CGM devices used for behavioral health, psychiatric care, trauma/PTSD treatment, or emotional regulation
+	•	Records of CMS approval or denial of claims involving CGMs prescribed outside the standard endocrinological use case
+	•	Analysis of CGM-related billing spikes or unusual usage patterns in Medicare/Medicaid populations
+	•	Communications with Dexcom, Verily, Onduo, or affiliated contractors regarding device use beyond diabetes
+	•	Pilot programs or waivers involving CGMs for mental health monitoring, neurofeedback, or psychophysiological data capture
+	•	Any internal flags, audit trails, or risk assessments identifying emerging use cases for CGMs in behavioral modeling or predictive analytics
+
+Keywords: Dexcom, CGM, continuous glucose monitor, non-diabetic, behavioral modeling, PTSD, emotional regulation, Verily, Onduo, Medicare billing, Medicaid, predictive diagnostics, psychophysiological reimbursement
+
+
