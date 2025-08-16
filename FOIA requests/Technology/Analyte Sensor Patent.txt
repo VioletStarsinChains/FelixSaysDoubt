@@ -17,3 +17,23 @@ This includes:
 	•	References to integration of this technology into wearables, implantables, or biosensor systems used for neuromodulation or psychophysiological monitoring
 
 Keywords: US10278732B2, Ryan Everett Schoonmaker, analyte sensor, sensor applicator, DARPA, biosensor patent, behavioral telemetry, neurotech interface, human performance enhancement, covert monitoring, digital phenotyping, SBIR, STTR
+
+
+///////
+
+
+To: Defense Advanced Research Projects Agency (DARPA) / Department of Defense (DoD) / U.S. Patent and Trademark Office (USPTO)
+
+Request:
+
+Requesting any and all documents, communications, internal memos, grant records, or contracts involving inventor Ryan Everett Schoonmaker from 2005 to present, particularly in relation to analyte sensors, biosensing systems, or behavioral monitoring technologies.
+
+This includes:
+	•	DARPA-funded research projects involving Ryan Everett Schoonmaker
+	•	Patent applications, disclosures, or licensing agreements listing him as inventor or co-inventor
+	•	Communications with contractors, labs, or federal agencies referencing his work
+	•	Technical documentation or performance evaluations for biosensors, analyte applicators, or wearable sensor arrays developed under his name
+	•	Deployment, testing, or modeling of his technologies in behavioral telemetry, neurophysiological monitoring, or performance optimization contexts
+	•	Any records linking his inventions to projects involving predictive modeling, warfighter enhancement, or covert surveillance systems
+
+Keywords: Ryan Everett Schoonmaker, analyte sensor, biosensor array, wearable sensor, neurotech interface, behavioral telemetry, DARPA, human enhancement, psychophysiological monitoring, SBIR, STTR, predictive modeling, US10278732B2
