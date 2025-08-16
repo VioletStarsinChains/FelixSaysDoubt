@@ -88,3 +88,27 @@ This includes:
 	•	Ethical reviews or contractor audits noting risk factors associated with foreign population testing or offshored behavioral research models
 
 Keywords: Medtronic Ireland, Medtronic India, behavioral modeling, implantable telemetry, loop recorder, vagus nerve stimulator, neuromodulation, BARDA, DARPA, offshoring, foreign clinical trials, AI integration, predictive compliance, digital therapeutics
+
+
+///////
+
+
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+
+Request:
+
+Requesting any and all inspection reports, internal communications, post-market surveillance records, approval materials, or adverse event documentation from 2005 to present related to Medtronic-operated or affiliated facilities in Ireland and India, particularly where those facilities are involved in:
+	•	Manufacturing or testing of telemetry-enabled implantable devices
+	•	Development or deployment of neuromodulation systems
+	•	Behavioral or cognitive monitoring through medical devices
+
+This includes:
+	•	Premarket approval or 510(k) materials referencing data from India- or Ireland-based facilities
+	•	Inspection or audit records evaluating compliance of these facilities with behavioral safety, neuroactive device tolerances, or psychophysiological effects
+	•	Communications referencing the use of foreign clinical data involving behavioral, emotional, or neurocognitive endpoints
+	•	Reports discussing user experience, mood changes, psychiatric effects, or behavioral modulation related to devices manufactured or tested offshore
+	•	Records referencing integration with U.S.-based predictive modeling platforms, telehealth systems, or remote compliance dashboards
+	•	Post-market surveillance entries (MAUDE or equivalent) involving behavioral irregularities, compliance shifts, or cognitive impacts linked to devices routed through Ireland or India
+
+Keywords: Medtronic Ireland, Medtronic India, neuromodulation, implantable telemetry, behavioral side effects, loop recorder, vagus nerve stimulation, psych monitoring, foreign clinical data, FDA inspection, post-market surveillance, CDRH, cognitive endpoints
+
