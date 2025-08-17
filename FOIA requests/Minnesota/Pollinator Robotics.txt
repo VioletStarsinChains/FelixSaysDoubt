@@ -32,3 +32,23 @@ This request specifically includes:
 	•	Risk assessments or outcome reports involving environmental health, disease transmission, or behavioral surveillance applications of augmented pollinator populations
 
 Keywords: pollinator robotics, cyborg bees, synthetic swarms, engineered hives, HI-MEMS, RoboBees, DragonflEye, pollinator augmentation, compost contamination, Minnesota pollinator monitoring, agricultural surveillance, behavioral futures modeling
+
+
+///////////
+
+
+To: University of Minnesota – Office of the General Counsel / Data Practices Compliance Officer
+
+Request:
+
+Under the Minnesota Government Data Practices Act, I am requesting any and all records, contracts, research proposals, publications, or interdepartmental communications from 1990 to present regarding pollinator population research, monitoring, or technological augmentation conducted by or in partnership with the University of Minnesota.
+
+This includes, but is not limited to:
+	•	Research studies or pilot projects on pollinator (bee, butterfly, moth) population density, distribution, or anomalous increases in Minnesota
+	•	Contracts or cooperative agreements with federal agencies (USDA, EPA, NSF, DARPA, NIH) or state agencies (MDA, DNR, MPCA) concerning pollinator-related monitoring or intervention programs
+	•	Records involving artificial pollinator technologies such as robotic bees, cyborg insects, engineered hives, or swarm augmentation platforms, including surveillance or agricultural monitoring applications
+	•	Environmental impact assessments linking compost distribution, soil amendments, or agricultural remediation projects to pollinator density shifts
+	•	Behavioral or surveillance applications of pollinator population data, including studies on human–pollinator interactions in residential or urban environments
+	•	Internal or external messaging strategies on pollinator habitat, “save the bees” campaigns, or community engagement projects tied to university research initiatives
+
+Keywords: pollinator robotics, cyborg bees, synthetic swarms, engineered hives, HI-MEMS, RoboBees, DragonflEye, pollinator habitat research, bee density anomaly, compost impact, agricultural surveillance, Minnesota pollinator studies, University of Minnesota research
