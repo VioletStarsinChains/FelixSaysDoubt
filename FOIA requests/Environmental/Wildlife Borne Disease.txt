@@ -13,34 +13,7 @@ This includes:
 	•	Interagency discussions on mitigation strategies, population control, or communication plans regarding wild turkey contamination risks.
 	•	Contracts, cooperative research agreements, or technology pilots involving USDA Wildlife Services or DARPA on urban/suburban turkey population management.
 
-Keywords: wild turkey, urban wildlife, fecal contamination, feather dust, playground safety, zoonotic pathogens, heavy metals, microplastics, pesticide residues, tularemia, avian influenza, vector-borne disease, wildlife services
-
-
-////////////
-
-
-To: Minnesota Department of Natural Resources (DNR) / Division of Fish and Wildlife
-Cc: Minnesota Department of Health (MDH) / Minnesota Pollution Control Agency (MPCA)
-
-Request:
-
-Requesting any and all documents, studies, communications, or population management reports from January 1, 2000 to present regarding wild turkey populations in Minnesota residential and suburban areas and their potential role in environmental contamination or public health risks.
-
-This includes:
-	•	Wildlife surveys documenting turkey movement into suburban neighborhoods and public parks.
-	•	Correspondence with MDH or MPCA regarding microbial contamination of residential spaces by wild turkey feces, feathers, or carcasses.
-	•	Investigations into reported incidents of playgrounds, schoolyards, or water features contaminated by turkey droppings.
-	•	Risk assessments or advisories related to zoonotic pathogens (Histoplasma, Salmonella, Campylobacter, avian influenza, tularemia).
-	•	Data on heavy metal, pesticide, or microplastic residues associated with turkey scavenging in urban environments.
-	•	Mitigation strategies (population reduction, habitat modification, public communication campaigns) to limit wild turkey impacts in neighborhoods.
-	•	Collaborative research or communications between DNR and USDA Wildlife Services on Minnesota turkey population management.
-
-Keywords: Minnesota wild turkey, suburban wildlife, residential contamination, feces, feathers, zoonotic risk, playground contamination, environmental health, zoonoses, pesticide residues, heavy metals, MPCA, MDH
-
-
-////// Addendum ///////
-
-Both requests should also include any reports, studies, assessments, or interagency communications regarding the role of mechanical landscaping equipment (e.g., leafblowers, lawnmowers, trimmers) in the aerosolization and environmental redistribution of contaminants derived from wild turkey populations.
+This request should also include any reports, studies, assessments, or interagency communications regarding the role of mechanical landscaping equipment (e.g., leafblowers, lawnmowers, trimmers) in the aerosolization and environmental redistribution of contaminants derived from wild turkey populations.
 
 Specifically:
 	•	Aerosolized dispersal of microbial pathogens (e.g., Salmonella, Campylobacter, Histoplasma, avian influenza) from dried feces or feather dust
@@ -48,4 +21,26 @@ Specifically:
 	•	Public health risks tied to allergenic proteins, fungal spores, or parasitic vectors carried in turkey residue
 	•	Potential impacts of repeated mechanical aerosolization in residential neighborhoods, schoolyards, and other child-centered environments
 
+Keywords: wild turkey, urban wildlife, fecal contamination, feather dust, playground safety, zoonotic pathogens, heavy metals, microplastics, pesticide residues, tularemia, avian influenza, vector-borne disease, leaf blowers, wildlife services
 
+
+////////////
+
+
+To: Minnesota Department of Natural Resources (DNR)
+Cc: Minnesota Department of Health (MDH) / U.S. Fish and Wildlife Service (USFWS)
+
+Request:
+
+Requesting any and all documents, reports, interagency communications, population studies, or internal assessments from January 1, 2000 to present concerning the monitoring, management, or public health impacts of wild turkeys in Minnesota, particularly in residential or suburban environments.
+
+This includes:
+	•	Population tracking data, field surveys, or geographic distribution maps documenting wild turkey presence in urban or residential areas
+	•	Reports or assessments of turkey feces, dropped feathers, or scavenging behavior as vectors of microbial pathogens (e.g., Salmonella, E. coli, avian influenza), parasites, or fungi
+	•	Records of chemical or inorganic contaminant spread (e.g., heavy metals, pesticides, PFAS, or other environmental toxins) linked to turkey scavenging or droppings
+	•	Public complaints or incident reports regarding wild turkeys fouling residential properties, playgrounds, or urban green spaces
+	•	Communications with local governments or health agencies regarding leaf blowers, lawn care equipment, or other mechanical disturbance of turkey fecal/feather dust and its aerosolization
+	•	Risk assessments, mitigation strategies, or public messaging concerning exposure risks from turkeys in neighborhoods, particularly for children or immunocompromised individuals
+	•	Interagency correspondence with MDH, USFWS, or USDA APHIS Wildlife Services concerning zoonotic or environmental health risks associated with wild turkeys
+
+Keywords: Minnesota DNR, wild turkeys, fecal contamination, feather dust, pathogen spread, scavenging behavior, zoonotic risk, PFAS, heavy metals, leaf blowers, public health exposure, urban wildlife monitoring
