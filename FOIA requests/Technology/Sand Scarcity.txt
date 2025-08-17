@@ -1,0 +1,16 @@
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+Cc: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, studies, internal communications, regulatory filings, contracts, or interagency reports from January 1, 2000 to present regarding the use of silica, sand-derived materials, or silicon substrates in the development, testing, or approval of implantable or wearable medical or neurotechnology devices.
+
+This includes but is not limited to:
+	•	Records on the sourcing, purity, and supply chain vulnerabilities of sand or silica used in semiconductors, coatings, insulators, or biocompatible interfaces for implantable devices
+	•	Risk assessments or adverse event reports describing silica-related tissue responses (fibrosis, granuloma formation, mast cell activation, biofilm colonization, or mineralization) in or around implanted devices
+	•	Documentation of research into the interaction of fungal species, calcium deposition, and silica particulates within biological tissues or implant environments
+	•	Interagency or contractor communications linking sand scarcity to strategic vulnerabilities in the biomedical, neurotechnology, or defense sectors
+	•	Reports or proposals regarding the role of silica-based implants or particulates in environmental health, climate impacts, or engineered ecosystem disruptions
+	•	Contracts, CRADAs, or grant awards related to the substitution of sand/silica with alternative biomaterials (e.g., mycelium-based conductors, conductive polymers) in medical or military applications
+
+Keywords: silica, sand, silicon wafers, implants, neurotechnology, granulomas, mast cells, biofilm, mineralization, tissue response, fungal colonization, supply chain, semiconductor, DARPA, climate
