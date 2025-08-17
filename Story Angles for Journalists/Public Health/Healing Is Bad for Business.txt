@@ -28,3 +28,26 @@ This includes but is not limited to:
 If portions of this request are exempt from release, please provide the non-exempt portions and a written justification for each withheld record as required under the MGDPA.
 
 Keywords: unexpected recovery, outlier improvement, over-recovery, denial of care, medical eligibility loss, coverage withdrawal, alternative treatment outcomes, nonstandard protocol recovery, research disruption.
+
+
+////////////
+
+
+To: Minnesota Department of Human Services
+Minnesota Department of Health
+Hennepin County Human Services / Public Health
+
+Request:
+
+Under the Minnesota Government Data Practices Act (MGDPA), I am requesting access to any and all records, communications, contracts, or oversight reports from 1990 to present regarding the use of geofencing, address verification restrictions, or mail delivery interference as mechanisms to deny or delay access to housing, healthcare coverage, or insurance eligibility within the state of Minnesota.
+
+This request specifically seeks documentation related to:
+	•	Policies or pilot programs where housing or medical insurance eligibility was tied to verified physical address, and how failure to receive mail was factored into eligibility determinations.
+	•	Any use of geofencing or location-based restrictions in the administration of health coverage, housing access, or social services.
+	•	Communications with federal agencies, contractors, or private technology vendors regarding the use of geospatial data, address validation, or mail service integrity in program delivery.
+	•	Reports, audits, or complaints concerning individuals who were unable to obtain healthcare coverage or housing services due to lack of stable mailing address or unexplained mail service disruptions.
+	•	Oversight documents related to the intersection of housing instability, mail access, and insurance eligibility within Minnesota programs.
+
+If portions of this request are exempt from release, please provide the non-exempt portions and a written justification for each withheld record as required under the MGDPA.
+
+Keywords: geofencing, address verification, denied housing, insurance eligibility barriers, mail service compromise, housing-linked coverage, service access restriction, geospatial eligibility enforcement.
