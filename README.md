@@ -56,7 +56,7 @@ A: Honestly? More than I should be.
 
 Q: What is Mule 6?
 
-A: A nod to The Mule (Foundation) + Number Six (The Prisoner). It means: “the system cannot win.”
+A: A nod to The Mule (Foundation) + Number Six (The Prisoner) + the "sixth man" in sportsball. It means: “the system cannot win.”
 
 Q: What are you hoping to get out of this?
 
