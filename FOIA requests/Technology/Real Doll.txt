@@ -1,0 +1,16 @@
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+Cc: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, regulatory filings, or interagency agreements referencing the development, testing, or deployment of haptic-enabled mannequins, prosthetic surrogates, or simulation dolls with embedded hardware capable of transmitting or receiving signals linked to neural modulation or compliance studies, from January 1, 2005 to present.
+
+This includes:
+	•	Technical documentation on embedded haptics, telemetry, or sensory-feedback systems integrated into mannequin or doll platforms
+	•	Records of federal contracts, vendor agreements, or grants involving companies producing lifelike prosthetics or simulation dolls for compliance or behavioral research
+	•	Interagency communications regarding the use of surrogate hardware in behavioral modeling, neurotech-linked testing, or augmented reality simulation contexts
+	•	Safety, risk assessment, or ethical reviews concerning neural synchronization between external hardware (mannequins, dolls) and implantable or wearable devices
+	•	Reports or studies describing applications of embodied surrogates for behavioral entrainment, compliance anchoring, or sexualized realism in human subject trials
+	•	Export controls, foreign partnership documentation, or technology transfer records related to lifelike haptic surrogates
+
+Keywords: haptic surrogate, simulation doll, prosthetic mannequin, embodied compliance, neural synchronization, behavioral entrainment, sensory feedback, neurotech linkage, DARPA, CDRH
