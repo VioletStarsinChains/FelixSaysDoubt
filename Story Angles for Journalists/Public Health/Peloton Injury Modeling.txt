@@ -6,6 +6,27 @@ In the context of behavioral futures markets, Peloton becomes less about exercis
 
 //////////
 
+Sample FOIAs:
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, internal communications, contracts, or interagency agreements from January 1, 2010 to present regarding the intentional study, replication, or controlled modeling of injury and compliance patterns associated with Peloton exercise equipment (including treadmills, bikes, and connected devices), particularly where behavioral or neurological outcomes are analyzed.
+
+This includes:
+	•	Studies or pilot programs involving treadmill fall simulations, child entrapment hazards, or cycling-induced musculoskeletal strain for behavioral or neurological research
+	•	Communications between federal agencies, Peloton Interactive, and private contractors concerning injury telemetry, user compliance data, or experimental exposure protocols
+	•	Analysis or datasets correlating Peloton-related injury incidence with behavioral modifications, compliance tendencies, or demographic cohort differences
+	•	Proposals for media or public communication strategies relating to fitness-tech injuries and behavioral risk perception
+	•	Research exploring the use of Peloton-derived injury data to inform predictive modeling of consumer decision-making, compliance behaviors, or health outcomes under stress
+
+Keywords: Peloton, treadmill fall simulation, exercise injury modeling, compliance behavior analysis, kinesthetic style transfer, behavioral futures, predictive consumer modeling, injury telemetry
+
+
+///////////
+
+
 To: Department of Health and Human Services (HHS) / Centers for Disease Control and Prevention (CDC) / Consumer Product Safety Commission (CPSC) / Department of Defense (DoD)
 
 Request:
