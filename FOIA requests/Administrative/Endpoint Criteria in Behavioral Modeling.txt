@@ -59,7 +59,7 @@ To: National Archives and Records Administration (NARA) / FOIA Office
 
 Request:
 
-Requesting access to any and all archived records, including contracts, subcontracts, program evaluation reports, research protocols, internal memoranda, and interagency coordination documents, from January 1, 1990 to December 31, 2010 related to endpoint criteria or saturation thresholds in human-subject research programs involving:
+Requesting access to any and all archived records, including contracts, subcontracts, program evaluation reports, research protocols, internal memoranda, and interagency coordination documents, from January 1, 1990 to present related to endpoint criteria or saturation thresholds in human-subject research programs involving:
 	•	Trust degradation (loyalty inversion, engineered trust collapse, social network resilience testing, relationship stress inoculation)
 	•	Health destabilization (sustained inflammation induction, environmental stress testing, controlled illness modeling)
 	•	Resource control (deprivation/abundance cycles, contingency-based resource access, scarcity simulation)
