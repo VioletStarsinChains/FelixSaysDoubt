@@ -44,6 +44,8 @@ Phantom Limb Sensations
 
 Pokemon Go Behavioral Modeling
 
+Project Milo
+
 Real Doll
 
 Sand Scarcity
@@ -59,3 +61,5 @@ Telemetry Enabled Toys
 Trump NFT Project
 
 Trust Signal Replication
+
+VHS Digitization
