@@ -15,3 +15,24 @@ This includes:
 	•	Risk communication plans, industry guidance, or regulatory proposals addressing mitigation of mycobacterial contamination in spice supply chains
 
 Keywords: tuberculosis, Mycobacterium, spices contamination, dried herbs, latent colonization, immune modulation, foodborne pathogen, FDA CFSAN, USDA FSIS, import surveillance
+
+
+/////////
+
+
+To: U.S. Food and Drug Administration (FDA) / Center for Food Safety and Applied Nutrition (CFSAN)
+Cc: U.S. Department of Agriculture (USDA) / Food Safety and Inspection Service (FSIS); Centers for Disease Control and Prevention (CDC) / National Center for Emerging and Zoonotic Infectious Diseases (NCEZID)
+
+Request:
+
+Requesting any and all documents, internal communications, research proposals, or interagency assessments regarding the potential for imported or domestically distributed culinary spices to act as vectors for microbial contamination or chronic colonization in U.S. populations, from January 1, 2000 to present.
+
+This includes:
+	•	Reports, memos, or studies on Mycobacterium tuberculosis or other persistent pathogens detected in spice supply chains
+	•	Laboratory testing results on low-level microbial contaminants in cumin, turmeric, chili, peppercorns, cardamom, or other high-volume imported spices
+	•	Risk assessment documents discussing disproportionate impacts of contaminated spices on immigrant or diaspora communities with higher consumption rates
+	•	Analyses of chronic exposure pathways through spices incorporated into compost, soil, or food preparation environments
+	•	Interagency communications on whether microbial contaminants in spices can contribute to latent infections, biofilm formation, or long-term inflammatory syndromes
+	•	Any references to surveillance programs, sentinel studies, or pilot projects monitoring immigrant-heavy U.S. neighborhoods for microbial outcomes tied to spice consumption
+
+Keywords: tuberculosis, Mycobacterium, biofilm, spices, cumin, turmeric, chili powder, immigrant communities, diaspora diets, microbial contamination, chronic colonization, FDA CFSAN
