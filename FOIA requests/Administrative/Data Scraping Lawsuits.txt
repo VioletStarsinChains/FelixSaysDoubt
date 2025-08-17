@@ -1,0 +1,14 @@
+To DOJ Antitrust Division / FTC / CISA
+
+Request:
+
+Requesting any and all documents, internal communications, policy analyses, or correspondence with private sector platforms regarding lawsuits against scraping firms or data extraction services, from 2005 to present.
+
+This includes:
+	•	Agency communications with Meta/Facebook, LinkedIn/Microsoft, Twitter/X, or other major platforms regarding litigation against scrapers (e.g., Power Ventures, hiQ Labs, Clearview).
+	•	Briefings, memos, or analyses concerning the use of the Computer Fraud and Abuse Act (CFAA) or related statutes to establish exclusive rights over datasets.
+	•	Communications regarding the competitive implications of such lawsuits for data market consolidation.
+	•	Correspondence with courts, trade groups, or contractors related to government amicus briefs or technical input.
+	•	Records of platform lobbying efforts or industry coordination aimed at normalizing scraping restrictions as a form of data monopolization.
+
+Keywords: scraping lawsuits, CFAA, Power Ventures, hiQ Labs, data monopolization, exclusive rights, dataset ownership, platform litigation, FTC, Antitrust Division
