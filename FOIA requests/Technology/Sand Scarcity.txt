@@ -1,3 +1,26 @@
+To: U.S. Department of Energy (DOE) / Office of Science
+Cc: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH); Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, interagency communications, or risk assessments from January 1, 2008 to present that reference the use of silica or sand-derived materials in:
+	•	Manufacture of semiconductors, neuromorphic chips, or AI-related compute hardware with national security relevance
+	•	Medical devices or implants, including coatings, composites, or structural materials designed for bio-compatibility or neurotechnology applications
+	•	Environmental or climate impact studies related to silica extraction, sand depletion, or ecological destabilization from supply-chain demand
+
+This includes but is not limited to:
+	•	DOE assessments of silica resource scarcity and its effects on national competitiveness in AI and semiconductor manufacturing
+	•	FDA or CDRH filings regarding silica-based or sand-derived compounds used in medical implants, neurotechnology, or experimental prosthetics
+	•	DARPA-funded research on silica materials for bioelectronic devices, neuromorphic computing, or environmental field effects
+	•	Interagency communications linking silica supply chain management to AI infrastructure, climate acceleration, or medical device regulation
+	•	Risk modeling or forecasting documents regarding long-term ecological, economic, or public health effects of global sand depletion
+
+Keywords: silica, sand scarcity, semiconductors, AI compute, neuromorphic chips, bio-compatible coatings, implants, neurotechnology, DARPA, DOE, CDRH, climate impact
+
+
+///////////
+
+
 To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
 Cc: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
 
@@ -14,3 +37,7 @@ This includes but is not limited to:
 	•	Contracts, CRADAs, or grant awards related to the substitution of sand/silica with alternative biomaterials (e.g., mycelium-based conductors, conductive polymers) in medical or military applications
 
 Keywords: silica, sand, silicon wafers, implants, neurotechnology, granulomas, mast cells, biofilm, mineralization, tissue response, fungal colonization, supply chain, semiconductor, DARPA, climate
+
+
+
+
