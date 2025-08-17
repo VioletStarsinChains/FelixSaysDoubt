@@ -1,0 +1,72 @@
+When the government uses the acronym NPE, it doesn’t always mean the same thing.
+
+In family law and public health contexts, NPE stands for Non-Parental Event or Not Parent Expected — the quiet but surprisingly common discovery, often through DNA testing, that someone’s assumed parent is not their biological parent. Agencies like CDC, NIH, and DOJ have records on the prevalence of NPEs and the ripple effects of consumer genealogy kits.
+
+In surveillance and predictive analytics contexts, however, NPE has been used to mean Non-Person Entity — a label applied in classification systems and behavioral models when individuals are treated as abstract entities, sometimes with implications for standing, rights, or civil protections.
+
+Two letters, two definitions. One points to hidden truths inside families. The other points to hidden categories inside data systems. Together, they raise a sharp question: what does it mean to be recognized as a person — by law, by science, or by an algorithm?
+
+
+////////////
+
+
+Sample FOIAs:
+
+To CDC / NIH / Department of Justice
+
+Request:
+
+Requesting any and all documents, reports, internal communications, contracts, or research proposals referencing Non-Parental Events (NPEs) or Not Parent Expected parentage discoveries from 1990 to present.
+
+This includes:
+	•	Prevalence studies of NPEs in the U.S. population
+	•	Internal policy discussions on the use of DNA testing in custody, adoption, and child support cases
+	•	Communications regarding the impact of consumer DNA testing (e.g., 23andMe, Ancestry) on uncovering NPEs
+	•	Ethical reviews or risk assessments related to disclosure of NPE findings to affected families
+	•	Government partnerships or data-sharing agreements with genetic testing companies referencing NPEs
+	•	Reports on demographic or statistical modeling of NPE incidence and distribution
+	•	Legal guidance documents concerning NPE discoveries in family law proceedings
+
+Keywords: NPE, Non-Parental Event, Not Parent Expected, parentage testing, DNA paternity, child support DNA, adoption disclosure, genetic genealogy, ancestry DNA, familial testing
+
+
+///////////
+
+
+To DoD / DARPA / DIA
+
+Request:
+Requesting all documentation, modeling frameworks, classification criteria, training data, and analysis tools referencing or using the term “Non-Person Entity” (NPE) in the context of:
+•	behavioral modeling
+•	intelligence augmentation
+•	test subject classification
+•	system anomaly detection
+•	identity suppression or redaction in data labeling
+
+Keywords:
+Non-Person Entity, NPE, behavioral anomaly, synthetic identity, redacted subject, blackbox classification, anomaly suppression, test cohort, cognitive modeling, unauthorized subject, intelligence enhancement, non-consensual human research
+
+///////////
+
+38.  To: DHS, FBI, DoD, HHS, NSA, Palantir, ICE
+
+Request:
+Requesting access to all records from 2000 to the present that identify, classify, or designate any U.S. citizen or resident as a “Non-Person Entity” (NPE) or similar designation in federal databases or internal documentation.
+
+This includes, but is not limited to:
+•	Lists, logs, or registries of individuals flagged as NPEs
+•	Definitions and operational criteria for assigning NPE status
+•	Internal communications, memos, or deliverables referencing “non-person entities” in predictive modeling, threat assessments, or behavioral analytics
+•	Contracts or deliverables with third-party vendors (including Palantir) involving the classification of individuals as NPEs
+
+Please include any system-level documentation showing how the NPE designation has been used in relation to access restrictions, public services, benefits eligibility, surveillance targeting, housing denial, or experimental research protocols.
+
+Keywords: non-person entity, NPE, unauthorized subject, hidden cohort, reference-linked intelligence, behavior normalization, anonymized intelligence study, synthetic human classification, NPE test pool, de-identified subject tracking
+
+
+
+
+
+
+
+
