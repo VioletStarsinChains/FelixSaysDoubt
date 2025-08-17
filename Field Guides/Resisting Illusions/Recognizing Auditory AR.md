@@ -107,21 +107,27 @@ _A quick, practical checklist for spotting when digital audio is being overlaid 
 - Optional: simple **contact mic** (bone conduction vs air)
 
 ---
-
 ## Field Log Template
 
-**Date/Time:**
-**Location/Room traits** (hard/soft surfaces, size):
-**Device state** (BT/Wi-Fi, ANC, Spatial/Transparency modes):
-**Perceived source location:**
-**Head-turn result:**
-**Occlusion result** (earplugs/tragus):
-**Obstacle result** (doorframe/wall):
-**Clap/reverb match** (match/mismatch, notes):
-**Beam test** (hot-spot? yes/no):
-**Recording triangulation** (which mics captured it?):
-**Notes/Other variables** (movement, windows, HVAC):
-**Provisional conclusion:**
+Use this structured log to document suspected Auditory Augmented Reality (AAR) events.
+
+```markdown
+# AAR Field Log
+
+**Date/Time:**  
+**Location/Room traits:** (hard/soft surfaces, size, indoors/outdoors)  
+**Device state:** (BT/Wi-Fi on/off, ANC, Spatial/Transparency modes)  
+
+**Perceived source location:**  
+**Head-turn result:**  
+**Occlusion result (earplugs/tragus):**  
+**Obstacle result (doorframe/wall):**  
+**Clap/reverb match:** (match/mismatch, notes)  
+**Beam test:** (hot-spot present? yes/no)  
+**Recording triangulation:** (which mics captured it?)  
+
+**Notes/Other variables:** (movement, windows, HVAC, posture)  
+**Provisional conclusion:**  
 
 ---
 
