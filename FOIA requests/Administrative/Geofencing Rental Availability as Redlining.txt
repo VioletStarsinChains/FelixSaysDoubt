@@ -1,0 +1,14 @@
+To Department of Housing and Urban Development (HUD) / Federal Trade Commission (FTC) / Department of Justice Civil Rights Division
+
+Request:
+
+Requesting any and all documents, communications, contracts, or research proposals from 2010 to present concerning the use of microgeofencing technologies to restrict or shape access to housing rental listings, roommate-matching platforms, or property availability searches.
+
+This includes:
+	•	Agreements with real estate platforms, rental marketplaces, or property management companies regarding geolocation-based access controls
+	•	Research into discriminatory effects of geofencing on protected classes (race, gender, disability, income status) in relation to rental availability
+	•	Communications concerning algorithmic roommate-matching or housing “curation” that limits choice based on behavioral or location data
+	•	Reports on the role of microgeofencing in perpetuating digital redlining or restricting fair housing access
+	•	Vendor contracts involving mobile adtech, behavioral targeting, or predictive analytics tied to rental housing searches
+
+Keywords: microgeofencing, digital redlining, housing discrimination, rental listings, roommate matching, behavioral targeting, housing algorithms, HUD, FTC, DOJ
