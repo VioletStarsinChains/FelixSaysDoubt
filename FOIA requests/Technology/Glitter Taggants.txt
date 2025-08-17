@@ -1,3 +1,23 @@
+To National Institute of Justice / Federal Bureau of Investigation / Department of Transportation
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, internal communications, or vendor partnerships referencing the integration of smart dust, taggants, or micro-sensors into automotive paints, coatings, or metallic flake additives from 1990 to present.
+
+This includes:
+	•	Research into embedding RFID, optical, or isotopic taggants within metallic flake or pearlescent paint layers
+	•	Studies on the forensic tracking of automotive paint particles as surveillance markers beyond traditional color/flake analysis
+	•	Testing of automotive coatings as potential camouflage or dispersal media for environmental or biometric sensors
+	•	Communications with paint manufacturers, pigment suppliers, or automotive companies regarding dual-use applications of specialty coatings in national security or surveillance contexts
+	•	Reports assessing the durability, detectability, or data-transmission capacity of sensor-enabled paint flakes under real-world automotive conditions
+	•	Analysis of automotive paint as a vector for covert population monitoring, vehicle tracking, or forensic data capture
+
+Keywords: automotive paint, metallic flake, pearlescent pigment, smart dust, taggant, forensic coating, RFID particle, optical marker, micro-sensor dispersal, vehicle tracking, forensic paint database
+
+
+//////////
+
+
 To: DARPA / Department of Defense / Department of Homeland Security
 
 Request:
@@ -13,3 +33,23 @@ This includes:
 	•	Reports on the use of reflective flakes, taggants, or “chaff”-like materials for civilian population monitoring or crowd control
 
 Keywords: glitter, smart dust, taggant, metallic flake, pearlescent pigment, automotive paint, forensic coating, RFID particle, optical marker, micro-sensor dispersal, chaff, camouflage medium
+
+
+//////////
+
+
+To Consumer Product Safety Commission / Department of Commerce / Department of Homeland Security
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, vendor partnerships, or internal communications referencing the integration of taggants, smart dust, or micro-sensors into consumer glitter, craft supplies, or decorative products from 1990 to present.
+
+This includes:
+	•	Research into embedding RFID, optical taggants, or isotopic markers into craft glitter sold through major retailers (e.g., Michaels, Hobby Lobby, Walmart)
+	•	Studies on the potential for consumer glitter products to serve as dispersal vectors for environmental, biometric, or behavioral monitoring sensors
+	•	Testing of glitter’s persistence on skin, textiles, and household surfaces in relation to surveillance or forensic tracking applications
+	•	Communications with glitter or pigment manufacturers regarding dual-use applications in population monitoring or national security contexts
+	•	Analysis of the safety, detectability, or communication capacity of glitter particles containing nano- or micro-scale electronic or optical components
+	•	Reports on consumer-facing glitter products as cover for covert taggant distribution, including forensic, security, or law enforcement uses
+
+Keywords: glitter, craft supplies, smart dust, taggant, metallic flake, optical marker, RFID particle, forensic tracking, consumer product, pigment, micro-sensor dispersal
