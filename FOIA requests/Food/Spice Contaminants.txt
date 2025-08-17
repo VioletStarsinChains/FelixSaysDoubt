@@ -1,4 +1,26 @@
 To: U.S. Food and Drug Administration (FDA) / Center for Food Safety and Applied Nutrition (CFSAN)
+Cc: U.S. Department of Agriculture (USDA) / Agricultural Research Service (ARS)
+
+Request:
+
+Requesting any and all documents, research proposals, laboratory analyses, internal communications, or interagency agreements from January 1, 2000 to present concerning fungal contamination of imported or domestically processed spices and its potential interactions with mineral compounds (e.g., calcium salts) or acrylamide formation.
+
+This includes:
+	•	Records of fungal species identified in spice imports (e.g., pepper, turmeric, cinnamon) and their role in biofilm or granuloma formation
+	•	Assessments of whether fungal colonization of mineralized tissue can be triggered or worsened by chronic dietary exposure to contaminated spices
+	•	Documentation of how calcium additives, binders, or fortifiers in spices or spice blends affect fungal activity, granuloma stability, or biofilm persistence
+	•	Reports on whether fungal colonization can influence neural or immune function through conductivity, ion channel manipulation, or mineral extraction
+	•	Interagency communications on potential risks of spice contamination as a vector for long-term neurological or immunological dysregulation
+	•	Contracts, cooperative research agreements, or grants involving FDA, USDA, or affiliated labs on fungal contamination, mineral additives, and food safety in neuroimmune health
+
+Keywords: spice contamination, fungal colonization, calcium additives, acrylamide, granulomas, biofilm conductivity, neuroimmune interaction, CFSAN, ARS
+
+
+
+/////////
+
+
+To: U.S. Food and Drug Administration (FDA) / Center for Food Safety and Applied Nutrition (CFSAN)
 Cc: Centers for Disease Control and Prevention (CDC) / Division of Tuberculosis Elimination
 
 Request:
@@ -59,22 +81,3 @@ This includes:
 Keywords: tuberculosis, Mycobacterium, biofilm, spices, cumin, turmeric, chili powder, immigrant communities, diaspora diets, microbial contamination, chronic colonization, FDA CFSAN
 
 
-//////////
-
-
-To: U.S. Food and Drug Administration (FDA) / Center for Food Safety and Applied Nutrition (CFSAN)
-Cc: U.S. Department of Agriculture (USDA) / Agricultural Research Service (ARS)
-
-Request:
-
-Requesting any and all documents, research proposals, laboratory analyses, internal communications, or interagency agreements from January 1, 2000 to present concerning fungal contamination of imported or domestically processed spices and its potential interactions with mineral compounds (e.g., calcium salts) or acrylamide formation.
-
-This includes:
-	•	Records of fungal species identified in spice imports (e.g., pepper, turmeric, cinnamon) and their role in biofilm or granuloma formation
-	•	Assessments of whether fungal colonization of mineralized tissue can be triggered or worsened by chronic dietary exposure to contaminated spices
-	•	Documentation of how calcium additives, binders, or fortifiers in spices or spice blends affect fungal activity, granuloma stability, or biofilm persistence
-	•	Reports on whether fungal colonization can influence neural or immune function through conductivity, ion channel manipulation, or mineral extraction
-	•	Interagency communications on potential risks of spice contamination as a vector for long-term neurological or immunological dysregulation
-	•	Contracts, cooperative research agreements, or grants involving FDA, USDA, or affiliated labs on fungal contamination, mineral additives, and food safety in neuroimmune health
-
-Keywords: spice contamination, fungal colonization, calcium additives, acrylamide, granulomas, biofilm conductivity, neuroimmune interaction, CFSAN, ARS
