@@ -13,3 +13,26 @@ This includes:
 	•	Interagency communications or contracts involving DoD, DARPA, DHS, or HHS regarding the application of Randonautica or similar platforms for civilian or military behavioral tracking
 
 Keywords: Randonautica, random location generator, behavioral modeling, environmental exposure, psychological operations, GPS redirection, crowd movement simulation, public health risk mapping
+
+
+////////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Energy (DOE) / National Institute of Standards and Technology (NIST)
+Cc: U.S. State Department / National Security Agency (NSA)
+
+Request:
+
+Requesting any and all records from January 1, 2015 to present regarding the development, funding, export, or behavioral applications of quantum random number generators (QRNGs) hosted by or affiliated with the Australian National University (ANU) and their integration into commercial or consumer-facing applications, including but not limited to Randonautica and the Fatum Project.
+
+This includes:
+	•	Interagency communications on the use of ANU’s QRNG servers or APIs for public-facing applications in the U.S.
+	•	Records of collaboration or funding agreements between U.S. defense agencies (DoD, DARPA, DOE, NIST) and ANU regarding quantum randomness and behavioral experimentation.
+	•	Reports, white papers, or contracts involving QRNGs as a tool for environmental, geospatial, or behavioral modeling.
+	•	Documentation on U.S. export control, oversight, or foreign influence reviews connected to QRNG integration into U.S.-based apps.
+	•	Records assessing the behavioral, psychological, or security implications of deploying QRNG-linked applications to consumer populations (including crowd movement, anomaly detection, or exposure to hazardous environments).
+	•	Internal risk assessments or legal reviews of QRNG data collection, especially where used in conjunction with geolocation or augmented reality platforms.
+
+Keywords: quantum random number generator, QRNG, Australian National University, ANU, Randonautica, Fatum Project, geospatial anomaly, behavioral modeling, DARPA, DOE, NIST, NSA
+
+
