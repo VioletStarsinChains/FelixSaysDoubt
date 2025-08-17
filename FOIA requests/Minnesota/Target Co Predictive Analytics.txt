@@ -1,0 +1,14 @@
+To: Federal Trade Commission / Consumer Protection Bureau
+
+Request:
+
+Requesting any internal investigations, complaints, third-party audits, or regulatory communications from 2005–2025 related to Target Corporation’s use of predictive analytics to infer sensitive personal characteristics (including gender identity, medical status, or sexual orientation) based on purchasing behavior.
+
+Please include:
+	•	Documentation referencing behavioral modeling or customer profiling used to target individuals undergoing gender transition prior to disclosure
+	•	Investigations into consumer harm or psychological impact resulting from premature or unsolicited identity targeting
+	•	Vendor partnerships involving behavioral futures modeling, neural marketing, or inferred gender prediction
+	•	Communications referencing predictive targeting using apparel purchases (e.g., undergarments), personal care products, or wellness items
+	•	Any mention of “minimizer bras” or related gendered clothing items as signal variables in consumer models
+
+Keywords: Target Corporation, gender inference, predictive analytics, consumer modeling, trans identity prediction, neural marketing, inferred gender targeting, minimizer bra, surveillance capitalism, FTC complaint, shopping behavior profiling
