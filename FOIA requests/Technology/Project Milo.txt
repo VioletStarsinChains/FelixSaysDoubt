@@ -1,0 +1,14 @@
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+Cc: U.S. Department of Commerce / National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, contracts, or interagency agreements referencing Lionhead Studios’ “Project Milo” (2009–2012) and its subsequent integration into research on kinesthetic style transfer, motion capture, and gesture-based AI training systems, from January 1, 2008 to present.
+
+This includes:
+	•	Documentation of DARPA or DoD programs evaluating Project Milo or similar interactive avatars for motion/gesture recognition
+	•	Records on use of Milo datasets or derivative technology for behavioral modeling, neurotechnology training, or surveillance purposes
+	•	Internal communications between DARPA, NIST, and commercial partners regarding kinesthetic style transfer and family/child gesture capture
+	•	Any Cooperative Research and Development Agreements (CRADAs), grants, or pilot programs linking Project Milo to defense or intelligence applications
+
+Keywords: Project Milo, Lionhead Studios, kinesthetic style transfer, motion capture, gesture datasets, child modeling, DARPA, NIST
