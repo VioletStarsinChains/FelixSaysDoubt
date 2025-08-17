@@ -110,6 +110,19 @@ _A quick, practical checklist for spotting when digital audio is being overlaid 
 
 ## Field Log Template
 
+**Date/Time:**
+**Location/Room traits** (hard/soft surfaces, size):
+**Device state** (BT/Wi-Fi, ANC, Spatial/Transparency modes):
+**Perceived source location:**
+**Head-turn result:**
+**Occlusion result** (earplugs/tragus):
+**Obstacle result** (doorframe/wall):
+**Clap/reverb match** (match/mismatch, notes):
+**Beam test** (hot-spot? yes/no):
+**Recording triangulation** (which mics captured it?):
+**Notes/Other variables** (movement, windows, HVAC):
+**Provisional conclusion:**
+
 ---
 
 ## Interpreting Outcomes (Quick Matrix)
