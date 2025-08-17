@@ -1,0 +1,32 @@
+“They don’t just decide if you get a loan anymore. They decide if you ever see the apartment.”
+
+⸻
+
+Narrative Frame
+
+In the old days, redlining meant you couldn’t get a mortgage if you lived on the wrong side of a map.
+Now, the line is invisible. Rental platforms and property managers use microgeofencing — phone GPS, IP address, or ad-targeting data — to decide which listings appear in your search results. If you’re outside a certain fence, the apartment might as well not exist.
+
+That means entire groups of people can be excluded before they even know there was an opportunity. It also means platforms (or their data brokers) can shape who ends up living with whom — curating “random” roommate pairings, building or breaking communities, and steering neighborhood demographics with algorithmic precision.
+
+What used to be a banker with a red pen is now an app with a geo-filter. It looks neutral, but it’s the same outcome: discriminatory housing access — only quieter, faster, and harder to prove.
+
+
+/////////
+
+Sample FOIA text:
+
+To Department of Housing and Urban Development (HUD) / Federal Trade Commission (FTC) / Department of Justice Civil Rights Division
+
+Request:
+
+Requesting any and all documents, communications, contracts, or research proposals from 2010 to present concerning the use of microgeofencing technologies to restrict or shape access to housing rental listings, roommate-matching platforms, or property availability searches.
+
+This includes:
+	•	Agreements with real estate platforms, rental marketplaces, or property management companies regarding geolocation-based access controls
+	•	Research into discriminatory effects of geofencing on protected classes (race, gender, disability, income status) in relation to rental availability
+	•	Communications concerning algorithmic roommate-matching or housing “curation” that limits choice based on behavioral or location data
+	•	Reports on the role of microgeofencing in perpetuating digital redlining or restricting fair housing access
+	•	Vendor contracts involving mobile adtech, behavioral targeting, or predictive analytics tied to rental housing searches
+
+Keywords: microgeofencing, digital redlining, housing discrimination, rental listings, roommate matching, behavioral targeting, housing algorithms, HUD, FTC, DOJ
