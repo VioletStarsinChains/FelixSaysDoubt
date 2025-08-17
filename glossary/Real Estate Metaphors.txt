@@ -1,7 +1,3 @@
-Perfect — here’s a structured “Real Property Metaphors for Data Control” glossary in Markdown:
-
-⸻
-
 Real Property Metaphors for Data Control
 
 A critical lexicon mapping real estate law concepts onto surveillance, data sharing, and behavioral futures markets.
