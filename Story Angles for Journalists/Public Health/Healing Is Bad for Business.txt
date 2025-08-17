@@ -5,3 +5,26 @@ What happens when a chronically ill person discovers a way to dramatically reduc
 That’s the story hiding in plain sight. After developing a mineral replenishment protocol that resolved conditions like POTS and EDS, and inventing a simple balance board that improves dyspraxia and sensory instability, one patient found themselves pushed into homelessness and stripped of medical care. Their “crime”? Demonstrating that independence from medical captivity is possible.
 
 This isn’t just one person’s ordeal — it points to a systemic pattern. Patients who reduce their value as revenue streams or research subjects often face invisible forms of retaliation: denial of services, bureaucratic sabotage, even targeted instability. It raises uncomfortable questions about whether our healthcare system protects patients — or protects the market demand their illnesses create.
+
+
+/////////////
+
+
+To: Minnesota Department of Human Services
+Minnesota Department of Health
+[Optionally: Hennepin County Human Services / Public Health]
+
+Request:
+
+Under the Minnesota Government Data Practices Act (MGDPA), I am requesting access to any and all records, communications, contracts, or oversight reports from 1990 to present regarding the denial, restriction, or withdrawal of medical care or coverage for individuals who experienced unexpected recovery or symptom resolution outside of standard treatment protocols.
+
+This includes but is not limited to:
+	•	Records discussing denial of treatment, coverage, or case services on the basis that a patient’s health status no longer fit expected diagnostic or disability categories.
+	•	Internal guidance, memos, or policy documents related to how agencies should respond when a patient demonstrates significant recovery outside of standard medical interventions.
+	•	Correspondence with hospitals, insurers, or research institutions regarding patients whose recovery disrupted ongoing care plans, cost projections, or research participation.
+	•	Reports, audits, or program reviews that identify cases where “over-recovery,” “unexpected recovery,” or “outlier improvement” influenced eligibility, service continuation, or medical record classification.
+	•	Communications with federal agencies (NIH, CMS, HHS, etc.) regarding data collection, research, or oversight of patient populations whose improvement conflicted with predictive modeling or program expectations.
+
+If portions of this request are exempt from release, please provide the non-exempt portions and a written justification for each withheld record as required under the MGDPA.
+
+Keywords: unexpected recovery, outlier improvement, over-recovery, denial of care, medical eligibility loss, coverage withdrawal, alternative treatment outcomes, nonstandard protocol recovery, research disruption.
