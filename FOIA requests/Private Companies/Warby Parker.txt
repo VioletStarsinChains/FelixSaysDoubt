@@ -1,0 +1,41 @@
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+Cc: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, regulatory filings, or interagency agreements referencing Warby Parker and/or its subsidiaries in relation to the development, testing, or deployment of eyewear containing embedded sensors, optical hardware, or digital health monitoring technology, from January 1, 2010 to present.
+
+This includes:
+	•	Correspondence between Warby Parker and federal agencies regarding the integration of sensors, microelectronics, or augmented/virtual reality features into eyewear products.
+	•	Documentation of experiments or pilot programs involving eyewear used for physiological or behavioral monitoring, including ocular biometrics, pupillometry, or neurotechnology-linked interfaces.
+	•	Reports or assessments on consumer health risks associated with eyewear incorporating cameras, wireless modules, or other data-extracting components.
+	•	Internal or external communications on the role of eyewear in continuous monitoring, biometric identification, or geofencing applications.
+	•	Contracts, grants, or cooperative research and development agreements (CRADAs) involving Warby Parker and agencies such as DARPA, IARPA, NIH, or DoD medical branches.
+	•	Records on export controls, foreign partnerships, or technology transfer related to “smart glasses,” eye-tracking, or embedded sensor-enabled eyewear.
+
+Keywords: Warby Parker, smart glasses, eyewear sensors, pupillometry, biometric monitoring, ocular neurotechnology, continuous monitoring, DARPA, CDRH
+
+
+//////////
+
+
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+Cc: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, regulatory filings, or interagency agreements referencing Luxottica Group S.p.A. (including subsidiaries such as Ray-Ban, Oakley, and EssilorLuxottica) in relation to the development, testing, or deployment of eyewear incorporating embedded sensors, optical hardware, or digital health monitoring technology, from January 1, 2005 to present.
+
+This includes:
+	•	Correspondence between Luxottica and federal agencies regarding integration of sensors, cameras, wireless modules, or augmented/virtual reality features into eyewear products.
+	•	Documentation of experiments, pilot programs, or consumer trials involving eyewear for biometric surveillance, ocular tracking, pupillometry, or neurotechnology-linked interfaces.
+	•	Reports or risk assessments on consumer health or privacy impacts associated with sensor-enabled eyewear or smart glasses.
+	•	Internal or external communications on the use of eyewear in continuous monitoring, behavioral analytics, geofencing, or identity verification applications.
+	•	Contracts, grants, or cooperative research and development agreements (CRADAs) involving Luxottica and agencies such as DARPA, IARPA, NIH, or DoD medical branches.
+	•	Records concerning export controls, foreign partnerships, or technology transfer related to “smart glasses,” eye-tracking, or embedded biometric hardware.
+
+Keywords: Luxottica, EssilorLuxottica, Ray-Ban, Oakley, smart glasses, eyewear sensors, biometric surveillance, pupillometry, ocular neurotechnology, continuous monitoring, DARPA, CDRH
+
+
+
+
