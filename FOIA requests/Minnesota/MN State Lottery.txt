@@ -1,0 +1,16 @@
+To: Minnesota Gambling Control Board / Minnesota State Lottery / Minnesota Department of Public Safety
+Cc: U.S. Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, or interagency communications from January 1, 2000 to present regarding the Minnesota State Lottery’s use of gambling activity data for behavioral modeling, surveillance, or predictive analytics.
+
+This includes:
+	•	Internal reports on purchase patterns of scratch-off tickets, Powerball, and online lottery games, especially where linked to demographic, geographic, or psychographic categories
+	•	Communications with federal agencies or private contractors on gambling data as a behavioral dataset
+	•	Proposals or pilot programs involving near-miss psychology, reward-timing algorithms, or neurological impact of lottery participation
+	•	Risk assessments on gambling addiction, targeting of vulnerable populations, or correlations between lottery behavior and compliance/adherence to authority
+	•	Documentation of contracts, grants, or CRADAs between the Minnesota Lottery and federal research agencies such as DARPA or DoD medical branches
+	•	Export control or data-sharing agreements involving lottery purchase records, mobile app engagement, or geolocation data
+
+Keywords: Minnesota Lottery, gambling surveillance, behavioral compliance, predictive modeling, reward timing, near-miss psychology, gambling addiction, DARPA, DoD
