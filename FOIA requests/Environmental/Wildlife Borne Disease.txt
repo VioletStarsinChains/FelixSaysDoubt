@@ -38,5 +38,14 @@ This includes:
 Keywords: Minnesota wild turkey, suburban wildlife, residential contamination, feces, feathers, zoonotic risk, playground contamination, environmental health, zoonoses, pesticide residues, heavy metals, MPCA, MDH
 
 
+////// Addendum ///////
+
+Both requests should also include any reports, studies, assessments, or interagency communications regarding the role of mechanical landscaping equipment (e.g., leafblowers, lawnmowers, trimmers) in the aerosolization and environmental redistribution of contaminants derived from wild turkey populations.
+
+Specifically:
+	•	Aerosolized dispersal of microbial pathogens (e.g., Salmonella, Campylobacter, Histoplasma, avian influenza) from dried feces or feather dust
+	•	Redistribution of inorganic contaminants (e.g., heavy metals, pesticides, microplastics) through dust plumes
+	•	Public health risks tied to allergenic proteins, fungal spores, or parasitic vectors carried in turkey residue
+	•	Potential impacts of repeated mechanical aerosolization in residential neighborhoods, schoolyards, and other child-centered environments
 
 
