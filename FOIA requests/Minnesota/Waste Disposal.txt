@@ -1,0 +1,42 @@
+To: U.S. Environmental Protection Agency (EPA) / Office of Land and Emergency Management & Region 5
+Cc: Department of Transportation (DOT) / Pipeline and Hazardous Materials Safety Administration (PHMSA) • Occupational Safety and Health Administration (OSHA) • Department of Health and Human Services (HHS) / Centers for Disease Control and Prevention (CDC) • Department of Homeland Security (DHS) / Cybersecurity and Infrastructure Security Agency (CISA)
+
+Request:
+
+Requesting any and all records from January 1, 2000 to present concerning waste hauling and transfer companies operating in the state of Minnesota and their handling, transport, transfer, or disposal of medical/biomedical waste, electronic waste, biosolids/compost, and specialty industrial wastes with potential community exposure pathways.
+
+This includes:
+	•	Permits, approvals, inspections, enforcement actions, and corrective action plans issued to any Minnesota-based or Minnesota-operating solid-waste hauler or transfer operator.
+	•	Manifests, e-Manifest data, waste profiles, GIS/routing information connecting residential or commercial pick-ups to transfer, landfill, incineration, composting, or wastewater facilities.
+	•	Sampling/monitoring results (air, dust/bioaerosol, stormwater, surface water, groundwater, leachate) for PFAS, heavy metals, solvents, pharmaceuticals/antibiotics, pathogens (incl. bioaerosols), dioxins/furans, microplastics near hauling routes, transfer sites, and adjacent child-centered or residential environments.
+	•	Incident/complaint records (spills, load rejections, illegal dumping, odor/dust complaints, lithium battery fires) and any associated public-health assessments.
+	•	Contracts or communications between waste haulers and healthcare providers, medical device manufacturers, electronics recyclers, wastewater utilities, or compost processors regarding waste segregation or downstream disposition.
+	•	Worker/community exposure evaluations related to dust, bioaerosols, or hazardous constituents released during hauling or transfer.
+	•	Projects involving federal contractors (e.g. Palantir, Deloitte, Accenture, Booz Allen Hamilton) applying predictive modeling, risk mapping, or exposure analytics to Minnesota waste operations.
+
+Keywords: Minnesota waste haulers, transfer station, RCRA Subtitle C/D, medical waste, e-waste, biosolids, compost, PFAS, heavy metals, microplastics, bioaerosol, leachate, lithium battery fire, neighborhood exposure, Region 5, predictive modeling.
+
+
+///////////
+
+
+To: Minnesota Pollution Control Agency (MPCA) / Solid Waste & Hazardous Waste Programs
+Cc: Minnesota Department of Health (MDH) • Minnesota Department of Transportation (MnDOT) • County/municipal environmental services
+
+Request:
+
+Requesting any and all records from January 1, 2000 to present concerning waste hauling and transfer companies operating in Minnesota and their handling, transport, transfer, or disposal of medical/biomedical waste, e-waste, biosolids/yard waste/compost, and specialty industrial wastes with potential impacts on residential neighborhoods or child-centered environments.
+
+This includes:
+	•	Permits, licenses, inspections, enforcement actions, and violation reports issued to Minnesota waste hauling or transfer companies.
+	•	Manifests, waste profiles, GIS/routing data, and haul route safety reports linking community pick-ups to transfer or disposal facilities.
+	•	Environmental monitoring data (air, stormwater, groundwater, dust/bioaerosols, leachate) for PFAS, heavy metals, pathogens, microplastics, solvents, etc., collected near hauler facilities or haul corridors.
+	•	Incident/complaint records (odor, dust, debris, litter, illegal dumping, fires) and investigation/resolution files.
+	•	Agreements/communications with hospitals, clinics, medical device makers, electronics recyclers, composters, and wastewater utilities regarding special waste handling and segregation.
+	•	Worker/community exposure assessments, including any evaluations of leaf-blower or landscaping-equipment aerosolization at or near waste facilities.
+	•	Interagency communications (MPCA–MDH–MnDOT–local government) regarding risk communication, public health mitigation, or residential exposure tied to waste hauling operations.
+
+Keywords: Minnesota waste hauler, MPCA, solid waste, hazardous waste, special waste, PFAS, microplastics, bioaerosols, medical waste, e-waste, biosolids, neighborhood exposure, complaint data.
+
+
+
