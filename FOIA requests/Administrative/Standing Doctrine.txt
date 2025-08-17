@@ -1,0 +1,15 @@
+To FTC / DOJ (Civil Division, Antitrust Division, Cybercrime Section) / SEC / DHS-CISA / HHS OCR
+
+Request:
+
+Requesting any and all documents, internal communications, policy analyses, or correspondence referencing the classification of individuals or groups as Non-Person Entities (NPEs) in relation to data breaches, leaks, or privacy-related litigation, from 2000 to present.
+
+This includes:
+	•	Internal memoranda, emails, or briefing materials discussing the impact of NPE classifications on consumer standing in breach or privacy litigation.
+	•	Agency communications with courts, trade groups, or corporate counsel regarding the dismissal of plaintiffs for “lack of standing” in data breach cases.
+	•	Any references to NPEs in connection with the Computer Fraud and Abuse Act (CFAA), Electronic Communications Privacy Act (ECPA), HIPAA, BIPA, or other privacy/data protection statutes.
+	•	Policy papers or enforcement strategy documents on the role of NPE designations in breach liability or consumer injury analyses.
+	•	Records of interagency or contractor discussions of NPE classifications as they relate to the recognition (or non-recognition) of injury from leaked or exposed data.
+	•	Communications with courts regarding amicus briefs, advisory opinions, or technical support in cases where standing of breach victims was at issue.
+
+Keywords: non-person entity, NPE, data breach, data leak, standing doctrine, cognizable injury, particularization, consumer injury, CFAA, FTC, OCR, Antitrust Division
