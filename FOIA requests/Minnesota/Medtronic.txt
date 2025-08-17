@@ -1,0 +1,137 @@
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+Cc: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, regulatory filings, or interagency agreements referencing Medtronic’s development, testing, or deployment of implantable or wearable neurotechnology with potential applications for behavioral or physiological modulation, from January 1, 2005 to present.
+
+This includes:
+	•	Correspondence between Medtronic and federal agencies regarding neural interface safety, efficacy, or classified use cases
+	•	Documentation of experiments or clinical trials involving deep brain stimulation, vagus nerve stimulation, or trigeminal nerve stimulation with behavioral endpoints
+	•	Reports or assessments on the use of implantable devices for non-consensual human experimentation or surveillance purposes
+	•	Risk assessment or mitigation strategies related to adverse neurological or psychological effects
+	•	Contracts, grants, or cooperative research and development agreements (CRADAs) involving Medtronic and agencies such as DARPA, IARPA, or DoD medical branches
+	•	Internal or external communications on device telemetry, remote adjustment, or wireless data extraction capabilities
+	•	Records on export controls, foreign partnerships, or technology transfer related to neural modulation devices
+
+Keywords: Medtronic, neurotechnology, deep brain stimulation, vagus nerve stimulation, trigeminal stimulation, behavioral modulation, telemetry, remote programming, DARPA, CDRH
+
+
+////////
+
+
+To: Defense Advanced Research Projects Agency (DARPA) / Biomedical Advanced Research and Development Authority (BARDA) / Department of Health and Human Services (HHS) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all contracts, grant applications, internal communications, performance reports, or research proposals from 2005 to present involving Medtronic in relation to:
+	•	Behavioral modeling
+	•	Implantable telemetry systems
+	•	Neurostimulation or neuromodulation technologies
+	•	Population-level surveillance infrastructure
+
+This includes:
+	•	DARPA- or BARDA-funded research involving Medtronic devices used to track, influence, or model human behavior
+	•	Documents referencing the use of Medtronic implants (e.g., loop recorders, neurostimulators, vagus nerve stimulators) in compliance monitoring or predictive behavioral systems
+	•	Communications between DARPA, BARDA, or HHS and Medtronic regarding neurobehavioral use cases for implantable devices
+	•	Internal memos, risk assessments, or ethics reviews regarding dual-use applications of Medtronic hardware in behavioral telemetry or neuromodulation
+	•	Any references to offshore manufacturing or data routing through Medtronic facilities outside the U.S. (e.g., Ireland, India, Switzerland) in connection with DARPA- or BARDA-funded behavioral or surveillance programs
+	•	References to third-party AI vendors (e.g., Palantir, Oracle) integrating data from Medtronic telemetry systems into behavioral risk scoring, digital ID infrastructure, or public health compliance models
+
+Keywords: Medtronic, implantable telemetry, loop recorder, vagus nerve stimulator, neurotech, behavioral modeling, neuromodulation, DARPA, BARDA, surveillance infrastructure, offshore manufacturing, predictive compliance, population monitoring
+
+
+//////////
+
+
+To: Department of Health and Human Services (HHS) / Biomedical Advanced Research and Development Authority (BARDA) / Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all internal communications, project documentation, contracts, grant records, or research proposals from 2008 to present involving collaborations, data integration, or platform interoperability between Medtronic and Palantir Technologies, particularly in the context of:
+	•	Implantable or wearable telemetry systems
+	•	Behavioral modeling
+	•	Neurostimulation or neuromodulation devices
+	•	Surveillance or compliance infrastructure
+
+This includes:
+	•	Communications referencing joint use of Medtronic device data (e.g., loop recorders, neural stimulators, wearable monitors) within Palantir platforms such as Foundry, Gotham, or Tiberius
+	•	Discussions of behavioral risk modeling, psychometric profiling, or public health segmentation using data originating from Medtronic implants
+	•	References to Colorado-based facilities or teams, including project staging, integration testing, or regional contract fulfillment
+	•	Federal pilot programs in which Palantir dashboards visualized or modeled physiological data collected via Medtronic systems
+	•	Any data-sharing agreements, API integrations, or technical documentation linking Medtronic telemetry outputs with Palantir analytics tools
+	•	Internal agency assessments or ethics reviews evaluating privacy, consent, or behavioral manipulation risks related to Medtronic–Palantir integration
+
+Keywords: Medtronic, Palantir, Foundry, Gotham, Tiberius, behavioral modeling, implantable telemetry, loop recorder, vagus nerve stimulator, neuromodulation, DARPA, BARDA, Colorado, surveillance infrastructure, predictive compliance
+
+
+/////////
+
+
+To: Department of Health and Human Services (HHS) / Biomedical Advanced Research and Development Authority (BARDA) / Defense Advanced Research Projects Agency (DARPA) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all contracts, research proposals, grant records, internal communications, vendor agreements, or ethics reviews from 2005 to present involving Medtronic’s Ireland- or India-based facilities in connection with:
+	•	Behavioral modeling
+	•	Implantable telemetry
+	•	Neurostimulation or neuromodulation
+	•	Predictive analytics systems
+	•	Compliance monitoring or psychophysiological segmentation
+
+This includes:
+	•	Documents referencing Medtronic Ireland or Medtronic India as manufacturing, research, or data processing hubs for U.S. government-funded projects
+	•	Communications discussing IP routing, clinical trial support, or behavioral research coordination through overseas subsidiaries
+	•	Records of DARPA- or BARDA-funded programs using data from devices produced or managed by Medtronic overseas
+	•	Use of Indian clinical populations or Irish R&D facilities in pre-market testing or post-market behavioral analytics pipelines
+	•	Documentation of any agreements with AI vendors (e.g., Palantir, Oracle) for integration of Medtronic telemetry data originating from Ireland or India
+	•	Ethical reviews or contractor audits noting risk factors associated with foreign population testing or offshored behavioral research models
+
+Keywords: Medtronic Ireland, Medtronic India, behavioral modeling, implantable telemetry, loop recorder, vagus nerve stimulator, neuromodulation, BARDA, DARPA, offshoring, foreign clinical trials, AI integration, predictive compliance, digital therapeutics
+
+
+///////
+
+
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+
+Request:
+
+Requesting any and all inspection reports, internal communications, post-market surveillance records, approval materials, or adverse event documentation from 2005 to present related to Medtronic-operated or affiliated facilities in Ireland and India, particularly where those facilities are involved in:
+	•	Manufacturing or testing of telemetry-enabled implantable devices
+	•	Development or deployment of neuromodulation systems
+	•	Behavioral or cognitive monitoring through medical devices
+
+This includes:
+	•	Premarket approval or 510(k) materials referencing data from India- or Ireland-based facilities
+	•	Inspection or audit records evaluating compliance of these facilities with behavioral safety, neuroactive device tolerances, or psychophysiological effects
+	•	Communications referencing the use of foreign clinical data involving behavioral, emotional, or neurocognitive endpoints
+	•	Reports discussing user experience, mood changes, psychiatric effects, or behavioral modulation related to devices manufactured or tested offshore
+	•	Records referencing integration with U.S.-based predictive modeling platforms, telehealth systems, or remote compliance dashboards
+	•	Post-market surveillance entries (MAUDE or equivalent) involving behavioral irregularities, compliance shifts, or cognitive impacts linked to devices routed through Ireland or India
+
+Keywords: Medtronic Ireland, Medtronic India, neuromodulation, implantable telemetry, behavioral side effects, loop recorder, vagus nerve stimulation, psych monitoring, foreign clinical data, FDA inspection, post-market surveillance, CDRH, cognitive endpoints
+
+
+/////////
+
+
+To: Defense Advanced Research Projects Agency (DARPA) / Biomedical Advanced Research and Development Authority (BARDA) / Department of Health and Human Services (HHS)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, site assessments, or security protocols from 2005 to present referencing Medtronic facilities used for:
+	•	Behavioral modeling or neurocognitive research
+	•	Psychological or psychophysiological testing
+	•	Implantable telemetry calibration or live subject trials
+	•	Covert ingress/egress protocols, including vehicle light suppression, headlight restrictions, or visibility shielding
+
+This includes:
+	•	DARPA- or BARDA-funded programs involving Medtronic sites with controlled access protocols or modified vehicular procedures
+	•	Security documentation referencing participant or personnel anonymity, including obscured surveillance zones or light discipline signage
+	•	Internal communications or facility design plans referencing testing chambers, sensory isolation rooms, or behavioral modulation infrastructure
+	•	Contractor or subcontractor access procedures that required subjects, staff, or visitors to limit external traceability (e.g., no headlights, badge suppression, privacy routing)
+	•	Risk assessments or ethics board reviews discussing the psychological impact or behavioral side effects of protocols used at these sites
+	•	Any references to the Fridley, MN campus or former Medtronic facilities in Colorado, Ireland, or India that employed covert visibility controls
+
+Keywords: Medtronic, light discipline, covert ingress, behavioral testing, telemetry calibration, neurocognitive research, DARPA, BARDA, restricted access, anonymity protocol, psychophysiological trial site, Fridley campus, surveillance avoidance
