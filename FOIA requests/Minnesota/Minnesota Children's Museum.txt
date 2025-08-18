@@ -56,3 +56,23 @@ This includes:
 
 Keywords: Minnesota Children’s Museum, child behavioral surveillance, play space laboratory, predictive analytics, compliance modeling, behavioral futures markets, Palantir, covert research, data collection, state partnerships
 
+
+////////////
+
+
+To Federal Trade Commission (FTC) / Department of Education (ED) / Department of Health and Human Services (HHS) / National Science Foundation (NSF)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, or program evaluations from 1990 to present concerning the Minnesota Children’s Museum (Saint Paul, MN) being used as a site for child behavioral surveillance, predictive modeling, or behavioral futures markets, including any links to digital child data protections under the Children’s Online Privacy Protection Act (COPPA).
+
+This includes:
+	•	Records of federally funded research projects or contracts using the museum as a controlled environment for behavioral data collection on children
+	•	Documentation of collaborations between the museum, federal agencies, or contractors involving cross-referencing in-person behavioral data with digital behavioral datasets (e.g., online learning platforms, child-facing apps)
+	•	Reports or evaluations describing child compliance, attention, and social interaction in museum play spaces as data inputs for predictive modeling
+	•	Communications regarding whether museum-based child data was integrated with online child data protections under COPPA, and any exceptions, exemptions, or regulatory waivers granted
+	•	Contracts or subcontracts involving Palantir, DARPA, BARDA, or private data science firms that used museum-derived child behavioral data for AI training, surveillance, or predictive policing purposes
+	•	Risk assessments, ethics reviews, or consumer protection inquiries regarding the covert use of child play environments as behavioral laboratories
+	•	Whistleblower reports or complaints about the use of children as behavioral data sources in museum settings without proper consent or regulatory oversight
+
+Keywords: Minnesota Children’s Museum, COPPA, child behavioral data, play space surveillance, predictive modeling, behavioral futures markets, Palantir, DARPA, AI training datasets, child compliance modeling, data cross-linking
