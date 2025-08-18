@@ -1,0 +1,78 @@
+To Federal Trade Commission (FTC) / Department of Health and Human Services (HHS) / National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or vendor agreements from 2010 to present regarding the use of BetterHelp (or its parent/affiliate companies) as a data source or training environment for artificial intelligence systems in the areas of behavioral analysis, surveillance, or predictive modeling.
+
+This includes:
+	•	Contracts or agreements between BetterHelp and government agencies, AI vendors, or defense contractors involving the collection or licensing of therapy session data
+	•	Communications or assessments regarding the suitability of online therapy platforms for behavioral futures markets or predictive analytics
+	•	Documentation of patient transcripts, metadata, or interaction logs used as AI training corpora
+	•	Risk-benefit analyses concerning the ethical implications of using psychotherapy data for surveillance or adversarial modeling
+	•	Program evaluations of therapist workload, burnout, or “caseload offshoring” via BetterHelp and its intersection with AI data harvesting
+	•	Internal discussions referencing the inversion of therapy frameworks (e.g., CBT, trauma-informed practice, rapport-building) into coercive or surveillance applications
+	•	Reports on consumer deception, patient consent, or lack thereof in relation to AI training uses of BetterHelp data
+
+Keywords: BetterHelp AI training, therapy data harvesting, behavioral analytics, predictive modeling, online therapy surveillance, therapeutic inversion, CBT dataset, patient metadata, behavioral futures markets, adversarial rapport
+
+
+///////////
+
+
+To Federal Trade Commission (FTC) / Department of Health and Human Services (HHS) / Office of Science and Technology Policy (OSTP)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, or regulatory reviews from 2010 to present regarding BetterHelp’s role as both a teletherapy provider and a data source for artificial intelligence training, surveillance applications, or behavioral futures markets.
+
+This includes:
+	•	Records of patient transcripts, session metadata, or therapeutic interaction logs being shared, licensed, or sold for AI training purposes
+	•	Communications acknowledging that BetterHelp functioned as a large-scale behavioral dataset rather than solely as a healthcare provider
+	•	Reports, audits, or consumer protection inquiries into whether patients were adequately informed that their therapy conversations might fuel AI development or government surveillance programs
+	•	Analyses of how therapeutic frameworks (CBT, motivational interviewing, rapport-building) were adapted into adversarial models for influence, coercion, or population-level behavioral prediction
+	•	Contracts, pilot projects, or subcontracts involving Palantir, DARPA, or other defense/AI contractors referencing BetterHelp data streams
+	•	Risk assessments, ethics reviews, or whistleblower complaints regarding the inversion of therapy (a space of care and trust) into a behavioral extraction funnel for machine learning systems
+	•	Marketing, recruitment, or public-facing communications framing BetterHelp as a safe alternative to traditional therapy while internally promoting its value as a data pipeline
+
+Keywords: BetterHelp surveillance, therapy data funnel, AI training corpus, behavioral futures markets, coerced consent, CBT inversion, adversarial modeling, metadata harvesting, Palantir subcontract, teletherapy dataset
+
+
+//////////
+
+
+To [State Attorney General / Department of Health / Consumer Protection Division]
+
+Request:
+
+Pursuant to [your state’s public records law], I am requesting access to any and all records from 2010 to present concerning BetterHelp (and any affiliated or parent companies) related to the collection, sharing, or use of therapy session data for artificial intelligence training, behavioral analysis, or predictive modeling.
+
+This includes:
+	•	Contracts, agreements, or correspondence between BetterHelp and state agencies regarding the use of therapy data for AI development or surveillance purposes
+	•	Records of complaints, investigations, or enforcement actions related to BetterHelp’s handling of patient data, including deceptive or unfair trade practices
+	•	Communications referencing the licensing or sale of session transcripts, chat logs, or metadata to third parties for machine learning, predictive analytics, or behavioral futures applications
+	•	Any ethics reviews, legal opinions, or consumer protection analyses addressing whether BetterHelp adequately disclosed AI training or data-sharing practices to patients
+	•	Reports on therapist recruitment, burnout, or caseload offshoring as it relates to AI data harvesting through BetterHelp’s platform
+	•	Records referencing partnerships between BetterHelp and Palantir, DARPA, or other contractors involved in AI surveillance or behavioral modeling
+
+Keywords: BetterHelp, therapy data harvesting, AI training, teletherapy surveillance, behavioral analytics, coerced consent, deceptive practices, CBT dataset, predictive modeling, consumer protection
+
+
+///////////
+
+
+To Department of Justice / Federal Bureau of Investigation / Department of Homeland Security / Office of the Director of National Intelligence
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or evaluations from 2010 to present regarding the use of BetterHelp (and its affiliates or parent companies) as a data source for predictive policing, surveillance, or behavioral threat modeling.
+
+This includes:
+	•	Contracts or agreements between BetterHelp and federal agencies, or with private contractors (e.g., Palantir, Booz Allen Hamilton, SAIC, Accenture, etc.) involving therapy session data for law enforcement or predictive analytics
+	•	Internal communications describing how therapeutic frameworks (CBT, trauma-informed care, rapport-building) could be inverted for predictive policing applications
+	•	Risk assessments or ethics reviews regarding the use of teletherapy data to forecast “threat levels,” “radicalization potential,” or “community risk indices”
+	•	Reports or pilot programs on using BetterHelp datasets to train machine learning models for surveillance, public safety monitoring, or threat prevention
+	•	Vendor partnerships involving behavioral futures markets or compliance modeling derived from therapy transcripts and metadata
+	•	Documents addressing consumer deception, coerced consent, or the non-therapeutic repurposing of patient information in predictive policing contexts
+	•	Whistleblower complaints, audits, or internal evaluations concerning therapist recruitment into surveillance analyst roles through BetterHelp-related pipelines
+
+Keywords: BetterHelp predictive policing, teletherapy surveillance, therapy data exploitation, behavioral threat modeling, Palantir contract, Booz Allen, SAIC, CBT inversion, compliance modeling, behavioral futures markets
