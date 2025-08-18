@@ -1,0 +1,14 @@
+To DARPA (Defense Advanced Research Projects Agency)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, or contractor reports referencing technologies for the modulation, denial, or control of electronic device charging from 1990 to present.
+
+This includes:
+	•	Research into remote or field-deployable systems that enable selective control over whether a device charges, how quickly it charges, or if it discharges
+	•	Contractor or university research projects under DARPA relating to electromagnetic denial, directed energy, or power modulation technologies
+	•	Applications of charging control in military, intelligence, or crowd control contexts
+	•	Reports assessing behavioral or compliance outcomes linked to the controlled availability of device charging
+	•	Interagency communications with DoD, NSA, IARPA, FCC, or DOE concerning selective power/charging modulation technologies
+
+Keywords: charge denial, power modulation, charging control, directed energy, electromagnetic denial, device interdiction, compliance conditioning, DARPA
