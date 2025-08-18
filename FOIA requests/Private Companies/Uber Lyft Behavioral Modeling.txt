@@ -77,3 +77,89 @@ This includes:
 	•	Analyses of synthetic encounter design (e.g., staged rescues, coerced rides, manufactured safety interventions) as data-generation strategies under CVE programs
 
 Keywords: Uber, Lyft, CVE program, counterterrorism, racialized surveillance, synthetic rescue scenario, behavioral futures markets, predictive policing, Palantir contract, extremist threat modeling, coerced ride
+
+
+//////////
+
+
+To Department of Health and Human Services (HHS) / Department of Transportation (DOT) / Federal Trade Commission (FTC) / Department of Homeland Security (DHS)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, or program evaluations from 2010 to present regarding the use of ride-hailing platforms (e.g., Uber, Lyft) in connection with patient discharge, medical transport alternatives, or behavioral data collection from individuals exiting emergency departments or hospitals.
+
+This includes:
+	•	Records of contracts, agreements, or pilots involving Uber/Lyft as a patient discharge transportation option from hospitals or emergency rooms
+	•	Documentation of ride-hailing drop-off or pick-up displacements (e.g., patients being picked up far from the medical facility entrance) and any analysis of the behavioral impact of such dislocations
+	•	Communications between ride-hailing companies and federal agencies, or contractors (Palantir, Booz Allen Hamilton, Accenture, etc.), regarding the use of medically vulnerable populations as behavioral futures data sources
+	•	Reports on patient compliance, decision-making, navigation stress, or vulnerability in post-hospital transport contexts
+	•	Risk assessments or ethics reviews concerning the use of discharged patients—particularly those medicated, cognitively impaired, or mobility-restricted—as subjects for behavioral prediction or surveillance pilots
+	•	Whistleblower complaints, audits, or evaluations linking ride-hailing in medical contexts to predictive policing, behavioral futures markets, or compliance modeling
+	•	Analyses of demographic or medical condition segmentation (e.g., MCAS, POTS, disability populations) in relation to ride-hailing data harvested during ER discharges
+
+Keywords: Uber, Lyft, hospital discharge transport, emergency room patient data, behavioral futures markets, predictive modeling, Palantir contract, coerced navigation, compliance modeling, medical vulnerability, synthetic encounter
+
+
+//////////
+
+
+To Minnesota Department of Health (MDH) / Minnesota Department of Human Services (DHS) / Metropolitan Council (Metro Transit Authority)
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act, I am requesting access to any and all records from 2010 to present concerning the use of ride-hailing platforms (e.g., Uber, Lyft) as patient transport options for hospital or emergency room discharges in Minnesota, with particular emphasis on the behavioral impact of such services on medically vulnerable individuals.
+
+This includes:
+	•	Records of contracts, agreements, or pilot programs involving Uber/Lyft and Minnesota hospitals, ERs, or healthcare systems for patient discharge transport
+	•	Documentation of pickup or drop-off displacements (e.g., ride-hailing vehicles required to park blocks or miles from medical facility entrances) and analyses of patient outcomes or behavioral impacts in such scenarios
+	•	Communications between MDH, DHS, Metro Transit, or affiliated entities and ride-hailing companies regarding use of discharged patients as behavioral data sources
+	•	Reports or evaluations describing compliance, navigation stress, or vulnerability in patients using ride-hailing services post-discharge (especially those medicated, mobility-limited, or with cognitive impairments such as dyscalculia)
+	•	Records of demographic or diagnostic segmentation of patients (e.g., MCAS, POTS, other chronic illness populations) within ride-hailing patient transport programs
+	•	Ethics reviews, complaints, or adverse event reports concerning patient safety and wellbeing in state-supported or state-observed ride-hailing transport from hospitals
+	•	Documentation linking ride-hailing patient transport to predictive analytics, behavioral futures modeling, or data-sharing agreements with contractors
+
+Keywords: Uber, Lyft, patient discharge transport, ER discharge Minnesota, medical vulnerability, behavioral futures markets, coerced navigation, predictive analytics, MDH, Metro Transit, synthetic encounter
+
+
+////////
+
+
+To [Hospital System Name / Compliance Office / Patient Services Department]
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act, I am requesting access to any and all records from 2010 to present concerning the use of ride-hailing platforms (e.g., Uber, Lyft, or affiliated services such as Uber Health and Lyft Concierge) for patient discharge or transport following hospital or emergency room visits.
+
+This includes:
+	•	Records of contracts, agreements, or pilot programs between the hospital and ride-hailing companies for patient discharge transport
+	•	Documentation of policies or protocols governing where ride-hailing vehicles may stage, park, or pick up patients leaving the hospital or ER
+	•	Internal reports, evaluations, or audits describing patient safety outcomes, behavioral impact, or navigation difficulties associated with ride-hailing transport
+	•	Complaints, adverse event reports, or ethics reviews concerning patient wellbeing during or after ride-hailing discharges
+	•	Communications between the hospital and state/federal agencies, or private contractors, regarding the use of ride-hailing patient transport data for analytics or program evaluation
+	•	Records of any research proposals, pilot projects, or studies analyzing patient compliance, navigation, or vulnerability in relation to ride-hailing transport from the hospital
+
+Keywords: Uber, Lyft, hospital discharge transport, ER discharge, ride-hailing contract, patient navigation, synthetic encounter, behavioral futures, Uber Health, Lyft Concierge, Minnesota hospital
+
+
+//////////
+
+
+To Department of Health and Human Services (HHS) / Centers for Medicare & Medicaid Services (CMS) / Department of Transportation (DOT) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, or program evaluations from 2010 to present regarding the use of Uber Health, Lyft Concierge, or affiliated ride-hailing services as contractors or subcontractors for patient discharge and medical transport programs.
+
+This includes:
+	•	Federal contracts, grants, or pilot programs involving Uber Health, Lyft Concierge, or affiliates providing patient discharge transport from hospitals and emergency rooms
+	•	Records of subcontracting arrangements between Uber/Lyft and healthcare systems, insurers, or state/federal agencies regarding transport of recently discharged patients
+	•	Documentation of staging protocols, pickup/drop-off procedures, or restrictions that required patients to locate vehicles at significant distance from hospital entrances
+	•	Program evaluations, audits, or risk assessments describing patient safety, compliance, or behavioral impacts of ride-hailing transport post-discharge
+	•	Reports or communications linking patient transport data collected by Uber Health/Lyft Concierge to behavioral analytics, predictive modeling, or surveillance frameworks
+	•	Consumer complaints, whistleblower reports, or ethics reviews concerning patient wellbeing, data usage, or deceptive practices within Uber Health/Lyft Concierge contracts
+	•	Communications between federal agencies and Uber Health/Lyft Concierge regarding the commercialization of patient navigation data for behavioral futures markets or predictive analytics
+
+Keywords: Uber Health, Lyft Concierge, hospital discharge transport, ER discharge, ride-hailing subcontract, patient navigation, behavioral futures markets, predictive analytics, medical transport, CMS, HHS
+
+
+
