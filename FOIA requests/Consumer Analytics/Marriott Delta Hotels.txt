@@ -13,3 +13,23 @@ This includes:
 	•	Vendor contracts with technology providers for surveillance, compliance testing, or behavioral analysis within Marriott or Delta properties
 
 Keywords: Marriott International, Delta Hotels, hospitality surveillance, behavioral modeling, guest telemetry, predictive analytics, biometric check-in, smart rooms, travel data sharing, compliance testing
+
+
+//////////
+
+
+To DHS / Department of Commerce / National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or vendor agreements regarding data collection in hotel or hospitality environments for the purpose of kinesthetic style transfer, from 2000 to present.
+
+This includes:
+	•	Records of motion capture or body-kinematics data collection within hotel properties
+	•	Contracts with technology vendors providing gait analysis, posture recognition, or kinesthetic modeling systems
+	•	Communications related to pilot programs testing behavioral telemetry or movement-based identity confirmation in hotel settings
+	•	Reports assessing applications of kinesthetic style transfer for training simulations, predictive modeling, or compliance monitoring
+	•	Any materials on cross-domain use of hotel guest data (e.g., transfer to defense, entertainment, or insurance industries)
+	•	Internal analyses of privacy, consent, or ethical risks associated with movement capture in hospitality contexts
+
+Keywords: hotel surveillance, hospitality data collection, kinesthetic style transfer, gait analysis, posture recognition, movement telemetry, predictive modeling, biometric motion capture, behavioral entrainment, compliance monitoring
