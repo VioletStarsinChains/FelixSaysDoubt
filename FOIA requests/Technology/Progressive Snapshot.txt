@@ -1,0 +1,38 @@
+To Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), and Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or pilot program documentation from 2005 to present concerning the use of automobile insurance telematics programs (including but not limited to Progressive’s Snapshot) for behavioral modeling, predictive analytics, or the generation of synthetic driver or vehicle profiles.
+
+This includes:
+	•	Records of data-sharing agreements between Progressive (or other insurers such as State Farm, Allstate, Geico, etc.) and federal agencies regarding driver behavior telemetry
+	•	Documentation of the use of telematics data to generate synthetic or simulated drivers and vehicles for traffic modeling, behavioral testing, or predictive safety research
+	•	Research proposals or evaluations comparing real-world telematics data with synthetic driver/vehicle constructs
+	•	Communications on the use of insurance telematics for behavioral compliance testing (e.g., speed modulation, braking behavior, acceleration/deceleration cues)
+	•	Oversight reports, audits, or risk assessments concerning consumer privacy and secondary use of telematics-derived driver profiles
+	•	Contracts or correspondence with private contractors (e.g., Palantir, Booz Allen, RAND) analyzing or integrating insurer telematics data into predictive modeling platforms
+	•	Records of pilot programs using synthetic driver/vehicle simulations derived from insurance telematics for urban planning, law enforcement, or behavioral futures applications
+
+Keywords: Progressive, Snapshot, telematics, synthetic driver, synthetic vehicle, predictive modeling, behavioral compliance, traffic simulation, driver telemetry, insurance data, behavioral futures
+
+
+///////////
+
+
+To Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), Federal Trade Commission (FTC), and Department of Justice (DOJ)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or pilot program documentation from 2005 to present regarding the use of insurance telematics programs (including Progressive’s Snapshot and similar offerings from other insurers) as sources of behavioral telemetry for predictive analytics or behavioral futures markets.
+
+This includes:
+	•	Records on whether insurance telematics data has been repurposed for predictive modeling beyond risk assessment (e.g., traffic flow forecasting, consumer compliance profiling, or futures trading)
+	•	Contracts or correspondence between Progressive (and other insurers) and third-party contractors (e.g., Palantir, Booz Allen, RAND, or data brokers) regarding resale or secondary use of driver telemetry
+	•	Documentation of behavioral compliance mechanisms (such as in-vehicle auditory feedback, warnings, or penalties) designed to shape driver behavior through telematics devices
+	•	Research or pilot projects evaluating synthetic driver/vehicle constructs derived from telematics data as inputs to market-facing predictive models
+	•	Oversight reports, audits, or risk-benefit analyses concerning the use of consumer driving behavior data as a tradable predictive asset
+	•	Communications between DOT, NHTSA, FTC, or DOJ and insurance companies about the role of telematics in behavioral futures markets or speculative analytics
+
+Keywords: Progressive, Snapshot, telematics, behavioral futures, synthetic driver, synthetic vehicle, predictive modeling, compliance anchors, behavioral telemetry, insurance data, predictive assets
+
+
