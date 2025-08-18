@@ -22,6 +22,8 @@ Synthetic Loneliness as Personnel Pipeline
 
 The Dress Meme
 
+Therapist Recruitment Pipeline
+
 Unmodelable Actors
 
 Visual Load Testing
