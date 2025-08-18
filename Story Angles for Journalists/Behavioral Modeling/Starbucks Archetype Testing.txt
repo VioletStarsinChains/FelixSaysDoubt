@@ -1,0 +1,47 @@
+As someone who’s been homeless for four years, I’ve spent an ungodly amount of time in Starbucks. And one thing always stood out: the staff turnover is way too high, even by food service standards. People cycle in and out so quickly it doesn’t add up. Starbucks has quietly become a testbed for behavioral modeling — trying out different “archetype” baristas (the effeminate young gay guy, the nice grandma, the butch lesbian) and measuring how customers react to each. And Palantir is in the loop. Starbucks’ customer-interaction data — who complies, who resists, who lingers too long — can feed directly into Palantir’s predictive platforms like Gotham or Foundry. Which means the person handing you your coffee may also be part of a live behavioral futures experiment.
+
+
+////////////
+
+
+Sample FOIA texts:
+
+To DHS (Science & Technology Directorate), DOJ, and FTC
+
+Request:
+
+Requesting any and all contracts, pilot program documentation, research proposals, or internal communications from 2005 to present regarding the use of Starbucks retail environments for behavioral modeling experiments involving synthetic hallucinations or synthetic staff likenesses.
+
+This includes:
+	•	Records of projects where barista likenesses or archetypes (e.g., effeminate young gay male, grandmotherly female, butch lesbian, etc.) were replicated in synthetic environments to measure differential customer compliance or behavioral response
+	•	Contracts or communications involving Starbucks as a partner site for synthetic hallucination testing, augmented reality trials, or NPC-based behavioral experiments
+	•	Research proposals or evaluations on consumer behavior when interacting with synthetic baristas compared to authentic employees
+	•	Documentation of any role-player, avatar, or digital likeness libraries created to simulate Starbucks staff profiles
+	•	Oversight reports, ethical reviews, or risk assessments related to the use of appropriated human likenesses in retail synthetic environments
+	•	Correspondence between DHS, DOJ, FTC, and Starbucks regarding behavioral data collection, predictive modeling, or compliance testing in customer-facing settings
+
+Keywords: Starbucks, synthetic hallucination, synthetic barista, behavioral modeling, NPC, appropriated likeness, archetype testing, predictive analytics, compliance anchors, consumer response
+
+
+////////////
+
+
+To DHS (Science & Technology Directorate), DOJ, and GSA
+
+Request:
+
+Requesting any and all contracts, pilot program documentation, internal communications, or research proposals from 2005 to present involving Starbucks and Palantir Technologies, specifically in relation to behavioral surveillance, predictive modeling, or synthetic hallucination testing in retail environments.
+
+This includes:
+	•	Records of Starbucks behavioral data integrated into Palantir platforms (e.g., Gotham, Foundry, HHS Protect, or other analytic tools)
+	•	Communications regarding Palantir’s use of Starbucks customer interaction data for training or refining behavioral models
+	•	Documentation of pilot programs where synthetic baristas or archetype-based NPCs were tested in Starbucks environments, with resulting data processed through Palantir systems
+	•	Contracts or correspondence regarding Starbucks as a commercial partner in Palantir-led behavioral modeling or consumer compliance studies
+	•	Oversight reports, audits, or risk assessments of retail-based behavioral data flows into Palantir predictive platforms
+	•	Research or internal analysis comparing synthetic Starbucks employee archetypes (e.g., effeminate young gay male, grandmotherly female, butch lesbian, etc.) and customer response metrics as modeled through Palantir systems
+	•	Correspondence between DHS, DOJ, GSA, Starbucks, and Palantir concerning joint behavioral analytics, predictive modeling, or futures markets applications
+
+Keywords: Starbucks, Palantir, Gotham, Foundry, behavioral modeling, predictive analytics, synthetic hallucination, synthetic barista, NPC, compliance anchors, behavioral futures markets
+
+
+
