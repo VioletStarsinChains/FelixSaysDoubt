@@ -78,3 +78,24 @@ This includes:
 	•	Interagency discussions linking protective silk deployments to pandemic preparedness, biodefense, or CBRN operational concepts (e.g., JPEO‑CBRND, DTRA, DARPA programs)
 
 Keywords: synthetic spider silk, environmental immunization, antibody‑functionalized fibers, recombinant silk proteins, electrospun nanofibers, passive pathogen capture, antimicrobial peptides, airborne neutralization, community prophylaxis, pandemic preparedness, BARDA, JPEO‑CBRND
+
+
+/////////
+
+
+To HHS (OHRP, NIH, NIAID, ASPR/BARDA) / DHS (S&T Directorate) / DoD (DARPA, DTRA, JPEO-CBRND) / DOJ (Civil Rights Division; Office of Human Research Protections liaison)
+
+Request:
+
+Requesting any and all documents, contracts, research protocols, internal communications, ethics/IRB filings, program evaluations, interagency memoranda, and risk–benefit analyses concerning the selective deployment of environmental immunoprotective technologies (including but not limited to synthetic spider silk, biomimetic nanofiber meshes, or antibody/peptide-functionalized aerosol filters) as part of human subjects research, field trials, or operational pilots from 2018 to present.
+
+This includes:
+	•	Program documents describing criteria for inclusion/exclusion of populations or locations in protective deployments
+	•	Comparative risk analyses weighing protective deployment in federal facilities, continuity-of-government sites, and VIP zones against withholding from general public or community settings
+	•	IRB or ethics board materials discussing withholding protective countermeasures for purposes of control groups, epidemiological modeling, or behavioral studies
+	•	Interagency communications acknowledging the protective efficacy of environmental immunoprotective measures while limiting access to certain groups
+	•	Funding proposals or contracts for “selective exposure” or “differential protection” studies during the COVID-19 pandemic
+	•	Reports of observed morbidity/mortality outcomes in populations with vs. without access to protective fiber installations
+	•	Communications with DOJ Civil Rights Division or OHRP regarding equity, human rights, or informed consent concerns related to selective deployment
+
+Keywords: environmental immunoprotection, selective deployment, differential exposure, synthetic spider silk, antibody-functionalized fibers, aerosol neutralization, human subjects research, informed consent, BARDA, DARPA, JPEO-CBRND, Civil Rights Division
