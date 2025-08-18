@@ -20,6 +20,8 @@ Crowd Control Engineered Hazards
 
 Deepfake Leverage
 
+Device Charge Denial
+
 Environmental Field Effect
 
 Gait Recognition Systems
