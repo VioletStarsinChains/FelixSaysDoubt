@@ -162,4 +162,27 @@ This includes:
 Keywords: Uber Health, Lyft Concierge, hospital discharge transport, ER discharge, ride-hailing subcontract, patient navigation, behavioral futures markets, predictive analytics, medical transport, CMS, HHS
 
 
+///////////
+
+
+To Department of Health and Human Services (HHS) / Department of Defense (DOD) / Biomedical Advanced Research and Development Authority (BARDA) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, or program evaluations from 2010 to present concerning the combination of patient discharge transport (e.g., through Uber Health, Lyft Concierge, or other ride-hailing services) with real-time neurotechnology monitoring, modulation, or operator intervention.
+
+This includes:
+	•	Records of federally funded pilot programs or research projects combining hospital discharge transportation with neurotechnology-enabled monitoring of patient behavior, navigation, or decision-making
+	•	Documentation of contracts or agreements between hospitals, ride-hailing companies, and federal contractors (e.g., Palantir, Booz Allen Hamilton, Accenture) involving simultaneous use of neurotech and ride-hailing for behavioral analysis
+	•	Internal communications referencing “live-ops” modulation of patient perception, cognition, or navigation ability during transport following ER discharge
+	•	Reports, risk assessments, or ethics reviews regarding the use of medically vulnerable patients in engineered dislocation scenarios (e.g., pickup staged far from hospital entrance) paired with real-time neurotech observation
+	•	Whistleblower complaints, audits, or adverse event reports linking ER discharge transport to behavioral futures markets, predictive analytics, or coercive compliance modeling
+	•	Analyses of how “synthetic ordeals” (engineered transport difficulties under impairment) were used to generate behavioral telemetry for futures trading, including operator discretion in modulating patient outcomes
+	•	Communications referencing DARPA, BARDA, or Palantir projects where ride-hailing and neurotech monitoring intersected with emergency medicine or hospital discharge
+
+Keywords: ER discharge transport, Uber Health, Lyft Concierge, neurotechnology monitoring, live-ops modulation, behavioral futures markets, synthetic ordeal, Palantir contract, DARPA neurotech, BARDA pilot
+
+
+
+
 
