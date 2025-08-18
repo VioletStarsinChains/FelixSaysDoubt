@@ -1,0 +1,14 @@
+To: Department of Justice / Federal Bureau of Investigation / Department of Defense / DARPA / Department of Homeland Security
+
+Request:
+
+Requesting any and all records, research proposals, interagency communications, contractor agreements, or oversight reports from 1995 to present concerning the deliberate creation, seeding, or attribution of synthetic kompromat involving child sexual abuse (CSA) imagery or related digital forensics.
+
+This includes but is not limited to:
+	•	Investigations or research projects in which image-obscuration filters (e.g., swirl, blur, pixelation) were intentionally used in CSA materials to allow for later forensic “unmasking” or attribution.
+	•	Records evaluating the role of synthetic or fabricated CSA materials in psychological operations, discreditation campaigns, or behavioral futures market experiments.
+	•	Communications regarding the use of trivially reversible Photoshop or video effects to frame individuals by suggesting their identity had been hidden, then “revealed.”
+	•	Any studies, contractor deliverables, or pilot programs on kompromat seeding, synthetic identity targeting, or the controlled release of CSA-adjacent imagery for surveillance, recruitment, or deterrence purposes.
+	•	Oversight or risk analyses concerning the weaponization of CSA imagery in digital kompromat operations, particularly where minors were not actually harmed, but where synthetic material was used as a proxy for discreditation.
+
+Keywords: synthetic kompromat, CSA imagery fabrication, reversible Photoshop filter, swirl effect reversal, kompromat seeding, behavioral futures markets, blackmail simulation, forensic attribution protocols.
