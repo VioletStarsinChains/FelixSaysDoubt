@@ -1,0 +1,90 @@
+Minnesota Children’s Museum in St. Paul isn’t just a play space. We’re asking if it doubled as a behavioral lab for kids, feeding data into predictive modeling and surveillance markets. Children’s museums are designed as controlled environments: scripted exhibits, predictable group dynamics, and built-in segmentation by age, race, and income (through school trips and memberships). That makes them perfect sites for modeling compliance, attention, and influence.
+
+The FOIAs request records on whether museum play sessions were treated as behavioral telemetry events, if data was funneled to contractors like Palantir or DARPA, and whether children’s offline play patterns were cross-linked with their digital profiles via COPPA loopholes. We also ask if exhibits were ever re-engineered as covert test environments, if compliance and attention were systematically tracked, and if the resulting datasets were used for AI training, predictive policing, or behavioral futures markets.
+
+The core question: Did parents take their kids to the museum thinking it was play—while agencies or contractors saw it as a live market of future behaviors to trade on? This isn’t about scaring families away from museums. It’s about transparency. If children’s play spaces are being covertly engineered as behavioral futures labs, the public deserves to know.
+
+
+//////////////
+
+
+Sample FOIA texts:
+
+To Department of Health and Human Services (HHS) / Department of Education (ED) / National Science Foundation (NSF) / Department of Homeland Security (DHS)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or evaluations from 1990 to present concerning the use of the Minnesota Children’s Museum (Saint Paul, MN) as a site for behavioral modeling, surveillance research, or data collection involving children.
+
+This includes:
+	•	Records of federally funded research projects or grants involving the Minnesota Children’s Museum as a partner or research site for child behavior observation
+	•	Contracts, pilot programs, or vendor agreements between the museum and federal agencies, defense contractors, or private vendors concerning behavioral data collection, surveillance, or predictive modeling
+	•	Communications referencing the use of play-based environments (e.g., interactive exhibits, group activities) as experimental settings for child compliance modeling, attention tracking, or social influence research
+	•	Internal or external evaluations of museum visitors as behavioral telemetry sources, particularly involving child populations segmented by age, race, or socioeconomic status
+	•	Records of partnerships with universities, research institutions, or corporations that conducted cognitive, psychological, or social-behavioral studies at the museum
+	•	Documentation of any involvement by Palantir, DARPA, BARDA, or similar contractors in relation to child behavioral modeling or surveillance pilots at the museum
+	•	Ethics reviews, risk assessments, or adverse event reports concerning the use of children in behavioral futures markets or predictive analytics programs connected to the museum
+
+Keywords: Minnesota Children’s Museum, behavioral modeling, child surveillance, play-based data collection, compliance modeling, predictive analytics, Palantir contract, DARPA research, behavioral futures markets, museum research partnerships
+
+
+////////////
+
+
+To Minnesota Department of Health (MDH) / Minnesota Department of Education / Ramsey County
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act, I am requesting access to any and all records from 1990 to present concerning the Minnesota Children’s Museum (Saint Paul, MN) in relation to behavioral modeling, surveillance research, or data collection involving children.
+
+This includes:
+	•	Records of state-funded research projects, grants, or contracts involving the Minnesota Children’s Museum as a partner or research site for observation of child behavior
+	•	Documentation of collaborations between the museum and Minnesota state agencies, universities, or contractors concerning child compliance modeling, attention tracking, or social-behavioral analytics
+	•	Communications regarding the use of play-based environments, interactive exhibits, or museum programming as experimental settings for behavioral research on children
+	•	Reports or evaluations describing museum visitors (particularly children) as data sources for predictive analytics, compliance studies, or behavioral futures markets
+	•	Records of state oversight, ethics reviews, or adverse event reports concerning the collection or analysis of behavioral data from children at the museum
+	•	Contracts or communications linking the museum to private vendors or contractors engaged in surveillance, data science, or predictive modeling within Minnesota
+
+Keywords: Minnesota Children’s Museum, child behavioral modeling, play-based research, surveillance data, compliance modeling, predictive analytics, behavioral futures markets, MDH, Minnesota Department of Education, Ramsey County
+
+
+///////////
+
+
+To Minnesota Department of Health (MDH) / Minnesota Department of Education / Ramsey County
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act, I am requesting access to any and all records from 1990 to present concerning the Minnesota Children’s Museum (Saint Paul, MN) being used as a site for behavioral surveillance, predictive modeling, or behavioral futures markets involving children.
+
+This includes:
+	•	Records describing the museum’s exhibits, play areas, or programs being repurposed or adapted as controlled environments for behavioral research
+	•	Communications or contracts between the museum, state agencies, and private vendors involving the covert observation or data collection of children in play-based settings
+	•	Documentation of collaborations with universities, contractors, or technology companies to use child play behavior as training data for machine learning or surveillance systems
+	•	Reports or evaluations of children’s compliance, attention, or group dynamics analyzed through museum programming
+	•	Ethics reviews, complaints, or adverse event reports regarding the use of children as behavioral data sources without informed consent of guardians
+	•	Records linking the museum to behavioral futures markets, compliance modeling, or predictive policing projects involving demographic segmentation of children (age, race, or socioeconomic background)
+	•	Any references to Palantir, DARPA, BARDA, or similar contractors in relation to child behavioral modeling or data science projects conducted at the museum
+
+Keywords: Minnesota Children’s Museum, child behavioral surveillance, play space laboratory, predictive analytics, compliance modeling, behavioral futures markets, Palantir, covert research, data collection, state partnerships
+
+
+////////////
+
+
+To Federal Trade Commission (FTC) / Department of Education (ED) / Department of Health and Human Services (HHS) / National Science Foundation (NSF)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, or program evaluations from 1990 to present concerning the Minnesota Children’s Museum (Saint Paul, MN) being used as a site for child behavioral surveillance, predictive modeling, or behavioral futures markets, including any links to digital child data protections under the Children’s Online Privacy Protection Act (COPPA).
+
+This includes:
+	•	Records of federally funded research projects or contracts using the museum as a controlled environment for behavioral data collection on children
+	•	Documentation of collaborations between the museum, federal agencies, or contractors involving cross-referencing in-person behavioral data with digital behavioral datasets (e.g., online learning platforms, child-facing apps)
+	•	Reports or evaluations describing child compliance, attention, and social interaction in museum play spaces as data inputs for predictive modeling
+	•	Communications regarding whether museum-based child data was integrated with online child data protections under COPPA, and any exceptions, exemptions, or regulatory waivers granted
+	•	Contracts or subcontracts involving Palantir, DARPA, BARDA, or private data science firms that used museum-derived child behavioral data for AI training, surveillance, or predictive policing purposes
+	•	Risk assessments, ethics reviews, or consumer protection inquiries regarding the covert use of child play environments as behavioral laboratories
+	•	Whistleblower reports or complaints about the use of children as behavioral data sources in museum settings without proper consent or regulatory oversight
+
+Keywords: Minnesota Children’s Museum, COPPA, child behavioral data, play space surveillance, predictive modeling, behavioral futures markets, Palantir, DARPA, AI training datasets, child compliance modeling, data cross-linking
