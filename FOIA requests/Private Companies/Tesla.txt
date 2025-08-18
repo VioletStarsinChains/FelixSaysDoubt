@@ -1,0 +1,91 @@
+Clean Versions
+
+1. Driver Telemetry → Behavioral Oversight
+
+To DOT (NHTSA), FTC, and DOJ
+
+Request:
+
+Requesting any and all contracts, oversight reports, pilot program documentation, or internal communications from 2010 to present concerning the collection, use, or resale of driver telemetry data from Tesla vehicles.
+
+This includes:
+	•	Records of Tesla’s sharing of telemetry (steering, braking, acceleration, in-cabin camera monitoring, entertainment system use) with federal agencies or contractors
+	•	Documentation of how Tesla driver data is evaluated for safety, insurance, or compliance purposes
+	•	Oversight reports or audits related to Tesla’s consumer privacy disclosures and secondary uses of telemetry data
+	•	Communications between DOT, NHTSA, FTC, or DOJ and Tesla regarding driver behavioral data and predictive modeling for road safety
+
+Keywords: Tesla, telemetry, driver behavior, NHTSA, predictive analytics, steering data, braking data, cabin camera, FTC, DOJ
+
+⸻
+
+2. Autopilot / FSD as Compliance Testing
+
+To DOT (NHTSA) and DHS (Science & Technology Directorate)
+
+Request:
+
+Requesting any and all contracts, research proposals, internal communications, or pilot program evaluations from 2012 to present regarding Tesla’s Autopilot and Full Self-Driving (FSD) programs as they relate to driver compliance, trust, or human–automation interaction.
+
+This includes:
+	•	Records analyzing driver behavior while using Autopilot or FSD (e.g., frequency of disengagements, override behaviors, panic responses)
+	•	Contracts or research proposals for federal or contractor use of Tesla Autopilot data in studies of driver trust in automation
+	•	Oversight reports or ethical reviews of Tesla’s role as a large-scale compliance testbed for human–automation interaction
+	•	Communications between NHTSA, DHS S&T, or Tesla regarding behavioral or compliance testing embedded in Autopilot/FSD systems
+
+Keywords: Tesla, Autopilot, Full Self-Driving, FSD, driver compliance, automation trust, disengagements, predictive modeling, DHS S&T, NHTSA
+
+⸻
+
+Spicy Versions
+
+3. Synthetic Ghost Vehicles
+
+To DOT (NHTSA), DARPA, and DHS (S&T)
+
+Request:
+
+Requesting any and all contracts, pilot program documentation, or research proposals from 2012 to present involving the generation or deployment of synthetic vehicles, “ghost cars,” or adversarial traffic constructs derived from Tesla’s vehicle sensor data.
+
+This includes:
+	•	Records of Tesla vehicles generating or interacting with synthetic vehicles or phantom objects as part of Autopilot/FSD datasets
+	•	Research proposals on the use of synthetic or simulated vehicles for traffic modeling, adversarial testing, or behavioral compliance
+	•	Contracts or communications between Tesla, DARPA, or DHS regarding the use of ghost vehicles in predictive analytics or behavioral futures modeling
+	•	Oversight reports or risk assessments about the behavioral impact of synthetic vehicle encounters on Tesla drivers and passengers
+
+Keywords: Tesla, ghost vehicles, synthetic driver, synthetic car, phantom object, adversarial traffic, behavioral compliance, predictive analytics, DARPA, DHS
+
+⸻
+
+4. Neuralink / Tesla Data Overlap
+
+To DARPA, BARDA, and DoD
+
+Request:
+
+Requesting any and all documents, communications, or research proposals from 2015 to present concerning the integration of Tesla driver telemetry with neurotechnology datasets, including but not limited to Neuralink.
+
+This includes:
+	•	Records of research into correlating Tesla driver telemetry (steering, braking, eye-tracking, cabin monitoring) with brain-signal data from Neuralink or comparable neurotech projects
+	•	Contracts or communications involving DARPA, BARDA, or DoD and Tesla/Neuralink on joint behavioral modeling or human–machine integration
+	•	Pilot program documentation exploring the convergence of vehicular data with neurotechnology to refine predictive models of human behavior
+	•	Oversight reports, audits, or ethical reviews about the blending of automotive telemetry with neural interface research
+
+Keywords: Tesla, Neuralink, DARPA, BARDA, DoD, brain-signal, telemetry, behavioral modeling, human–machine integration, predictive analytics
+
+⸻
+
+5. Energy / Infrastructure Telemetry
+
+To Department of Energy (DOE) and DHS
+
+Request:
+
+Requesting any and all contracts, pilot program documentation, internal communications, or research proposals from 2010 to present concerning Tesla’s energy infrastructure (Superchargers, Powerwall, solar installations) as sources of telemetry for predictive markets, demand modeling, or behavioral futures applications.
+
+This includes:
+	•	Records of Tesla energy usage data shared with DOE, DHS, or federal contractors for predictive analytics
+	•	Documentation of Tesla Supercharger networks as real-time behavioral telemetry for consumer travel patterns
+	•	Contracts or communications regarding Tesla energy data as inputs into predictive demand or futures markets
+	•	Oversight reports, audits, or ethical reviews about the resale or secondary use of Tesla’s energy infrastructure telemetry for speculative purposes
+
+Keywords: Tesla, Supercharger, Powerwall, solar, DOE, DHS, predictive analytics, behavioral futures, energy telemetry, demand modeling
