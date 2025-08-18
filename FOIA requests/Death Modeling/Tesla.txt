@@ -12,3 +12,23 @@ This includes:
 	•	Oversight reports, audits, or risk assessments concerning Tesla’s role as a data source for federal fatality or mortality modeling
 
 Keywords: Tesla, Autopilot, Full Self-Driving, FSD, NHTSA, crash data, fatality risk, mortality modeling, survivability, telemetry, safety oversight
+
+
+/////////
+
+
+To Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), Department of Energy (DOE), and Department of Justice (DOJ)
+
+Request:
+
+Requesting any and all contracts, pilot program documentation, internal communications, or research proposals from 2010 to present concerning the use of Tesla vehicle data for predictive death modeling, including applications in behavioral futures markets, mortality analytics, or speculative risk assessment.
+
+This includes:
+	•	Records of Tesla crash telemetry (speed, braking, cabin monitoring, seatbelt usage, passenger profiles) used to generate predictive models of driver and passenger death probability
+	•	Documentation of how fatality data — including incidents involving children, pedestrians, or other vulnerable populations — has been incorporated into predictive analytics or risk scoring systems
+	•	Contracts or communications with federal agencies or contractors (e.g., Palantir, RAND, Booz Allen) regarding the integration of Tesla mortality data into behavioral futures markets or speculative risk platforms
+	•	Research proposals analyzing death outcomes as predictive behavioral signals for compliance, consumer risk tolerance, or actuarial futures
+	•	Oversight reports, audits, or ethical reviews concerning the use of Tesla-derived mortality data (including fatal crashes and child fatalities) as tradable predictive assets or modeling inputs
+	•	Correspondence between DOT, NHTSA, DOE, DOJ, and Tesla about death modeling, mortality prediction, or data monetization
+
+Keywords: Tesla, Autopilot, Full Self-Driving, FSD, crash data, predictive death modeling, mortality analytics, behavioral futures markets, child fatality, survivability, predictive assets
