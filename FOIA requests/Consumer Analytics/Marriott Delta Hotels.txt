@@ -33,3 +33,23 @@ This includes:
 	•	Internal analyses of privacy, consent, or ethical risks associated with movement capture in hospitality contexts
 
 Keywords: hotel surveillance, hospitality data collection, kinesthetic style transfer, gait analysis, posture recognition, movement telemetry, predictive modeling, biometric motion capture, behavioral entrainment, compliance monitoring
+
+
+///////////
+
+
+To Department of Health and Human Services (HHS) / Federal Trade Commission (FTC) / Department of Commerce
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or vendor agreements concerning data collection in hotels, resorts, or hospitality chains explicitly marketed as family-oriented or child-oriented for the purpose of kinesthetic style transfer of children, from 1995 to present. This request includes records pertaining to hotels or resorts that are now closed, sold, or rebranded.
+
+This includes:
+	•	Records of motion capture, gait analysis, or posture recognition technologies deployed in family-oriented or child-centered hotel properties
+	•	Contracts or communications with vendors providing behavioral telemetry or kinesthetic modeling of children in hospitality contexts
+	•	Research proposals or pilot programs involving children’s movement data collection at family resorts, indoor waterparks, or kid-targeted hotel chains
+	•	Reports analyzing applications of children’s kinesthetic data for simulation, predictive modeling, training, or compliance monitoring
+	•	Documents regarding cross-domain transfer of children’s kinesthetic datasets (e.g., to defense, education, gaming, or insurance sectors)
+	•	Assessments of privacy, consent, or ethical considerations related to capturing kinesthetic or biometric motion data from children in hotel environments
+
+Keywords: family hotels, kid-oriented resorts, children kinesthetic style transfer, gait analysis, movement telemetry, hospitality surveillance, child posture recognition, behavioral modeling minors, closed hotels, predictive compliance
