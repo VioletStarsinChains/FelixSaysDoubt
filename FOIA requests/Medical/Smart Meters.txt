@@ -1,0 +1,17 @@
+To: Federal Communications Commission (FCC) / Federal Aviation Administration (FAA) / U.S. Department of Energy (DOE) / Local Public Utility Commission
+
+Request:
+
+Requesting any and all records, memoranda, internal communications, contractor documentation, or interagency coordination logs regarding the concurrent use of utility smart meters and low-altitude aircraft flight operations to induce or study physiological responses in human subjects, from January 1, 2010 to present.
+
+This includes:
+	•	Records of coordinated timing between RF emissions from smart meters and aircraft flyovers
+	•	Technical specifications describing RF burst patterns capable of eliciting nausea, vomiting, or vestibular disruption
+	•	Interagency or contractor communications discussing synchronization of utility infrastructure with aerial assets for behavioral or physiological monitoring
+	•	Reports, assessments, or pilot studies describing public health impacts of simultaneous EM and acoustic/vibrational exposure
+	•	Incident reports, citizen complaints, or whistleblower statements linking aircraft activity and smart meter emissions to acute illness
+	•	Any research proposals, grants, or subcontractor work related to “multi-modal stimulus” or “layered environmental exposure” using both ground-based and aerial sources
+	•	Agreements or MOUs between utilities and aviation entities involving public or private airspace over residential areas in connection with meter operation schedules
+
+Keywords: smart meter RF, aircraft flyover, EMF vestibular, nausea induction, synchronized emissions, multi-modal exposure, behavioral entrainment, DOE FAA coordination, public utility EMF
+
