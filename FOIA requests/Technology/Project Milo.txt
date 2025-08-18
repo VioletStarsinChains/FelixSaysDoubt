@@ -12,3 +12,24 @@ This includes:
 	•	Any Cooperative Research and Development Agreements (CRADAs), grants, or pilot programs linking Project Milo to defense or intelligence applications
 
 Keywords: Project Milo, Lionhead Studios, kinesthetic style transfer, motion capture, gesture datasets, child modeling, DARPA, NIST
+
+
+/////////
+
+
+To DHS (Science & Technology Directorate, Federal Protective Service), DOJ, GSA, and DARPA
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, pilot program reports, or research proposals from 2005 to present regarding the appropriation, replication, or synthetic reuse of human likenesses (including facial features, voices, uniforms, or behavioral profiles) for use in augmented reality, virtual reality, or synthetic hallucination environments.
+
+This includes:
+	•	Contracts or projects involving Securitas (including Securitas Critical Infrastructure Services, SCIS, and subsidiaries) where guard or police likenesses were replicated in synthetic environments
+	•	Research on the compliance or behavioral impact of simulated authority figures, such as security guards or police officers, compared to authentic encounters
+	•	Documentation of projects similar to or derived from Project Milo involving appropriation of real individuals’ likenesses for synthetic agents
+	•	Records on the use of appropriated likenesses as filler NPCs in synthetic hallucinations, beyond high-profile or compromising deepfakes
+	•	Communications regarding datasets, image libraries, or identity databases used to generate synthetic human agents at scale
+	•	Pilot program evaluations or oversight reports on the ethical, legal, or behavioral consequences of deploying appropriated likenesses in synthetic environments
+	•	Correspondence between DHS, DOJ, DARPA, or GSA and contractors about the use of synthetic humans or NPCs for behavioral conditioning, compliance anchoring, or operational deception
+
+Keywords: Securitas, Securitas Critical Infrastructure Services, SCIS, synthetic hallucination, Project Milo, augmented reality, virtual reality, NPC, appropriated likeness, deepfake, behavioral compliance, authority mimicry, synthetic human, identity dataset
