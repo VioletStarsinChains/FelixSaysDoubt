@@ -32,7 +32,7 @@
   - *Relevance:* Expands beyond economic harm → acknowledges emotional & reputational injury.
 
 ## 5. Extrapolation → Synthetic NPCs
-- **Authority mimicry in synthetic hallucinations (your Starbucks example):**
+- **Authority mimicry in synthetic hallucinations (Starbucks example):**
   - White v. Samsung → shows likeness evocation alone counts.
   - Hart/Keller → shows avatars in “background” roles still infringe.
   - Facebook BIPA → shows biometric capture = actionable appropriation.
