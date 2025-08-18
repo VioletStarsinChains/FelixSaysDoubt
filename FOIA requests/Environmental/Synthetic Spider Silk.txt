@@ -35,3 +35,27 @@ This includes:
 	•	DOJ Criminal Division memoranda on legal authorities, minimization, public exposure risk assessments, and prosecutorial use of silk-based taggants in investigations and prosecutions
 
 Keywords: synthetic spider silk, forensic microtaggants, recombinant silk protein, polymer webbing, environmental marker, evidence tagging, FBI Laboratory, NIJ, CJIS, OTD, behavioral conditioning, surveillance telemetry
+
+
+///////////
+
+To DARPA / BARDA / Department of Defense / Department of Homeland Security / FBI / Department of Justice (NIJ, OTD, BAU)
+
+Request:
+
+Requesting any and all documents, contracts, technical reports, internal communications, laboratory research, grant proposals, or field test data regarding the use of synthetic spider silk and related biomimetic or polymeric materials as platforms for immune surveillance, from 1990 to present.
+
+This includes, but is not limited to:
+	•	Research on fusing antibodies, antibody fragments, aptamers, or immune-binding proteins into spider silk or silk-analog fibers for environmental sensing
+	•	Studies on silk-based fibers as biosensors for cortisol, histamine, cytokines, immunoglobulins, HLA markers, or other immune-related signals
+	•	Development of spider silk or polymer analogs as environmental capture matrices for sweat, breath, skin oils, or exhaled droplets
+	•	Contracts or grants involving the use of silk fibers for public health surveillance, crowd monitoring, or epidemiological mapping
+	•	Communications regarding integration of silk-derived biosensors into forensic evidence collection, predictive policing, or behavioral modeling programs
+	•	Risk/benefit assessments concerning the collection of immune system data from civilians without consent
+	•	Interagency discussions of spider silk or polymer immune-sensors in connection with behavioral futures markets, compliance monitoring, or crowd control
+
+Keywords: synthetic spider silk, immune surveillance, antibody-silk fusion, biomimetic taggants, biosensor fibers, recombinant silk proteins, environmental immune monitoring, cytokine detection, predictive policing, behavioral telemetry, forensic biosurveillance
+
+
+//////////
+
