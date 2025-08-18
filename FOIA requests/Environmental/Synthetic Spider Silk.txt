@@ -59,3 +59,22 @@ Keywords: synthetic spider silk, immune surveillance, antibody-silk fusion, biom
 
 //////////
 
+
+To HHS (ASPR/BARDA) / NIH (NIAID) / CDC (NCIRD, NIOSH) / DHS Science & Technology Directorate / DoD (DARPA; DTRA; JPEO‑CBRND)
+
+Request:
+
+Requesting any and all documents, contracts, grant files, research proposals, technical reports, field test data, risk assessments, procurement records, interagency communications, and ethics/IRB reviews concerning the development, evaluation, or deployment of synthetic spider silk and functionally equivalent biomimetic/polymeric fibers as protective or prophylactic environmental countermeasures (e.g., passive filtration, neutralization, or pathogen capture barriers) for airborne infectious diseases, from 1990 to present.
+
+This includes:
+	•	Studies on antibody‑functionalized silk (or aptamer/peptide/enzyme-fused fibers) for capture and neutralization of respiratory pathogens (e.g., SARS‑CoV‑2, influenza, RSV)
+	•	Data on stability, persistence, and efficacy of immunoactive agents embedded in silk or polymer analogs under real‑world temperature/humidity/UV conditions
+	•	Designs and field trials of doorway curtains, corridor meshes, HVAC inserts, or electrospun nanofiber mats intended to reduce indoor/outdoor pathogen load
+	•	Evaluations of antimicrobial peptide, mucin-mimetic, or IgA/IgG-coated fibers for community‑level prophylaxis, including performance vs. HEPA/UVGI controls
+	•	Contracts or cooperative agreements with academic labs or private vendors for recombinant silk proteins, electrospun meshes, or smart textiles used as environmental immunoprotectants
+	•	Modeling and cost–benefit analyses for population-scale deployment (schools, transit, clinics, shelters), including maintenance, replacement cycles, and waste handling
+	•	Safety, exposure, and toxicology assessments for civilian environments; mitigation plans for allergy, sensitization, or unintended immune effects
+	•	Ethics, consent, and public communication materials regarding passive environmental immunization or neutralization technologies in public spaces
+	•	Interagency discussions linking protective silk deployments to pandemic preparedness, biodefense, or CBRN operational concepts (e.g., JPEO‑CBRND, DTRA, DARPA programs)
+
+Keywords: synthetic spider silk, environmental immunization, antibody‑functionalized fibers, recombinant silk proteins, electrospun nanofibers, passive pathogen capture, antimicrobial peptides, airborne neutralization, community prophylaxis, pandemic preparedness, BARDA, JPEO‑CBRND
