@@ -1,0 +1,14 @@
+To Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), and Department of Energy (DOE)
+
+Request:
+
+Requesting any and all contracts, pilot program documentation, internal communications, or research proposals from 2010 to present concerning Tesla vehicle data and its use in fatality risk modeling, mortality analysis, or post-crash behavioral assessment.
+
+This includes:
+	•	Records of Tesla crash data shared with NHTSA, DOT, or DOE for fatality risk assessment or mortality modeling
+	•	Documentation of how Tesla Autopilot or Full Self-Driving (FSD) data has been used in predictive models of crash survivability or fatality probability
+	•	Contracts or communications regarding the use of Tesla telemetry (speed, braking, cabin monitoring, seatbelt usage) in safety studies on death or serious injury outcomes
+	•	Research proposals or pilot programs analyzing Tesla’s driver/passenger mortality data as part of federal crashworthiness or roadway safety initiatives
+	•	Oversight reports, audits, or risk assessments concerning Tesla’s role as a data source for federal fatality or mortality modeling
+
+Keywords: Tesla, Autopilot, Full Self-Driving, FSD, NHTSA, crash data, fatality risk, mortality modeling, survivability, telemetry, safety oversight
