@@ -1,0 +1,21 @@
+To EPA / Office of Water; CDC / National Wastewater Surveillance System (NWSS) & NCEH; USGS; HHS / ASPR; FDA / Center for Food Safety and Applied Nutrition (CFSAN)
+
+Request:
+
+Requesting any and all documents, reports, datasets, contracts, grant materials, protocols, guidance, interagency communications, and evaluations referencing the use of sucralose (and related high-intensity sweeteners) as tracers or normalization factors in environmental and wastewater monitoring from 1998 to present.
+
+This includes:
+	•	Method development, validation, and QA/QC materials (e.g., LC–MS/MS assays) for detecting sucralose and acesulfame-K in wastewater, surface water, or drinking water
+	•	Occurrence, fate/transport, and persistence studies; environmental risk characterizations; and trend analyses
+	•	Documents describing use of sucralose or similar compounds as population or flow-normalization markers in wastewater-based epidemiology (WBE) or other public health surveillance
+	•	Privacy, ethical, or legal reviews concerning chemical markers used in environmental matrices, including policy memoranda or impact assessments
+	•	Contracts, MOUs, or purchase orders with external laboratories, vendors, or academic partners supporting sucralose/acesulfame-K monitoring or data analysis
+	•	Interagency correspondence with state/local utilities on routine monitoring, pilot programs, or data-sharing related to sweetener-based tracers
+	•	Guidance, SOPs, and training materials provided to utilities or health departments regarding tracer selection, data interpretation, and reporting
+	•	Grant proposals, progress reports, and final reports involving sucralose/acesulfame-K as tracers for WBE or environmental surveillance
+	•	Any communications referencing sucralose as a surrogate for human wastewater inputs or as an index of anthropogenic impact
+
+Keywords: sucralose, acesulfame-K, wastewater-based epidemiology, environmental tracer, normalization factor, LC-MS/MS, population biomarker, environmental fate, method validation, QA/QC, NWSS, USGS
+
+
+////////////
