@@ -1,0 +1,61 @@
+Scarcity Events as Behavioral Futures Experiments
+
+Subject line: Were toilet paper shortages and food inflation treated as government stress-tests?
+
+Body:
+
+When Americans stripped shelves of toilet paper in March 2020, it was widely portrayed as a quirk of panic. But there’s evidence those shortages weren’t just a supply chain hiccup — they were treated inside government and contractor circles as behavioral experiments.
+
+In FOIA filings and contractor literature, “scarcity events” like the 2020 toilet paper wars and today’s food-specific inflation are referenced as proxies for collapse modeling. Agencies from DHS to DoD to FEMA have a history of using consumer behavior in crises as attrition simulations — live-fire rehearsals for how society might fracture under climate-driven disruption.
+
+The pattern is clear:
+	•	2020 Toilet paper wars: a baseline stress-test for compliance, hoarding, and conflict under sudden scarcity.
+	•	2021–present Food inflation: an extended scenario, measuring tolerance for rising costs in essentials and tracking at what point households break.
+	•	Climate collapse tie-in: these events serve as inputs for predictive models of migration, unrest, and supply chain sabotage in a hotter, less stable world.
+
+The public story was “quirky panic.” The insider story looks more like behavioral futures markets in action: treating people’s desperation as a data stream for forecasting collapse — and for deciding who counts as resilient enough to be saved.
+
+I’m looking for a newsroom ready to investigate:
+	•	Which agencies and contractors treated scarcity events as risk-assessment pilots
+	•	How this data has been folded into climate resilience forecasts
+	•	Whether inflation and shortages are being actively manipulated to generate training data
+
+Why now? Food inflation is ongoing, yet coverage rarely connects it to the long arc of climate collapse preparedness. Readers know something is wrong; what they don’t know is that their weekly grocery bill may already be part of a Pentagon scenario exercise.
+
+
+/////////////
+
+
+Sample FOIA text:
+
+To:
+	•	Department of Justice (DOJ)
+	•	Food and Drug Administration (FDA)
+	•	Drug Enforcement Administration (DEA)
+	•	Department of Defense (DoD)
+	•	Defense Advanced Research Projects Agency (DARPA)
+	•	Office of the Director of National Intelligence (ODNI)
+	•	Department of Homeland Security (DHS)
+	•	Federal Emergency Management Agency (FEMA)
+	•	U.S. Department of Agriculture (USDA)
+	•	Department of Energy (DOE)
+
+Request:
+
+Requesting any and all documents, interagency communications, research proposals, contractor reports, or internal analyses concerning the use of consumer scarcity events—including the toilet paper shortages during the COVID-19 pandemic (2020) and subsequent food-specific inflation waves (2021–present)—as inputs to behavioral modeling, resilience forecasting, and societal collapse prediction.
+
+This includes, but is not limited to:
+	•	Regulatory & Compliance (DOJ/FDA/DEA)
+	•	Records concerning panic buying of household goods as public safety or diversion risks
+	•	Compliance audits or inspection findings related to disrupted supply chains for essential goods
+	•	Defense & Intelligence (DoD/DARPA/ODNI)
+	•	Analyses of consumer scarcity behaviors as data points for attrition combat simulations
+	•	Research proposals, war-gaming exercises, or contracts involving the use of panic buying or inflationary shocks as live stress-tests
+	•	Assessments of scarcity events as cover for evidence suppression or infrastructure targeting
+	•	Resilience & Food Security (DHS/FEMA/USDA/DOE)
+	•	Reports treating toilet paper shortages and food inflation as proxies for systemic resource stress under climate change
+	•	Internal analyses of consumer price shocks in staple foods as predictive indicators of compliance, resistance, or migration
+	•	Data dashboards, resilience indices, or contractor products linking household-level scarcity events to climate collapse forecasting and emergency aid planning
+
+
+Keywords: toilet paper shortage, food inflation, scarcity modeling, behavioral futures markets, attrition simulation, climate collapse forecasting, compliance anchors, consumer panic buying, resilience index, FEMA, USDA, DOE, ODNI, DARPA
