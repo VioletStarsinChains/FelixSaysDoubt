@@ -1,0 +1,28 @@
+To: Department of Defense (DoD) / DARPA / Department of Commerce (DoC) / Department of Homeland Security (DHS)
+
+Request:
+Requesting any and all documents from 2000 to present regarding the research, development, or deployment of smart textiles or smart fibers, including but not limited to:
+	•	Technical development: contracts, proposals, or reports concerning fibers embedded with sensors, conductive materials, or adaptive pigmentation capable of changing color, opacity, or pattern in response to external signals
+	•	Military and law enforcement applications: use of smart fibers for camouflage, misdirection, or altering perceived clothing style in operational settings
+	•	Consumer or public health applications: research into how appearance-modifying textiles affect privacy, modesty, or social signaling in everyday life
+	•	Perceptual overlay integration: studies or communications on the use of AR/VR systems or neurotech overlays in combination with smart fibers to cause divergence between the actual garment worn and the garment perceived by the wearer or observers
+	•	Risk assessments, ethical reviews, or complaints regarding misrepresentation of clothing and its impact on cultural sovereignty, personal safety, or consent
+
+Keywords: smart textiles, smart fibers, adaptive clothing, perceptual overlays, camouflage, augmented reality garments, sovereignty, cultural signaling
+
+
+/////////////
+
+
+To: Department of Defense (DoD) / DARPA / Department of Homeland Security (DHS) / National Institute of Standards and Technology (NIST)
+
+Request:
+Requesting any and all documents from 2000 to present regarding textiles, clothing, or wearable materials capable of producing or concealing selective visual information, including but not limited to:
+	•	Smart fabrics or inks designed to display writing, symbols, or identifiers visible only under specific light spectra, wavelengths, or augmented vision systems (e.g., infrared, ultraviolet, polarized, or machine vision)
+	•	Operational uses where markings are invisible to the wearer or the general public but are readily perceivable by surveillance personnel, drones, or automated recognition systems
+	•	Applications in law enforcement or intelligence operations, such as crowd monitoring, subject identification, or behavioral tracking in public spaces
+	•	Testing in consumer markets, including research into covert branding, behavioral nudges, or embedding invisible information in garments purchased through commercial retail platforms
+	•	Risk assessments or ethical reviews regarding asymmetry of awareness — i.e., the wearer’s inability to perceive messages or identifiers on their own clothing while being subject to targeted observation by others
+
+Keywords: smart textiles, invisible ink, surveillance clothing, selective visibility, covert identifiers, augmented vision, machine vision, DARPA, DHS
+
