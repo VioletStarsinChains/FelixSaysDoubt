@@ -65,3 +65,39 @@ This includes:
 	•	Records of inventories (including cromolyn sodium, ketamine, or related compounds) destroyed during these incidents, and how those losses factored into predictive modeling or liability forecasting
 
 Keywords: Twin Cities civil unrest, pharmacy destruction, behavioral futures markets, attrition simulation, evidence suppression, cromolyn, ketamine, compounding facilities, health infrastructure sabotage, DHS
+
+
+////////////
+
+
+To Food and Drug Administration (FDA) / Drug Enforcement Administration (DEA)
+
+Request:
+
+Requesting any and all records, internal communications, inspection reports, and compliance reviews related to the distribution, compounding, or relabeling of hydroxychloroquine or related investigational drugs by pharmacies and compounding facilities in the Twin Cities metropolitan area (Minneapolis–Saint Paul, MN) during 2019–2021.
+
+This includes:
+	•	Records of mislabeling or substitution of active pharmaceutical ingredients (APIs) such as hydroxychloroquine, cromolyn sodium, or ketamine
+	•	Inspection reports or compliance actions concerning compounding pharmacies destroyed or damaged during the civil unrest of May–June 2020
+	•	Communications regarding diversion risks, inventory loss, or insurance claims tied to controlled or investigational drugs at affected facilities
+	•	Interagency discussions on safeguarding or tracking experimental drug supplies during civil unrest
+
+Keywords: Twin Cities pharmacy fire, hydroxychloroquine, cromolyn sodium, ketamine, compounding pharmacy, mislabeling, FDA compliance, DEA diversion, civil unrest
+
+
+//////////
+
+
+To Department of Defense / Department of Justice / Office of the Director of National Intelligence (ODNI)
+
+Request:
+
+Requesting any and all documents, contractor communications, or interagency assessments regarding the use of Twin Cities pharmacies and compounding facilities as vectors for distribution or relabeling of investigational drugs (e.g., hydroxychloroquine, cromolyn sodium, ketamine), and the subsequent destruction of such facilities during the George Floyd protests of 2020.
+
+This includes:
+	•	Analyses of whether pharmacies engaged in mislabeling or covert distribution of experimental compounds under alternate designations
+	•	Assessments of how the destruction of facilities during civil unrest functioned as evidence suppression or as a component of behavioral risk assessment modeling
+	•	Records discussing attrition simulations where medical supply chain collapse was studied through the loss of compounding capacity
+	•	Contracts or pilot projects evaluating how drug substitution experiments intersected with unrest-based predictive modeling
+
+Keywords: Twin Cities pharmacy destruction, hydroxychloroquine relabeling, cromolyn sodium, ketamine, compounding facilities, behavioral futures markets, attrition simulation, evidence suppression, ODNI, DoD
