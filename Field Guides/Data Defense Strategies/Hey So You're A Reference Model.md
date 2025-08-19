@@ -21,9 +21,7 @@ You thought you were making art. They thought you were running a *lab experiment
 
 So: welcome to the control group. Please continue your regularly scheduled absurd breakdown of childhood mascots / haunted musicals / suburban malaise.  
 
-Just know that somewhere in the background, your gestures are being charted as if they were stock prices,  
-your pauses sold as if they were real estate,  
-and your “what if…” spirals spun into **simulations of human fragility.**  
+Just know that somewhere in the background, your gestures are being charted as if they were stock prices, your pauses sold as if they were real estate, and your “what if…” spirals spun into **simulations of human fragility.**  
 
 ---
 
