@@ -1,0 +1,9 @@
+Draft Explainer (for Any Austin)
+
+So here’s the twist: all these systems we think of as boring—OSHA safety reports, FEMA preparedness programs, public health surveillance—aren’t just bureaucratic box-checking. They’re also being quietly folded into combat attrition simulations and behavioral futures models.
+
+That means every civilian injury, disaster response, or workplace death isn’t just treated as a tragedy to prevent. It’s treated as training data. The warehouse worker who collapses from heat stroke, the family who can’t evacuate during a flood, the person who slips through the cracks in the health system—they all get modeled into algorithms that predict who survives and who doesn’t under stress.
+
+And here’s where it gets uncanny: those predictions don’t just live in Pentagon war rooms. They bleed into markets that speculate on human collapse. What looks like a logistics spreadsheet or an emergency drill doubles as a kind of actuarial horror story, where your pain is both a test case and a tradable signal.
+
+So when we talk about “dual-use” research, it’s not just “this tech could be used for good or bad.” It’s more like: the very same infrastructure that promises to keep us safe is already doubling as a simulation space where we’re the NPCs.
