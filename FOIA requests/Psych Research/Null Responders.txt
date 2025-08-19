@@ -29,3 +29,22 @@ This includes:
 	•	Contracts with defense contractors, academic labs, or private vendors exploring how anomalies undermine prediction markets or whether they can be leveraged as test cases for system limits
 
 Keywords: behavioral futures markets, anomaly, null responder, non-modelable, compliance anchor failure, attrition simulation, synthetic social construct, ODNI, DARPA, DoD
+
+
+///////////
+
+
+To: Department of Defense (DoD) / Department of Health and Human Services (HHS) / Office of the Director of National Intelligence (ODNI)
+
+Request:
+
+Requesting any and all documents, research proposals, contractor communications, or interagency assessments concerning environmental gating, signal collapse, or context-dependent emotional suppression in human behavioral research and predictive modeling, from January 1, 1990 to present.
+
+This includes:
+	•	Records describing populations (e.g., homeless or displaced individuals) who exhibit physiological suppression of emotional expression in public environments
+	•	Analyses of how signal collapse impacts the quality of behavioral futures datasets
+	•	Research proposals or contracts discussing the necessity of housing, containment, or controlled stability to elicit measurable emotional data from such individuals
+	•	Interagency discussions of data scarcity in suppressed populations and the design of protocols to overcome environmental gating
+
+Keywords: signal collapse, environmental gating, homelessness, emotional suppression, behavioral futures markets, null responder, predictive modeling, resilience forecasting, ODNI, DoD, HHS
+
