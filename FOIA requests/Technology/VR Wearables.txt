@@ -1,0 +1,56 @@
+To: Department of Defense (DoD) / DARPA / Department of Commerce (DoC) / Federal Trade Commission (FTC)
+
+Request:
+Requesting any and all documents from 2000 to present related to the development or evaluation of wearable devices and consumer electronics capable of delivering visual-tactile augmented or virtual reality environments, including:
+	•	Contracts, proposals, or reports on immersive commerce applications (e.g., AR “try before you buy” or tactile overlays simulating products)
+	•	Research into consumer perception of object realism when interacting with synthetic or augmented items
+	•	Studies on how immersive sensory overlays might affect buyer decision-making, impulse purchases, or return/refund rates
+	•	Any risk assessments or internal discussions on the psychological or behavioral impacts of AR/VR integration in commerce platforms
+
+Keywords: augmented reality, virtual reality, wearables, tactile simulation, immersive commerce, consumer behavior, DARPA
+
+
+/////////////
+
+
+To: Department of Defense (DoD) / DARPA / Department of Commerce (DoC) / Federal Trade Commission (FTC) / Department of Justice (DOJ)
+
+Request:
+Requesting any and all documents from 2000 to present concerning the use of synthetic visual or tactile overlays in consumer commerce platforms (e.g., Amazon, eBay, other e-commerce providers) for the purposes of:
+	•	Behavioral futures markets: modeling buyer perception, satisfaction, or frustration in scenarios where items are presented via synthetic augmentation rather than physical goods
+	•	Return and refund manipulation: studies into whether synthetic overlays reduce complaints or delay recognition of product defects
+	•	Consumer trust experiments: records on how synthetic product experiences shape brand loyalty, compliance, or willingness to accept substitutions
+	•	Interagency or contractor communications regarding the integration of synthetic sensory experiences with predictive analytics systems
+
+Keywords: augmented perception, synthetic commerce, behavioral futures, predictive modeling, sensory overlay, consumer manipulation
+
+
+//////////////
+
+
+To: Department of Defense (DoD) / DARPA / Department of Commerce (DoC) / Department of Justice (DOJ) / Federal Trade Commission (FTC)
+
+Request:
+Requesting any and all documents from 2000 to present regarding the use of synthetic hallucinations in consumer markets, including but not limited to:
+	•	Programs, trials, or contractor projects exploring the delivery of illusory goods (objects that do not exist physically, but are perceptible to targeted individuals)
+	•	Reports on whether such synthetic overlays have been tested as compliance anchors, deterrence methods, or fraud detection tools in e-commerce environments
+	•	Risk assessments of psychological or neurological harms from prolonged interaction with nonexistent synthetic objects
+	•	Records describing any legal, ethical, or liability frameworks for selling items that may exist only as sensory projections
+
+Keywords: synthetic hallucinations, perceptual overlay, commerce manipulation, AR fraud, compliance anchors, predictive analytics
+
+
+/////////////
+
+
+To: Department of Defense (DoD) / Department of Justice (DOJ) / Department of State (DoS) / Department of Homeland Security (DHS)
+
+Request:
+Requesting any and all documents from 2000 to present regarding the use of illusory or synthetic overlays in social, cultural, or religious contexts, specifically including:
+	•	Any programs, contractor proposals, or research into the projection of illusory religious garments (e.g., hijabs, niqabs, turbans, yarmulkes) onto individuals in ways that affect how they are perceived by others
+	•	Records of interagency discussions concerning the impact of synthetic overlays on sovereignty, religious freedom, or human rights
+	•	Reports on whether such overlays were tested as psychological manipulation tools, counter-extremism (CVE) strategies, or behavioral nudges targeting Muslim women and other religious minorities
+	•	Risk assessments or complaints documenting harassment, misrepresentation, or violation of consent through the use of illusory overlays in public or private spaces
+
+Keywords: synthetic overlays, religious garments, hijab sovereignty, CVE, behavioral manipulation, perceptual projection, rights violations
+
