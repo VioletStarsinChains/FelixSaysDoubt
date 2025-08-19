@@ -1,0 +1,105 @@
+Pitch for Defunctland
+
+Title: The Hidden Motions: How Theme Parks and Hotels Collected Our Movements
+
+When people think of Disney or other family attractions, they usually remember the rides, the resorts, the characters. But what if these spaces were also some of the earliest laboratories for a new kind of data collection — one that didn’t just watch what we clicked or bought, but how we moved?
+
+Starting in the 1990s, attractions like Club Disney centers, family-oriented hotels, and interactive play zones were fitted with cameras, sensors, and arcade-style tech meant to “enhance the guest experience.” On the surface, it was about safety, marketing, and crowd management. Beneath the surface, though, it was laying the groundwork for something much stranger: kinesthetic style transfer — the ability to capture a child’s physical movements, gestures, and play patterns, and then model them for use in everything from animation to predictive behavioral systems.
+
+The story connects to:
+	•	Club Disney’s short life (1997–1999), marketed as “play centers” but also conveniently positioned for movement tracking during unstructured play
+	•	Resorts and hotels that experimented with smart check-in systems and interactive kid zones — perfect contexts for passive gait and posture analysis
+	•	The broader trend of theme parks as surveillance laboratories, where crowd control, line management, and child tracking bracelets all quietly doubled as data-gathering experiments
+
+This isn’t just a story about Disney — it’s about the entire family entertainment industry. Theme parks and hotels became the places where kids’ movements were turned into datasets, creating the foundations for technologies now used in gaming, animation, defense training, and even predictive policing.
+
+The question Defunctland could pose: When the “happiest place on earth” was watching us, what was it really learning? And where did that data go after the rides closed and the hotels changed brands?
+
+
+///////////
+
+Sample opener:
+
+In the late 1990s, Disney opened a series of short-lived play centers called Club Disney. They were marketed as safe, family-friendly spaces where kids could dance, climb, and play. But hidden in the background of these centers, and in family-oriented hotels and theme parks across the country, a different kind of experiment was taking place. These spaces weren’t just designed for fun — they were also perfect laboratories for collecting massive amounts of data on how children moved. This movement data, sometimes called ‘kinesthetic style transfer,’ could be used to replicate a child’s gait, posture, or gestures in animation, video games, and even predictive modeling systems. Today, we’re going to explore how theme parks and resorts quietly became motion-capture stages, and what happened to all that data once the attractions closed their doors.
+
+
+//////////
+
+
+Sample FOIA text:
+
+To Department of Health and Human Services (HHS) / Federal Trade Commission (FTC) / Department of Commerce
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or vendor agreements concerning Club Disney centers and the collection or analysis of children’s movement data for the purpose of kinesthetic style transfer, from 1995 to present.
+
+This includes:
+	•	Records of motion capture, gait analysis, posture recognition, or behavioral telemetry systems deployed at Club Disney centers
+	•	Contracts or communications with technology vendors regarding kinesthetic modeling or body movement data capture of children in Club Disney environments
+	•	Research proposals or pilot programs studying kinesthetic style transfer of children’s play or physical activities at Club Disney centers
+	•	Reports or assessments on applications of children’s kinesthetic data for simulation, predictive modeling, training, or compliance monitoring
+	•	Communications concerning cross-domain transfer of movement datasets from Club Disney (e.g., to defense, education, entertainment, or insurance sectors)
+	•	Internal reviews or ethical considerations regarding data collection from minors at Club Disney centers
+
+Keywords: Club Disney, kinesthetic style transfer, children movement capture, gait analysis, posture recognition, behavioral telemetry, predictive modeling minors, play surveillance, entertainment data collection, compliance monitoring
+
+
+/////////
+
+
+To DHS / Department of Commerce / Federal Trade Commission
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, reports, or vendor agreements referencing Marriott International hotels, with particular focus on the Delta Hotels sub-brand, from 2005 to present.
+
+This includes:
+	•	Partnerships or memoranda of understanding with federal agencies involving Marriott properties or the Delta Hotels brand
+	•	Records on Marriott’s role in behavioral modeling, customer telemetry, or predictive analytics tied to lodging or hospitality data
+	•	Any pilot programs testing biometric check-in, smart room systems, or environmental sensing at Delta Hotels locations
+	•	Communications about data-sharing agreements with travel, insurance, or credit card companies tied to Marriott or Delta guests
+	•	Reports assessing risks, benefits, or ethical considerations of predictive modeling in hospitality contexts
+	•	Vendor contracts with technology providers for surveillance, compliance testing, or behavioral analysis within Marriott or Delta properties
+
+Keywords: Marriott International, Delta Hotels, hospitality surveillance, behavioral modeling, guest telemetry, predictive analytics, biometric check-in, smart rooms, travel data sharing, compliance testing
+
+
+//////////
+
+
+To DHS / Department of Commerce / National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or vendor agreements regarding data collection in hotel or hospitality environments for the purpose of kinesthetic style transfer, from 2000 to present.
+
+This includes:
+	•	Records of motion capture or body-kinematics data collection within hotel properties
+	•	Contracts with technology vendors providing gait analysis, posture recognition, or kinesthetic modeling systems
+	•	Communications related to pilot programs testing behavioral telemetry or movement-based identity confirmation in hotel settings
+	•	Reports assessing applications of kinesthetic style transfer for training simulations, predictive modeling, or compliance monitoring
+	•	Any materials on cross-domain use of hotel guest data (e.g., transfer to defense, entertainment, or insurance industries)
+	•	Internal analyses of privacy, consent, or ethical risks associated with movement capture in hospitality contexts
+
+Keywords: hotel surveillance, hospitality data collection, kinesthetic style transfer, gait analysis, posture recognition, movement telemetry, predictive modeling, biometric motion capture, behavioral entrainment, compliance monitoring
+
+
+///////////
+
+
+To Department of Health and Human Services (HHS) / Federal Trade Commission (FTC) / Department of Commerce
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, research proposals, or vendor agreements concerning data collection in hotels, resorts, or hospitality chains explicitly marketed as family-oriented or child-oriented for the purpose of kinesthetic style transfer of children, from 1995 to present. This request includes records pertaining to hotels or resorts that are now closed, sold, or rebranded.
+
+This includes:
+	•	Records of motion capture, gait analysis, or posture recognition technologies deployed in family-oriented or child-centered hotel properties
+	•	Contracts or communications with vendors providing behavioral telemetry or kinesthetic modeling of children in hospitality contexts
+	•	Research proposals or pilot programs involving children’s movement data collection at family resorts, indoor waterparks, or kid-targeted hotel chains
+	•	Reports analyzing applications of children’s kinesthetic data for simulation, predictive modeling, training, or compliance monitoring
+	•	Documents regarding cross-domain transfer of children’s kinesthetic datasets (e.g., to defense, education, gaming, or insurance sectors)
+	•	Assessments of privacy, consent, or ethical considerations related to capturing kinesthetic or biometric motion data from children in hotel environments
+
+Keywords: family hotels, kid-oriented resorts, children kinesthetic style transfer, gait analysis, movement telemetry, hospitality surveillance, child posture recognition, behavioral modeling minors, closed hotels, predictive compliance
