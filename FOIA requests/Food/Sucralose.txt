@@ -19,3 +19,22 @@ Keywords: sucralose, acesulfame-K, wastewater-based epidemiology, environmental 
 
 
 ////////////
+
+
+To HHS / ASPR; DARPA; DHS / Office of Intelligence & Analysis; CDC / NWSS; EPA / Office of Research and Development; USGS; FDA / CFSAN
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, internal communications, risk assessments, vendor partnerships, or interagency agreements referencing the use of sucralose, acesulfame-K, or related synthetic sweeteners as biosurveillance markers in the context of behavioral modeling, predictive analytics, or behavioral futures markets from 1998 to present.
+
+This includes:
+	•	Studies on sucralose/acesulfame-K persistence, stability, and traceability in human excreta as anchors for behavioral telemetry datasets
+	•	Research linking dietary intake of synthetic sweeteners to compliance modeling, population segmentation, or neuroimmune response prediction
+	•	Use of sucralose or acesulfame-K as “signal stabilizers” in wastewater-based epidemiology for purposes beyond infectious disease tracking, including social behavior prediction and market forecasting
+	•	Pilot programs or field trials in which sweetener residues were cross-referenced with consumer data, payment records, or mobility traces
+	•	Vendor or contractor proposals to integrate artificial sweetener tracers into large-scale surveillance platforms or data-driven governance systems
+	•	Ethical, legal, or policy reviews concerning the use of persistent dietary chemicals as covert markers of human presence, consumption habits, or health states
+	•	Any discussions of sucralose/acesulfame-K as part of resilience planning, disaster preparedness, or civil unrest modeling, including scenario analyses where sweetener residues normalize predictive models of scarcity behaviors
+
+Keywords: sucralose tracer, acesulfame-K marker, behavioral futures markets, compliance modeling, wastewater biosurveillance, predictive analytics, population segmentation, neuroimmune response, telemetry normalization, anthropogenic tracer, DARPA, NWSS
+
