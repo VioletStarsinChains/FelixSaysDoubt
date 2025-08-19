@@ -1,0 +1,31 @@
+To Federal Trade Commission (FTC) / Federal Communications Commission (FCC)
+
+Request:
+
+Requesting any and all documents, internal communications, research proposals, and compliance audits related to the collection, retention, or third-party sharing of user voice data and geolocation data by audio-based social applications (e.g., Clubhouse, Twitter Spaces, Discord Stage Channels, Spotify Greenroom) from 2019 to present.
+
+This includes:
+	•	Data-sharing agreements or vendor contracts involving biometric voiceprints or metadata derived from live audio conversations
+	•	Records regarding geofencing practices, regional access restrictions, or location-based segmentation of users
+	•	Internal analyses of privacy risks, data breach exposure, or consumer protection concerns involving ephemeral audio platforms
+	•	Guidance, advisories, or compliance investigations pertaining to audio-first applications and user consent
+
+Keywords: Clubhouse, Twitter Spaces, Discord Stage Channels, audio platforms, geolocation, geofencing, ephemeral voice data, biometric voiceprint, metadata, FTC, FCC
+
+
+/////////////
+
+
+To Department of Defense / DARPA / Office of the Director of National Intelligence (ODNI)
+
+Request:
+
+Requesting any and all documents, pilot program proposals, contractor communications, or research outputs referencing the use of audio-based social platforms (e.g., Clubhouse, Twitter Spaces, Discord Stage Channels, Spotify Greenroom) as environments for risk assessment modeling in behavioral futures markets, from 2019 to present.
+
+This includes:
+	•	Projects involving micro-geofencing or location-based gating of access to audio rooms as a method of testing compliance, resistance, or narrative uptake in segmented populations
+	•	Analyses of ephemeral voice data for stress markers, compliance anchors, or predictive profiling of individuals or groups
+	•	Records discussing narrative trap calibration: seeding talking points in location-restricted groups to measure spread, resistance, or information cascades
+	•	Contracts with private vendors, academic institutions, or defense contractors relating to the use of these apps as live “compliance laboratories”
+
+Keywords: Clubhouse, audio platforms, behavioral futures, micro-geofencing, narrative trap, risk assessment, compliance anchors, synthetic kompromat, ODNI, DARPA
