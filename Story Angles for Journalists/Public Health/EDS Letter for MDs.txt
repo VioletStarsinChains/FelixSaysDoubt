@@ -1,0 +1,89 @@
+Subject: Research Ethics & Long Covid: A Concern for Patient Cohorts
+
+Dear Dr. [    ],
+
+I’m writing with a concern that overlaps both patient care and research ethics. Over the last few years, I’ve come across evidence suggesting that EDS and Long Covid cohorts may not only be studied for the purpose of understanding disease, but also for how their chronic instability and suffering affect behavior, compliance, and decision-making.
+
+In other words: instead of treating EDS and Long Covid patients as people to be healed, certain contractors or agencies may view them as captive cohorts whose volatility creates valuable data for predictive modeling — and even for markets that trade on human suffering.
+
+The idea is not that these patients are “too complex” to study, but rather that their complexity itself becomes profitable when modeled as uncertainty. That framing disturbs me deeply, especially given how many of your patients — people with EDS, MCAS, or dysautonomia — already experience the medical system as indifferent at best, exploitative at worst.
+
+I believe clinicians like you deserve to be aware of this possibility, because your patient population may be disproportionately targeted by these dynamics. At minimum, it raises questions about how data is being shared, who benefits, and whether patients are being fully informed.
+
+If this resonates with concerns you’ve noticed in your own practice, I’d welcome a chance to compare notes. Even a small awareness among clinicians could help protect vulnerable patients from being treated as market fodder rather than human beings.
+
+With respect,
+[Your Name]
+
+
+////////
+
+
+Sample FOIA text:
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, internal communications, contracts, memoranda, or reports from 2000 to present referencing the intentional or incidental use of infectious, microbial, or environmental agents to induce or exacerbate connective tissue degradation, fragility, or hypermobility, including:
+	•	Studies evaluating pathogen-derived enzymes (e.g., collagenases, elastases) or chronic infection states in relation to connective tissue strength, wound healing, or musculoskeletal stability
+	•	Research into microbial, viral, or fungal agents that alter extracellular matrix regulation, collagen crosslinking, or vascular integrity
+	•	Modeling of population-level outcomes related to environmentally or pathogen-induced connective tissue weakening, including risk stratification or predictive analytics for medical, occupational, or behavioral domains
+	•	Interagency or contractor communications regarding connective tissue compromise as a measurable factor in long-term behavioral monitoring, forecasting, or intervention design
+	•	Reports linking connective tissue degradation to altered compliance, resilience, or vulnerability profiles in experimental or population health contexts
+
+Keywords: connective tissue degradation, hypermobility, extracellular matrix, collagenase, elastase, pathogen-induced fragility, predictive analytics, behavioral modeling, resilience, risk stratification
+
+
+///////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, internal communications, contracts, memoranda, or reports from 2000 to present referencing the deliberate or incidental use of infectious, microbial, or environmental agents to induce connective tissue degradation or hypermobility syndromes, including:
+	•	Research into pathogen-derived mechanisms (e.g., collagenases, elastases, viral interference with extracellular matrix) as tools for producing long-term alterations in tissue strength or proprioception
+	•	Studies examining induced hypermobility, fragility, or Ehlers–Danlos–like conditions as a means of creating persistent physiological baselines in test populations
+	•	Analyses linking connective tissue weakening to altered compliance, decision-making, or vulnerability patterns in individuals and groups
+	•	Population-level modeling projects where infection-induced fragility is used as a proxy for forecasting long-term resilience, adaptability, or susceptibility to external influence
+	•	Interagency or contractor communications discussing connective tissue degradation as a lever in behavioral prediction markets, including any reference to “captive research cohorts” or “persistent subject designation”
+
+Keywords: Ehlers–Danlos, hypermobility, connective tissue disorder, pathogen-induced fragility, extracellular matrix, collagenase, elastase, behavioral prediction, captive cohort, futures markets, resilience modeling
+
+
+//////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, internal communications, contracts, memoranda, or reports from 2019 to present referencing Long Covid (post-acute sequelae of SARS-CoV-2 infection, PASC) in the context of:
+	•	Modeling or predicting behavioral, cognitive, or decision-making volatility in affected populations
+	•	Use of persistent symptoms (e.g., fatigue, dysautonomia, brain fog, connective tissue degradation, or immune dysregulation) as variables in behavioral prediction systems
+	•	Studies examining Long Covid’s role in creating unstable baselines in test cohorts for the purpose of futures-style modeling of compliance, adaptability, or resilience
+	•	Any reference to Long Covid patients as a “captive cohort” for behavioral or predictive analytics
+	•	Interagency or contractor communications about deliberately leveraging disease volatility to improve behavioral futures market accuracy or to stress-test population-level interventions
+
+Keywords: Long Covid, post-acute sequelae of SARS-CoV-2, PASC, behavioral volatility, futures markets, predictive modeling, compliance, dysautonomia, connective tissue, immune dysregulation, captive cohort
+
+
+//////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, internal communications, contracts, memoranda, or reports from 2019 to present referencing Long Covid (post-acute sequelae of SARS-CoV-2 infection, PASC) in the context of:
+	•	Use of Long Covid cohorts as a profit vector within behavioral futures markets, i.e., exploiting chronic suffering and instability to generate financial opportunities
+	•	Deliberate modeling of disease volatility to increase tradable uncertainty in prediction markets, rather than reduce it
+	•	Studies framing Long Covid patients (including children and younger populations) as economically advantageous “high-yield” groups for predictive analytics or behavioral manipulation
+	•	Contractor or interagency discussions of how persistent illness could be leveraged to amplify compliance, desperation, or vulnerability in ways that enhance monetization
+	•	Any mention of Long Covid being framed as a “market opportunity” in relation to human behavior, decision-making, or societal disruption
+
+Keywords: Long Covid, PASC, behavioral futures markets, profit vector, chronic illness monetization, volatility exploitation, predictive analytics, compliance, desperation economics, captive cohort
+
+
+
