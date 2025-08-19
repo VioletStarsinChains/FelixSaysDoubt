@@ -1,0 +1,11 @@
+You’ve probably seen the headlines about “smart packaging” — sensors embedded in labels or films that can detect when food has gone bad, when bacteria are present, or even when a package has been tampered with. The technology exists today. If regulators and corporations wanted to, they could eliminate nearly every major source of food contamination — salmonella in poultry, E. coli in lettuce, listeria in deli meats.
+
+And yet, outbreaks keep happening. Recalls are delayed, public warnings are muddled, and foodborne illnesses remain one of the most common health burdens in the U.S.
+
+Here’s the uncomfortable question: what if these failures aren’t accidents?
+
+Consider something as odd and unsettling as snail or slug fragments ending up in processed foods — a real vector for parasites like Angiostrongylus cantonensis (rat lungworm) that can cause neurological damage. In a world where smart packaging could immediately flag contamination, why are such vectors still slipping through?
+
+The speculative but increasingly plausible answer is that contamination events are being allowed, or even engineered, because they generate valuable volatility in behavioral futures markets. Illness, panic, and even rumor of contamination shift consumer behavior in measurable, tradable ways. If the system can predict (or even induce) those shifts, it can profit.
+
+What looks like a food safety failure may in fact be data harvesting: tracking how populations react to fear, scarcity, or unexpected illness. Smart packaging could prevent it — but the longer it doesn’t, the more “clean data” the system collects.
