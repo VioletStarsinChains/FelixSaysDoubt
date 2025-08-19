@@ -2,6 +2,40 @@ To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DAR
 
 Request:
 
+Requesting any and all research proposals, internal communications, contracts, memoranda, or reports from 2000 to present referencing the intentional or incidental use of infectious, microbial, or environmental agents to induce or exacerbate connective tissue degradation, fragility, or hypermobility, including:
+	•	Studies evaluating pathogen-derived enzymes (e.g., collagenases, elastases) or chronic infection states in relation to connective tissue strength, wound healing, or musculoskeletal stability
+	•	Research into microbial, viral, or fungal agents that alter extracellular matrix regulation, collagen crosslinking, or vascular integrity
+	•	Modeling of population-level outcomes related to environmentally or pathogen-induced connective tissue weakening, including risk stratification or predictive analytics for medical, occupational, or behavioral domains
+	•	Interagency or contractor communications regarding connective tissue compromise as a measurable factor in long-term behavioral monitoring, forecasting, or intervention design
+	•	Reports linking connective tissue degradation to altered compliance, resilience, or vulnerability profiles in experimental or population health contexts
+
+Keywords: connective tissue degradation, hypermobility, extracellular matrix, collagenase, elastase, pathogen-induced fragility, predictive analytics, behavioral modeling, resilience, risk stratification
+
+
+///////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all research proposals, internal communications, contracts, memoranda, or reports from 2000 to present referencing the deliberate or incidental use of infectious, microbial, or environmental agents to induce connective tissue degradation or hypermobility syndromes, including:
+	•	Research into pathogen-derived mechanisms (e.g., collagenases, elastases, viral interference with extracellular matrix) as tools for producing long-term alterations in tissue strength or proprioception
+	•	Studies examining induced hypermobility, fragility, or Ehlers–Danlos–like conditions as a means of creating persistent physiological baselines in test populations
+	•	Analyses linking connective tissue weakening to altered compliance, decision-making, or vulnerability patterns in individuals and groups
+	•	Population-level modeling projects where infection-induced fragility is used as a proxy for forecasting long-term resilience, adaptability, or susceptibility to external influence
+	•	Interagency or contractor communications discussing connective tissue degradation as a lever in behavioral prediction markets, including any reference to “captive research cohorts” or “persistent subject designation”
+
+Keywords: Ehlers–Danlos, hypermobility, connective tissue disorder, pathogen-induced fragility, extracellular matrix, collagenase, elastase, behavioral prediction, captive cohort, futures markets, resilience modeling
+
+
+//////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
 Requesting any and all research proposals, internal communications, contracts, memoranda, or reports from 2000 to present referencing Ehlers–Danlos Syndrome (EDS) or related connective tissue disorders in the context of:
 	•	Military, aerospace, or high-performance physical applications, including injury modeling, joint stability under extreme conditions, and unique proprioceptive profiles in EDS cohorts
 	•	Performance prediction algorithms or training adaptations for individuals with hypermobility or connective tissue fragility
@@ -84,3 +118,8 @@ This includes:
 	•	Collaborative projects with the Department of Defense, DARPA, AFRL, NAVSEA/ONR, or contractors such as BAE Systems Advanced Technologies, SAIC, or Honeywell Aerospace involving gravity simulation or gravitational field-effect apparatus with biomedical applications
 
 Keywords: Ehlers–Danlos Syndrome, POTS, hypermobility, connective tissue disorder, dysautonomia, gravitational gradient, artificial gravity, terrestrial microgravity, variable gravity, environmental exposure, field-effect physiology, acceleration environment, NASA Glenn, Variable Gravity Research Facility
+
+
+//////////
+
+
