@@ -58,5 +58,44 @@ This includes:
 Keywords: behavioral futures, insider trading, eating disorder forums, anorexia compliance, bulimia predictive modeling, binge eating telemetry, ad-tech surveillance, synthetic nudges, market derivatives, NFT behavioral data
 
 
+///////////
 
+
+To Department of Justice (DOJ) / Antitrust Division
+
+Request:
+
+Requesting any and all documents, communications, contracts, or investigative records concerning the use of online eating disorder communities as compliance testing laboratories in coordination between health agencies, technology firms, and financial entities, from 2000 to present.
+
+This includes:
+	•	Records of collaborations between pharmaceutical companies, social media platforms, and data brokers involving anorexia, bulimia, or binge eating communities
+	•	Documents referencing potential collusion in the harvesting or monetization of ED community behavioral data for compliance modeling or behavioral futures markets
+	•	Analyses of whether such practices constitute anticompetitive conduct, restraint of trade, or exploitation of vulnerable patient groups for financial gain
+	•	Investigations into whether coordinated behavioral telemetry collection influenced pharmaceutical pricing, digital therapeutics, or consumer demand forecasting
+	•	Communications regarding joint ventures or partnerships linking health research, behavioral surveillance, and financial speculation using ED populations as testbeds
+	•	Oversight or ethics review documents addressing the manipulation of patient communities for predictive modeling or insider trading purposes
+	•	Records related to cross-sector agreements (government, tech platforms, pharma, finance) to normalize or conceal the use of vulnerable communities for compliance experiments
+
+Keywords: antitrust, collusion, behavioral markets, eating disorder forums, anorexia compliance, bulimia predictive modeling, binge eating telemetry, ad-tech contracts, insider trading, behavioral futures
+
+
+/////////////
+
+
+To Federal Trade Commission (FTC) / Federal Communications Commission (FCC) / Department of Health and Human Services (HHS)
+
+Request:
+
+Requesting any and all documents, contracts, communications, research proposals, or oversight records concerning the role of social media platforms—particularly Twitter/X—in facilitating or hosting online eating disorder communities as compliance testing laboratories, from 2005 to present.
+
+This includes:
+	•	Records of moderation, suppression, or amplification of eating disorder–related content as part of compliance or behavioral experimentation
+	•	Communications between platform operators (Twitter/X, Facebook/Meta, TikTok, Reddit, etc.) and government agencies regarding ED communities as behavioral telemetry sources
+	•	Analyses of ED hashtags, subcommunities, or “pro-ana/pro-mia” groups as predictive modeling testbeds
+	•	Documents referencing engineered nudges, synthetic hallucinations, or behavioral interventions trialed on these communities
+	•	Agreements with advertisers, pharmaceutical companies, or data brokers regarding extraction of compliance data from ED users
+	•	Oversight or ethics reviews addressing use of ED communities on social platforms for behavioral markets or insider trading purposes
+	•	Investigations into potential financial or regulatory conflicts arising from social media data monetization tied to vulnerable patient populations
+
+Keywords: Twitter compliance, X platform, pro-ana, pro-mia, eating disorder forums, behavioral telemetry, predictive modeling, digital nudges, vulnerability exploitation, social media surveillance
 
