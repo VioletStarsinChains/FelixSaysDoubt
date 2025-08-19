@@ -49,3 +49,23 @@ This includes:
 	•	Communications with DoD, DHS, or other federal agencies regarding dual-use or classified transmission installations in the region
 
 Keywords: Natchez Trace Parkway, telecommunications infrastructure, spectrum allocation, experimental licenses, non-standard transmissions, FCC, NTIA, environmental exposure, radar arrays, broadcast towers
+
+
+///////////
+
+
+To: Environmental Protection Agency (EPA) / National Park Service (NPS) / National Institutes of Health (NIH)
+
+Request:
+
+Requesting any and all documents, environmental health assessments, inspection reports, or interagency communications concerning visitor illness, unexplained medical complaints, or environmental exposure hazards at Natchez Trace State Park and Natchez Trace Parkway from January 1, 1990 to present.
+
+This includes:
+	•	Air, water, and soil quality testing results from the park region
+	•	Records of electromagnetic field (EMF), microwave, or acoustic exposure surveys
+	•	Reports of visitor illness, mass complaints, or adverse health outcomes temporally linked to park visits or events
+	•	Permits, site licenses, or interagency communications regarding experimental telecommunications, radar, or other infrastructure in or near Natchez Trace State Park
+	•	Contracts with universities, defense contractors, or federal agencies conducting environmental or biomedical research involving human exposure in the park region
+
+Keywords: Natchez Trace Park, environmental exposure, visitor illness, EMF survey, microwave transmission, radar array, telecommunications infrastructure, experimental permit, NIH, EPA, NPS
+
