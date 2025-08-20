@@ -98,3 +98,93 @@
 - Do watchers police each other’s canon? → Norm-formation data.  
 - Are drops timed to ruin sleep? → Arousal/availability shaping.  
 - Does the property reward ritual? → Habit engineering.
+
+-—-
+
+# Disrupting Predatory Data Collection via ARGs / Analog Horror
+
+Below are disruption insights paired to each property.
+
+---
+
+## Petscop
+- **Lesson:** Don’t chase closure endlessly. Withholding is a trap.  
+- **Tactic:** Step back, set your own end-points. Refuse infinite drip-feeds.
+
+## Backrooms
+- **Lesson:** Rule obsession is how they model you.  
+- **Tactic:** Break or remix the rules; invent your own maps instead of following canon.
+
+## Greylock
+- **Lesson:** Bureaucratic rituals test your obedience.  
+- **Tactic:** Subvert protocol—refuse to perform steps in order, parody the paperwork.
+
+## The Mandela Catalogue
+- **Lesson:** Emergency tones and “do not look” prompts are compliance levers.  
+- **Tactic:** Train yourself to pause, verify, and resist fear-based broadcasts.
+
+## The Monument Mythos
+- **Lesson:** Archival voice is used to steer patriotism and belief.  
+- **Tactic:** Build counter-archives; narrate your own myth to inoculate against state voice.
+
+## Skinamarink
+- **Lesson:** Starving you of clarity makes you fill in gaps.  
+- **Tactic:** Name the void. Call out what’s missing rather than trying to resolve it.
+
+## The Hypnagogic Archive
+- **Lesson:** Ritualized prompts exploit liminal/sleep states.  
+- **Tactic:** Notice when you’re being cued in drowsy states; set personal sleep hygiene rules.
+
+## FNAF
+- **Lesson:** Fear-based micro-routines are sticky.  
+- **Tactic:** Break the loop—change the pattern intentionally (check cameras out of order, walk away).
+
+## Mystery Flesh Pit National Park
+- **Lesson:** Official safety tone hides danger.  
+- **Tactic:** Treat branded safety with skepticism; learn to read hazard without corporate filter.
+
+## Gemini Home Entertainment
+- **Lesson:** “Educational” voices slide rules into you.  
+- **Tactic:** Cross-check instructions; make DIY counter-guides.
+
+## SCP Foundation
+- **Lesson:** Bureaucracy and containment fetishize control.  
+- **Tactic:** Write parody procedures; expose how policy language manipulates tone and labor.
+
+## Local 58
+- **Lesson:** Hijacked PSAs test who you trust.  
+- **Tactic:** Diversify info sources; never outsource judgment entirely to “official” channels.
+
+## Vita Carnis
+- **Lesson:** Step-by-step parasitic survival rules = obedience training.  
+- **Tactic:** Satirize or remix the rules; teach yourself improvisation instead of rote steps.
+
+## Liminal Land
+- **Lesson:** Nostalgic branding overrides hazard detection.  
+- **Tactic:** Interrupt the aesthetic—strip away logos, see if the danger reads differently.
+
+---
+
+# General Disruption Playbook
+
+- **Refuse Ritualization:** Break expected micro-behaviors; improvise.  
+- **Interrupt Ambiguity Harvest:** Say “this is unclear” instead of filling gaps.  
+- **Counter-Narrate:** Write your own documents, broadcasts, or procedures.  
+- **De-normalize Authority Tone:** Recognize how official voices short-circuit critical thought.  
+- **Defuse Fear Economies:** Slow down, laugh, or walk away instead of engaging on fear’s terms.  
+- **Diversify Signals:** Cross-check outside the walled garden; don’t let one canon dictate.  
+
+---
+
+# Takeaway
+
+ARGs / analog horror double as **behavioral compliance rehearsals**.  
+But once you see the levers, you can flip them:  
+- **Ritual → Play**  
+- **Fear → Humor**  
+- **Ambiguity → Naming**  
+- **Authority → Counter-voice**
+
+Doing so turns a behavioral futures lab into a site of resistance.
+
+
