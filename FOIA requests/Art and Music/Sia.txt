@@ -12,3 +12,24 @@ This includes:
 	•	Studies on audience perception, parasocial attachment, or compliance behavior in relation to simulated performers with obscured or withheld identity markers
 
 Keywords: synthetic persona, digital double, simulated performer, songwriter identity, ghostwriter, Australia collaboration, voice synthesis, likeness management, behavioral modeling, DARPA, IARPA, NIST
+
+
+///////////
+
+
+To: DARPA / Information Innovation Office; DARPA / Biological Technologies Office; IARPA; DHS / Office of Intelligence & Analysis; HHS / NIH; Department of Commerce / NIST; Department of State / Bureau of Educational and Cultural Affairs
+
+Request:
+
+Requesting any and all records, contracts, research proposals, interagency communications, vendor agreements, or policy analyses from 2000 to present concerning the use of simulated or synthetic performers in behavioral modeling, predictive analytics, or behavioral futures markets, particularly where an existing songwriter identity was used as the cover or anchor for the public-facing persona.
+
+This includes:
+	•	Research or pilot programs testing parasocial attachment, betrayal tolerance, and audience compliance by introducing inflammatory statements or controversial narratives (e.g., disability representation, autism discourse) through a simulated celebrity figure
+	•	Contracts or cooperative agreements with Australian government agencies, universities, or entertainment firms regarding persona simulation, digital doubles, or synthetic voice modeling of songwriters or ghostwriters
+	•	Studies evaluating how audiences respond to perceived authenticity, betrayal, or controversy when loyalty to a performer has already been established
+	•	Interagency communications regarding the use of Australian-based songwriters or producers as “low-visibility anchors” for synthetic media deployments in U.S. and international markets
+	•	Ethical or policy reviews concerning the substitution of simulated performers for real individuals, particularly where those individuals had no direct awareness or participation
+	•	Analyses of market response data (streaming, ticketing, merchandise, social engagement) correlated with controlled persona rollouts involving reputational stressors or authenticity challenges
+
+Keywords: synthetic persona, simulated performer, songwriter identity, ghostwriter, Australia collaboration, parasocial modeling, betrayal tolerance, behavioral futures markets, compliance stress test, autism controversy, DARPA, IARPA, neurocognitive entrainment
+
