@@ -1,0 +1,14 @@
+To Federal Communications Commission (FCC) / Federal Trade Commission (FTC) / Department of Homeland Security (DHS) / Department of Justice (DOJ)
+
+Request:
+
+Requesting any and all interagency communications, contractor reports, research proposals, or regulatory filings from January 1, 2005 to present concerning the use of computer and laptop repair services as staging points for the deployment of telemetry, surveillance, or behavioral manipulation hardware/software.
+
+This includes:
+	•	Pilot programs or contractor proposals on the embedding of spyware modules, keyloggers, wireless transmitters, or tracking firmware during motherboard, GPU, or logic board repairs
+	•	Records concerning BIOS/UEFI-level modifications performed during repair workflows under warranty or extended service programs
+	•	Internal studies on the use of perception manipulation or synthetic experience overlays via altered graphics cards, display drivers, or monitor backlighting during/after repair
+	•	Interagency or contractor discussions regarding the role of warranty claims, insurance, or educational institution service contracts as cover mechanisms for covert device modification
+	•	Reports analyzing downstream use of repair-inserted modules for risk scoring, predictive policing, insider threat modeling, or behavioral futures markets
+
+Keywords: computer repair surveillance, laptop spyware, BIOS modification, GPU manipulation, covert telemetry, behavioral futures, predictive policing, synthetic experiences, logic board implants, DHS pilot programs
