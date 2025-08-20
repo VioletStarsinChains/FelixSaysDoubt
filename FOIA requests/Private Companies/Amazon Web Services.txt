@@ -1,0 +1,50 @@
+To Department of Defense / Department of Homeland Security / National Security Agency / Federal Trade Commission
+
+Request:
+
+Requesting any and all contracts, research proposals, technical evaluations, incident reports, and interagency communications from January 1, 2005 to present concerning Amazon Web Services (AWS) and its role in supporting federal behavioral modeling, risk assessment, or data-driven compliance monitoring programs.
+
+This includes:
+	•	Documentation on AWS cloud infrastructure hosting federal predictive analytics, public health modeling, or emergency management simulations
+	•	Records of federal contracts or pilot programs using AWS for population-scale behavior forecasting or resilience testing
+	•	Security audits or oversight reports concerning the use of AWS GovCloud or similar platforms in sensitive applications
+	•	Communications with Amazon regarding the integration of machine learning, AI, or data aggregation services for federal behavioral risk assessment programs
+
+Keywords: Amazon Web Services, AWS GovCloud, predictive analytics, behavioral modeling, risk assessment, cloud computing, government contracts, resilience simulation, data aggregation, emergency management
+
+⸻
+
+To Department of Defense / Central Intelligence Agency / National Security Agency / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, contracts, compliance reviews, or communications from January 1, 2005 to present concerning the use of Amazon Web Services (AWS) as a hosting or staging platform for:
+	•	Synthetic environments, digital twin populations, and attrition combat simulations
+	•	Large-scale behavioral futures markets transactions and related algorithmic testing
+	•	Hosting or coordination of neurotechnology telemetry, cognitive entrainment data, or compliance anchor experiments
+	•	Storage, training, or deployment of AI-driven psychological operations, synthetic hallucination engines, or narrative trap calibration models
+	•	End-use monitoring or internal audits of AWS infrastructure supporting classified behavioral experimentation or population modeling initiatives
+
+Keywords: Amazon Web Services, AWS GovCloud, behavioral futures, synthetic environments, attrition combat simulation, digital twin, neurotech telemetry, narrative trap, compliance anchors, psychological operations
+
+
+//////////
+
+
+To Department of Defense / Department of Homeland Security / Defense Innovation Unit / National Security Agency
+
+Request:
+
+Requesting any and all contracts, communications, technical evaluations, and oversight reports from January 1, 2005 to present concerning the use of Amazon Web Services (AWS) infrastructure in partnership with Palantir Technologies, Booz Allen Hamilton, or other defense analytics vendors for the purposes of:
+	•	Hosting or deployment of predictive modeling platforms used in counterterrorism, public health, or domestic law enforcement contexts
+	•	Integration of behavioral futures markets transactions into federal risk assessment frameworks
+	•	Development or operation of digital twin environments for testing compliance, attrition, or resilience strategies
+	•	Storage and processing of population-scale behavioral telemetry drawn from commercial or social platforms
+	•	Interagency communications regarding contractual oversight, compliance monitoring, or export control exceptions related to AWS–Palantir collaborations
+
+Keywords: Amazon Web Services, Palantir Technologies, Booz Allen Hamilton, predictive modeling, behavioral futures markets, digital twin, resilience testing, data laundering, GovCloud, defense analytics
+
+
+
+
+
