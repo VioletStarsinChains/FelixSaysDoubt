@@ -1,0 +1,14 @@
+To: HHS / NIH; DARPA / Information Innovation Office; IARPA; Department of Commerce / NIST; Department of State / Bureau of Educational and Cultural Affairs
+
+Request:
+
+Requesting any and all records, contracts, research proposals, vendor agreements, internal communications, or interagency correspondence from 2000 to present referencing the development, deployment, or evaluation of synthetic media or persona simulation technologies where the identity of an existing songwriter, producer, or behind-the-scenes artist was used as the basis for a public-facing celebrity construct.
+
+This includes:
+	•	Research on the use of songwriter or “ghostwriter” identities as anchors for synthetic persona creation in the entertainment industry
+	•	Interagency communications or cooperative agreements with Australian government agencies, universities, or contractors relating to persona simulation, digital doubles, or voice modeling in music and performance contexts
+	•	Contracts or pilot programs involving the substitution of simulated performers for real individuals, particularly in cases where the real person was located outside the United States
+	•	Ethical reviews, informed consent protocols, or policy analyses concerning the use of an individual’s likeness, name, or professional reputation in synthetic media deployments without their direct participation
+	•	Studies on audience perception, parasocial attachment, or compliance behavior in relation to simulated performers with obscured or withheld identity markers
+
+Keywords: synthetic persona, digital double, simulated performer, songwriter identity, ghostwriter, Australia collaboration, voice synthesis, likeness management, behavioral modeling, DARPA, IARPA, NIST
