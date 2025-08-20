@@ -31,3 +31,61 @@ This includes:
 	•	Risk-benefit or ethics analyses addressing the conversion of paired civilian datasets (Gaza vs. West Bank) into tradable behavioral futures or decision-support tools
 
 Keywords: Gaza containment rig, West Bank control condition, behavioral futures markets, compliance anchors, attrition calibration, telemetry monetization, population management, ODNI, DoD, CIA, State
+
+
+///////////
+
+
+To Department of Defense (DoD) / Central Intelligence Agency (CIA) / Office of the Director of National Intelligence (ODNI) / Department of State
+
+Request:
+
+Requesting any and all documents, communications, research studies, contractor reports, or interagency assessments from 2000 to present concerning the use of mortality data from Gaza and the West Bank as inputs to death modeling frameworks for behavioral futures markets and predictive warfare economics.
+
+This includes:
+	•	Records treating Gaza as a high-intensity death dataset (mass casualties, siege conditions, bombardment) and the West Bank as a comparative low-intensity dataset (targeted killings, medical access restrictions, mobility attrition) for mortality modeling
+	•	Documentation of death rate telemetry harvested for use in risk markets, including projections of how different attrition curves (rapid vs. slow mortality) influence population compliance or collapse trajectories
+	•	Reports analyzing the economic valuation of civilian death data, including conversion into predictive indices for military, financial, or corporate decision-making
+	•	Interagency communications referencing Gaza/West Bank mortality figures as experimental contrasts to calibrate death modeling algorithms for other geopolitical theaters (e.g., Iraq, Afghanistan, Ukraine)
+	•	Contracts or academic partnerships explicitly linking civilian deaths to behavioral futures market pricing or predictive modeling tools for conflict outcomes
+
+Keywords: Gaza death modeling, West Bank mortality dataset, attrition mortality telemetry, behavioral futures markets, predictive warfare economics, civilian death commodification, mortality curve calibration, ODNI, DoD, CIA, State
+
+
+/////////
+
+
+To Department of Defense (DoD) / Central Intelligence Agency (CIA) / Office of the Director of National Intelligence (ODNI) / Department of State / U.S. Agency for International Development (USAID)
+
+Request:
+
+Requesting any and all documents, communications, research studies, contractor reports, or interagency assessments from 2000 to present concerning the use of child mortality data in Gaza and the West Bank as predictive inputs for death modeling, attrition simulations, and behavioral futures markets.
+
+This includes:
+	•	Records referencing child mortality rates as early indicators of system collapse, compliance thresholds, or attrition endurance in civilian populations under blockade, siege, or occupation
+	•	Documentation of models that treat pediatric deaths as sensitive metrics for forecasting broader population destabilization, displacement patterns, or aid dependence
+	•	Reports analyzing the marketization of child death data—including its conversion into risk indices for defense, intelligence, or financial applications
+	•	Communications between DoD, CIA, ODNI, State, and USAID on the comparative utility of Gaza vs. West Bank child mortality data for calibration of predictive analytics and transfer to other conflict theaters
+	•	Contractor or academic projects explicitly referencing child mortality telemetry as a high-value variable in attrition simulations, siege modeling, or predictive warfare economics
+
+Keywords: Gaza child mortality, West Bank pediatric deaths, attrition simulations, collapse forecasting, behavioral futures markets, predictive warfare, child mortality telemetry, civilian compliance thresholds, siege modeling
+
+
+/////////
+
+
+To Department of Defense (DoD) / Defense Intelligence Agency (DIA) / Office of the Director of National Intelligence (ODNI) / Central Intelligence Agency (CIA) / Department of State
+
+Request:
+
+Requesting any and all documents, interagency communications, intelligence assessments, contractor reports, export-control filings, and research or program materials from January 1, 2000 to present concerning neurotechnology development, procurement, testing, or operational deployment by the Israeli military, including the Israel Defense Forces (IDF) and affiliated units, labs, or vendors.
+
+This includes:
+	•	Analytic products or briefings describing Israeli neural interfaces, neuromodulation tools, brain–computer interfaces (BCI), cognitive load monitoring, or human performance augmentation programs (training, selection, battlefield applications)
+	•	Records on nonlethal neuromodulation systems (acoustic, electromagnetic, optical) assessed for crowd control, interrogation, or compliance—whether indigenous or jointly developed with foreign vendors
+	•	Memoranda or cable traffic regarding U.S.–Israel cooperation, technology transfer, end-use monitoring, or Foreign Military Sales/Direct Commercial Sales touching neurotech or related human-performance systems
+	•	Contractor deliverables or academic partnerships (U.S. or third-country) evaluating operational safety, ethics, human-subjects protections, or after-action reports related to neurotech trials in military or security contexts
+	•	Export control, sanctions, or Blue Lantern/Golden Sentry correspondence addressing U.S.-origin components (sensors, stimulators, ML models) used in Israeli neurotech systems
+	•	Records referencing field deployment, pilot programs, or operational evaluation of neurotech in occupied territories or conflict zones, including effects monitoring, data collection, or incident investigations
+
+Keywords: Israel Defense Forces, IDF, neurotechnology, neuromodulation, brain–computer interface, cognitive load monitoring, human performance augmentation, nonlethal directed energy, export controls, FMS/DCS, ODNI, DIA, CIA, DoD, State
