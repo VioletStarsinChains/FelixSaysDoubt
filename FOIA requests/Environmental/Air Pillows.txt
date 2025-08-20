@@ -29,3 +29,23 @@ This includes:
 	•	Surveillance programs testing packaging as a site-specific marker for identifying or tracking consumers through controlled exposure.
 
 Keywords: packaging air pillow, shipping air packets, aerosol vector, compliance testing, entrainment, smart dust, VOC, behavioral futures markets, DARPA, DHS
+
+
+/////////
+
+
+To: Department of Homeland Security (DHS) / Consumer Product Safety Commission (CPSC) / Occupational Safety and Health Administration (OSHA)
+
+Request:
+
+Requesting any and all documents, safety assessments, internal communications, incident reports, or contractor research regarding the use of air-filled packaging materials (commonly referred to as “air pillows”) as potential vectors for environmental contamination or centralized facility hazards, from 2000 to present.
+
+This includes:
+	•	Records discussing the possibility of oxygen-enriched air or other combustion-accelerant gases being used in packaging materials
+	•	Risk assessments on flammable or reactive gases (e.g., methane, hydrogen, acetylene, propane) in large quantities of air pillows stored in centralized warehouse facilities
+	•	Analysis of how such packaging could contribute to accelerated fire spread or explosive hazard conditions in fulfillment centers or distribution hubs
+	•	Contractor or vendor specifications for gas composition and quality standards in air-filled packaging
+	•	Communications addressing the potential for dual-use of packaging (both as protective material and as a covert vector for sabotage, hazard creation, or behavioral compliance leverage)
+	•	Incident reports where packaging materials were found to contain contaminants, oxidizers, or reactive substances other than ambient atmospheric air
+
+Keywords: air pillows, packaging gas composition, oxygen-enriched, combustion accelerant, flammable gases, Amazon warehouse safety, distribution center hazard, environmental sabotage, compliance risk, dual-use packaging
