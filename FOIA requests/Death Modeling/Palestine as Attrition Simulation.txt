@@ -89,3 +89,22 @@ This includes:
 	•	Records referencing field deployment, pilot programs, or operational evaluation of neurotech in occupied territories or conflict zones, including effects monitoring, data collection, or incident investigations
 
 Keywords: Israel Defense Forces, IDF, neurotechnology, neuromodulation, brain–computer interface, cognitive load monitoring, human performance augmentation, nonlethal directed energy, export controls, FMS/DCS, ODNI, DIA, CIA, DoD, State
+
+
+////////
+
+
+To Department of State (DDTC) / Department of Defense (DSCA) / Defense Security Cooperation Agency (Golden Sentry Program) / Directorate of Defense Trade Controls (Blue Lantern Program)
+
+Request:
+
+Requesting any and all documents, end-use monitoring records, compliance audits, cable traffic, contractor assessments, and interagency communications from January 1, 2000 to present concerning Blue Lantern (Direct Commercial Sales) or Golden Sentry (Foreign Military Sales) oversight of neurotechnology-related exports to Israel.
+
+This includes:
+	•	End-use monitoring reports on neural interfaces, neuromodulation devices, brain–computer interface systems, nonlethal directed energy systems, or cognitive enhancement/monitoring technologies exported to or procured by the Israel Defense Forces (IDF) or affiliated entities
+	•	Records of diversion concerns, compliance anomalies, or violations linked to Israeli end-users or third-party subcontractors in neurotech-related fields
+	•	Cable traffic or memoranda referencing Israel’s operational use of neurotech exports and any subsequent compliance or investigative action under Blue Lantern or Golden Sentry
+	•	Contractor, embassy, or attaché reports describing deployment or testing of U.S.-origin neurotech components in operational settings, including occupied territories or conflict environments
+	•	Interagency discussions between State, DoD, and intelligence agencies regarding the strategic or ethical implications of Israeli military use of U.S.-origin neurotech under export compliance programs
+
+Keywords: Israel Defense Forces, IDF, neurotechnology export, Blue Lantern, Golden Sentry, end-use monitoring, brain–computer interface, neuromodulation, nonlethal directed energy, Foreign Military Sales, Direct Commercial Sales, export compliance
