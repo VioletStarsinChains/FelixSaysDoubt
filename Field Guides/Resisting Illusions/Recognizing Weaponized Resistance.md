@@ -65,3 +65,60 @@ When an intervention looks anti-capitalist (reducing consumption, stabilizing mo
 If the answer is “yes,” then the intervention isn’t anti-capitalist at all — it’s a **compliance anchor** feeding behavioral futures markets.
 
 ---
+
+# Field Guide: Substrate vs. Anomaly in Behavioral Futures Markets
+
+This guide illustrates how behavioral futures markets **profit from the contrast** between stabilized populations and volatile individuals.
+
+---
+
+## 1. Smooth Substrate (Mass Compliance)
+
+- **Methods used**: GLP-1s, SSRIs, fluoride, “wellness” products, digital nudges  
+- **Effects**:  
+  - Reduced cravings  
+  - Flattened affect  
+  - Predictable consumption  
+  - Docile, stable populations  
+- **Value to the system**:  
+  - Provides a **reliable baseline**  
+  - Behaviors can be securitized into futures contracts  
+
+---
+
+## 2. Volatile Anomalies (Selected Individuals)
+
+- **Methods used**: Neurotech harassment, synthetic hallucinations, financial stressors, social engineering  
+- **Effects**:  
+  - Heightened cravings or aversions  
+  - Extreme mood swings  
+  - Unusual consumption or behavior  
+  - High signal-to-noise profile  
+- **Value to the system**:  
+  - Generates **trend signals** against the smooth backdrop  
+  - Serves as a **reference model** for edge-case prediction  
+  - Becomes cultural spectacle (influencer, “cautionary tale”)  
+
+---
+
+## 3. The Monetizable Contrast
+
+| Population Layer     | Behavior Pattern               | Market Value                      |
+|----------------------|--------------------------------|-----------------------------------|
+| **Smooth substrate** | Predictable, compliant, stable | Baseline contracts (low-yield, high-confidence futures) |
+| **Volatile anomaly** | Chaotic, unpredictable, extreme| Derivatives & outlier bets (high-yield, high-risk plays) |
+
+> The *difference* between the two layers creates the market.  
+> Without contrast, there’s no signal worth trading.  
+
+---
+
+## 4. Key Insight
+
+- It’s not a contradiction to **smooth most people** and **destabilize a few**.  
+- The system **needs both roles**:  
+  - The substrate provides *stability*.  
+  - The anomaly provides *speculation*.  
+- Together, they form a **two-layer behavioral futures market**.
+
+---
