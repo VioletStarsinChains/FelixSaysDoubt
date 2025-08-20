@@ -1,44 +1,33 @@
-To Department of Defense (DoD) / Central Intelligence Agency (CIA) / Department of State
+To Department of Defense (DoD) / Central Intelligence Agency (CIA) / Department of State / U.S. Agency for International Development (USAID)
 
 Request:
 
-Requesting any and all documents, communications, research studies, or contractor reports from 2000 to present regarding the use of the Gaza Strip as a live attrition combat simulation or behavioral futures modeling environment.
+Requesting any and all documents, communications, research studies, contractor reports, or interagency assessments from 2000 to present comparing the Gaza Strip and the West Bank as distinct environments for civilian risk assessment, resilience analysis, and behavioral modeling.
 
 This includes:
-	•	Internal analyses on how civilian populations under blockade, bombardment, or chronic scarcity are modeled as part of risk assessment for combat attrition scenarios
-	•	Documentation referencing the use of Gaza as a data source for predictive modeling of population collapse, resilience, or compliance under prolonged siege conditions
-	•	Communications between DoD, CIA, and State Department officials regarding Gaza as a “testbed” for crowd behavior, infrastructure collapse, or humanitarian breakdown, and how such data informs military or commercial simulations
-	•	Reports on the role of third-party defense contractors, academic institutions, or allied governments in harvesting behavioral telemetry from Gaza for use in attrition modeling and behavioral futures markets
-	•	Risk assessment documents or war-gaming outputs explicitly linking civilian attrition in Gaza to broader global predictive modeling initiatives
+	•	Analyses that treat Gaza and the West Bank as comparative datasets (e.g., blockade/siege vs. restricted movement/permit regimes) for modeling population behavior under varying control conditions
+	•	Reports, war-game outputs, or policy memos contrasting collapse dynamics, compliance, mobility, access to essentials, and social network robustness between the two regions
+	•	Contractor or academic deliverables evaluating infrastructure disruption, scarcity events, and aid logistics as behavioral inputs in each area
+	•	Interagency communications (DoD, CIA, State, USAID) regarding the methodological use of Gaza/West Bank contrast in forecasting civilian outcomes, humanitarian needs, or conflict escalation risks
+	•	Documentation referencing data-sharing with allied governments or third-party vendors on comparative civilian telemetry from Gaza and the West Bank
 
-Keywords: Gaza attrition simulation, civilian behavioral modeling, siege data, population collapse telemetry, behavioral futures, combat risk assessment, infrastructure collapse modeling, predictive warfare experiments
-
-
-//////////
-
-
-To Department of Defense (DoD) / Central Intelligence Agency (CIA) / Department of State
-
-Request:
-
-Requesting any and all documents, communications, research studies, or contractor reports from 2000 to present regarding the deliberate use of the Gaza Strip as a containment rig for behavioral futures markets, designed to generate and monetize predictive data on civilian attrition.
-
-This includes:
-	•	Records acknowledging Gaza as an engineered environment for testing how prolonged siege, deprivation, and bombardment can entrain populations into predictable behavioral patterns
-	•	Documentation of contracts or projects involving U.S. defense contractors, academic partners, or allied governments treating Gaza as a live behavioral telemetry collection zone for risk assessment markets
-	•	Reports analyzing the conversion of Gaza civilian data into tradable behavioral futures, including how scarcity-induced compliance or collapse metrics are quantified for strategic and financial purposes
-	•	Interagency communications referencing Gaza as a “living laboratory” or “testbed” for synthetic crisis modeling, crowd attrition calibration, or infrastructure collapse prediction
-	•	Risk-benefit analyses comparing Gaza to other conflict zones (Iraq, Afghanistan, Ukraine) in terms of the quality and reliability of behavioral futures data derived from attrition conditions
-
-Keywords: Gaza containment rig, behavioral futures market, synthetic crisis modeling, attrition telemetry, population collapse commodification, siege data monetization, compliance entrainment, predictive warfare economics
+Keywords: Gaza, West Bank, comparative dataset, civilian resilience, risk assessment, behavioral modeling, collapse dynamics, mobility restrictions, aid logistics, interagency assessments
 
 
 ///////////
 
 
+To Department of Defense (DoD) / Central Intelligence Agency (CIA) / Office of the Director of National Intelligence (ODNI) / Department of State
 
+Request:
 
+Requesting any and all documents, communications, research studies, contractor reports, or interagency assessments from 2000 to present concerning the deliberate use of the Gaza Strip and the West Bank as paired environments in behavioral futures markets, including treatment of Gaza as a higher-intensity containment rig and the West Bank as a comparative control for compliance and attrition modeling.
 
+This includes:
+	•	Records acknowledging Gaza/West Bank as a dual-condition experimental frame (blockade/siege vs. occupation/permitting) for testing compliance anchors, scarcity tolerance, and crowd attrition
+	•	Documentation of contracts or projects with defense contractors, academic partners, or allied entities that monetize civilian telemetry from each region as predictive inputs to risk models or markets
+	•	Reports comparing information operations, narrative trap uptake, and infrastructure sabotage effects across the two regions for calibration of population management strategies
+	•	Interagency discussions of model transferability (e.g., how Gaza-derived attrition metrics are validated or adjusted using West Bank data as a control condition)
+	•	Risk-benefit or ethics analyses addressing the conversion of paired civilian datasets (Gaza vs. West Bank) into tradable behavioral futures or decision-support tools
 
-
-
+Keywords: Gaza containment rig, West Bank control condition, behavioral futures markets, compliance anchors, attrition calibration, telemetry monetization, population management, ODNI, DoD, CIA, State
