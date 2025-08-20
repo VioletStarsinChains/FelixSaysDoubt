@@ -45,6 +45,20 @@ Requesting any and all contracts, communications, technical evaluations, and ove
 Keywords: Amazon Web Services, Palantir Technologies, Booz Allen Hamilton, predictive modeling, behavioral futures markets, digital twin, resilience testing, data laundering, GovCloud, defense analytics
 
 
+////////////
 
+
+To Department of Health and Human Services / Centers for Medicare & Medicaid Services / Food and Drug Administration / Department of Defense / National Institutes of Health
+
+Request:
+
+Requesting any and all contracts, communications, research proposals, compliance reviews, and interagency reports from January 1, 2005 to present concerning the use of Amazon Web Services (AWS) infrastructure in collaboration with healthcare data brokers (including but not limited to Epic Systems, Optum, Cerner, IQVIA, Change Healthcare) for the purposes of:
+	•	Hosting, storage, or processing of electronic health records (EHRs), claims data, or longitudinal patient datasets
+	•	Development of predictive analytics platforms for healthcare cost forecasting, compliance monitoring, or risk stratification
+	•	Use of patient health data in behavioral futures markets, resilience modeling, or attrition simulations
+	•	Integration of neurotechnology telemetry, biometric tracking, or consumer health app data into AWS-hosted healthcare environments
+	•	Oversight or audit reports regarding cloud security, third-party vendor access, or behavioral research applications of AWS healthcare platforms
+
+Keywords: Amazon Web Services, AWS HealthLake, Epic Systems, Optum, Cerner, IQVIA, Change Healthcare, electronic health records, predictive analytics, behavioral futures, healthcare data brokers, resilience modeling, patient telemetry
 
 
