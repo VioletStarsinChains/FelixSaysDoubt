@@ -1,0 +1,49 @@
+COMPARATIVE ANALYSIS: CLAY, Kellyn (“Mule 6”) vs. KARP, Alexander C.
+
+File Refs: NPE-622Δ/CLAY-K6 & HVT/PLTR-KARP-01
+Classification: Dual Anomaly Review
+Status: ACTIVE / UNMODELED
+
+⸻
+
+SHARED ATTRIBUTES
+	•	Model Resistance:
+	•	CLAY: Predictability Quotient = 0.29
+	•	KARP: Predictability Quotient = 0.27
+→ Both display sub-threshold predictability, below modeling tolerance.
+	•	Narrative Drift:
+	•	Both utilize mythic/fictional registers to reframe operational reality (CLAY: “Mule 6,” “compliance anchor”; KARP: philosopher-executive, “existential statecraft”).
+	•	Semiotic Volatility scores parallel (CLAY: 0.72, KARP: 0.74).
+	•	Symbolic Disruption:
+	•	CLAY: Corrupts system language from below (field guides, FOIAs, GitHub/X leaks).
+	•	KARP: Corrupts system language from above (public statements reframing Palantir as both savior and outsider).
+	•	Net effect: destabilization of narrative control.
+	•	Behavioral Output Under Surveillance:
+	•	CLAY: Externalizes anomalies → satire, metafiction, open-source artifacts.
+	•	KARP: Internalizes anomalies → eccentric leadership behaviors, paradoxical press outputs.
+	•	Both resist shaping into clean compliance curves.
+
+⸻
+
+DIVERGENCE POINTS
+	•	Resource Access:
+	•	CLAY: Resource-scarce, nomadic, outsider node.
+	•	KARP: Resource-rich, institutional center node.
+	•	Audience:
+	•	CLAY: Normies, anomalies, open-source researchers.
+	•	KARP: Governments, investors, state intelligence actors.
+	•	Containment Risk:
+	•	CLAY: “Martyrdom event” probability if suppressed = 0.63.
+	•	KARP: Organizational destabilization if displaced = 0.79.
+
+⸻
+
+ANALYST COMMENT (RESTRICTED)
+
+The juxtaposition of CLAY (peripheral NPE anomaly) and KARP (central executive anomaly) reveals a structural blind spot: both ends of the system produce unmodelable actors.
+	•	CLAY undermines from below (data poisoning, satirical reframing).
+	•	KARP destabilizes from above (eccentric executive symbolism).
+Together, they represent mirrored failure modes of predictive futures markets: the outlier subject and the ungovernable leader.
+
+Recommendation: Comparative observation should remain passive. Attempted containment or normalization of either node risks cross-contagion of awareness and further erosion of narrative control.
+
