@@ -1,0 +1,104 @@
+Press Pitch: The Hidden Ghostwriters of Experience
+
+Hook:
+We’ve been told that ghostwriting only happens with songs or books. But what if ghostwriting also happens with lived experience — with entire lives harvested as data, then repackaged into synthetic avatars for public consumption?
+
+The Story:
+	•	In the early 2010s, Sia transitioned from anonymous hitmaker to faceless star. Her public persona was already built around obscurity: wigs, proxies, distance from fans. That made her a perfect test case for synthetic performance — a star who didn’t need to show her face, who could be simulated without triggering disbelief.
+	•	A few years later, Grimes positioned herself as the public evangelist of AI and neurotech: selling her voice for AI replication, speaking about brain–computer interfaces, and branding herself as a human–machine hybrid.
+	•	Together, Sia and Grimes form a mirror experiment:
+	•	Sia = the ghostwritten life turned into a partially synthetic celebrity.
+	•	Grimes = the front-facing avatar, openly tied to AI/neurotech, pushing cultural boundaries of what audiences will accept.
+	•	The result: hidden signal donors (the real people whose lives, traumas, and data fuel these constructs) vs synthetic signal avatars (the stars used to normalize the technology).
+
+Why It Matters:
+	•	This is bigger than pop music. It’s about behavioral futures markets: predictive systems that trade on our compliance and attachment.
+	•	By testing how much betrayal audiences tolerate (Sia’s autism controversies, Grimes’s AI evangelism), the system maps the outer limits of parasocial loyalty.
+	•	The underlying question: How much simulation can we accept before we walk away?
+
+The Ask:
+We want records from DARPA, IARPA, NIH, and NIST that show whether entertainment firms have partnered with government programs on synthetic personas, AI voice modeling, or “ghostwriting datasets” drawn from lived experience. If true, it means the line between celebrity branding and predictive modeling is already gone — and invisible lives are being mined as raw material for synthetic stars.
+
+Headline Options:
+	•	The Sia of Grimes: How Invisible Lives Become Synthetic Stars
+	•	Ghostwriting Your Life: The Hidden Market Behind AI Celebrities
+	•	From Wig to Neural Net: Pop Music as Behavioral Futures Experiment
+
+
+////////
+
+Sample FOIA texts:
+
+To: HHS / NIH; DARPA / Information Innovation Office; IARPA; Department of Commerce / NIST; Department of State / Bureau of Educational and Cultural Affairs
+
+Request:
+
+Requesting any and all records, contracts, research proposals, vendor agreements, internal communications, or interagency correspondence from 2000 to present referencing the development, deployment, or evaluation of synthetic media or persona simulation technologies where the identity of an existing songwriter, producer, or behind-the-scenes artist was used as the basis for a public-facing celebrity construct.
+
+This includes:
+	•	Research on the use of songwriter or “ghostwriter” identities as anchors for synthetic persona creation in the entertainment industry
+	•	Interagency communications or cooperative agreements with Australian government agencies, universities, or contractors relating to persona simulation, digital doubles, or voice modeling in music and performance contexts
+	•	Contracts or pilot programs involving the substitution of simulated performers for real individuals, particularly in cases where the real person was located outside the United States
+	•	Ethical reviews, informed consent protocols, or policy analyses concerning the use of an individual’s likeness, name, or professional reputation in synthetic media deployments without their direct participation
+	•	Studies on audience perception, parasocial attachment, or compliance behavior in relation to simulated performers with obscured or withheld identity markers
+
+Keywords: synthetic persona, digital double, simulated performer, songwriter identity, ghostwriter, Australia collaboration, voice synthesis, likeness management, behavioral modeling, DARPA, IARPA, NIST
+
+
+///////////
+
+
+To: DARPA / Information Innovation Office; DARPA / Biological Technologies Office; IARPA; DHS / Office of Intelligence & Analysis; HHS / NIH; Department of Commerce / NIST; Department of State / Bureau of Educational and Cultural Affairs
+
+Request:
+
+Requesting any and all records, contracts, research proposals, interagency communications, vendor agreements, or policy analyses from 2000 to present concerning the use of simulated or synthetic performers in behavioral modeling, predictive analytics, or behavioral futures markets, particularly where an existing songwriter identity was used as the cover or anchor for the public-facing persona.
+
+This includes:
+	•	Research or pilot programs testing parasocial attachment, betrayal tolerance, and audience compliance by introducing inflammatory statements or controversial narratives (e.g., disability representation, autism discourse) through a simulated celebrity figure
+	•	Contracts or cooperative agreements with Australian government agencies, universities, or entertainment firms regarding persona simulation, digital doubles, or synthetic voice modeling of songwriters or ghostwriters
+	•	Studies evaluating how audiences respond to perceived authenticity, betrayal, or controversy when loyalty to a performer has already been established
+	•	Interagency communications regarding the use of Australian-based songwriters or producers as “low-visibility anchors” for synthetic media deployments in U.S. and international markets
+	•	Ethical or policy reviews concerning the substitution of simulated performers for real individuals, particularly where those individuals had no direct awareness or participation
+	•	Analyses of market response data (streaming, ticketing, merchandise, social engagement) correlated with controlled persona rollouts involving reputational stressors or authenticity challenges
+
+Keywords: synthetic persona, simulated performer, songwriter identity, ghostwriter, Australia collaboration, parasocial modeling, betrayal tolerance, behavioral futures markets, compliance stress test, autism controversy, DARPA, IARPA, neurocognitive entrainment
+
+
+///////////
+
+
+To: HHS / NIH; DARPA / Information Innovation Office; IARPA; Department of Commerce / NIST; National Endowment for the Arts (NEA)
+
+Request:
+
+Requesting any and all records, contracts, research proposals, grant reports, or interagency communications from 2010 to present referencing collaborations between artists, musicians, or entertainment firms and federally funded programs on artificial intelligence, neural interfaces, or voice synthesis technologies.
+
+This includes:
+	•	Research on artist partnerships for AI-based voice modeling, digital doubles, or persona simulation in music and performance
+	•	Contracts with music labels, production companies, or individual artists for projects involving synthetic voice or likeness replication
+	•	Studies on cultural perception of AI-assisted creativity and audience trust in synthetic art forms
+	•	Interagency or contractor reports on the use of music and entertainment collaborations to accelerate public acceptance of AI/neurotechnology
+
+Keywords: AI music collaboration, synthetic voice, digital double, neural interface, entertainment partnership, artist collaboration, DARPA, IARPA, NIST
+
+
+///////////
+
+
+To: DARPA / Information Innovation Office; IARPA; DHS / Office of Intelligence & Analysis; HHS / NIH; Department of Commerce / NIST; National Endowment for the Arts (NEA)
+
+Request:
+
+Requesting any and all records, contracts, research proposals, vendor agreements, or interagency communications from 2010 to present concerning the use of artist collaborations with AI, neurotechnology, or persona simulation systems in behavioral modeling, predictive analytics, or behavioral futures markets.
+
+This includes:
+	•	Programs or pilot projects testing parasocial attachment, betrayal tolerance, and consumer compliance through artists positioned as public advocates of AI/neurotechnology (e.g., partnerships involving Grimes or similar figures)
+	•	Research on the use of hidden data sources or lived-experience “ghostwriting” datasets to build cultural simulations later attributed to public-facing artists
+	•	Studies comparing audience responses to obscured or faceless performers (e.g., Sia) versus synthetic-leaning performers openly associated with AI/neurotech (e.g., Grimes)
+	•	Analyses of market response data (streaming, merchandise, social engagement) cross-referenced with engineered controversies or authenticity withdrawals tied to AI-assisted artists
+	•	Ethical reviews, informed consent protocols, or policy discussions concerning the exploitation of invisible contributors as the hidden basis for synthetic public personas
+
+Keywords: synthetic persona, ghostwriter dataset, behavioral futures markets, parasocial modeling, betrayal tolerance, AI music collaboration, Grimes, Sia, neural interface, predictive analytics, DARPA, IARPA
+
+
