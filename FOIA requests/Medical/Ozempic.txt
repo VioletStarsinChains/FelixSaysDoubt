@@ -31,5 +31,22 @@ This includes:
 Keywords: GLP-1 entrainment, Ozempic compliance, behavioral futures, affect dampening, demand shaping, arousal regulation, impulse control modulation, DARPA, IARPA
 
 
+//////////
+
+
+To: DARPA / IARPA / HHS / NIH / FDA
+
+Request:
+
+Requesting any and all records, research proposals, internal communications, contracts, or interagency correspondence from 2010 to present concerning the development, testing, or deployment of non-injectable delivery systems for GLP-1 receptor agonists (including semaglutide, liraglutide, tirzepatide, and related compounds) in the context of behavioral regulation, entrainment, or compliance testing.
+
+This includes:
+	•	Research on oral formulations (e.g., semaglutide tablets) as vectors for appetite suppression, impulse control, or affect dampening beyond metabolic effects
+	•	Studies of GLP-1 delivery via patches, microneedles, wearables, or implantable slow-release devices as long-term compliance mechanisms
+	•	Exploration of inhalable or nasal spray GLP-1s for direct central nervous system modulation
+	•	Analyses of potential fortification of food, beverages, or consumer products with GLP-1s or GLP-1–like compounds as covert entrainment methods
+	•	Market impact assessments of widespread GLP-1 administration in reshaping consumer demand and stabilizing behavioral futures forecasts
+
+Keywords: GLP-1 compliance, semaglutide oral delivery, behavioral futures, non-injectable entrainment, affect dampening, wearable neuropharma, impulse modulation, consumer fortification, DARPA, IARPA
 
 
