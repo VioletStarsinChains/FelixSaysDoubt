@@ -2,7 +2,7 @@ To: Georgia Department of Education / Georgia Department of Public Health / U.S.
 
 Request:
 
-Requesting any and all records, reports, or communications concerning the installation, safety evaluation, or funding of the carpeted basketball court at Fellowship Christian School, 10965 Woodstock Rd, Roswell, GA 30075, from January 1, 1990 to present.
+Requesting any and all records, reports, or communications concerning the installation, safety evaluation, or funding of the carpeted basketball court at Fellowship Christian School, 10965 Woodstock Rd, Roswell, GA 30075, from January 1, 1990 to January 1, 2008.
 
 This includes:
 	•	Records of grants, subsidies, or state/federal funding that supported gymnasium construction or renovation
@@ -21,7 +21,7 @@ To: Department of Defense (DoD) / Department of Homeland Security (DHS) / Defens
 
 Request:
 
-Requesting any and all records, reports, research proposals, or interagency communications concerning the use of Fellowship Christian School, 10965 Woodstock Rd, Roswell, GA 30075, or its carpeted basketball court, as a site for behavioral compliance testing, neurotechnology research, or human performance studies, from January 1, 1990 to present.
+Requesting any and all records, reports, research proposals, or interagency communications concerning the use of Fellowship Christian School, 10965 Woodstock Rd, Roswell, GA 30075, or its carpeted basketball court, as a site for behavioral compliance testing, neurotechnology research, or human performance studies, from January 1, 1990 to January 1, 2008.
 
 This includes:
 	•	Research proposals or contracts describing the use of carpeted athletic surfaces to study triboelectric charge, piezoelectric underlayment, or electrostatic discharge effects on human physiology or behavior
@@ -31,3 +31,43 @@ This includes:
 	•	Interagency discussions of liability, ethics, or oversight relating to covert testing in private educational institutions
 
 Keywords: Fellowship Christian School, carpet basketball court, triboelectric, piezoelectric underlayment, compliance testing, behavioral futures markets, DARPA, DoD, DHS, attrition simulation, neurotech
+
+
+////////////
+
+
+To: Consumer Product Safety Commission (CPSC) / Department of Health and Human Services (HHS) / Georgia Department of Public Health
+
+Request:
+
+Requesting any and all records, reports, or internal communications concerning the safety, air quality, or public health impacts of the carpeted gymnasium at Fellowship Christian School, 10965 Woodstock Rd, Roswell, GA 30075, which also served as the sanctuary for Fellowship Bible Church, from January 1, 1990 through December 31, 2008.
+
+This includes:
+	•	Facility inspection reports, safety audits, or compliance evaluations addressing the use of carpet as flooring in a multipurpose gymnasium and sanctuary
+	•	Records on indoor air quality, chemical off-gassing, static discharge, or other environmental health risks associated with the carpeted athletic/religious space
+	•	Vendor contracts, MSDS sheets, or technical evaluations of adhesives, coatings, or antimicrobial treatments used in the flooring system
+	•	Reports or communications concerning injury rates, trip hazards, or electrostatic hazards documented in connection with the carpeted court
+	•	Public health or consumer safety analyses of multipurpose facilities combining athletic and religious functions with nonstandard flooring choices
+
+Keywords: Fellowship Christian School, Fellowship Bible Church, carpet basketball court, sanctuary, indoor air quality, static discharge, antimicrobial treatment, flooring safety, CPSC, Georgia Department of Public Health, HHS
+
+⸻
+
+Spicy Version
+
+To: Department of Defense (DoD) / Department of Homeland Security (DHS) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all records, reports, contractor deliverables, or interagency communications concerning the use of Fellowship Christian School’s carpeted gymnasium/sanctuary at 10965 Woodstock Rd, Roswell, GA 30075, as a site for behavioral compliance testing, environmental exposure studies, or neurotechnology research, from January 1, 1990 through December 31, 2008.
+
+This includes:
+	•	Research proposals or program documents describing the use of triboelectric charge, piezoelectric underlayment, or electrostatic discharge effects in a multipurpose athletic and congregational environment
+	•	Reports or analyses of behavioral responses of students and congregants exposed to altered proprioceptive feedback, static charge, or airborne chemical release during athletics or worship
+	•	Communications regarding the use of large congregational gatherings as testbeds for mass behavioral entrainment, compliance anchors, or resilience simulations
+	•	Contractor deliverables describing installation of underfloor sensors, RF/RFID/UWB systems, or biometric surveillance equipment in the gymnasium/sanctuary
+	•	Interagency discussions of liability, ethics, or oversight regarding covert testing in private educational and religious institutions
+
+Keywords: Fellowship Christian School, Fellowship Bible Church, carpet basketball court, sanctuary, triboelectric, piezoelectric underlayment, behavioral compliance testing, neurotechnology, DARPA, DoD, DHS, attrition simulation
+
+
