@@ -33,3 +33,43 @@ This includes:
 	•	Correlation studies linking the spread of ritual product use to datasets on compliance, spending behavior, or social polarization
 
 Keywords: entrainment tools, compliance anchors, ritual products, colored powder, candle emissions, incense smoke, behavioral futures markets, group identity modeling, DARPA, IARPA
+
+
+///////////
+
+
+To: CPSC (Consumer Product Safety Commission); EPA / Office of Research and Development; HHS / NIH (National Center for Complementary and Integrative Health); FDA / Office of Cosmetics and Colors; Department of Commerce / NIST
+
+Request:
+
+Requesting any and all records, contracts, research proposals, interagency communications, or vendor agreements from 2000 to present concerning the safety, chemical composition, and potential contaminants in consumer smudge bundles and ritual woods, including but not limited to sage, mugwort, cedar, and palo santo.
+
+This includes:
+	•	Toxicological studies or reports on volatile organic compounds, allergens, or particulate matter released by burning smudge bundles or ritual woods
+	•	Research on contaminants such as pesticides, heavy metals, or adulterants in consumer-grade smudge products
+	•	Contracts or cooperative agreements with vendors, distributors, or importers for safety testing or certification of smudge bundles and ritual woods
+	•	Guidance documents or advisories concerning health risks of consumer exposure to smudge smoke, particularly in enclosed or family environments
+	•	Interagency communications regarding consumer complaints, adverse reactions, or environmental impacts associated with smudge bundle or palo santo use
+
+Keywords: smudge bundle, sage, mugwort, palo santo, ritual wood, chemical contaminants, VOC emissions, consumer product safety, CPSC, NIH, FDA, NIST, EPA
+
+
+//////////
+
+
+To: DARPA / Biological Technologies Office; IARPA; DHS / Office of Intelligence & Analysis; HHS / NIH; EPA; CPSC
+
+Request:
+
+Requesting any and all records, contracts, research proposals, interagency communications, vendor agreements, or policy discussions from 2000 to present concerning the use of smudge bundles (e.g., sage, mugwort, cedar) and ritual woods (e.g., palo santo) as airborne entrainment tools in the context of behavioral modeling, predictive analytics, or behavioral futures markets.
+
+This includes:
+	•	Research on how ritual smoke exposure influences neuroimmune activity, arousal, or compliance in individuals and groups
+	•	Pilot programs assessing smudge ceremonies or palo santo rituals as group entrainment events, measuring synchronization, attention capture, or susceptibility to narrative framing
+	•	Analyses of adverse reactions (e.g., asthma, immune flares, neurological sensitivity) as indicators of population volatility or resistance
+	•	Interagency communications regarding the distribution of ritual smoke products through retail and wellness markets as covert behavioral probes
+	•	Contracts with fragrance companies, importers, or wellness product distributors for integration of ritual woods or herbs into entrainment-focused experiments
+	•	Ethical reviews or policy assessments concerning the covert use of traditional or ritual products as compliance anchors, stress modulators, or airborne telemetry vectors
+	•	Correlation studies linking ritual product use (smudge bundles, palo santo) to datasets on consumer loyalty, group identity formation, or susceptibility to ritualized narratives
+
+Keywords: smudge bundle, palo santo, mugwort, ritual smoke, entrainment tool, compliance anchor, behavioral futures markets, neuroimmune modulation, DARPA, IARPA
