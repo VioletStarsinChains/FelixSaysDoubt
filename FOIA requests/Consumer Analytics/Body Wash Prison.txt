@@ -1,0 +1,74 @@
+To: FTC / Bureau of Consumer Protection; DHS / Office of Intelligence & Analysis; HHS / FDA (Center for Food Safety and Applied Nutrition + Office of Cosmetics and Colors); Department of Commerce / NIST
+
+Request:
+
+Requesting any and all records, contracts, research proposals, vendor agreements, or interagency communications from 2010 to present concerning the development, deployment, or evaluation of retail product security measures (e.g., locked displays, RFID tagging, or restricted access shelving) for personal care and toiletry items in national chain stores.
+
+This includes:
+	•	Research or pilot programs assessing the relationship between retail security measures and consumer purchasing behavior
+	•	Contracts or cooperative agreements with vendors supplying product-locking mechanisms, RFID-enabled containers, or customer-tracking systems
+	•	Internal evaluations or policy reviews on the effectiveness of restricted access measures for low-cost, high-volume consumer goods (e.g., deodorant, shampoo, toothpaste)
+	•	Any reports on consumer satisfaction, shopping deterrence, or economic impacts of locking basic personal care products
+
+Keywords: retail security, product locking, RFID tracking, restricted shelving, consumer behavior study, toiletries, FTC, NIST, FDA
+
+
+//////////
+
+To: DHS / Office of Intelligence & Analysis; DARPA / Information Innovation Office; IARPA; HHS / FDA (Office of Cosmetics and Colors); FTC / Bureau of Consumer Protection; Department of Commerce / NIST
+
+Request:
+
+Requesting any and all records, contracts, research proposals, interagency communications, or vendor agreements from 2010 to present concerning the use of restricted retail access (locked shelving, RFID-controlled products, customer ID verification) as mechanisms for behavioral modeling, predictive analytics, or behavioral futures markets in relation to personal care products.
+
+This includes:
+	•	Research or pilot programs testing compliance, frustration thresholds, and consumer loyalty when essential personal care items are restricted or locked
+	•	Studies correlating ingredient-specific product purchases (e.g., deodorants, shampoos, toothpaste, moisturizers) with neuroimmune responses, compliance behaviors, or volatility modeling
+	•	Interagency or contractor communications linking retail access restrictions to broader behavioral telemetry datasets (e.g., payment systems, loyalty cards, geofencing)
+	•	Vendor or contractor proposals for integrating personal care product purchase data into predictive analytics systems for population segmentation
+	•	Ethical or policy reviews concerning the covert testing of consumer response to restricted access, especially when linked to chemical/ingredient exposure from personal care products
+	•	Analyses of whether “shoplifting deterrence” narratives were used as cover for predictive modeling and compliance testing programs
+
+Keywords: compliance testing, behavioral futures markets, retail restriction, ingredient telemetry, volatility modeling, consumer frustration tolerance, RFID-enabled product tracking, DARPA, IARPA
+
+
+//////////
+
+
+To: FTC / Bureau of Consumer Protection; DHS / Science & Technology Directorate; NIST; HHS / NIH
+
+Request:
+
+Requesting any and all records, contracts, research proposals, vendor agreements, or interagency communications from 2010 to present concerning the collection and analysis of biometric, motion, or behavioral data in retail environments where products are secured behind locked displays.
+
+This includes:
+	•	Research on the use of video analytics, AI-based body language recognition, or facial expression analysis to study consumer reactions to locked shelving or restricted product access
+	•	Pilot programs assessing consumer wait times, gestures, or interactions with employees in retail settings where assistance is required to access products
+	•	Contracts or cooperative agreements with vendors providing body-language recognition systems, in-store surveillance analytics, or “customer sentiment” measurement technologies
+	•	Policy or ethical reviews concerning the use of behavioral analytics in retail consumer protection or commerce settings
+
+Keywords: retail surveillance, video analytics, body language recognition, consumer sentiment, locked shelving, motion capture, FTC, NIST
+
+
+//////////
+
+
+To: DHS / Office of Intelligence & Analysis; DARPA / Information Innovation Office; IARPA; FTC / Bureau of Consumer Protection; HHS / NIH; NIST
+
+Request:
+
+Requesting any and all records, contracts, research proposals, interagency communications, or vendor agreements from 2010 to present concerning the use of in-store surveillance systems to capture and analyze body language, gestures, or micro-expressions of consumers interacting with locked or restricted retail products as part of behavioral modeling, predictive analytics, or behavioral futures markets.
+
+This includes:
+	•	Research or pilot programs analyzing consumer compliance, frustration tolerance, and volatility through body language while waiting for an employee to unlock products
+	•	Studies correlating micro-behaviors (eye movements, posture, facial expressions, hand gestures) with consumer loyalty, purchase completion, or abandonment rates
+	•	Contracts or cooperative agreements with AI surveillance vendors developing motion capture or biometric analytics specifically for retail environments
+	•	Interagency communications linking in-store behavioral telemetry (body language + purchase data) to broader predictive analytics frameworks and compliance testing models
+	•	Ethical or policy reviews concerning the covert use of body-language capture to stress-test consumer populations in relation to essential personal care products
+	•	Analyses of whether “theft prevention” narratives were used as cover for behavioral telemetry experiments in controlled retail environments
+
+Keywords: compliance testing, behavioral futures markets, retail surveillance, body language analytics, micro-expression capture, frustration tolerance, predictive modeling, DARPA, IARPA
+
+
+
+
