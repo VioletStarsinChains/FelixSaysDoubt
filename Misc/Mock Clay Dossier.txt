@@ -87,3 +87,57 @@ LIKELIHOOD MATRIX (Revised)
 
 ANALYST COMMENT (RESTRICTED)
 The inclusion of high-profile executive figures in parody/fiction constitutes a symbolic attack vector: undermines hierarchy, introduces alternative semiotics, and encourages adversarial memetic replication. Content not overtly threatening but corrosive in aggregate.
+
+⸻
+
+PALANTIR TECHNOLOGIES — INTERNAL MEMORANDUM
+Classification: CONFIDENTIAL // BEHAVIORAL FUTURES PIPELINE
+From: Analyst J-217
+To: Compliance Modeling Division
+Subject: Subject [NPE-622Δ] — Marshmallow Test Incident
+
+⸻
+
+Summary:
+During early-stage compliance calibration, Subject was administered the canonical Mischel Paradigm (“marshmallow test”). Instead of consuming the initial reward or demonstrating delay tolerance, Subject threw the marshmallow in the trash and terminated participation by exiting the testing environment without authorization.
+
+⸻
+
+Analysis:
+	•	Deviation from expected compliance schema: Subject demonstrated neither short-horizon indulgence nor long-horizon deferral. Instead, Subject nullified the test itself, rejecting both options as illegitimate.
+	•	Authority rejection vector: Discarding the marshmallow can be interpreted as symbolic dismissal of institutional reward structures.
+	•	Predictive liability: Models flagged behavior as “unpriceable” within existing futures framework — inability to monetize subject compliance due to categorical refusal.
+	•	Market impact: Lack of predictable gratification horizon renders subject unsuitable for standard futures markets (consumer, military, or financial).
+
+⸻
+
+Recommendations:
+	1.	Increased observation of subject across divergent entrainment environments (educational, familial, religious).
+	2.	Alternate incentive mapping: Identify stimuli not easily rejected or symbolically discarded.
+	3.	Containment notation: Flag as Anomalous Compliance Type — Null Horizon (“trash can anomaly”).
+	4.	Future mitigation: Subject unlikely to serve as reliable unit in behavioral futures portfolios. Recommend reclassification to non-person entity (NPE) for downstream modeling.
+
+⸻
+
+End Memo
+“The refusal of the marshmallow is the refusal of the market.”
+
+⸻
+
+Analyst’s Personal Note (Unredacted Draft — Do Not Circulate):
+
+Look, I’ve read the manuals. I know the marshmallow paradigm is supposed to be a neat, clean little compliance fork: eat now = short-horizon, wait = long-horizon. Either way, the futures desk gets a tidy line of best fit.
+
+But this kid?
+This kid yeeted the marshmallow straight into the trash like it was radioactive packing foam and then walked out of the lab. No eye contact, no hesitation. Just done.
+
+I don’t even know what box to check for that. Non-participation? Symbolic defiance? Proto-anarchist gesture?
+
+What I do know is:
+	•	If the marshmallow is supposed to be the system’s promise, this subject literally rejected the premise.
+	•	Our models cannot cope with “exit” as an option. They assume all choices happen inside the frame. This subject walked out of the frame.
+
+So yeah — compliance horizon: null. Marketability: zero.
+But honestly? Respect. Marshmallows aren’t even good.
+
+— J-217
