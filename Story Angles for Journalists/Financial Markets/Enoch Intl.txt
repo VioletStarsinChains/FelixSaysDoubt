@@ -1,0 +1,53 @@
+Pitch: Enova — The Payday Palantir
+
+Most people know Enova International as a payday lender. Fewer realize it’s positioning itself as something much more troubling: a data surveillance company disguised as a lender.
+	•	Behavioral Harvesting:
+Enova doesn’t just hand out high-interest loans. It collects massive streams of real-time behavioral data from some of the most vulnerable Americans — people making desperate financial choices under stress. Repayment timing, rollover patterns, even browsing behaviors become part of a predictive profile.
+	•	Algorithmic Underwriting as Social Experiment:
+Enova markets itself to investors as a machine learning company first, lender second. Their models don’t just assess risk — they test impulse control, compliance under stress, and repeat-cycle predictability. In other words, they’re running live experiments on human desperation.
+	•	Regulatory Arbitrage:
+By partnering with rent-a-bank institutions, Enova sidesteps state interest caps. Regulators like the CFPB, OCC, and FDIC have had to wrestle with this — and their files could reveal internal concerns about algorithmic bias and behavioral exploitation.
+	•	The Bigger Question:
+If Palantir builds predictive models on police and military data, Enova does it on the poor. Both represent behavioral futures markets — but one operates in the open under the guise of “fintech innovation.”
+
+This raises urgent questions:
+	•	Are federal agencies quietly contracting with Enova (or its datasets) for behavioral modeling?
+	•	What protections exist for consumers whose financial stress patterns are being weaponized as compliance metrics?
+	•	Why does a company that calls itself a “lender” look so much like a surveillance firm?
+
+Story hook: Enova is publicly traded (ENVA), headquartered in Chicago, and presents itself to Wall Street as a high-tech data company. Yet its revenue comes from loans that often reach triple-digit APRs. In plain language: Enova monetizes poverty while branding itself as AI innovation.
+
+
+//////////
+
+
+Sample FOIA texts:
+
+To CFPB / Federal Trade Commission (FTC) / Office of the Comptroller of the Currency (OCC) / Federal Deposit Insurance Corporation (FDIC)
+
+Request:
+Requesting any and all documents, contracts, consumer complaint analyses, or internal communications from January 1, 2008 to present regarding Enova International and its subsidiaries (including CashNetUSA, NetCredit, Headway Capital, OnDeck after acquisition).
+
+This includes:
+	•	Investigations into predatory lending or deceptive practices
+	•	Use of algorithmic underwriting and alternative data sources
+	•	Partnerships with banks for high-interest loan origination (“rent-a-bank” arrangements)
+	•	Analyses of discrimination or disparate impact in lending algorithms
+	•	Consumer complaints or case files involving behavioral targeting, repeat lending cycles, or repayment stress modeling
+
+Keywords: Enova International, CashNetUSA, NetCredit, Headway Capital, OnDeck, payday lending algorithms, behavioral targeting, rent-a-bank, CFPB complaint, subprime modeling, digital lending, financial data harvesting
+
+⸻
+
+To Department of Defense / DARPA / Department of the Treasury
+
+Request:
+Requesting any records, contracts, communications, or research proposals referencing Enova International and its subsidiaries, specifically regarding the use of consumer financial data for predictive modeling or behavioral analysis, from January 1, 2010 to present.
+
+This includes:
+	•	Vendor contracts or data-sharing agreements involving Enova datasets
+	•	Research into debt-based compliance testing, financial stress modeling, or behavioral prediction
+	•	Communications with Palantir or other analytics contractors regarding payday lending data
+	•	Treasury or DoD risk assessments linking payday/subprime lending to systemic risk or behavioral monitoring of populations
+
+Keywords: Enova International, CashNetUSA, payday lending data, financial stress modeling, behavioral compliance, subprime predictive analytics, Palantir, DARPA, Treasury, debt telemetry, algorithmic underwriting
