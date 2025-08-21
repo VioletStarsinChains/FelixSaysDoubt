@@ -1,0 +1,74 @@
+ Context:
+
+Flight 188 (October 21, 2009) is one of the strangest, most “behaviorally suspicious” aviation incidents in recent memory.
+
+⸻
+
+The Official Story
+	•	Aircraft: Airbus A320, N374NW
+	•	Route: San Diego (SAN) → Minneapolis–St. Paul (MSP)
+	•	Event: Lost radio contact for 77 minutes over the Midwest, overshot MSP by ~150 miles into Wisconsin.
+	•	Cause (per NTSB): Both pilots were “distracted by their personal laptops,” reviewing crew scheduling software. They claimed they lost situational awareness and didn’t hear calls from air traffic control.
+	•	Outcome: Flight landed safely. The FAA immediately revoked both pilots’ licenses.
+	•	Aftermath: The incident triggered national headlines, NORAD scrambled fighters, and the FAA tightened cockpit distraction rules (banning personal electronic devices in cockpits).
+
+⸻
+
+Why It Feels Off
+	•	Two pilots simultaneously “forgetting” to fly for over an hour is nearly unprecedented. Aviation psychology emphasizes cross-checking — normally one pilot noticing fatigue or distraction corrects the other.
+	•	They didn’t respond to repeated radio calls or cockpit warning chimes. ATC, dispatch, even other aircraft tried hailing them. For 77 minutes.
+	•	Overshooting the destination by 150 miles is extreme. If they were just “heads down on laptops,” it doesn’t explain failing to notice course corrections, time passage, or approaching airspace changes.
+	•	Both pilots gave oddly flat testimony afterward — claiming they were not asleep, not incapacitated, not arguing. Just “distracted.”
+
+⸻
+
+Entrainment Suspicion
+
+The idea of this being an entrainment experiment fits because:
+	•	Uniform dissociation: Both crew entered a synchronized altered state (time loss, attention lock, external unresponsiveness). That’s not normal distraction — it looks like entrainment.
+	•	Cockpit as a controlled lab: Two people, isolated, with predictable sensory environment (engine drone, altitude, cockpit lighting). Perfect for testing neurocognitive entrainment effects.
+	•	Narrative cover: “They were on their laptops” is a neat explanation for public consumption, but it doesn’t explain how both could simultaneously lose track for over an hour.
+	•	Outcome control: The plane landed safely, no injuries — classic of “non-lethal” entrainment experiments designed to generate anomalous behavior without catastrophe.
+	•	Immediate regulatory shift: The FAA used this as justification to change rules, meaning the incident had direct behavioral futures consequences (pilot compliance monitoring).
+
+
+////////
+
+
+FOIA texts:
+
+To: Federal Aviation Administration (FAA) / National Transportation Safety Board (NTSB) / Department of Defense (DoD) / North American Aerospace Defense Command (NORAD)
+
+Request:
+
+Requesting any and all records, communications, incident reports, or internal analyses from October 21, 2009 to present concerning Northwest Airlines Flight 188 (Airbus A320, N374NW), which overshot Minneapolis–St. Paul International Airport by 150 miles after losing radio contact for 77 minutes.
+
+This includes:
+	•	NTSB investigative files, technical appendices, and internal memoranda referencing crew distraction, incapacitation, or “entrainment” phenomena
+	•	FAA and NTSB internal communications regarding potential neurocognitive, hypnotic, or synchronized impairment explanations for crew behavior
+	•	NORAD and DoD communications during the period of lost contact, including threat assessments, pilot readiness orders, and logs of fighter response
+	•	Northwest/Delta internal incident reports, training documents, or risk analyses referencing Flight 188 in the context of pilot compliance, distraction, or entrainment risk
+	•	Any post-incident research or regulatory discussions involving cockpit environment, attention entrainment, or susceptibility to synchronized distraction
+	•	Records of contractor or vendor involvement in studying cockpit human factors, entrainment, or neurocognitive monitoring in relation to Flight 188
+
+Keywords: Northwest 188, Airbus A320, pilot distraction, synchronized incapacitation, cockpit entrainment, FAA human factors, NORAD intercept, neurocognitive impairment, situational awareness loss, crew compliance
+
+
+/////////
+
+
+To: Federal Aviation Administration (FAA) / National Transportation Safety Board (NTSB) / Department of Defense (DoD) / North American Aerospace Defense Command (NORAD) / National Aeronautics and Space Administration (NASA)
+
+Request:
+
+Requesting any and all records, studies, incident reports, or internal communications from January 1, 2005 to present concerning oxygen enrichment, bleed-air system modification, or altered gas composition in aircraft cockpits as related to crew cognitive state, entrainment, or synchronized incapacitation.
+
+This includes:
+	•	Technical reports, test data, or research contracts on the effects of oxygen-enriched or modified cabin/cockpit atmospheres on pilot attention, situational awareness, or entrainment risk
+	•	FAA or NTSB communications referencing oxygen levels or bleed-air irregularities as a factor in Northwest Airlines Flight 188 (October 21, 2009) or similar events of pilot distraction/incapacitation
+	•	DoD/NORAD or NASA studies on hyperoxia, cognitive entrainment, or altered perception of time in high-performance or enclosed environments (aviation, space, diving)
+	•	Vendor or contractor partnerships with Airbus, Boeing, or related suppliers on cabin/cockpit atmospheric modulation technologies
+	•	Risk-benefit analyses, compliance reviews, or safety assessments regarding intentional or incidental oxygen enrichment in cockpits or crew compartments
+	•	Post-incident policy or regulatory discussions referencing oxygen concentration, bleed-air systems, or neurocognitive safety in relation to commercial flight crews
+
+Keywords: cockpit oxygen enrichment, bleed-air entrainment, hyperoxia, synchronized incapacitation, Northwest Flight 188, FAA human factors, situational awareness loss, cabin atmosphere modification, crew cognitive state, neurocognitive impairment
