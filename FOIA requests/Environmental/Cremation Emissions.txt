@@ -12,3 +12,23 @@ This includes:
 	•	Reports from NIH- or VA-affiliated researchers monitoring whether medical devices, implants, or prosthetics contribute measurable anomalous emissions profiles during cremation
 
 Keywords: crematory emissions, novel materials, biomedical implants, ceramic composites, nano-structured materials, emissions monitoring, occupational hazard, EPA air toxics, VA mortuary affairs, atypical cremation residues
+
+
+////////////
+
+
+To Department of Defense (DoD, incl. Mortuary Affairs, DARPA, and Defense Health Agency) / Department of Veterans Affairs (VA) / Environmental Protection Agency (EPA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH)
+
+Request:
+
+Requesting any and all monitoring reports, emissions testing data, contractor deliverables, internal memoranda, or interagency communications from January 1, 2000 to present concerning crematory emissions linked to the incineration of biomedical implants, experimental neurotechnology, or classified research devices.
+
+This includes:
+	•	EPA or DoD air quality reports documenting novel metals, alloys, ceramics, composites, or nanomaterials released during cremation of individuals with medical or experimental implants
+	•	Laboratory analyses of crematory exhaust streams containing residues from neuromodulation hardware, neural interfaces, biosensors, or microelectronics
+	•	DoD/VA communications regarding safe disposal of service members or research subjects with implanted neurotechnology through cremation
+	•	Contractor statements of work or technical memoranda describing cremation as a disposal method for classified biomedical devices or neurotech prototypes
+	•	Internal risk assessments addressing toxic byproducts, emissions signatures, or occupational hazards when cremating individuals with neurotechnology or advanced implantable materials
+	•	Interagency discussions (DoD, VA, HHS, EPA, NIH) about whether cremation emissions may inadvertently expose the presence of novel or classified materials
+
+Keywords: cremation emissions, neurotechnology, neural implants, biosensors, classified biomedical devices, DARPA, Mortuary Affairs, nanomaterials, emissions monitoring, toxic byproducts, experimental hardware
