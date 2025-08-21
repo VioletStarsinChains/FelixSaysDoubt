@@ -12,3 +12,23 @@ This includes:
 	•	Interagency discussions of AR-enabled vehicle projection systems that depend on telematics-derived datasets to accurately simulate or overlay vehicle performance in real time
 
 Keywords: telematics, Progressive Snapshot, Allstate Drivewise, State Farm Drive Safe & Save, insurance data sharing, AR vehicle modeling, perceptual overlay, mixed reality transportation, consumer consent, NHTSA compliance, FTC privacy
+
+
+///////////
+
+
+To Department of Homeland Security (DHS) / DHS Science & Technology Directorate (S&T) / DHS Office of Intelligence & Analysis (I&A) / Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Chief Digital and Artificial Intelligence Office (CDAO) / Air Force Research Laboratory (AFRL)
+
+Request:
+
+Requesting any and all threat assessments, program documentation, contracts, research proposals, pilot/field test reports, legal/privacy reviews, or interagency communications between January 1, 2010 and present on the acquisition, sharing, or use of consumer automobile telematics data from insurance “usage‑based” programs (e.g., Progressive Snapshot, Allstate Drivewise, State Farm Drive Safe & Save, Nationwide SmartRide, or comparable programs) for applications involving augmented reality (AR), mixed reality, or perceptual overlay systems that modify perceived vehicle identity/appearance/kinematics in public space, or for target tracking, operational deception, or attribution control.
+
+This includes:
+	•	Data‑sharing agreements, memoranda of understanding, or procurement records with insurers, telematics vendors, or data brokers for telematics‑derived datasets (e.g., GPS traces, accelerometer/gyroscope streams, braking/acceleration profiles, VIN linkage, mobile device co‑location).
+	•	Research or operational evaluations of AR‑enabled vehicle camouflage/brand substitution or perceptual masking that leverage telematics‑derived motion signatures to register overlays to real vehicles in real time.
+	•	Threat models, risk assessments, concepts of operations (CONOPS), or after‑action reports on the use of telematics‑fed AR systems to misattribute accidents, mechanical failures, or sabotage events to alternate makes/models (“attribution shielding”).
+	•	Documentation of sensor‑fusion pipelines combining insurance telematics with ALPR, cellular/Wi‑Fi telemetry, RF beacons, or government sensor networks for real‑time vehicle projection, cloaking, or identity substitution.
+	•	Communications with defense contractors, integrators, or national laboratories concerning dual‑use exploitation of insurance telematics for operational deception, counterforensics, or reputational targeting.
+	•	Policy determinations, privacy impact assessments, or legal analyses on repurposing consumer‑origin telematics for non‑insurance security applications (including consent, de‑identification, minimization, retention, and secondary‑use limitations).
+
+Keywords: insurance telematics, dual‑use dataset, AR camouflage, perceptual overlay, target tracking, attribution masking, signature management, sensor fusion, plausible attribution shielding, operational deception, DHS S&T, DARPA CDAO
