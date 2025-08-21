@@ -52,3 +52,26 @@ This includes:
 	•	Briefings or contractor deliverables that describe cardiac implant telemetry as a gateway platform for broader implantable biosensor/neurotech integration
 
 Keywords: Texas Heart Institute, DeBakey Heart Center, Houston Methodist, implant telemetry, neuromodulation, pacemaker, LVAD, DARPA neurotech, VA implant monitoring, firmware updates, predictive compliance, cardiac-neural interface
+
+
+///////////
+
+
+To Department of Defense (Armed Forces Medical Examiner System / Army Mortuary Affairs / Defense Health Agency) / Department of Veterans Affairs (National Cemetery Administration / VHA) / Food and Drug Administration (CDRH) / Environmental Protection Agency (EPA) / Department of Health and Human Services (NIH, CDC, CMS) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all policies, standard operating procedures, contractor agreements, inventories, incident reports, emissions datasets, post‑mortem/autopsy guidance, and interagency communications from January 1, 2000 to present concerning the identification, recovery, logging, testing, return, or destruction of implantable medical devices—including cardiac and neurotechnology implants—from decedents associated with Houston, Texas medical and mortuary pathways (e.g., Texas Medical Center institutions, VA facilities, DoD facilities or referrals), with specific reference to cremation or other thermal disposal.
+
+This includes:
+	•	SOPs, technical orders, and training materials for handling pacemakers/ICDs, LVADs/artificial hearts, deep brain stimulators (DBS), vagus nerve stimulators (VNS), spinal cord stimulators (SCS), cortical/BCI devices, biosensor arrays, RFID/NFC tags, and related implantables at time of death
+	•	Chain‑of‑custody records, inventories, and serial‑number logs for explanted devices; return‑to‑manufacturer programs; device destruction certificates; and any associated contractor statements of work
+	•	Contracts/MOUs, invoices, or correspondence with Houston‑area funeral/cremation conglomerates (e.g., Service Corporation International and NorthStar Memorial Group) regarding device removal prior to cremation, post‑mortem device testing, emissions monitoring, or special handling of classified or experimental hardware
+	•	FDA Medical Device Reporting (MDR), post‑market surveillance, or field safety communications referencing cremation interactions (explosions, thermal failure, emissions) or device retrieval from decedents in the Houston region
+	•	EPA or contractor emissions testing and air toxics datasets for crematories servicing DoD/VA or Houston medical facilities, noting unusual metals, ceramics, composites, nanomaterials, or microelectronics signatures
+	•	DoD/VA risk assessments and legal/policy memoranda on cremation of decedents with novel or classified implants, including discussions of detectable emissions “signatures,” occupational exposure, or evidence‑preservation considerations
+	•	Interagency communications (DoD/VA/FDA/EPA/HHS/NIH/CDC) about public messaging or next‑of‑kin counseling recommending cremation in cases involving implantables, and any analyses of downstream impacts on epidemiology, surveillance, or research use
+	•	CMS coding/policy guidance and billing records related to post‑mortem explantation or device retrieval at autopsy; NIH/VA/DoD research protocols linking post‑mortem device data to ongoing studies
+	•	Briefings, dashboards, or deliverables describing Houston‑sourced post‑mortem implant data as inputs to predictive analytics, compliance/resilience modeling, or materials validation for implantable technologies
+
+Keywords: Service Corporation International, NorthStar Memorial Group, Texas Medical Center, Texas Heart Institute, DeBakey Heart Center, implant retrieval, cremation emissions, neurotechnology implants, AFMES Port Mortuary, FDA MDR, device destruction, chain of custody
