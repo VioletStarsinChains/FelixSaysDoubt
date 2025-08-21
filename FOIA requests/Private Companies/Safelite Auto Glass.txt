@@ -1,0 +1,36 @@
+To Department of Transportation (National Highway Traffic Safety Administration) / Department of Homeland Security (Science & Technology Directorate) / Federal Trade Commission (Bureau of Consumer Protection)
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, regulatory filings, laboratory analyses, consumer complaints, interagency communications, or technical evaluations regarding the use of taggants, tracers, or covert identifiers in Safelite AutoGlass products and windshield replacements from 2000 to present.
+
+This includes:
+	•	Records of nanoparticle, isotopic, UV-reactive, or polymer-based additives in Safelite glass products designed for forensic identification, telemetry, or vehicle simulation alignment
+	•	Communications regarding federal or contractor partnerships with Safelite for embedding identifiers in replacement windshields or auto glass
+	•	NHTSA or DHS studies on the use of auto glass as a reference marker in traffic simulation systems, predictive modeling, or real-world validation of vehicle telemetry
+	•	FTC consumer protection documents regarding disclosure, labeling, or nondisclosure of taggant additives in auto glass
+	•	Interagency memoranda discussing the role of replacement windshields in preventing duplication errors (same reference vehicle simultaneously represented in multiple locations in traffic simulations)
+
+Keywords: Safelite, auto glass taggants, windshield tracers, isotopic markers, vehicle telemetry, traffic simulation, DHS S&T, NHTSA regulation, FTC consumer protection, aftermarket tracking
+
+
+//////////
+
+
+To FBI (Laboratory Division; Operational Technology Division; Behavioral Analysis Unit) / U.S. Department of Justice (National Institute of Justice; Criminal Division; Office of Justice Programs)
+
+Request:
+
+Requesting any and all documents, forensic validation studies, laboratory protocols, research proposals, contracts, internal communications, and interagency memoranda regarding the use of taggants, tracers, or covert identifiers embedded in WeatherTech automotive accessories (floor mats, liners, polymer components) and Safelite AutoGlass windshield and glass products from 2000 to present.
+
+This includes:
+	•	FBI Laboratory protocols for detection, spectral analysis, or classification of tagged automotive polymers (floor mats, liners) and glass (windshield fragments) as forensic trace evidence
+	•	NIJ-funded research projects on the use of nanoparticle, isotopic, fluorescent, or polymer additives in consumer automotive products for purposes of vehicle identification, accident reconstruction, or surveillance telemetry
+	•	OTD briefs or project files on the use of aftermarket accessories and replacement glass as covert tracking vectors or as reference markers in vehicle simulation datasets
+	•	BAU assessments regarding the use of tagged automotive products in behavioral telemetry, compliance testing, or predictive modeling of driver behavior
+	•	DOJ memoranda concerning admissibility, chain of custody, and legal considerations for forensic evidence involving embedded taggants in automotive consumer products
+	•	Records of federal vendor contracts or cooperative agreements with WeatherTech or Safelite relating to the provision of tagged products for controlled operations or forensic programs
+
+Keywords: WeatherTech taggants, Safelite taggants, forensic trace evidence, automotive polymers, windshield tracers, isotopic markers, FBI Laboratory, NIJ research, OTD surveillance, vehicle telemetry, behavioral telemetry
+
+
