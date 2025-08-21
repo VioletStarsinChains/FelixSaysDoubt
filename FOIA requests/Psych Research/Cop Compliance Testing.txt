@@ -37,4 +37,19 @@ Keywords: DARPA behavioral modeling, IARPA compliance testing, AR officer archet
 ///////////
 
 
+To Department of Justice (DOJ) / Civil Rights Division (CRT) / Office of Justice Programs (OJP) / Community Oriented Policing Services (COPS Office) / National Institute of Justice (NIJ) / Department of Homeland Security (DHS) Office for Civil Rights & Civil Liberties (CRCL)
 
+Request:
+
+Requesting any and all policies, legal analyses, program documentation, research proposals, pilot evaluations, complaints, investigative files, procurement records, or interagency communications from January 1, 2005 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay technologies to modify, substitute, or otherwise present law enforcement officer appearance (including race, gender, age, body type, insignia, or attractiveness archetype) for purposes of public‑facing operations, behavioral modeling, compliance testing, or crowd management.
+
+This includes:
+• Civil rights impact assessments, disparate‑impact analyses, pattern‑or‑practice materials, or Title VI/Title II/§1983 evaluations related to AR‑altered officer appearance in public interactions
+• Complaints, referrals, or investigation files alleging deceptive presentation of officer identity/appearance via AR overlays, including matters involving homeless outreach, traffic enforcement, or protest/crowd contexts
+• Grants, contracts, MOUs, or pilot documentation (OJP/NIJ/COPS‑funded or otherwise) evaluating archetype‑based officer presentation and resulting compliance or escalation outcomes
+• Guidance, training materials, SOPs, or body‑worn camera / evidence handling policies referencing AR identity substitution, avatar use, or perceptual overlays in the field
+• Algorithmic bias testing, fairness reviews, or accuracy audits addressing the selection or rotation of officer “archetypes” (e.g., by race/age/gender/attractiveness) and any measured disparate impacts across civilian demographics
+• Legal, constitutional, privacy, and civil liberties analyses (e.g., First Amendment, Equal Protection, Due Process, Fourth Amendment, ADA/Section 504, Section 508) regarding undisclosed AR‑modified officer identities
+• Communications with state/local law enforcement, technology vendors, defense contractors, universities, or standards bodies concerning deployment, evaluation, or disclosure of AR‑based officer appearance systems
+
+Keywords: augmented reality policing, perceptual overlay, officer archetypes, disparate impact, civil rights compliance, pattern‑or‑practice, First Amendment, equal protection, due process, homeless outreach, NIJ research, COPS Office pilots
