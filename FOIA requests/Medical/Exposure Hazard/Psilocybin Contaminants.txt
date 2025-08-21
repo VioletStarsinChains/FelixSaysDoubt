@@ -1,0 +1,17 @@
+To National Institutes of Health (NIH: NIDA / NIMH / NIAID) / U.S. Department of Defense (DoD: DTRA / DARPA / USAMRDC)
+
+Request:
+
+Requesting any and all contracts, grant proposals, technical reports, laboratory analyses, risk assessments, adverse event summaries, incident reports, program evaluations, and internal or interagency communications from 1990 to present regarding contaminant uptake and bioaccumulation in psilocybin‑producing mushrooms (and comparator edible/medicinal fungi) cultivated on compost, manure, biosolids, or other organic substrates, including downstream neurotoxic and immunotoxic effects in animal or human subjects and any dual‑use risk assessments.
+
+This includes:
+	•	Studies of heavy metal accumulation (e.g., lead, cadmium, mercury, arsenic) and transport across the blood–brain barrier following ingestion of contaminated mushroom tissue
+	•	Analyses of pesticide/herbicide residues, PFAS, microplastics, and industrial chemicals in fruiting bodies grown on compost or biosolids
+	•	Co‑contaminant risks from co-colonizing fungi (e.g., aflatoxin, ochratoxin, other mycotoxins) and bacterial endotoxin/exotoxin carryover from substrates
+	•	Method development/validation for substrate sterilization, QC testing, and release specifications in research or clinical contexts (including GMP/GLP documentation, if applicable)
+	•	Animal or human exposure studies on neuroinflammation, cytokine signaling, cognitive/psychiatric sequelae, and potential synergistic effects between contaminants and serotonergic agents (psilocybin/psilocin)
+	•	Clinical trial or program files noting adverse events attributed to substrate or product contamination in psychedelic or comparator mushroom research
+	•	DoD/NIH memoranda and dual‑use reviews addressing deliberate or inadvertent modulation of psychedelic outcomes via substrate contaminants
+	•	Procurement standards, SOWs, or contract specs for substrates, compost, or biosolids used in federally funded mushroom research, including source vetting and contaminant limits
+
+Keywords: psilocybin mushrooms, contaminant bioaccumulation, heavy metals, mycotoxins, biosolids compost, PFAS/microplastics, endotoxin exposure, neurotoxicity, blood–brain barrier, substrate sterilization, dual‑use risk, adverse events
