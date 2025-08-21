@@ -1,0 +1,38 @@
+(Different subject than the one found in Death Modeling)
+
+To Department of Justice (DOJ) / Department of Homeland Security (DHS) / Federal Trade Commission (FTC) / Securities and Exchange Commission (SEC)
+
+Request:
+
+Requesting any and all records, contracts, or communications from January 1, 2003 to present concerning Palantir Technologies and Google Maps (or its parent company Alphabet/Google) relating to geospatial data integration, compliance modeling, or predictive behavioral analytics.
+
+This includes:
+	•	Contracts or memoranda of understanding between Palantir and Google/Alphabet regarding access to, or use of, Google Maps data streams (e.g., location history, traffic telemetry, or mapping APIs).
+	•	Records of government procurement or pilot programs in which Google Maps data and Palantir’s Gotham/Foundry platforms were jointly deployed.
+	•	Documentation of joint projects, proposals, or R&D initiatives using Google Maps as a behavioral surveillance or compliance modeling substrate.
+	•	Records reflecting integration of Google Maps user data into behavioral futures markets, including travel pattern prediction, compliance with routing suggestions, or geofencing analysis.
+
+Keywords: Palantir, Google Maps, Alphabet, geospatial analytics, Gotham, Foundry, compliance modeling, location tracking, predictive policing, traffic telemetry, behavioral futures
+
+
+///////////
+
+
+To Department of Justice (DOJ) / Department of Homeland Security (DHS) / Federal Trade Commission (FTC) / Securities and Exchange Commission (SEC)
+
+Request:
+
+Requesting any and all records, contracts, or communications from January 1, 2003 to present concerning Palantir Technologies and Google Maps (including Alphabet/Google subsidiaries) in the context of compliance testing, behavioral futures markets, and predictive analytics.
+
+This includes:
+	•	Records analyzing Google Maps navigation as a compliance apparatus — specifically, whether users follow, resist, or deviate from suggested routes, and how this behavioral data is monetized or used for futures modeling.
+	•	Communications or contracts documenting Palantir’s ingestion of Google Maps telemetry (location history, routing behavior, geofencing) into Gotham/Foundry or related platforms.
+	•	Interagency or contractor discussions of Google Maps as a substrate for behavioral modeling, obedience scoring, or compliance horizon analysis (e.g., how long a user tolerates rerouting or delay).
+	•	Documentation of joint R&D initiatives where Google Maps data is used to train predictive models for consumer compliance, urban policing, or financial speculation on human movement patterns.
+	•	Any pilot projects or proposals treating Google Maps as an everyday behavioral lab for generating compliance signals later priced into markets.
+
+Keywords: Palantir, Google Maps, Alphabet, behavioral futures, compliance apparatus, route obedience, geofencing analytics, Gotham, Foundry, predictive policing, navigation telemetry
+
+
+
+
