@@ -1,4 +1,4 @@
- Context:
+Context:
 
 Flight 188 (October 21, 2009) is one of the strangest, most “behaviorally suspicious” aviation incidents in recent memory.
 
@@ -111,3 +111,22 @@ This includes:
 	•	Risk assessments, regulatory reviews, or ethical evaluations addressing the use of nonlethal deterrents as a means of behavioral modulation, crowd control, or operator entrainment in transportation or public safety domains
 
 Keywords: nonlethal deterrents, transportation safety, cockpit compliance, operator incapacitation, behavioral modulation, oxygen entrainment, acoustic deterrents, directed energy, predictive modeling, Palantir
+
+
+//////////
+
+
+To: Federal Aviation Administration (FAA) / National Transportation Safety Board (NTSB) / Department of Defense (DoD) / Department of Homeland Security (DHS) / North American Aerospace Defense Command (NORAD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all contracts, research proposals, incident reports, or internal communications from January 1, 2005 to present concerning the use of environmental entrainment or nonlethal deterrents in aviation, specifically through manipulation of cockpit or cabin atmosphere.
+
+This includes:
+	•	FAA and NTSB records referencing oxygen enrichment, oxygen depletion, CO₂ modulation, or bleed-air contamination as factors in crew incapacitation, distraction, or time-loss incidents (including Northwest Airlines Flight 188, October 21, 2009)
+	•	DoD, DARPA, DHS, or NORAD research into the use of altered gas composition (oxygen, carbon dioxide, or other additives) as a form of nonlethal deterrent or behavioral entrainment in enclosed transportation environments
+	•	Technical reports or safety audits on aircraft environmental control systems (ECS), bleed-air systems, or cockpit oxygen supply modifications with reference to human factors, entrainment, or compliance
+	•	Contractor or vendor partnerships (including Palantir) linking environmental data to predictive modeling of pilot or operator behavior, described under the rubric of nonlethal deterrents or human factors safety measures
+	•	Risk-benefit analyses, compliance reviews, or interagency communications addressing atmospheric modulation in cockpits or transportation control compartments as a means of nonlethal behavioral control
+
+Keywords: nonlethal deterrents, environmental entrainment, oxygen enrichment, oxygen depletion, bleed-air contamination, cockpit compliance, Northwest Flight 188, FAA human factors, Palantir predictive modeling, pilot incapacitation
