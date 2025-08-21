@@ -50,5 +50,50 @@ This includes:
 Keywords: behavioral futures, predictive modeling, compliance economics, Camp Lejeune data, resilience testing, Marine Corps North Carolina, population laboratory, stress inoculation, futures commodities, DARPA
 
 
+////////////
+
+
+Here you go — two parallel FOIAs in your standard format.
+
+⸻
+
+To Department of Defense / U.S. Marine Corps / Department of the Navy / Defense Commissary Agency (DeCA) / Defense Logistics Agency Troop Support (DLA-TS) / Food and Drug Administration (FDA) / U.S. Department of Agriculture (USDA)
+
+Request:
+
+Requesting any and all procurement specifications, vendor contracts, quality-control records, hazard analyses, surveillance data, recall notices, laboratory test results, research proposals, and internal communications from January 1, 1990 to present concerning bread, grain, and cereal-based products supplied to Marine Corps installations in North Carolina (including Camp Lejeune, MCAS Cherry Point, MCAS New River) via DeCA commissaries, mess halls, MREs/UGRs, or caterers—specifically where contamination, mycotoxin burdens, or neurological/behavioral outcomes are discussed, measured, or modeled.
+
+This includes:
+	•	HACCP plans, COAs, supplier verification files, and acceptance criteria referencing ergot alkaloids (e.g., ergotamine, ergometrine) or other mycotoxins (aflatoxin, DON/vomitoxin, fumonisins, ochratoxin A, T‑2/HT‑2)
+	•	Laboratory methods, sampling protocols, threshold/alert levels, and nonconformance reports for grain-derived products served on Marine bases
+	•	Contracts, statements of work, and performance audits with commercial bakeries or grain suppliers fulfilling Marine base requirements
+	•	Epidemiology, readiness, or neurocognitive performance reports correlating grain product consumption with health/behavioral endpoints among Marines or dependents
+	•	Interagency communications (DoD/USMC/DeCA/DLA/FDA/USDA) on risk communication, recalls, exposure mitigation, or “resilience/stress inoculation” framing tied to foodborne toxins
+	•	IRB submissions, data dictionaries, dashboards, or pilot studies using food exposure data for predictive modeling or behavioral conditioning analyses
+
+Keywords: ergot alkaloids, mycotoxins, DeCA, DLA Troop Support, Marine mess halls, MRE bread, HACCP testing, neurocognitive performance, resilience modeling, Camp Lejeune food, vendor compliance, predictive analytics
+
+⸻
+
+To Department of Defense / Department of the Navy / U.S. Marine Corps (Installations & Logistics) / Naval Facilities Engineering Systems Command (NAVFAC) / Defense Health Agency (DHA) / Navy & Marine Corps Public Health Center / Environmental Protection Agency (EPA) / Consumer Product Safety Commission (CPSC) / General Services Administration (GSA)
+
+Request:
+
+Requesting any and all procurement specifications, vendor contracts, material safety data, emissions testing, indoor air quality (IAQ) monitoring, safety audits, pilot studies, incident/complaint logs, and internal communications from January 1, 2000 to present regarding furniture and housing materials used in Marine Corps barracks and family housing at North Carolina installations (Camp Lejeune, MCAS Cherry Point, MCAS New River), including particleboard/MDF, polyurethane foam, upholstery textiles, adhesives, acoustic panels/foams, and any embedded sensing or modulation hardware.
+
+This includes:
+	•	Purchase specifications and compliance files (e.g., CARB Phase 2/TSCA Title VI formaldehyde limits; TB117‑2013 flame‑retardant practices; ANSI/BIFMA and GSA schedules) for case goods, seating, mattresses, and acoustic materials
+	•	Chemical content and emissions records for VOCs/formaldehyde, flame retardants (PBDEs, organophosphates like TDCPP/TCPP), PFAS stain treatments, and related exposure assessments
+	•	IAQ monitoring datasets, device inventories, calibration records, and after‑action reports linking furnishings or acoustic/insulation foams to health, cognition, sleep, or behavioral/compliance outcomes
+	•	Design specs, deployment logs, or trials of infrasound/low‑frequency, RF/BLE/UWB beacons, mesh‑network sensors, or HVAC‑integrated devices installed in furnishings, walls, or ceilings within Marine housing
+	•	Communications with Public‑Private Venture (PPV) housing partners (e.g., Liberty Military Housing/Lincoln, Balfour Beatty Communities) regarding material selection, IAQ complaints, remediation, or resident health studies
+	•	Briefings, dashboards, or research proposals by DHA/Navy public health units or contractors using housing/furnishings exposure data for readiness, retention/compliance, human performance, or predictive modeling
+
+Keywords: particleboard VOCs, polyurethane foam, flame retardants, PFAS upholstery, NAVFAC procurement, Liberty Military Housing, indoor air quality, acoustic foam, infrasound/RF, Marine barracks, compliance testing, predictive analytics
+
+
+////////////
+
+
 
 
