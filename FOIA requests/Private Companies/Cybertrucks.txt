@@ -48,3 +48,20 @@ This includes:
 Keywords: NIST AR standards, perceptual overlay, automotive AR, vehicle visualization, mixed reality cloaking, lidar interoperability, sensor deception, transportation safety, technical standards, visual camouflage
 
 
+//////////
+
+
+To Department of Defense / Defense Advanced Research Projects Agency (DARPA) / Office of the Director of National Intelligence (ODNI) / Intelligence Advanced Research Projects Activity (IARPA)
+
+Request:
+
+Requesting any and all research proposals, internal memoranda, contracts, program descriptions, or interagency communications from January 1, 2015 to present concerning the behavioral or cognitive modeling of human responses to augmented reality (AR), mixed reality, or perceptual overlay systems applied to vehicles or transportation environments.
+
+This includes:
+	•	Studies of driver, pedestrian, or bystander perception when vehicle appearance is digitally modified through AR projection or cloaking
+	•	Research on compliance, decision-making, or behavioral adaptation in response to AR-altered vehicle exteriors or traffic conditions
+	•	Program materials assessing the predictive modeling potential of population-level exposure to AR vehicle visualization in public settings
+	•	Communications with automakers, technology vendors, or research institutions related to AR overlays for behavioral influence, camouflage, or consumer testing
+	•	Reports or evaluations of risks to cognitive load, situational awareness, or trust in transportation systems stemming from perceptual overlay technologies
+
+Keywords: DARPA AR research, IARPA behavioral modeling, perceptual overlay, mixed reality vehicle, compliance testing, human factors, predictive cognition, situational awareness, transportation perception, population-level modeling
