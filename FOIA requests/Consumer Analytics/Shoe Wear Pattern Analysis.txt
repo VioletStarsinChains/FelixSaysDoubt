@@ -1,0 +1,38 @@
+To: Department of Defense (DoD) / Department of Homeland Security (DHS) / Federal Bureau of Investigation (FBI) / National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all documents, contracts, technical reports, or interagency communications from January 1, 2000 to present relating to the use of gait recognition or shoe wear pattern analysis as biometric identifiers.
+
+This includes:
+	•	Research on gait-based biometric authentication for security or surveillance purposes
+	•	Technical standards developed or evaluated by NIST or other agencies concerning gait recognition
+	•	Contracts with universities, private vendors, or defense contractors conducting gait biometrics research
+	•	Pilot programs or field tests where gait recognition was deployed in transportation hubs, military installations, or public spaces
+	•	Interagency communications on accuracy, privacy risks, or limitations of gait-based biometrics
+
+Keywords: gait recognition, gait biometrics, shoe wear pattern analysis, biometric authentication, surveillance technology, human factors research, NIST standards, identity verification
+
+
+///////////
+
+
+To: Department of Defense (DoD) / Department of Homeland Security (DHS) / Federal Bureau of Investigation (FBI) / Centers for Disease Control and Prevention (CDC)
+
+Request:
+
+Requesting any and all documents, contracts, communications, or research proposals from 1950 to present concerning the use of gait modification, shoe wear pattern analysis, or plantar stimulation as tools for behavioral modeling, compliance testing, or predictive analytics.
+
+This includes:
+	•	Studies on gait alteration in relation to stress, compliance, or social conformity
+	•	Behavioral research involving corrective shoes, orthotics, or footwear-based entrainment devices
+	•	Interagency communications on the use of gait data for predictive modeling of individual or group behavior
+	•	Contracts with footwear manufacturers or technology vendors for human factors research involving gait
+	•	Reports on correlations between gait patterns and psychological state, risk assessment, or consumer behavior
+
+Keywords: gait modification, behavioral modeling, corrective shoes, plantar stimulation, compliance testing, predictive analytics, shoe wear patterns, neuromotor conditioning, human factors, surveillance research
+
+
+
+
+
