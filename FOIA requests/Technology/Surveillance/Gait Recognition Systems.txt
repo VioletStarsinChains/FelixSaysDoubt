@@ -1,0 +1,11 @@
+To NIH / National Institute of Biomedical Imaging and Bioengineering (NIBIB)
+Request:
+Requesting any documents, internal communications, research proposals, or funded projects from 2010–2025 involving the use of non-visible biometric data (e.g., cardiac rhythm, gait, thermal signature, breathing patterns, muscle tension, or electromagnetic fields) for identity verification, behavioral prediction, or population profiling.
+
+Please include:
+	•	Research intersecting with transgender or gender-divergent populations
+	•	Studies aiming to detect internal identity states or emotional congruence through biometric sensing
+	•	Data collection partnerships with public health programs or Medicaid-funded gender-affirming care initiatives
+	•	Use of biometric markers for classification when traditional surveillance methods (facial recognition, fingerprints) are limited or disrupted
+
+Keywords: non-visible biometrics, cardiac rhythm ID, internal state recognition, biometric transition markers, transgender modeling, surveillance alternatives, behavioral sensing, Medicaid research cohort
