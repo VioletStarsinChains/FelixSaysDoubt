@@ -1,0 +1,14 @@
+To Federal Trade Commission (FTC) / Department of Transportation (DOT) / National Highway Traffic Safety Administration (NHTSA)
+
+Request:
+
+Requesting any and all contracts, reports, technical evaluations, or interagency communications from January 1, 2010 to present concerning the secondary use of consumer telematics data collected through insurance incentive programs (e.g., Progressive Snapshot, Allstate Drivewise, State Farm Drive Safe & Save, Nationwide SmartRide, or comparable programs) for applications involving augmented reality (AR), mixed reality, or perceptual overlay technologies in transportation.
+
+This includes:
+	•	Analyses of whether telematics data on acceleration, braking, steering, and location has been shared with automakers, defense contractors, or technology vendors for AR visualization or vehicle projection systems
+	•	Regulatory reviews of consumer consent, data-sharing disclosures, or re-use of insurance telematics data for purposes other than underwriting or pricing
+	•	Communications regarding research collaborations between insurance carriers, federal agencies, and third-party contractors on the application of telematics data to AR vehicle modeling or simulation
+	•	Reports, audits, or complaints concerning consumer deception or privacy risks in the repurposing of telematics data for non-insurance AR or mixed reality projects
+	•	Interagency discussions of AR-enabled vehicle projection systems that depend on telematics-derived datasets to accurately simulate or overlay vehicle performance in real time
+
+Keywords: telematics, Progressive Snapshot, Allstate Drivewise, State Farm Drive Safe & Save, insurance data sharing, AR vehicle modeling, perceptual overlay, mixed reality transportation, consumer consent, NHTSA compliance, FTC privacy
