@@ -16,6 +16,24 @@ Keywords: augmented reality, perceptual overlay, mixed reality vehicle, AR proje
 
 ////////////
 
+To Department of Transportation / National Highway Traffic Safety Administration (NHTSA) / National Transportation Safety Board (NTSB) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all reports, investigations, internal memoranda, or interagency communications from January 1, 2018 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay technologies in connection with motor vehicle accidents, defect investigations, or consumer complaints.
+
+This includes:
+	•	Documentation of cases where vehicle appearance or branding was digitally modified or projected, potentially affecting attribution of responsibility for accidents or failures
+	•	Communications with automakers, insurers, or technology vendors regarding the use of AR overlays to mask or misrepresent vehicle make, model, or condition during accidents
+	•	Analyses of the role of perceptual overlays in consumer or witness reporting of crash events, including potential bias in attributing failures to specific vehicle brands
+	•	Internal studies or risk assessments concerning the integrity of safety investigations when AR-altered vehicles are present in public environments
+	•	Interagency discussions on fraud, misrepresentation, or accident attribution arising from AR vehicle visualization
+
+Keywords: NHTSA AR accidents, NTSB perceptual overlay, vehicle misrepresentation, accident attribution, crash investigation integrity, brand bias, consumer deception, AR camouflage, mixed reality vehicles, insurance reporting
+
+
+/////////////
+
 
 To Department of Homeland Security (DHS)
 
