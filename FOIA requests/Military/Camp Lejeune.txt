@@ -111,4 +111,22 @@ This includes:
 Keywords: mast cell activation syndrome, mastocytosis, histamine intolerance, idiopathic anaphylaxis, immunological disorder, Camp Lejeune families, contaminated water, resilience modeling, compliance testing, VA benefits adjudication, behavioral health scapegoating
 
 
+///////////
 
+
+To Department of Defense / Department of the Navy / U.S. Marine Corps (MCIEAST, Camp Lejeune) / Naval Facilities Engineering Systems Command (NAVFAC) / Office of Naval Research (ONR) / Naval Research Laboratory (NRL) / Defense Advanced Research Projects Agency (DARPA) / Air Force Research Laboratory (AFRL) / Department of Homeland Security Science & Technology (DHS S&T) / Federal Emergency Management Agency (FEMA) / National Oceanic and Atmospheric Administration (NOAA, incl. NWS/NHC) / Environmental Protection Agency (EPA)
+
+Request:
+
+Requesting any and all research proposals, contracts, experimental plans, field test logs, after‑action reports, incident summaries, interagency communications, risk assessments, environmental/health surveillance records, and legal or policy memoranda from January 1, 1990 to present concerning ionospheric or atmospheric energy‑injection activities, weather modification or “hurricane mitigation/steering” concepts, and RF/MW/ELF‑VLF transmissions that may have affected hurricane intensity, track, or timing impacting Marine Corps installations in North Carolina (Camp Lejeune, MCAS Cherry Point, MCAS New River), including any linkage to readiness, resilience, compliance, or population‑level behavioral modeling.
+
+This includes:
+	•	Research proposals, statements of work, IRB/IEC submissions, test plans, and deliverables referencing ionospheric heating, atmospheric plasma, tropospheric ducting, or RF/MW/ELF‑VLF propagation experiments with potential mesoscale weather effects along the North Carolina coast
+	•	Coordination records, MOUs, spectrum authorizations, and FCC experimental licenses/STA filings relating to high‑power or unusual transmissions coincident with major storms (e.g., Hurricanes Matthew 2016, Florence 2018, Dorian 2019, and other named events impacting Onslow/Carteret counties)
+	•	Operational logs, NOTAM/NOTMAR coordination, hazard analyses, and deconfliction with FAA/FCC/NOAA/NWS/NHC for experiments or demonstrations in the Atlantic theater or over NC impacting Marine installations
+	•	After‑action reports, situation reports, and ICS documentation evaluating storm outcomes at Camp Lejeune/Cherry Point/New River in the context of atmospheric or ionospheric research activities, including any assessment of “nudge,” mitigation, or steering effects
+	•	Environmental health surveillance, DHA/VA public health briefs, or cohort analyses correlating hurricane exposure with toxic mobilization events (e.g., flooding of contaminated sites) and subsequent health/behavioral outcomes among Marines and dependents
+	•	Briefings, slide decks, or policy/risk memos discussing hurricanes as resilience/compliance anchors, “stress inoculation,” or opportunities for data collection/predictive modeling on base populations
+	•	Contractor/vendor communications, invoices, calibration records, and site access logs for ground arrays, ionosondes, radar/over‑the‑horizon systems, acoustic or RF emitters, or coastal sensor grids installed on or near Marine installations in NC
+
+Keywords: Camp Lejeune hurricanes, ionospheric heating, HAARP‑type research, ELF/VLF transmissions, hurricane steering, weather modification, RF propagation, NAVFAC/ONR/NRL, AFRL/DARPA, FCC experimental license, FEMA after‑action, resilience/compliance modeling
