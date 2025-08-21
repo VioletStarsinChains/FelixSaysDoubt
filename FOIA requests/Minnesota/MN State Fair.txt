@@ -1,0 +1,49 @@
+To Minnesota Department of Health (MDH) / Minnesota Pollution Control Agency (MPCA) / HHS / FDA / EPA / CPSC / Minnesota State Fair Board
+
+Request:
+
+Requesting any and all records, permits, contracts, testing results, internal communications, incident/complaint reports, or vendor guidance from 2000 to present regarding air quality, chemical exposures, and consumer product safety at the Minnesota State Fair.
+
+This includes:
+	•	Air monitoring or indoor air assessments in exhibit halls, livestock buildings, and enclosed venues
+	•	Testing or disclosure of volatile organic compounds (VOCs), fragrance diffusers, fog machines, incense/candles, pyrotechnics, colored powders, or aerosolized promotional products
+	•	Vendor guidance and compliance materials on product emissions, cleaning agents, and sanitation chemicals used in food or demo areas
+	•	Incident reports or public complaints involving respiratory distress, allergic reactions, or chemical sensitivities
+	•	Contracts/SOWs with environmental or industrial hygiene firms for on‑site monitoring or post-event reporting
+
+Keywords: Minnesota State Fair, air quality, VOC emissions, consumer product safety, fragrance diffusion, incense/candles, fog machines, EPA, FDA, MPCA, MDH
+
+⸻
+
+To DHS / DHS Science & Technology Directorate / IARPA / DARPA (Information Innovation Office) / HHS / NIST / Minnesota Department of Public Safety (DPS) / Minnesota State Fair Board
+
+Request:
+
+Requesting any and all records, contracts, proposals, internal communications, interagency correspondence, or vendor agreements from 2000 to present referencing the Minnesota State Fair as a testbed for behavioral modeling, predictive analytics, or compliance/entrainment studies.
+
+This includes:
+	•	Pilot programs measuring crowd flow, queue compliance, or “frustration thresholds” tied to controlled access points, line design, or time‑to‑service
+	•	Use of scent diffusion/HVAC strategies, soundscapes, lighting, or staged product placements to modulate arousal, attention, or purchasing behavior
+	•	Integration of point‑of‑sale, wristband/cashless, loyalty app, or geofencing data with crowd telemetry for predictive modeling
+	•	Contracts or MOUs with universities or contractors for on‑site behavioral observation, A/B testing, or algorithmic audience segmentation
+	•	Analyses correlating exposure to specific exhibits/products (e.g., ritual items, aerosols, powders) with consumer spend, route choice, or return rates
+	•	Ethical reviews, risk assessments, or privacy impact assessments concerning behavioral experiments conducted on fairgrounds
+
+Keywords: Minnesota State Fair, behavioral modeling, compliance testing, crowd telemetry, scent diffusion, geofencing, cashless wristbands, predictive analytics, DARPA, IARPA, DHS S&T
+
+⸻
+
+To DHS / DHS S&T / DOJ / Minnesota DPS / HHS / NIST / Minnesota State Fair Board
+
+Request:
+
+Requesting any and all records, contracts, internal communications, privacy impact assessments, vendor SOWs, or technical deployment documents from 2000 to present concerning biometric or behavioral analytics systems operated at the Minnesota State Fair.
+
+This includes:
+	•	Deployment or evaluation of facial recognition, gait analysis, posture/gesture/body‑language analytics, heat mapping, or Wi‑Fi/Bluetooth probe systems
+	•	Use of cellphone data (geofences, location pings, or cell‑site simulators) in coordination with fair operations or public safety
+	•	Pilot programs linking biometric/behavioral signals to commercial outcomes (dwell time, impulse purchases, route optimization)
+	•	Vendor lists, device inventories, or network diagrams for cameras, sensors, or antennas placed on fairgrounds
+	•	Communications regarding signage, consent, opt‑out mechanisms, data retention periods, and data sharing with third parties
+
+Keywords: Minnesota State Fair, facial recognition, body‑language analytics, heat mapping, geofencing, Wi‑Fi probes, PIA, data retention, DHS S&T, Minnesota DPS
