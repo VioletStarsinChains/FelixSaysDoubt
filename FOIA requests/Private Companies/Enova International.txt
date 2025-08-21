@@ -1,0 +1,28 @@
+To CFPB / Federal Trade Commission (FTC) / Office of the Comptroller of the Currency (OCC) / Federal Deposit Insurance Corporation (FDIC)
+
+Request:
+Requesting any and all documents, contracts, consumer complaint analyses, or internal communications from January 1, 2008 to present regarding Enova International and its subsidiaries (including CashNetUSA, NetCredit, Headway Capital, OnDeck after acquisition).
+
+This includes:
+	•	Investigations into predatory lending or deceptive practices
+	•	Use of algorithmic underwriting and alternative data sources
+	•	Partnerships with banks for high-interest loan origination (“rent-a-bank” arrangements)
+	•	Analyses of discrimination or disparate impact in lending algorithms
+	•	Consumer complaints or case files involving behavioral targeting, repeat lending cycles, or repayment stress modeling
+
+Keywords: Enova International, CashNetUSA, NetCredit, Headway Capital, OnDeck, payday lending algorithms, behavioral targeting, rent-a-bank, CFPB complaint, subprime modeling, digital lending, financial data harvesting
+
+⸻
+
+To Department of Defense / DARPA / Department of the Treasury
+
+Request:
+Requesting any records, contracts, communications, or research proposals referencing Enova International and its subsidiaries, specifically regarding the use of consumer financial data for predictive modeling or behavioral analysis, from January 1, 2010 to present.
+
+This includes:
+	•	Vendor contracts or data-sharing agreements involving Enova datasets
+	•	Research into debt-based compliance testing, financial stress modeling, or behavioral prediction
+	•	Communications with Palantir or other analytics contractors regarding payday lending data
+	•	Treasury or DoD risk assessments linking payday/subprime lending to systemic risk or behavioral monitoring of populations
+
+Keywords: Enova International, CashNetUSA, payday lending data, financial stress modeling, behavioral compliance, subprime predictive analytics, Palantir, DARPA, Treasury, debt telemetry, algorithmic underwriting
