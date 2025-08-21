@@ -55,6 +55,21 @@ Keywords: DHS threat assessment, robotic staff, AR masking, perceptual overlay, 
 //////////
 
 
+To Department of Defense / Defense Advanced Research Projects Agency (DARPA) / Office of the Director of National Intelligence (ODNI) / Intelligence Advanced Research Projects Activity (IARPA)
 
+Request:
+
+Requesting any and all research proposals, BAA responses, contracts, program descriptions, evaluation reports, data management plans, privacy/ethics reviews, pilot or field-test reports, and interagency communications from January 1, 2010 to present concerning behavioral or cognitive modeling of human responses to robotic or automated systems presented to the public as human workers through augmented reality (AR), mixed reality, or perceptual overlay technologies in retail or food-service environments.
+
+This includes:
+	•	Human factors experiments on trust, compliance, purchasing behavior, dwell time, crowd dynamics, or situational awareness when robotic staff are masked by human AR avatars
+	•	Research on disclosure/consent protocols, debriefing procedures, and IRB determinations for studies involving undisclosed AR masking of robotic staff
+	•	Program materials on perception management, digital human rendering, identity substitution, and avatar fidelity as it relates to behavior change
+	•	Sensor-fusion and data collection methodologies (e.g., camera analytics, POS data, Wi‑Fi/BLE telemetry, mobile co‑location, eye-tracking) used to model behavioral outcomes
+	•	Evaluations of risks, failure modes, or safety interactions in HRI when visual representations differ from physical actuation (avatar–robot mismatch)
+	•	Communications with corporations, system integrators, or universities regarding pilots in commercial venues (e.g., cafés, quick‑service restaurants, retail stores)
+	•	Metrics, dashboards, or predictive models derived from such pilots for population-level forecasting or operational applications
+
+Keywords: DARPA human factors, IARPA behavioral modeling, augmented reality masking, perceptual overlay, digital human avatars, human‑robot interaction, retail pilot, disclosure and consent, population‑level forecasting, identity substitution, sensor fusion, ethics/IRB
 
 
