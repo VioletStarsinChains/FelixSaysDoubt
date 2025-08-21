@@ -83,3 +83,27 @@ This includes:
 	•	Reports or evaluations of risks to cognitive load, situational awareness, or trust in transportation systems stemming from perceptual overlay technologies
 
 Keywords: DARPA AR research, IARPA behavioral modeling, perceptual overlay, mixed reality vehicle, compliance testing, human factors, predictive cognition, situational awareness, transportation perception, population-level modeling
+
+
+/////////
+
+
+To Department of Homeland Security (DHS) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all reports, threat assessments, program documentation, or interagency communications from January 1, 2015 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay technologies to obscure, disguise, or misattribute the make, model, or condition of motor vehicles in public environments.
+
+This includes:
+	•	Analyses of AR overlays used to provide plausible attribution shielding in the event of vehicle malfunctions, accidents, or sabotage
+	•	Research on the behavioral or forensic impact of vehicle appearance modification, including how crashes may be misattributed to particular brands or models
+	•	Communications with automakers, defense contractors, or technology vendors regarding AR-enabled camouflage, cover, or brand substitution in transportation systems
+	•	Threat assessments related to the exploitation of known reputational vulnerabilities (e.g., attributing systemic failures to specific vehicle types already associated with engineering defects)
+	•	Interagency coordination between DHS, DoD, and law enforcement on risks of AR-driven misrepresentation in accident reporting, criminal investigations, or counterintelligence operations
+
+Keywords: perceptual overlay, AR camouflage, plausible attribution, accident misattribution, vehicle disguise, reputational targeting, behavioral misdirection, transportation security, DHS threat assessment, DoD AR research
+
+
+////////////
+
+
