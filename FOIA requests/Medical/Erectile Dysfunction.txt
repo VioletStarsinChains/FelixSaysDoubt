@@ -35,4 +35,80 @@ This includes:
 Keywords: erectile dysfunction, PDE5 inhibitors, sildenafil, tadalafil, vardenafil, post‑marketing surveillance, behavioral analytics, compliance modeling, neuromodulation device, vacuum erection device, NINDS grants, FDA submissions
 
 
+///////////
+
+
+To HHS / FDA / NIH / NINDS / Federal Trade Commission (FTC) / Federal Communications Commission (FCC)
+
+Request:
+
+Requesting any and all regulatory filings, internal communications, meeting minutes, contractor reports, or grant materials from January 1, 2005 to present concerning vacuum erection devices (VEDs) or penile negative-pressure systems with (a) pulsed/programmable pressure modes, (b) integrated sensors (e.g., optical/PPG, temperature), or (c) wireless connectivity (Bluetooth/Wi‑Fi), including any evaluation of behavioral outcomes, user compliance shaping, telemetry collection, or remote protocol updates.
+
+This includes:
+• FDA submissions, review memos, and post‑market surveillance mentioning rhythmic/pulsed negative pressure or behavior/compliance endpoints
+• NIH/NINDS grants or cooperative agreements studying VEDs or penile negative‑pressure as neuromodulatory or biofeedback tools
+• Vendor communications or 510(k)/De Novo materials describing integrated sensors, app control, or cloud analytics for sexual behavior metrics
+• FTC investigations or complaints regarding undisclosed data collection, behavioral targeting, or deceptive claims in “sexual wellness” pumps
+• FCC equipment authorizations or correspondence related to RF modules in app‑connected VEDs
+• Policies, risk assessments, or ethics reviews addressing remote updates, A/B testing, or telemetry from sexual devices
+
+Keywords: vacuum erection device, pulsed negative pressure, penile pump telemetry, behavioral compliance, neuromodulation, photoplethysmography, Bluetooth medical device, FDA 510(k), FTC deceptive practices, FCC equipment authorization
+
+⸻
+
+To Department of Defense (DoD) / DARPA / HHS / NIH / NINDS / Central Intelligence Agency (CIA)
+
+Request:
+
+Requesting any and all documents, contracts, protocols, or interagency communications from January 1, 1990 to present regarding the use of vacuum erection devices (VEDs) or penile negative‑pressure systems as tools for neuromodulation, physiological or behavioral entrainment, or compliance testing in human subjects research or field studies.
+
+This includes:
+• Research on low‑frequency pressure entrainment of autonomic/pelvic nerve activity and its behavioral effects
+• Protocols pairing VED use with audio/visual cues, vibration, ultrasound, or photobiomodulation to induce state changes or conditioning
+• Studies measuring persistence through discomfort/pain (rings, timed holds) as a compliance endpoint
+• Interagency communications linking sexual device telemetry to predictive models of adherence, relationship dynamics, or risk‑taking
+• Contracts with universities, CROs, or device firms for app‑connected VEDs, remote updates, or A/B testing of behavioral protocols
+• Ethics reviews or adverse event summaries related to entrainment via negative pressure
+
+Keywords: penile negative pressure, entrainment, neuromodulation, compliance testing, DARPA human subjects, behavioral futures modeling, pudendal nerve, low‑frequency stimulation, telemetry, A/B testing
+
+
+///////////
+
+
+To Food and Drug Administration (FDA) / National Institutes of Health (NIH) / National Heart, Lung, and Blood Institute (NHLBI) / Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, communications, contracts, clinical trial data, or research reports from January 1, 1980 to present concerning the use of phosphodiesterase-5 (PDE5) inhibitors and related erectile dysfunction (ED) drugs as agents of autonomic nervous system (ANS) modulation, vascular entrainment, or behavioral compliance beyond their marketed indication for erectile dysfunction.
+
+This includes:
+	•	FDA submissions, reviews, or meeting minutes referencing autonomic, cardiovascular, or neurobehavioral effects of PDE5 inhibitors (e.g., sildenafil, tadalafil, vardenafil, avanafil) outside of sexual function endpoints
+	•	NIH/NHLBI- or DARPA-funded research into the use of PDE5 inhibitors for blood pressure regulation, autonomic tone modulation, stress resilience, or performance enhancement
+	•	Clinical trial data, contracts, or grant proposals analyzing PDE5 drugs as entrainment tools for vascular tone, baroreflex function, or systemic ANS adaptation
+	•	DoD communications or protocols involving PDE5 inhibitors in military or high-performance contexts, including their role in stress response, endurance, or compliance testing
+	•	Reports or ethics reviews concerning the use of PDE5 inhibitors as behavioral anchors, including persistence of treatment despite side effects due to social/sexual compliance pressures
+	•	Correspondence with pharmaceutical companies (e.g., Pfizer, Eli Lilly, Bayer) regarding ANS-related outcomes of PDE5 inhibitors or their integration into predictive modeling of human performance and compliance
+
+Keywords: PDE5 inhibitor, sildenafil, tadalafil, vardenafil, avanafil, Viagra, Cialis, autonomic nervous system, vascular entrainment, baroreflex, behavioral compliance, NHLBI contracts, DARPA performance enhancement, FDA submissions
+
+
+///////////
+
+
+To Food and Drug Administration (FDA) / National Institutes of Health (NIH) / Department of Health and Human Services (HHS) / Centers for Medicare & Medicaid Services (CMS) / Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Veterans Health Administration (VHA) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all documents, communications, contracts, datasets, regulatory filings, grant materials, briefing memos, or research reports from January 1, 1995 to present concerning the use of erectile dysfunction (ED) drug data (e.g., PDE5 inhibitors) for predictive modeling, behavioral analytics, market segmentation, or behavioral futures applications beyond clinical safety/efficacy.
+
+This includes:
+	•	FDA submissions, review memoranda, advisory committee materials, and post‑marketing/RWE analyses referencing adherence, persistence, partner‑reported outcomes, risk compensation, or behavior/compliance endpoints in ED products (sildenafil, tadalafil, vardenafil, avanafil)
+	•	NIH/HHS/DoD/DARPA/VHA studies or contracts analyzing ED prescription patterns, refill behavior, or digital companion/app telemetry as predictors of health‑seeking behavior, relationship stability, risk tolerance, or broader consumer/commercial behaviors
+	•	CMS (Medicare/Medicaid) analyses, dashboards, or contractor reports linking Part D/claims data for ED drugs with adherence modeling, nudging interventions, prior‑authorization “behavioral economics,” or beneficiary stratification
+	•	Interagency or public‑private communications with pharmaceutical manufacturers, PBMs, pharmacies, CROs, data brokers, or digital therapeutics firms concerning linkage of ED drug data to EHRs, wearables, consumer data, or marketing datasets for predictive/behavioral modeling
+	•	Contracts, MSAs, DUAs, or IRB/ethics reviews enabling A/B testing, algorithmic targeting, or segmentation based on ED adherence, dosage, side‑effect profiles, or co‑prescriptions
+	•	FTC complaints, inquiries, or correspondence regarding undisclosed data flows, behavioral targeting, or deceptive practices involving ED drug apps, companion programs, or loyalty/discount platforms
+
+Keywords: erectile dysfunction, PDE5 inhibitors, sildenafil, tadalafil, behavioral futures, predictive modeling, adherence telemetry, real‑world evidence, market segmentation, behavioral economics nudges, claims linkage, CMS Part D, PBM data sharing
 
