@@ -1,0 +1,41 @@
+To:
+Department of Homeland Security / U.S. Citizenship and Immigration Services (USCIS) / Immigration and Customs Enforcement (ICE) / Department of State – Bureau of Consular Affairs (Passport Services & Office of Children’s Issues) / Social Security Administration / Department of Health and Human Services – National Center for Health Statistics (NCHS)
+
+Request:
+
+Requesting any and all records from January 1, 1980 to present concerning the classification, risk assessment, or verification of home births in the context of U.S. citizenship, passport issuance, fraud detection, or identity adjudication.
+
+This includes:
+	•	Policies, training materials, internal memoranda, or contractor deliverables describing fraud indicators or risk factors tied to home births or midwife-attended births
+	•	Algorithmic scoring, FDNS (Fraud Detection and National Security) guidance, or data models that assign lower confidence to birth certificates issued outside hospital systems
+	•	Lists of suspect midwives, suspect birth attendants, or flagged birth registrars and criteria for inclusion/exclusion
+	•	Communications between DHS, DOS, SSA, and state vital records offices regarding acceptance or rejection of home birth certificates
+	•	Case files, statistics, or audits concerning passport denials, citizenship denials, or revocations where a home birth was cited as a contributing factor
+	•	OIG reports, oversight reviews, or complaints related to wrongful denial of benefits or citizenship to individuals with home birth certificates
+	•	Any references to home birth–related anomalies in the context of identity substitution, adoption irregularities, or non-paternity events (NPEs)
+
+Keywords: home birth verification, midwife fraud, suspect midwife list, non-hospital birth certificate, FDNS fraud indicator, birth certificate risk score, EVVE verification, vital records anomaly, NPE classification, identity substitution
+
+
+///////////
+
+
+To:
+Department of Homeland Security / U.S. Citizenship and Immigration Services (USCIS) / Immigration and Customs Enforcement (ICE) / Department of State – Bureau of Consular Affairs (Passport Services & Office of Children’s Issues) / Social Security Administration / Department of Health and Human Services – National Center for Health Statistics (NCHS)
+
+Request:
+
+Requesting any and all records from January 1, 1980 to present regarding the treatment of home births in U.S. citizenship adjudication, passport issuance, fraud detection, or benefits eligibility — including policies that classify individuals born outside hospital systems as higher risk, lower confidence, or subject to additional scrutiny.
+
+This includes:
+	•	Fraud indicator lists, FDNS (Fraud Detection and National Security) guidance, or algorithmic scoring models that explicitly downgrade midwife-attended or home birth certificates
+	•	Internal memoranda, contractor deliverables, or training materials instructing adjudicators on how to handle home birth documentation
+	•	Lists of “suspect midwives” or flagged birth registrars, along with criteria for their compilation and use in adjudications
+	•	Communications between DHS, DOS, SSA, and state vital records offices on acceptance, rejection, or provisional treatment of home birth records
+	•	Case files, audits, or statistics concerning passport denials, revocations, or wrongful removals linked to home birth records
+	•	OIG investigations, oversight reviews, or civil rights complaints regarding discrimination against individuals with home birth certificates
+	•	Any references tying home birth documentation to identity substitution, irregular adoption, or non-paternity event (NPE) anomalies
+
+Keywords: home birth classification, midwife fraud program, suspect midwife list, non-hospital birth, FDNS fraud detection, contingent citizenship, birth certificate anomaly, vital records verification, wrongful passport denial, NPE
+
+
