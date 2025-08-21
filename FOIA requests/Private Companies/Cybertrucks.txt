@@ -12,3 +12,39 @@ This includes:
 	•	Interagency discussions between DOT, FTC, or other agencies regarding consumer protection, misrepresentation, or behavioral effects of AR in automotive products
 
 Keywords: augmented reality, perceptual overlay, mixed reality vehicle, AR projection, automotive visualization, driver-assist AR, NHTSA compliance, consumer misrepresentation, FTC advertising review, vehicle safety assessment
+
+
+////////////
+
+
+To Department of Homeland Security (DHS)
+
+Request:
+
+Requesting any and all reports, contracts, internal memoranda, or interagency communications from January 1, 2018 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay technologies in relation to motor vehicles, public transportation assets, or civilian infrastructure.
+
+This includes:
+	•	Security assessments or threat analyses regarding vehicles whose visual appearance may be altered by AR projection or cloaking systems
+	•	DHS Science and Technology Directorate research programs on AR visualization, camouflage, or perceptual manipulation of vehicles
+	•	Communications with law enforcement agencies on recognition, identification, or tracking challenges posed by AR-based vehicle appearance modification
+	•	Reports or complaints related to misuse of AR overlays to obscure or disguise vehicles in public space
+
+Keywords: DHS AR research, perceptual overlay, mixed reality vehicles, AR cloaking, vehicle disguise, transportation security, visual deception, law enforcement recognition, S&T Directorate, infrastructure protection
+
+⸻
+
+To National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all technical standards documents, research initiatives, interagency communications, or external partnerships from January 1, 2018 to present concerning augmented reality (AR), mixed reality, or perceptual overlay systems as applied to automobiles or transportation infrastructure.
+
+This includes:
+	•	Development of standards or test protocols for AR visualization systems in vehicles or traffic environments
+	•	Research on interoperability between AR projection technologies and existing vehicle sensors (e.g., radar, lidar, computer vision)
+	•	Communications with automakers, technology firms, or defense contractors regarding visual cloaking, mixed reality camouflage, or digitally altered vehicle exteriors
+	•	Reports on consumer safety, public trust, or misrepresentation issues linked to AR-based vehicle visualization
+
+Keywords: NIST AR standards, perceptual overlay, automotive AR, vehicle visualization, mixed reality cloaking, lidar interoperability, sensor deception, transportation safety, technical standards, visual camouflage
+
+
