@@ -36,3 +36,47 @@ This includes:
 	•	Interagency or public–academic communications describing Lavender Town Syndrome as an artifact of cultural memory, youth folklore, or behavioral research
 
 Keywords: Lavender Town Syndrome, Pokémon urban legend, media panic, social contagion, American Folklife Center, NARA, youth media narratives, subliminal messaging scares, War of the Worlds broadcast, cultural archives
+
+
+///////////
+
+
+FOIA — Research on Entrainment Effects of Video Game Music
+
+To National Institutes of Health (NIH / National Institute of Mental Health / National Institute on Deafness and Other Communication Disorders) / Department of Defense (DARPA / Office of Naval Research) / Department of Health and Human Services (Office of Behavioral and Social Sciences Research) / Federal Communications Commission (FCC, Media Bureau)
+
+Request:
+
+Requesting any and all contracts, research proposals, technical reports, internal communications, interagency memoranda, and program evaluations from 1985 to present regarding the psychological, neurological, or behavioral entrainment effects of video game music, audio loops, or sound design.
+
+This includes:
+	•	NIH, NIMH, or NIDCD studies on auditory entrainment, brainwave synchronization, or psychophysiological responses to repetitive or patterned video game music
+	•	DARPA or ONR-funded research on music and sound in interactive media as tools for cognitive shaping, compliance, or stress inoculation
+	•	FCC or HHS records on public complaints, hearings, or policy discussions regarding potentially harmful effects of repetitive audio in digital games
+	•	Contracts or cooperative agreements with universities or private vendors exploring music-driven behavioral effects in gaming environments
+	•	Interagency communications on the use of video game music as a model system for entrainment, predictive analytics, or behavior modification research
+	•	Reports or analyses of youth audiences, learning, or risk perception in relation to exposure to entraining video game audio loops
+
+Keywords: video game music, auditory entrainment, brainwave synchronization, sound loops, behavioral influence, psychoacoustics, DARPA cognitive research, NIMH music studies, FCC media effects
+
+
+////////////
+
+
+FOIA — Chiptune Record Labels and Entrainment Research
+
+To Federal Communications Commission (FCC, Media Bureau) / Department of Health and Human Services (NIH: National Institute of Mental Health; National Institute on Deafness and Other Communication Disorders) / Department of Defense (DARPA; Office of Naval Research) / National Endowment for the Arts (NEA)
+
+Request:
+
+Requesting any and all contracts, research proposals, technical reports, internal communications, enforcement actions, interagency memoranda, or program evaluations from 1990 to present concerning chiptune record labels, 8-bit music publishing, or video-game-style audio in the context of entrainment, psychoacoustics, or behavioral effects research.
+
+This includes:
+	•	NIH or NIMH studies of auditory entrainment, neurological response, or psychophysiological effects of chiptune or 8-bit music
+	•	DARPA or ONR contracts involving chiptune/8-bit music as part of cognitive training, resilience testing, or compliance modeling
+	•	FCC records of public complaints, licensing issues, or hearings referencing chiptune record labels or their distribution channels
+	•	NEA or interagency communications about arts funding intersecting with psychoacoustic or behavioral research through the chiptune scene
+	•	Vendor contracts or cooperative agreements with chiptune record labels or affiliated artists for use of music in experiments, simulations, or defense training environments
+	•	Risk–benefit analyses regarding the use of repetitive, high-frequency, or pulse-based music as a tool for behavioral entrainment or predictive analytics
+
+Keywords: chiptune record labels, 8-bit music, psychoacoustics, auditory entrainment, video game sound, behavioral effects, DARPA cognitive training, NIMH auditory studies, FCC music regulation
