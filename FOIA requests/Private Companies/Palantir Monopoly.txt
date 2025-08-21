@@ -33,5 +33,40 @@ This includes:
 Keywords: Palantir Technologies, antitrust, monopoly, vendor lock-in, Gotham, Foundry, Army procurement lawsuit, contractor protest, competitive impact, defense contracting, acquisition strategy, DOJ Antitrust, FTC
 
 
+/////////////
 
+
+To: Department of Homeland Security (DHS) / Immigration and Customs Enforcement (ICE) / Office of Procurement Operations / Office of the General Counsel
+
+Request:
+
+Requesting any and all records, assessments, or communications from January 1, 2008 to present concerning antitrust, monopoly risk, or competitive impact analyses related to Palantir Technologies Inc. and its contracting activities with DHS and ICE.
+
+This includes:
+	•	Internal memoranda, reports, or communications evaluating whether Palantir’s software platforms (e.g., FALCON, Gotham) create vendor lock-in or monopolistic dependence in DHS/ICE operations
+	•	Any assessments of Palantir’s competitive impact relative to other vendors in immigration enforcement, surveillance, and data integration systems
+	•	Records of communications with DOJ Antitrust Division, FTC, or other agencies concerning Palantir and antitrust/monopoly considerations
+	•	Contractor protests, complaints, or internal reviews alleging Palantir received unfair competitive advantages in DHS/ICE procurement
+	•	Policy discussions regarding procurement safeguards to prevent vendor monopolies in law enforcement technology platforms
+
+Keywords: Palantir Technologies, DHS, ICE, FALCON, Gotham, monopoly, vendor lock-in, antitrust, procurement protest, surveillance software, data integration, DOJ Antitrust, FTC
+
+
+//////////
+
+
+To: Department of Justice (DOJ) / Federal Bureau of Investigation (FBI) / Office of the Chief Information Officer / DOJ Office of the General Counsel
+
+Request:
+
+Requesting any and all records, assessments, or communications from January 1, 2008 to present concerning antitrust, monopoly risk, or competitive impact analyses related to Palantir Technologies Inc. and its contracting activities with the DOJ and FBI.
+
+This includes:
+	•	Internal memoranda, reports, or communications evaluating whether Palantir’s Gotham, Foundry, or related platforms create vendor lock-in or monopolistic dependence in DOJ/FBI operations
+	•	Records of communications with the DOJ Antitrust Division, FTC, or other agencies concerning Palantir and antitrust/monopoly considerations
+	•	Contractor protests, complaints, or internal reviews alleging Palantir received unfair competitive advantages in DOJ/FBI procurement
+	•	Any competition or market studies comparing Palantir with other law enforcement data integration or surveillance technology providers
+	•	Policy discussions regarding procurement safeguards to prevent vendor monopolies in federal law enforcement technology platforms
+
+Keywords: Palantir Technologies, FBI, DOJ, Gotham, Foundry, monopoly, vendor lock-in, antitrust, surveillance software, data integration, procurement protest, FTC
 
