@@ -72,3 +72,42 @@ This includes:
 	•	Post-incident policy or regulatory discussions referencing oxygen concentration, bleed-air systems, or neurocognitive safety in relation to commercial flight crews
 
 Keywords: cockpit oxygen enrichment, bleed-air entrainment, hyperoxia, synchronized incapacitation, Northwest Flight 188, FAA human factors, situational awareness loss, cabin atmosphere modification, crew cognitive state, neurocognitive impairment
+
+
+/////////
+
+
+To: Federal Aviation Administration (FAA) / National Transportation Safety Board (NTSB) / Department of Defense (DoD) / Department of Homeland Security (DHS) / North American Aerospace Defense Command (NORAD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all contracts, research proposals, incident reports, or internal communications from January 1, 2005 to present concerning the application of nonlethal deterrents in aviation, cockpit crew management, or transportation safety contexts.
+
+This includes:
+	•	FAA and NTSB records referencing nonlethal deterrents as a framework for pilot compliance, distraction mitigation, or incapacitation events (including Northwest Airlines Flight 188, October 21, 2009)
+	•	DoD, DARPA, and DHS research into oxygen modulation, acoustic entrainment, directed energy, or other atmospheric/cognitive methods framed as nonlethal deterrents in enclosed environments
+	•	NORAD or military threat assessments describing nonlethal deterrents in relation to aircrew or air defense scenarios
+	•	Palantir or other contractor/vendor partnerships involving the integration of nonlethal deterrent technologies or datasets into predictive modeling platforms for transportation or aviation safety
+	•	Interagency communications defining, testing, or regulating nonlethal deterrents in civil aviation or transportation infrastructure
+	•	Risk-benefit analyses, ethical reviews, or regulatory discussions linking nonlethal deterrents to human factors, entrainment, or neurocognitive impairment in pilots or transportation operators
+
+Keywords: nonlethal deterrents, cockpit compliance, behavioral modulation, oxygen entrainment, acoustic deterrents, directed energy, Northwest Flight 188, FAA human factors, Palantir predictive modeling, pilot incapacitation
+
+
+///////////
+
+
+To: Federal Aviation Administration (FAA) / National Transportation Safety Board (NTSB) / Department of Transportation (DOT) / Department of Defense (DoD) / Department of Homeland Security (DHS) / North American Aerospace Defense Command (NORAD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all contracts, research proposals, incident reports, or internal communications from January 1, 2005 to present concerning the use of nonlethal deterrents in aviation, transportation, or public safety contexts.
+
+This includes:
+	•	FAA, NTSB, and DOT records referencing nonlethal deterrents in connection with operator compliance, distraction mitigation, or incapacitation events (including Northwest Airlines Flight 188, October 21, 2009)
+	•	DoD, DARPA, DHS, and NORAD research into oxygen modulation, acoustic entrainment, directed energy, or atmospheric/cognitive manipulation framed as nonlethal deterrents in aviation, ground transit, or public safety infrastructure
+	•	Interagency communications on the application of nonlethal deterrents in enclosed transportation environments such as cockpits, train cabs, subway control rooms, or bus driver compartments
+	•	Contractor or vendor partnerships (including Palantir) involving integration of nonlethal deterrent technologies or datasets into predictive modeling or transportation safety systems
+	•	Risk assessments, regulatory reviews, or ethical evaluations addressing the use of nonlethal deterrents as a means of behavioral modulation, crowd control, or operator entrainment in transportation or public safety domains
+
+Keywords: nonlethal deterrents, transportation safety, cockpit compliance, operator incapacitation, behavioral modulation, oxygen entrainment, acoustic deterrents, directed energy, predictive modeling, Palantir
