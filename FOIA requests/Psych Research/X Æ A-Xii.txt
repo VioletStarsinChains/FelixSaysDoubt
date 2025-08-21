@@ -55,4 +55,19 @@ Keywords: augmented reality, synthetic persons, AR identity substitution, percep
 //////////
 
 
+To Department of Homeland Security (DHS) / DHS Science & Technology Directorate (S&T) / DHS Office of Intelligence & Analysis (I&A) / DHS Office for Civil Rights & Civil Liberties (CRCL) / Office of the Director of National Intelligence (ODNI) / Intelligence Advanced Research Projects Activity (IARPA)
 
+Request:
+
+Requesting any and all threat assessments, research proposals (including BAA responses), program descriptions, contracts, pilot/field‑test reports, after‑action reviews, privacy/ethics/legal analyses, or interagency communications from January 1, 2010 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay systems to create, substitute, or operationalize “synthetic dependents” (e.g., AR‑generated children or avatars presented as real minors) for population‑level behavioral modeling, compliance shaping, perception management, or influence activities in public, media, commercial, or online environments.
+
+This includes:
+	•	Human factors or behavioral experiments measuring compliance, sentiment, policy support, purchase intent, donations, de‑escalation, or crowd dynamics in the presence of AR‑mediated children presented as dependents of public figures or participants.
+	•	Concepts of operations (CONOPS), playbooks, or risk assessments for deploying AR child constructs at live events (e.g., rallies, protests, disaster sites) to shape bystander behavior or media coverage.
+	•	Research on “parasocial leverage,” kin‑protective response triggers, reputational shielding, distraction/honeypot effects, or outrage fatigue induced by synthetic dependents.
+	•	Sensor‑fusion/data pipelines combining social media telemetry, mobile location, ad‑tech signals, camera analytics, POS/viewership metrics, eye‑tracking, or physiological proxies to model responses to AR child avatars.
+	•	Communications or agreements with entertainment firms, advertising agencies, platforms, defense contractors, or universities regarding development, testing, or evaluation of AR child identity substitution.
+	•	Legal, privacy, civil liberties, or CRCL analyses (including PIA/DPIA/ethics board materials) addressing disclosure, deception, COPPA‑adjacent concerns, and First Amendment implications.
+	•	Counterintelligence or foreign influence assessments addressing risks of identity substitution, deepfake/AR synergy, or cross‑border exploitation of synthetic dependent constructs.
+
+Keywords: synthetic dependents, AR child avatar, perceptual overlay, compliance testing, population‑level behavioral modeling, parasocial manipulation, identity substitution, reputational shielding, influence operations, DHS S&T, IARPA research, civil liberties review
