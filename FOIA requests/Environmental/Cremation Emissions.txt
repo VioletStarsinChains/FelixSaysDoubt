@@ -32,3 +32,23 @@ This includes:
 	•	Interagency discussions (DoD, VA, HHS, EPA, NIH) about whether cremation emissions may inadvertently expose the presence of novel or classified materials
 
 Keywords: cremation emissions, neurotechnology, neural implants, biosensors, classified biomedical devices, DARPA, Mortuary Affairs, nanomaterials, emissions monitoring, toxic byproducts, experimental hardware
+
+
+//////////
+
+
+To Department of Defense (DoD, incl. DARPA and Defense Health Agency) / Department of Veterans Affairs (VA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH: NHLBI, NINDS, NIBIB) / Food and Drug Administration (FDA: CDRH, CBER)
+
+Request:
+
+Requesting any and all contracts, research proposals, clinical trial data, interagency communications, or technical memoranda from January 1, 1990 to present concerning Houston-based cardiac surgery centers — specifically the Texas Heart Institute (St. Luke’s), the DeBakey Heart & Vascular Center (Houston Methodist), and affiliated Texas Medical Center institutions — in relation to implantable medical device telemetry, neuromodulation, or crossover into neurotechnology applications.
+
+This includes:
+	•	Contracts, Cooperative Research and Development Agreements (CRADAs), and grants involving DARPA, NIH, or VA in which pacemakers, defibrillators, LVADs, or artificial hearts were studied for telemetry, wireless control, or closed-loop modulation capabilities
+	•	Clinical trial protocols, adverse event reports, or IRB submissions at Texas Heart Institute or Houston Methodist referencing neural monitoring, autonomic nervous system interactions, or crossover to neurostimulation platforms
+	•	FDA CDRH/CBER communications with Houston-based investigators or manufacturers concerning device firmware, remote telemetry, cybersecurity, or adaptive algorithms in implantable devices
+	•	Deliverables, dashboards, or white papers analyzing Houston cardiac patient cohorts as predictive models for compliance, follow-up behavior, or resilience under implant-mediated control
+	•	Internal DoD or VA memoranda discussing the use of Houston cardiac centers as partner sites for transitioning cardiac implant technologies to neurotech prototypes (e.g., deep brain stimulators, spinal cord stimulators, cortical interfaces)
+	•	Briefings or contractor deliverables that describe cardiac implant telemetry as a gateway platform for broader implantable biosensor/neurotech integration
+
+Keywords: Texas Heart Institute, DeBakey Heart Center, Houston Methodist, implant telemetry, neuromodulation, pacemaker, LVAD, DARPA neurotech, VA implant monitoring, firmware updates, predictive compliance, cardiac-neural interface
