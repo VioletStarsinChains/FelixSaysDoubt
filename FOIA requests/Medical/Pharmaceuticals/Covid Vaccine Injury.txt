@@ -36,3 +36,25 @@ This includes:
 	•	Any modeling, decision memos, or briefing papers weighing labeling changes, boxed warnings, REMS elements, or mitigation strategies specific to deficient mineral/cofactor states.
 
 Keywords: GLP‑1 agonist, semaglutide, tirzepatide, micronutrient deficiency, magnesium deficiency, thiamine deficiency, gastroparesis, pancreatitis, cholelithiasis, acute kidney injury, fibrosis remodeling, dysautonomia, dehydration
+
+
+//////////
+
+
+To HHS / FDA (CDER, CBER, Drug Shortages Staff) / NIH (NIDDK) / CDC (Immunization Safety Office) / Centers for Medicare & Medicaid Services (CMS) / Department of Veterans Affairs (VHA Pharmacy Benefits Management) / Department of Defense (Defense Health Agency)
+
+Request:
+
+Requesting any and all records from December 1, 2020 to present regarding shortages, allocation decisions, or supply chain disruptions of GLP-1 receptor agonists and related incretin therapies (e.g., semaglutide, tirzepatide, liraglutide, dulaglutide, exenatide).
+
+This includes:
+	•	Internal FDA drug shortage monitoring reports, enforcement actions, or interagency briefings on GLP-1 product availability.
+	•	Manufacturer communications, distribution logs, or correspondence related to production capacity, allocation, or backorders.
+	•	Records discussing prioritization of patient populations (e.g., type 2 diabetes vs. obesity), rationing strategies, or substitution protocols.
+	•	Analyses of global supply chain vulnerabilities for GLP-1 products, including active pharmaceutical ingredients (APIs), raw materials, cold-chain logistics, or fill/finish bottlenecks.
+	•	Contracts, CRADAs, task orders, or funding awards related to scaling manufacturing capacity for GLP-1 therapies.
+	•	CMS, VA, or DoD memoranda on formulary management, rationing, or reimbursement adjustments due to constrained GLP-1 supply.
+	•	Reports, dashboards, or adverse event monitoring documents where shortages, delayed treatment, or forced substitutions are noted as contributing factors.
+	•	Interagency or manufacturer discussions of counterfeiting, diversion, or illicit markets arising from limited GLP-1 supply.
+
+Keywords: GLP-1 shortage, semaglutide, tirzepatide, liraglutide, dulaglutide, exenatide, drug shortages, supply chain disruption, allocation, rationing, manufacturing capacity, API, distribution logs, diversion, counterfeit drugs
