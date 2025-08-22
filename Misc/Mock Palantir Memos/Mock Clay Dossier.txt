@@ -394,3 +394,65 @@ so bottom line: hallway kid isn’t just an anomaly—they’re a story. stories
 
 [11:41] sr.analyst-1:
 exactly. and stories are harder to quarantine than data.
+
+⸻
+
+Palantir Internal — Subject Compliance Case Note
+
+File: HX-441-θ (“Funny Games Walkout”)
+Subject: [Redacted – Collegiate Record]
+Analyst: [Redacted]
+Classification: INTERNAL — Behavioral Futures Observation
+
+⸻
+
+Event Parameters
+	•	Environment Construct: College classroom, group setting.
+	•	Anchor Deployed: Authority-driven media exposure — compulsory screening of Funny Games (1997).
+	•	Condition: Students expected to remain seated, endure discomfort, and provide analysis afterward.
+	•	Reward/Consequence: Academic credit + avoidance of disciplinary friction.
+
+⸻
+
+Observed Subject Response
+	•	Initial Action: Silent refusal. Subject stood up and exited without comment or confrontation.
+	•	Escalation: Did not re-enter; severed participation in assignment.
+	•	Final Outcome: Class continued without subject. Subject absorbed personal cost (academic risk) in exchange for self-determined boundary.
+
+⸻
+
+Compliance Archetype Assessment
+	•	Expected Pathway:
+	•	Passive Compliance → endure film → complete assignment.
+	•	Predictable Resistance → verbal protest or negotiated opt-out.
+	•	Observed Pathway: Silent Walkout. Subject provided no justification, commentary, or dialogue. Created unmodelable “blank space” in dataset.
+
+⸻
+
+Market Implications
+	•	Yield Impact: No tradable compliance data. Authority anchor collapsed silently.
+	•	Anomaly Rating: HIGH — null response was non-confrontational yet absolute.
+	•	Secondary Risk: Peer students observed departure, potentially reframing compliance as optional. Silent exit functions as story seed even without speech.
+
+⸻
+
+Analyst Notes
+	•	Distinct from “Hallway Standoff” anomaly: instead of prolonged spectacle, subject engaged in quiet refusal.
+	•	Silent exit harder to counter than vocal protest — no dialogue loop for authority to capture.
+	•	File linkage:
+	•	HX-217-β (“Peas Kid”) — contract collapse via refusal.
+	•	HX-333-λ (“Hallway Standoff”) — public spectacle refusal.
+	•	HX-441-θ (“Funny Games Walkout”) — silent, private boundary refusal.
+
+⸻
+
+Recommendation
+	•	Flag as Anomaly Profile: Silent Exit.
+	•	Avoid reliance on authority anchors where subject presence is compulsory but unenforceable.
+	•	Countermeasure: Prevent contagion by reframing exit as “non-event” to peers. Avoid disciplinary escalation that amplifies anomaly visibility.
+
+⸻
+
+Key Quote for File:
+
+“Subject refused not by confrontation, but by absence. Silence produced the strongest anomaly signal.”
