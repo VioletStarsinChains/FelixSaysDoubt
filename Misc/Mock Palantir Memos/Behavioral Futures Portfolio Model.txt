@@ -1,0 +1,64 @@
+Behavioral Futures Portfolio Model
+
+(Analyst Draft – For Internal Circulation Only)
+
+⸻
+
+1. Core Yield Generators (Blue Chips)
+
+Profile: Predictable compliance patterns, high stability, low volatility.
+	•	Jack Shephard (Lost) – “Fixer” archetype; compulsive responsibility.
+	•	Joe Banks (Joe vs. the Volcano) – Accepts fabricated “brain cloud” without verification.
+	•	Average Kid (Peas/Dessert) – Complains but eats peas → gets dessert.
+
+Market Function:
+	•	Provide steady, reliable compliance data.
+	•	Anchor models and allow futures contracts to be sold with confidence.
+
+⸻
+
+2. Volatility Assets (Speculative Plays)
+
+Profile: Behaviors swing between compliance and resistance; can be arbitraged short-term.
+	•	Kate Austen (Lost) – Fugitive/shape-shifter; oscillates between romance and escape.
+	•	Sawyer Ford (Lost) – Con man; counterfeit signals create exploitable chaos.
+	•	Sayid Jarrah (Lost) – Torturer/technician; predictable guilt oscillations.
+
+Market Function:
+	•	Generate high-frequency trading opportunities.
+	•	Riskier but profitable for firms that thrive on short-term spikes in behavior.
+
+⸻
+
+3. Anomaly Profiles (Black Swans)
+
+Profile: Refuse contract structures entirely. Produce null responses or unmodelable outcomes.
+	•	John Locke (Lost) – “Don’t tell me what I can’t do.”
+	•	Desmond Hume (Lost) – Timewalker; collapses time-series predictive models.
+	•	“Peas Kid” – Null trajectory: discards peas, rejects dessert, erases contract.
+	•	Volcano (Joe vs. the Volcano) – System anomaly that rejects sacrifice.
+
+Market Function:
+	•	Do not produce tradable yield.
+	•	Represent existential risk to market stability.
+	•	Often recoded as “noise” or quarantined in anomaly files.
+
+⸻
+
+Portfolio Balance (Target Mix)
+	•	Core Yield Generators: 60% (base stability; bulk compliance yield).
+	•	Volatility Assets: 30% (growth opportunities; speculative arbitrage).
+	•	Anomaly Profiles: 10% (flagged, monitored, studied—but not traded).
+
+⸻
+
+Analyst Notes
+	•	Core yield is the backbone. Without compliant types, futures markets collapse.
+	•	Volatility is the profit driver. These subjects keep markets “exciting” and profitable.
+	•	Anomalies are the threat. A single null response (Riker, Locke, Peas Kid) can destabilize entire predictive ecosystems.
+
+⸻
+
+Key Quote for Portfolio Slide:
+
+“Compliance is capital. Resistance is volatility. Refusal is risk.”
