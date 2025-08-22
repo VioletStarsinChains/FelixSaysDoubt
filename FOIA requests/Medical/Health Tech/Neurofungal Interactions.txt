@@ -1,0 +1,38 @@
+To: National Institutes of Health (NIH) / National Institute of Neurological Disorders and Stroke (NINDS)
+Cc: Defense Advanced Research Projects Agency (DARPA) / Biological Technologies Office (BTO); Biomedical Advanced Research and Development Authority (BARDA)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, interagency agreements, or experimental reports from January 1, 2000 to present concerning the interaction of fungal colonization with mineralized or calcified soft tissues in relation to nerve function or implant activity.
+
+This includes:
+	•	Studies on fungal colonization of mineralized nerves or other soft tissues, and whether fungal networks can substitute for or enhance nerve conductivity
+	•	Reports on biofilm or fungal hyphae acting as conduits for ion flow (sodium, calcium, potassium) relevant to neural signaling
+	•	Assessments of how fungal colonization may increase the activity or conductivity of implantable neurotechnology
+	•	Risk analyses of opportunistic fungal infections in patients with mineralized nerves, granulomas, or implanted medical devices
+	•	Communications regarding whether fungi act as “living conductors” or biological amplifiers for neural interface systems
+	•	Contracts, grants, or CRADAs involving DARPA, BARDA, NIH, or military medical branches on the role of fungi in neuromodulation, neural regeneration, or implant performance
+
+Keywords: fungal colonization, mineralization, nerve calcification, biofilm conductivity, hyphae ion channels, implant interface, neurofungal interaction, DARPA BTO, BARDA, NIH NINDS
+
+
+//////////
+
+
+To: U.S. Food and Drug Administration (FDA) / Center for Food Safety and Applied Nutrition (CFSAN) / Center for Devices and Radiological Health (CDRH)
+Cc: U.S. Department of Agriculture (USDA) / Agricultural Research Service (ARS) • National Institutes of Health (NIH) / National Institute of Neurological Disorders and Stroke (NINDS) • Biomedical Advanced Research and Development Authority (BARDA) • Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Biological Technologies Office (BTO)
+
+Request:
+
+Requesting any and all documents, research proposals, laboratory analyses, internal communications, regulatory filings, post-market surveillance records, interagency agreements, or contractor deliverables from January 1, 2000 to present concerning links between foodborne fungal contamination (including spices and other dried imports), mineral compounds (e.g., calcium salts), granuloma/biofilm formation, and the function or performance of implantable or wearable neurotechnology/medical devices.
+
+This includes:
+	•	Surveillance data, import alerts, and lab reports identifying fungal species and loads in spices or other shelf-stable food inputs; evaluations of co-occurring mineral additives (calcium carbonate/silicate/stearate/sulfate) and their potential to promote granulomas or biofilms
+	•	CDRH post-market safety files, MAUDE adverse event reports, risk assessments, and root-cause analyses where fungal colonization or mineralized soft tissue is implicated in device malfunction, signal interference, or infection (including neural and vascular implants)
+	•	Interagency correspondence or joint studies (FDA CFSAN ↔ FDA CDRH ↔ USDA ARS ↔ NIH NINDS ↔ BARDA/DARPA) examining whether dietary/foodborne fungi and mineral exposure influence neural signaling, ion conductivity (Na⁺/Ca²⁺/K⁺), or device/implant activity
+	•	Research on biofilm or fungal hyphae conductivity (e.g., mycelial networks acting as ionic/electrical conduits) and implications for implant telemetry, interference, or performance drift
+	•	Records mapping or cross-linking food safety surveillance datasets (CFSAN/import testing) with medical device safety datasets (CDRH/MAUDE, post-approval studies) to assess correlations between community-level fungal/mineral exposure and implant outcomes
+	•	Contracts, grants, CRADAs, or task orders with federal contractors or academic labs evaluating fungal–mineral–neurotech interactions, including studies of granuloma calcification adjacent to implanted leads/sensors and mitigation strategies (e.g., coatings, antifungal protocols)
+	•	Guidance documents, white papers, or briefing notes on risk communication and clinical management where foodborne fungi/mineral additives may act as confounders in implant safety or neurophysiological endpoints
+
+Keywords: fungal contamination, spices, calcium salts, biofilm, granuloma, mineralized soft tissue, mycelial conductivity, neural interface, implant telemetry, MAUDE, post-market surveillance, CFSAN, CDRH, ARS, NINDS, BARDA, DARPA BTO
