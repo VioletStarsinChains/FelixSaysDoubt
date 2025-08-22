@@ -164,3 +164,22 @@ This includes:
 	•	Reports evaluating the effect of fractured identity representation on public perception, credibility of subjects, or trust in evidence
 
 Keywords: identity fracture, engineered persona, synthetic identity, divergent representation, deepfake overlays, AR identity manipulation, behavioral modeling, narrative stress test, DARPA, IARPA
+
+
+//////////
+
+
+To Federal Trade Commission (FTC) / Federal Communications Commission (FCC) / Consumer Financial Protection Bureau (CFPB)
+
+Request:
+
+Requesting any and all consumer complaints, investigations, internal communications, or research reports from January 1, 2000 to present regarding the practice of presenting fractured or divergent representations of the same individual to different audiences through media or digital platforms.
+
+This includes:
+	•	Records of investigations into the use of synthetic media, deepfake technology, or augmented reality overlays that altered demographic characteristics (e.g. race, gender, age) of a single individual across different distributions
+	•	Research or regulatory reviews on whether such practices constitute deceptive or misleading representation to consumers
+	•	Vendor contracts, pilot projects, or platform agreements involving “engineered identity fracture,” “synthetic persona divergence,” or similar techniques used in marketing or audience testing
+	•	Interagency communications on the risks of identity manipulation in consumer-facing media environments, including erosion of trust, reputational harm, or manipulation of public perception
+	•	Reports or complaints concerning the use of fractured identities to elicit or compare audience response data
+
+Keywords: engineered identity fracture, synthetic persona, divergent representation, AR overlays, deepfake manipulation, consumer deception, media distortion, audience testing, FTC complaint, FCC oversight
