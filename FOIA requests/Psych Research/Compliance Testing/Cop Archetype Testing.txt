@@ -1,0 +1,55 @@
+To Department of Justice (DOJ) / Federal Bureau of Investigation (FBI) / Department of Homeland Security (DHS) / DHS Science & Technology Directorate (S&T)
+
+Request:
+
+Requesting any and all reports, research proposals, contracts, pilot program documentation, or interagency communications from January 1, 2005 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay technologies to modify, substitute, or present law enforcement officer appearance (e.g., race, age, gender, body type, or other archetypal features) for behavioral modeling of civilian response.
+
+This includes:
+	•	Human factors studies measuring compliance, resistance, or escalation during civilian encounters with AR-altered officer avatars
+	•	Pilot programs or field tests where officer appearance is digitally modified to test archetype-specific outcomes in crowd control, homeless outreach, or traffic enforcement
+	•	Communications with law enforcement agencies, defense contractors, or technology vendors regarding perceptual overlays used in officer presentation
+	•	Reports or audits concerning the ethical, legal, or civil liberties implications of deploying AR-altered officer identities in public space
+	•	Interagency discussions of predictive modeling derived from officer archetype testing (e.g., compliance profiling, escalation thresholds, demographic targeting)
+
+Keywords: law enforcement AR, perceptual overlay, officer archetypes, compliance modeling, behavioral testing, identity substitution, mixed reality policing, DHS S&T, DOJ behavioral research, crowd control overlays
+
+
+//////////////
+
+
+To Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Office of the Director of National Intelligence (ODNI) / Intelligence Advanced Research Projects Activity (IARPA)
+
+Request:
+
+Requesting any and all research proposals, contracts, program descriptions, evaluation reports, privacy/ethics reviews, or interagency communications from January 1, 2005 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay systems to modify or substitute law enforcement officer appearance (e.g., race, gender, age, body type, or attractiveness archetype) for purposes of compliance testing, behavioral modeling, or population-level prediction.
+
+This includes:
+	•	Human factors studies on civilian compliance, resistance, or escalation when officer identity is altered through AR overlays or avatar substitution
+	•	Program documentation evaluating which officer archetypes produce the strongest predictive signals across different demographic groups of civilians
+	•	Research on parasocial trust dynamics, perceived authority, and threat calibration in response to AR-modified officer archetypes
+	•	Sensor fusion or data pipelines combining bodycam footage, mobile telemetry, surveillance feeds, and biometric data to quantify responses to officer appearance overlays
+	•	Communications with contractors, technology vendors, or academic institutions conducting AR archetype testing in law enforcement or public safety contexts
+	•	Ethical, legal, or civil liberties reviews concerning nondisclosure of AR identity substitution in public-facing law enforcement interactions
+
+Keywords: DARPA behavioral modeling, IARPA compliance testing, AR officer archetypes, perceptual overlay policing, mixed reality identity substitution, predictive policing, authority archetypes, population-level compliance, escalation dynamics, civil liberties review
+
+
+///////////
+
+
+To Department of Justice (DOJ) / Civil Rights Division (CRT) / Office of Justice Programs (OJP) / Community Oriented Policing Services (COPS Office) / National Institute of Justice (NIJ) / Department of Homeland Security (DHS) Office for Civil Rights & Civil Liberties (CRCL)
+
+Request:
+
+Requesting any and all policies, legal analyses, program documentation, research proposals, pilot evaluations, complaints, investigative files, procurement records, or interagency communications from January 1, 2005 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay technologies to modify, substitute, or otherwise present law enforcement officer appearance (including race, gender, age, body type, insignia, or attractiveness archetype) for purposes of public‑facing operations, behavioral modeling, compliance testing, or crowd management.
+
+This includes:
+• Civil rights impact assessments, disparate‑impact analyses, pattern‑or‑practice materials, or Title VI/Title II/§1983 evaluations related to AR‑altered officer appearance in public interactions
+• Complaints, referrals, or investigation files alleging deceptive presentation of officer identity/appearance via AR overlays, including matters involving homeless outreach, traffic enforcement, or protest/crowd contexts
+• Grants, contracts, MOUs, or pilot documentation (OJP/NIJ/COPS‑funded or otherwise) evaluating archetype‑based officer presentation and resulting compliance or escalation outcomes
+• Guidance, training materials, SOPs, or body‑worn camera / evidence handling policies referencing AR identity substitution, avatar use, or perceptual overlays in the field
+• Algorithmic bias testing, fairness reviews, or accuracy audits addressing the selection or rotation of officer “archetypes” (e.g., by race/age/gender/attractiveness) and any measured disparate impacts across civilian demographics
+• Legal, constitutional, privacy, and civil liberties analyses (e.g., First Amendment, Equal Protection, Due Process, Fourth Amendment, ADA/Section 504, Section 508) regarding undisclosed AR‑modified officer identities
+• Communications with state/local law enforcement, technology vendors, defense contractors, universities, or standards bodies concerning deployment, evaluation, or disclosure of AR‑based officer appearance systems
+
+Keywords: augmented reality policing, perceptual overlay, officer archetypes, disparate impact, civil rights compliance, pattern‑or‑practice, First Amendment, equal protection, due process, homeless outreach, NIJ research, COPS Office pilots
