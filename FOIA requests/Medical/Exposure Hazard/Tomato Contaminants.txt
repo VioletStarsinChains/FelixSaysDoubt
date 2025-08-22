@@ -1,0 +1,43 @@
+FOIA — Industrial and Environmental Contaminants in Tomatoes
+
+To U.S. Department of Agriculture (USDA: Agricultural Research Service; Food Safety and Inspection Service) / Environmental Protection Agency (EPA: Office of Chemical Safety and Pollution Prevention; Office of Water) / Food and Drug Administration (FDA: Center for Food Safety and Applied Nutrition)
+
+Request:
+
+Requesting any and all testing data, research proposals, toxicological assessments, enforcement actions, consumer complaints, vendor contracts, interagency memoranda, and internal communications from 2000 to present concerning the presence of industrial or environmental contaminants in tomato crops or tomato-derived food products.
+
+This includes:
+	•	Records on the detection of per- and polyfluoroalkyl substances (PFAS) in tomatoes grown near contaminated irrigation sources or soils
+	•	Testing or monitoring of microplastic accumulation in tomato fruit or plant tissue
+	•	USDA or EPA research on the uptake of heavy metals (lead, cadmium, arsenic, mercury) from soil into tomato plants
+	•	FDA or interagency communications regarding risk assessments, consumer guidance, or safety thresholds for environmental contaminants in tomatoes or tomato-based foods
+	•	Reports on the use of contaminated compost, biosolids, or fertilizers in tomato agriculture and their effects on fruit safety
+	•	Vendor contracts or cooperative agreements with laboratories or agricultural monitoring firms conducting industrial contaminant analysis in tomatoes
+	•	Evaluations of potential public health impacts from long-term tomato consumption linked to environmental contaminants
+
+Keywords: tomatoes PFAS, tomato heavy metals, tomato microplastics, environmental contaminants, USDA ARS, FDA CFSAN, EPA soil contamination, irrigation pollution, biosolids agriculture, tomato safety monitoring
+
+
+//////////
+
+
+To FDA (Center for Devices and Radiological Health) / NIH (NIBIB; NIEHS) / DARPA (BTO; MTO) / NIST (Office of Law Enforcement Standards; Physical Measurement Laboratory)
+
+Request:
+
+Requesting any and all contracts, grants, research proposals, technical reports, laboratory analyses, adverse event files, recalls/corrections, standards or guidance documents, internal communications, and interagency memoranda from January 1, 2000 to present regarding nano‑enabled consumer products and their interference or interaction with medical devices and neurotechnology systems (e.g., EEG/BCI, tES/tACS/tDCS, TMS, focused ultrasound, fNIRS/optical, ECoG/DBS implants, cochlear/vestibular implants, and related sensors/actuators).
+
+This includes:
+	•	Risk assessments, hazard analyses, and bench/animal/human studies on nanoparticles altering device performance, including changes to impedance, SNR, SAR/heating, stimulation thresholds, artifact profiles, or dose distributions (EM, magnetic, ultrasound, optical).
+	•	FDA CDRH MAUDE adverse event records, field notices, and root‑cause analyses referencing nanoparticle exposure (e.g., Ag, TiO₂, ZnO, carbon nanotubes/graphene, gold nanorods, SPIONs, quantum dots, magnetoelectric or piezoelectric NPs, perfluorocarbon nanodroplets/microbubbles).
+	•	DARPA/NIBIB/NIEHS contracts, SBIR/STTR awards, and deliverables concerning nano–neurotech interactions, including magnetothermal (SPION) effects under AMF/MRI, ultrasound‑coupled piezoelectric NPs (e.g., BaTiO₃), RF/EM coupling to conductive NPs, and optical/photothermal interactions with neurotech.
+	•	NIST metrology, EMC/EMI and biocompatibility test method development for evaluating device function in the presence of ambient or tissue‑embedded nanoparticles, including any crosswalks to IEC/ISO standards.
+	•	Guidance, policy, or internal memoranda regarding consumer nano‑sprays, cosmetics, coatings, textiles, or food‑contact products as sources of nanoparticles that may affect implanted or external neuro/medical devices.
+	•	Interagency communications on occupational/environmental nanoparticle exposure (inhaled ultrafines, indoor dust, clinical contrast agents) and observed interference with implants or neuromodulation in hospitals or community settings.
+	•	Program evaluations or ethics/IRB materials for human subjects studies examining neuroinflammation, electrode encapsulation, or device drift associated with nanoparticle burdens.
+
+Keywords: nanoparticles, neurotech interference, EEG/BCI artifacts, tDCS/tACS, TMS, focused ultrasound, SPIONs, piezoelectric nanoparticles, quantum dots, carbon nanotubes, MAUDE adverse events, EMC/EMI standards
+
+
+
+
