@@ -296,3 +296,63 @@ Key Quote for Slide:
 Which is more dangerous: a subject who resists predictably (and can be traded), or a subject who refuses entirely (and erases the contract)?
 
 ⸻
+
+Palantir Internal — Subject Compliance Case Note
+
+File: HX-333-λ (“Hallway Standoff Event”)
+Subject: [Redacted – Adolescent Record]
+Analyst: [Redacted]
+Classification: INTERNAL — Behavioral Futures Observation
+
+⸻
+
+Event Parameters
+	•	Environment Construct: High school hallway, between classes.
+	•	Anchor Deployed: Implicit social contract: “Walk right, yield left.”
+	•	Counterparty: Peer student, equally resistant to compliance anchor.
+	•	Audience Effect: Crowd gathered; incident became public performance.
+
+⸻
+
+Observed Subject Response
+	•	Initial Action: Refused to yield physical space despite trivial stakes.
+	•	Escalation: Engaged in extended verbal standoff (~20 minutes).
+	•	Collateral Outcome: Both parties missed class; crowd gathered as spectators.
+	•	Final Result: Counterparty yielded; subject maintained original position.
+
+⸻
+
+Compliance Archetype Assessment
+	•	Expected Pathway: Social conditioning predicts rapid de-escalation → one party yields → system continuity (both students attend class).
+	•	Observed Pathway: Null Yield Standoff. Subject refused contract, escalated into protracted anomaly display.
+	•	Key Features:
+	•	Persistence: Subject sustained refusal beyond expected endurance window.
+	•	Spectacle: Audience transformed refusal into public signal.
+	•	Outcome: Counterparty collapsed first, validating subject stance.
+
+⸻
+
+Market Implications
+	•	Yield Impact: Event generated no compliance yield; instead produced “refusal contagion” (spectators witnessed contract collapse).
+	•	Anomaly Rating: HIGH — subject demonstrates ability to hold line under peer pressure and time-cost escalation.
+	•	Secondary Risk: Crowd exposure amplifies anomaly; refusal becomes spectacle, increasing likelihood of replication among observers.
+
+⸻
+
+Analyst Notes
+	•	Subject is not merely resistant but structurally oppositional: willing to absorb personal cost (missed class, social friction) to preserve refusal stance.
+	•	This profile correlates with “Riker-type” narrative suspicion anomalies and “Peas Kid” contract collapses.
+	•	Unlike private refusal events, public arena creates multiplier effect: anomaly becomes social data leak.
+
+⸻
+
+Recommendation
+	•	Flag as Anomaly Profile: Spectacular Refusal.
+	•	Monitor for similar pattern triggers in group settings (e.g., traffic flow, negotiation tables).
+	•	Countermeasure: Avoid head-to-head anchor deployment with subject; employ lateral narrative redirection rather than direct standoff.
+
+⸻
+
+Key Quote for File:
+
+“Subject sustained refusal for twenty minutes in a high-visibility environment. Outcome: opponent collapsed. Crowd exposure increases systemic risk of refusal contagion.”
