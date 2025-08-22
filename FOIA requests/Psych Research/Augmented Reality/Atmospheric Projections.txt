@@ -1,0 +1,33 @@
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Homeland Security (DHS) / National Aeronautics and Space Administration (NASA) / National Oceanic and Atmospheric Administration (NOAA)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, reports, or contractor deliverables from 1990 to present referencing sky augmentation technologies and associated behavioral modeling.
+
+This includes:
+	•	Ground-based, aerial, or orbital systems for projection, light patterning, or atmospheric image generation (including simulation of astronomical features, clouds, auroras, or other sky phenomena)
+	•	Field trials or demonstrations of augmented or altered sky conditions for training, public communication, deception, or environmental simulation purposes
+	•	Studies or models assessing the psychological, behavioral, or physiological effects of altered sky conditions on civilian or military populations
+	•	Interagency or contractor collaborations evaluating public perception management through visual sky augmentation
+	•	Post-event analyses of behavioral or operational outcomes during or after deployment of sky augmentation systems in populated areas
+
+Keywords: sky augmentation, atmospheric projection, aerial projection, orbital projection, artificial aurora, cloud simulation, astronomical simulation, environmental imagery, behavioral modeling, perception management, DARPA, NASA, DoD, NOAA
+
+
+//////////
+
+
+To: Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, reports, or contractor deliverables from 1990 to present referencing sky augmentation technologies in the context of non-kinetic influence operations or human domain effects.
+
+This includes:
+	•	Ground-based, aerial, or orbital projection systems used to simulate, obscure, or modify astronomical features, cloud cover, auroras, or other sky phenomena in operational or test environments
+	•	Integration of sky augmentation with psychological operations (PSYOP), perception management, or civilian behavior shaping initiatives
+	•	Behavioral modeling projects evaluating population-level or targeted individual responses to altered sky conditions
+	•	Field trials or demonstrations where augmented sky imagery was deployed alongside data collection on communication patterns, movement, compliance, or incident rates
+	•	Interagency collaborations involving DARPA and DoD branches, DHS, NASA, or NOAA on dual-use sky augmentation systems with both environmental and human domain applications
+
+Keywords: sky augmentation, atmospheric projection, aerial projection, orbital projection, astronomical simulation, artificial aurora, cloud simulation, perception management, non-kinetic influence, human domain effects, DARPA
