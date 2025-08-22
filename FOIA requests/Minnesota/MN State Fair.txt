@@ -47,3 +47,37 @@ This includes:
 	•	Communications regarding signage, consent, opt‑out mechanisms, data retention periods, and data sharing with third parties
 
 Keywords: Minnesota State Fair, facial recognition, body‑language analytics, heat mapping, geofencing, Wi‑Fi probes, PIA, data retention, DHS S&T, Minnesota DPS
+
+
+//////////
+
+
+To: Department of Homeland Security (DHS) / Federal Emergency Management Agency (FEMA) / Minnesota Department of Public Safety
+
+Request:
+Requesting any and all documents, contracts, research proposals, or interagency communications from 1990 to present concerning simulation exercises, behavioral modeling studies, or crowd management drills conducted in connection with the Minnesota State Fair.
+
+This includes:
+	•	Records of federal or state-funded simulation models of crowd behavior, resource distribution, or emergency evacuation at the Minnesota State Fair
+	•	Contracts or communications with private vendors, research institutions, or defense contractors conducting modeling or simulation projects tied to the State Fair
+	•	Internal assessments describing the use of agent-based simulations or digital population models in planning for the State Fair
+	•	Reports on psychological, behavioral, or consumer response simulations run in parallel with fair operations
+
+Keywords: Minnesota State Fair, simulation exercise, crowd modeling, evacuation drill, agent-based modeling, behavioral simulation, FEMA, DHS, public safety simulation, digital population modeling
+
+⸻ 
+
+FOIA (Spicy Angle)
+
+To: Department of Homeland Security (DHS) / Federal Emergency Management Agency (FEMA) / Centers for Disease Control and Prevention (CDC) / Minnesota Department of Public Safety
+
+Request:
+Requesting any and all documents, contracts, research proposals, or interagency communications from 2020 to present concerning the use of agent-based modeling, synthetic population simulations, or behavioral futures studies connected to the Minnesota State Fair.
+
+This includes:
+	•	Records of post-Covid simulation exercises modeling crowd density, viral transmission, or compliance behaviors at the State Fair
+	•	Contracts or communications with academic institutions, defense contractors, or private vendors providing agent-based or synthetic population modeling tools
+	•	Reports describing the use of “digital twin” or synthetic population datasets to replicate or simulate attendance at the Minnesota State Fair
+	•	Internal analyses connecting State Fair simulations to broader public health or behavioral futures frameworks, including studies on mask use, vaccine compliance, or consumer response under resource constraints
+
+Keywords: Minnesota State Fair, synthetic population, agent-based modeling, digital twin, behavioral futures, Covid-19 compliance, crowd simulation, DHS, FEMA, CDC, public health simulation
