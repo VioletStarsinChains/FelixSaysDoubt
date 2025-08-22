@@ -45,8 +45,24 @@ This includes:
 
 Keywords: Metro Transit, public transportation research, infrasound, electromagnetic exposure, frequency-modulated lighting, neural entrainment, cognitive compliance, NIH, DoD, Army Research Laboratory, behavioral futures modeling
 
+⸻
 
 
+FOIA (Driver-in-the-Loop Simulation Angle)
+
+To: Department of Transportation (DOT) / Federal Transit Administration (FTA) / Metropolitan Council / Metro Transit
+
+Request:
+Requesting any and all records, contracts, research proposals, or interagency communications from 2000 to present concerning the use of Twin Cities Metro Transit buses as Driver-in-the-Loop (DIL) simulation platforms.
+
+This includes:
+	•	Records describing collection and analysis of driver telemetry data (e.g., braking, steering, acceleration, route pacing) for research or simulation purposes
+	•	Contracts or communications with universities, defense contractors, or private vendors supporting DIL research on public transit vehicles
+	•	Reports on integration of passenger behavioral responses into driver-influenced feedback loops, including entrainment, compliance, or stress testing
+	•	Internal analyses connecting Metro Transit DIL research to crowd modeling, synthetic population simulations, or behavioral futures exercises
+	•	Any audits, complaints, or evaluations regarding physiological or psychological effects of environmental modifications (infrasound, vibration, lighting) deployed in DIL testbeds
+
+Keywords: Metro Transit, Driver-in-the-Loop, DIL simulation, driver telemetry, passenger entrainment, behavioral futures, synthetic population, transportation simulation, FTA, Metropolitan Council
 
 
 
