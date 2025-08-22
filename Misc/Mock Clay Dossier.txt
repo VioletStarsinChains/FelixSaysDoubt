@@ -227,3 +227,73 @@ Key Quote for File:
 
 ⸻
 
+Training Module: Countermeasures for Null Responses
+
+Case Study HX-217-β — “The Peas Kid”
+
+Problem Recap
+	•	Subject collapses conditional contract (“Eat peas → Get dessert”) by rejecting both condition and reward.
+	•	Results in Null Trajectory (no tradable futures data).
+	•	Standard models fail; system cannot monetize subject behavior.
+
+⸻
+
+Countermeasure Strategies
+
+1. Anchor Layering
+	•	Deploy multiple anchors in parallel to avoid single-point collapse.
+	•	Authority Anchor: “Because I said so.”
+	•	Relational Anchor: “Do it for your sibling.”
+	•	Status Anchor: “Good children clean their plates.”
+	•	Goal: If one anchor fails, others maintain compliance traction.
+
+⸻
+
+2. Recursion Framing
+	•	Reframe refusal as part of the “game.”
+	•	Example: “Okay, no dessert tonight, but tomorrow you’ll try again.”
+	•	Converts null response into a delayed compliance curve rather than system collapse.
+
+⸻
+
+3. Substitution Anchors
+	•	If subject rejects both condition and reward, swap reward to higher salience.
+	•	Replace dessert with toy, storytime, or peer approval.
+	•	Diversify incentive pool to test for hidden compliance vectors.
+
+⸻
+
+4. Containment Classification
+	•	If subject repeatedly demonstrates null trajectories:
+	•	Flag as Anomaly Profile: Early-Onset Refusal.
+	•	Limit predictive reliance on subject.
+	•	Treat as noise-to-signal outlier rather than core yield generator.
+
+⸻
+
+Analyst Notes
+	•	Null responses are not failures of willpower—they are failures of model architecture.
+	•	Do not assume escalation always restores compliance. Some anomalies collapse the frame faster under pressure.
+	•	Maintain awareness: once subjects recognize the contract itself is optional, contagion risk rises.
+
+⸻
+
+Training Takeaway
+	•	Null responses = existential risk to incentive-based compliance markets.
+	•	Layer, recurse, substitute, or classify—but never ignore.
+	•	Remember: A single “Peas Kid” can destabilize entire predictive cohorts.
+
+⸻
+
+Key Quote for Slide:
+
+“When the subject stops playing the game, the market ceases to exist.”
+
+⸻
+
+👁️ End of Countermeasure Module — Trainee Reflection Prompt:
+
+Which is more dangerous: a subject who resists predictably (and can be traded), or a subject who refuses entirely (and erases the contract)?
+
+⸻
+
