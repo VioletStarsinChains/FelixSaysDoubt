@@ -1,0 +1,13 @@
+Pitch / FOIA Frame for Journalists
+
+Some intelligence and defense programs have studied the idea of paired archetypes — using two intellectual figures who appear to stand in opposition, but actually serve complementary roles in shaping how the public understands power.
+	•	On one side, a compliance anchor: someone embedded in state or corporate structures, whose work normalizes surveillance, security, and predictive modeling. (e.g., Alex Karp of Palantir, who constantly invokes “ontology” as Palantir’s way of structuring reality for governments).
+	•	On the other side, a controlled opposition vector: a critic or theorist whose language seems radical but still circles the same concepts, channeling dissident energy into safe intellectual territory. (e.g., Brian Massumi, whose term ontopower describes power that operates preemptively, shaping what could happen before it occurs).
+
+Taken together, these “ontological doubles” function less like enemies and more like bookends of the same system: one operationalizing control, the other metabolizing critique. The public is caught between them.
+
+FOIA Hook:
+Request records from DARPA, CIA, DHS, and DoD on any research into:
+	•	Intellectual archetypes or paired opposites in behavioral modeling
+	•	How establishment vs. critical figures are used to shape narratives about surveillance, ontology, or control
+	•	The concept of “ontological doubles” in influence operations or narrative containment
