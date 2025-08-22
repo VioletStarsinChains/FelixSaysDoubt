@@ -1,0 +1,55 @@
+To: Department of Health and Human Services (HHS) / Food and Drug Administration (FDA) / Centers for Disease Control and Prevention (CDC) / National Institutes of Health (NIH) / Biomedical Advanced Research and Development Authority (BARDA)
+
+Request:
+
+Requesting any and all documents, trial protocols, internal communications, contractor agreements, or outcome reports from 2019 to present related to comparative research on U.S.-approved COVID-19 vaccine platforms, including mRNA (Pfizer, Moderna), protein subunit (Novavax), and viral vector (Johnson & Johnson) vaccines.
+
+This includes:
+	•	Comparative studies examining differences in immune response durability, inflammatory profiles, or neurological outcomes across vaccine types
+	•	Behavioral or psychiatric correlates tracked alongside immunological data in trial participants
+	•	Head-to-head trials evaluating platform-specific effects in subpopulations (e.g., autoimmune, neurodivergent, immunocompromised)
+	•	Post-market surveillance comparing long-term physiological or behavioral impacts of each vaccine category
+	•	Internal analyses or third-party audits assessing adverse event patterns by vaccine platform
+	•	Communications regarding data sharing agreements between vaccine manufacturers, HHS, and AI modeling platforms
+	•	Any stratification protocols or behavioral segmentation methodologies used in platform comparisons
+
+Keywords: Pfizer, Moderna, Johnson & Johnson, Novavax, mRNA, protein subunit, viral vector, comparative trial, post-market surveillance, neuroinflammation, behavioral outcome, vaccine platform, BARDA, FDA, CDC
+
+
+////////
+
+
+To: Department of Health and Human Services (HHS) / Centers for Disease Control and Prevention (CDC) / Biomedical Advanced Research and Development Authority (BARDA) / Department of Defense (DoD) / National Institutes of Health (NIH)
+
+Request:
+
+Requesting any and all documents, research proposals, modeling contracts, internal communications, or digital infrastructure plans from 2020 to present referencing the use of COVID-19 vaccine platform selection (e.g., mRNA, protein subunit, viral vector) as a behavioral indicator in predictive analytics, public health segmentation, or digital identity scoring systems.
+
+This includes:
+	•	Comparative modeling studies linking vaccine type choice to psychological profile, political alignment, or compliance forecasting
+	•	Use of vaccine platform preference as an input variable in behavioral risk models or decision-tree analytics
+	•	Integration of vaccine data with digital identity, geolocation, or biometric profiling systems
+	•	Communications with Palantir, Oracle, Salesforce, or other federal contractors regarding behaviorally relevant metadata from vaccination records
+	•	Behavioral segmentation tools or dashboards used to assign risk scores, outreach strategies, or future intervention targets based on vaccine selection
+	•	References to vaccine platform type within behavioral futures contracts, public health simulations, or AI-driven compliance systems
+
+Keywords: vaccine platform choice, behavioral segmentation, predictive analytics, COVID-19 vaccine, mRNA hesitancy, risk scoring, behavioral futures, Palantir, BARDA, digital identity, compliance forecast, vaccine metadata, psychometric modeling
+
+
+//////////
+
+
+To: Department of Health and Human Services (HHS) / Centers for Disease Control and Prevention (CDC) / Biomedical Advanced Research and Development Authority (BARDA) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all contracts, communications, modeling frameworks, or data integration records from 2020 to present involving any federal contractor engaged in analyzing COVID-19 vaccine platform data for use in behavioral segmentation, compliance modeling, or public health forecasting.
+
+This includes:
+	•	Contractors integrating vaccine metadata (e.g., Pfizer vs Novavax) into behavioral prediction systems
+	•	Use of vaccination platform selection as an input variable in psychometric clustering, risk scoring, or digital identity verification
+	•	Cross-referenced modeling between vaccine behavior and social graph, biometric, or consumer analytics datasets
+	•	Behavioral or psychological trait inference based on vaccine selection, scheduling, or refusal
+	•	Platforms used for dashboard visualization, outreach planning, or nudging system design based on vaccination behavior
+
+Keywords: COVID-19 vaccine platform, behavioral modeling, federal contractor, Palantir, Oracle, Salesforce, Booz Allen Hamilton, Deloitte, predictive analytics, risk score, public health dashboard, psychometric segmentation, BARDA
