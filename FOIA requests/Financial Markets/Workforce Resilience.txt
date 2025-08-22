@@ -27,3 +27,22 @@ This includes:
 	•	Analyses linking synthetic population replacement to morale stabilization, consumer confidence, or continuity of public-facing economic indicators
 
 Keywords: synthetic population, behavioral futures, workforce continuity, supply chain simulation, Covid-19, mortality concealment, agent-based simulation, demand forecasting, DARPA, DHS, DoD
+
+
+/////////
+
+
+FOIA (Labor Force Data Integrity Angle)
+
+To: Bureau of Labor Statistics (BLS) / Department of Labor (DOL)
+
+Request:
+Requesting any and all documents, reports, contracts, or interagency communications from 2019 to present concerning the use of synthetic population datasets, digital twins, or agent-based simulations in the production of labor force participation data, unemployment statistics, or workforce availability projections during the Covid-19 pandemic.
+
+This includes:
+	•	Records describing adjustments to labor force participation or unemployment data using synthetic or modeled populations
+	•	Contracts with universities, contractors, or modeling firms providing synthetic workforce datasets for use in BLS reports
+	•	Internal memoranda or communications discussing integration of synthetic or agent-based models into official labor statistics
+	•	Analyses of discrepancies between real-world workforce reporting and synthetic population projections during the Covid-19 era
+
+Keywords: Bureau of Labor Statistics, synthetic population, labor force participation, unemployment data, workforce availability, digital twin, agent-based modeling, Covid-19, statistical adjustment, DOL
