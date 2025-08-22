@@ -1,0 +1,33 @@
+To: FDA (Center for Devices and Radiological Health) / NIH (NEI, NIMH, NINDS) / DoD (DARPA, USAMRDC) / VA Health System
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, regulatory submissions, or interagency communications from January 1, 1995 to present concerning the use of ophthalmologic diagnostic equipment, optometry/ophthalmology clinical practices, or eye-care vendor partnerships in connection with:
+	•	Implantable microelectronics, biosensors, or nanodevices delivered during routine eye exams or ophthalmic procedures
+	•	Smart diagnostic hardware capable of recording, transmitting, or embedding data beyond conventional visual testing (e.g., fundus cameras, autorefractors, slit-lamp devices)
+	•	Government-funded studies on the use of the eye as a site for biometric sensing, neural interface access, or behavioral monitoring
+	•	Risk assessments, safety evaluations, or adverse event reports involving ophthalmic devices or diagnostic systems with embedded sensors or wireless communication capacity
+	•	Contracts or pilot programs with major optometry/ophthalmology chains, including LensCrafters, Pearle Vision, Visionworks, Target Optical, or Costco Optical, related to data capture, biometric integration, or nonstandard device modifications
+	•	Interagency or contractor communications (e.g., Palantir, Accenture, Deloitte, Booz Allen Hamilton) referencing ophthalmology data as a behavioral modeling or biometric source
+	•	DoD or VA-funded projects testing ocular hardware as a long-term biometric tracking vector
+
+Keywords: ophthalmic devices, optometry contracts, eye exam hardware, biometric capture, implantable sensors, ocular biosensor, nanodevice, DARPA, CDRH, NEI, Palantir, Accenture, Booz Allen, Deloitte, wireless implant, biometric surveillance
+
+
+////////
+
+
+To: Department of Defense (DARPA, USAMRDC, Army Medical Research Acquisition Activity) / Department of Veterans Affairs (Office of Research and Development, Veterans Health Administration)
+
+Request:
+
+Requesting any and all records, contracts, proposals, internal communications, or evaluations from January 1, 1995 to present regarding the use of ophthalmology and optometry services, eye exam devices, or ocular surgical interventions as platforms for:
+	•	Biometric identification, long-term health tracking, or neurocognitive assessment in active-duty service members or veterans
+	•	Implantable or minimally invasive ocular devices (microelectronics, biosensors, nanodevices) inserted during routine eye exams or procedures
+	•	Studies on the eye as an interface point for neural monitoring, brain-computer interface development, or behavioral modeling
+	•	Pilot programs or contracts with military or VA-affiliated optometry clinics and contractors regarding eye exam equipment capable of data transmission or embedded sensing
+	•	Risk assessments or safety reports concerning ocular hardware with wireless communication capacity deployed in defense or veteran populations
+	•	Communications with defense contractors (e.g., Palantir, Booz Allen Hamilton, Accenture, Deloitte) on the integration of ophthalmic biometric data with predictive modeling or surveillance platforms
+	•	Research partnerships between DoD/VA and universities, medical centers, or private-sector vendors related to ocular biometrics or implantable eye-based sensors
+
+Keywords: ocular biometrics, implantable devices, DARPA, VA, USAMRDC, eye exam hardware, optometry contractor, biometric surveillance, neural interface, ophthalmic sensors, Palantir, predictive modeling
