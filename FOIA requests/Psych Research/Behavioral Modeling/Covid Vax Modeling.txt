@@ -1,0 +1,15 @@
+To: Department of Health and Human Services (HHS) / Centers for Disease Control and Prevention (CDC) / Food and Drug Administration (FDA) / Biomedical Advanced Research and Development Authority (BARDA)
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, pilot programs, internal communications, or data-sharing agreements from 2019 to present involving the integration of COVID-19 vaccination status with behavioral analytics, consent architecture, or digital identity systems.
+
+This includes:
+	•	Internal reports or external contractor work on behavioral modeling related to vaccine uptake, hesitancy, or refusal
+	•	Systems linking vaccine records to biometric ID platforms, geolocation, or digital access control
+	•	Use of COVID-19 vaccination data in early warning systems, social risk scoring, or public health compliance dashboards
+	•	Discussions of informed consent models, behavioral nudging protocols, or opt-out challenges in marginalized populations
+	•	Communications involving public–private partnerships that integrate immunization records with workplace, educational, or travel monitoring platforms
+	•	Risk modeling or behavioral segmentation studies using post-vaccination surveillance data
+
+Keywords: COVID-19 vaccine, informed consent, digital ID, immunization registry, behavioral modeling, vaccine hesitancy, public health compliance, biometric linkage, social risk score, consent architecture, post-market surveillance, BARDA, CDC
