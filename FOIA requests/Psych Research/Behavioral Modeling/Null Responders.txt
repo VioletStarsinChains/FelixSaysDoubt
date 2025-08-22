@@ -1,0 +1,49 @@
+To: Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Department of Justice (DOJ)
+
+Request:
+
+Requesting any and all records, research reports, internal communications, or contractor deliverables concerning the identification or study of non-responders or null responders in federally funded research on behavioral compliance, stress testing, or risk assessment, from January 1, 1990 to present.
+
+This includes:
+	•	Records defining or categorizing participants who exhibited little or no measurable emotional, physiological, or behavioral response to experimental interventions
+	•	Reports on outlier populations whose non-response complicated statistical analysis or predictive modeling
+	•	Communications with contractors, academic institutions, or private vendors concerning methods for handling or excluding non-responders in behavioral datasets
+	•	Internal analyses of whether non-response profiles have implications for law enforcement, clinical, or emergency management settings
+
+Keywords: null responder, non-responder, outlier population, behavioral compliance, risk assessment, predictive modeling, NIH, DOJ, HHS
+
+
+/////////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Office of the Director of National Intelligence (ODNI)
+
+Request:
+
+Requesting any and all documents, contractor communications, research proposals, or interagency assessments concerning the classification and modeling of anomalous individuals who fail to generate usable behavioral signal within the context of behavioral futures markets, attrition simulations, or compliance research, from January 1, 1990 to present.
+
+This includes:
+	•	Records describing “null profiles,” “white noise individuals,” “signal voids,” or other terms used to designate participants who do not react emotionally, physiologically, or behaviorally to conditioning stimuli
+	•	Analyses of how such non-modelable anomalies impact the accuracy of predictive systems or risk-forecasting platforms
+	•	Reports on whether synthetic social constructs or environmental entrainment were deployed in attempts to elicit signal from such individuals, and with what results
+	•	Contracts with defense contractors, academic labs, or private vendors exploring how anomalies undermine prediction markets or whether they can be leveraged as test cases for system limits
+
+Keywords: behavioral futures markets, anomaly, null responder, non-modelable, compliance anchor failure, attrition simulation, synthetic social construct, ODNI, DARPA, DoD
+
+
+///////////
+
+
+To: Department of Defense (DoD) / Department of Health and Human Services (HHS) / Office of the Director of National Intelligence (ODNI)
+
+Request:
+
+Requesting any and all documents, research proposals, contractor communications, or interagency assessments concerning environmental gating, signal collapse, or context-dependent emotional suppression in human behavioral research and predictive modeling, from January 1, 1990 to present.
+
+This includes:
+	•	Records describing populations (e.g., homeless or displaced individuals) who exhibit physiological suppression of emotional expression in public environments
+	•	Analyses of how signal collapse impacts the quality of behavioral futures datasets
+	•	Research proposals or contracts discussing the necessity of housing, containment, or controlled stability to elicit measurable emotional data from such individuals
+	•	Interagency discussions of data scarcity in suppressed populations and the design of protocols to overcome environmental gating
+
+Keywords: signal collapse, environmental gating, homelessness, emotional suppression, behavioral futures markets, null responder, predictive modeling, resilience forecasting, ODNI, DoD, HHS
