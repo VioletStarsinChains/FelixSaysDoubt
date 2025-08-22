@@ -1,0 +1,59 @@
+To: National Archives and Records Administration (NARA)
+
+Request:
+
+Requesting any finding aids, indexes, or descriptions of holdings from 1998–2001 that reference the Year 2000 (Y2K) event in connection with:
+	•	Public behavior or communication before, during, and after January 1, 2000
+	•	Infrastructure performance or incident reports from telecommunications, energy, transportation, or financial systems
+	•	Interagency coordination for Y2K response and continuity of operations
+	•	Contractor reports or datasets relating to behavioral analysis, contingency planning, or environmental monitoring during the Y2K event period
+
+Please include descriptions of any relevant collections originating from:
+	•	Department of Defense (DoD)
+	•	Defense Advanced Research Projects Agency (DARPA)
+	•	Department of Homeland Security (DHS) or predecessor agencies
+	•	Federal Emergency Management Agency (FEMA)
+	•	Department of Commerce (DOC)
+	•	National Aeronautics and Space Administration (NASA)
+
+Keywords: Year 2000, Y2K, behavioral modeling, infrastructure stress test, population response, system performance, contingency planning, environmental monitoring, DARPA, DoD, FEMA, DHS, NASA
+
+
+/////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Homeland Security (DHS) / Federal Emergency Management Agency (FEMA) / Department of Commerce (DOC) / National Aeronautics and Space Administration (NASA) / National Archives and Records Administration (NARA)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, reports, datasets, or contractor deliverables from 1998 to 2001 referencing public behavior, system performance, or environmental conditions during the Year 2000 (Y2K) event period.
+
+This includes:
+	•	Analyses of population behavior (e.g., purchasing patterns, travel behavior, communication volume) in the months before, during, and after January 1, 2000
+	•	Modeling or simulation of psychological and behavioral responses to Y2K-related messaging or anticipated infrastructure disruption
+	•	Data collection or analysis of retail, financial, telecommunications, or transportation system usage during the Y2K transition window
+	•	Environmental monitoring or testing conducted under the Y2K operational cover, including gravitational gradient, electromagnetic, or atmospheric field variation studies
+	•	Interagency or contractor collaborations combining infrastructure performance data with behavioral modeling for contingency planning or human domain analysis
+	•	Post-event reports evaluating Y2K as a large-scale live trial for crisis communication, public compliance, or environmental safety measures
+
+Keywords: Year 2000, Y2K, behavioral modeling, infrastructure stress test, population response, system performance, environmental variation, gravitational gradient, electromagnetic environment, contingency planning, human domain effects, DARPA, DoD, FEMA, DHS, NASA
+
+
+//////////
+
+
+To: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Department of Homeland Security (DHS) / Federal Emergency Management Agency (FEMA) / Department of Commerce (DOC) / National Archives and Records Administration (NARA)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, reports, datasets, or contractor deliverables from 1998 to 2003 referencing comparative analysis of public behavior, infrastructure performance, or environmental conditions between the Year 2000 (Y2K) event and the September 11, 2001 terrorist attacks.
+
+This includes:
+	•	Studies or reports comparing population behavior (e.g., purchasing patterns, travel, communication volume, or compliance with official directives) across both events
+	•	Analyses of infrastructure resilience or failure modes during Y2K and 9/11, including telecommunications, energy, transportation, and financial systems
+	•	Behavioral modeling projects using Y2K and 9/11 as sequential datasets for predictive modeling of public response to crisis scenarios
+	•	Reports on public messaging effectiveness and information dissemination strategies across the two events
+	•	Interagency or contractor collaborations examining psychological, physiological, or environmental monitoring data collected during both periods
+	•	Any evaluations framing Y2K and 9/11 as part of a continuous research or operational testing sequence
+
+Keywords: Year 2000, Y2K, September 11, 9/11, comparative analysis, behavioral modeling, infrastructure performance, crisis response, public compliance, predictive modeling, environmental monitoring, DARPA, DoD, FEMA, DHS
