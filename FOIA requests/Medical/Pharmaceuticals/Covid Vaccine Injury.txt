@@ -1,0 +1,16 @@
+To HHS / FDA (CDER, CBER) / NIH (NIDDK, NHLBI) / CDC (Immunization Safety Office) / ASPR (BARDA) / Department of Veterans Affairs (VHA Pharmacy Benefits Management) / Department of Defense (Defense Health Agency)
+
+Request:
+
+Requesting any and all records from January 1, 2010 to present concerning GLP‑1 receptor agonists and related incretin therapies (e.g., semaglutide, tirzepatide, liraglutide, dulaglutide, exenatide) and their interactions with micronutrient/mineral deficiency, malnutrition, or cofactor depletion, including impacts on tissue remodeling/fibrosis, autonomic function, and organ injury.
+
+This includes:
+	•	Internal safety reviews, pharmacovigilance signal analyses, and case series where mineral or cofactor status (e.g., magnesium, potassium, thiamine/B1, B6, B12, vitamin K/K2, zinc) was captured, modeled, or considered a covariate.
+	•	Clinical guidance, labeling discussions, risk management plans, or protocols recommending (or rejecting) screening/supplementation for mineral/cofactor status before or during GLP‑1 therapy.
+	•	Funding opportunity announcements, RFPs, OTAs, CRADAs, grant applications, protocols, and IRB materials for studies examining GLP‑1 effects under “nutrient stress,” malnutrition, or post‑viral states (including COVID‑19 cohorts).
+	•	Communications (emails, meeting minutes, slide decks) with drug manufacturers (e.g., Novo Nordisk, Eli Lilly) referencing mineral/cofactor deficiency, malnutrition, or dehydration risks in relation to GLP‑1 therapies.
+	•	Postmarketing surveillance reports, EHR‑ or claims‑based analyses (CMS/VA/DoD), and adverse event trend memos stratified by nutritional status or rapid weight change.
+	•	Records discussing incidence/severity of pancreatitis, cholelithiasis/cholangitis, gastroparesis, acute kidney injury, dysautonomia/arrhythmia, myocardial or other tissue fibrosis/calcification in patients with known or suspected mineral/cofactor deficiency.
+	•	Any modeling, decision memos, or briefing papers weighing labeling changes, boxed warnings, REMS elements, or mitigation strategies specific to deficient mineral/cofactor states.
+
+Keywords: GLP‑1 agonist, semaglutide, tirzepatide, micronutrient deficiency, magnesium deficiency, thiamine deficiency, gastroparesis, pancreatitis, cholelithiasis, acute kidney injury, fibrosis remodeling, dysautonomia, dehydration
