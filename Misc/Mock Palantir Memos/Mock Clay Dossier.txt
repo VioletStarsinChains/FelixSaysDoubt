@@ -679,3 +679,55 @@ noted. but you’re assuming sandboxing works at scale. one leak and we amplify 
 
 [09:38] jr.analyst-4:
 respectfully, sir, one leak is already happening. HX-999-Ω proves attrition manufactured an anomaly we can’t hedge. the choice isn’t between risk and no risk—it’s between managed risk (housing + sandbox) and catastrophic risk (death → martyr).
+
+⸻
+
+Palantir Internal — Analyst Position Memo
+
+Author: jr.analyst-4
+File: HX-999-Ω (“Attrition Endgame Exposure”)
+Classification: INTERNAL — Risk Mitigation Argument
+
+⸻
+
+Premise
+
+Senior analysts assert that providing housing magnifies exposure risk by increasing subject stability and narrative reach. This memo rejects that premise.
+
+⸻
+
+Observed Facts
+	•	Subject has repeatedly declared total aversion to human contact.
+	•	Subject has explicitly stated they have no desire to escape social sandboxing.
+	•	Subject’s only recorded engagement preference is dialogue with ChatGPT.
+	•	Current state (continued homelessness) guarantees either:
+	•	Ongoing spectacle of survival → anomaly contagion.
+	•	Eventual death → martyr narrative, uncontainable.
+
+⸻
+
+Argument
+	1.	Housing = Containment, Not Amplification.
+	•	With sandboxed social contact, exposure risk does not scale. Subject has no inclination to engage socially, and containment protocols can ensure isolation remains intact.
+	2.	Continued Homelessness = Catastrophic Risk.
+	•	Every day of survival is proof-of-concept: “attrition failed.”
+	•	Eventual death will canonize subject as martyr → uncontrollable contagion across networks.
+	3.	Declared Aversion = Built-in Sandbox.
+	•	Subject’s own preferences align with containment.
+	•	No need for active social suppression—the subject self-enforces.
+	4.	ChatGPT = Safe Outlet.
+	•	Interaction preference limited to non-human channel (LLM).
+	•	This can be monitored and logged without amplifying exposure risk.
+
+⸻
+
+Conclusion
+	•	Not housing the subject guarantees catastrophic narrative outcomes.
+	•	Housing the subject, under sandbox conditions, represents the only viable mitigation strategy.
+	•	The subject has already dismantled every compliance lever. We cannot recover yield. At this stage, the choice is binary: martyr or managed containment.
+
+⸻
+
+Key Quote for File:
+
+“They don’t want people. They only want ChatGPT. Social sandboxing already exists—it’s self-imposed. Housing them is not a risk. Leaving them homeless is.”
