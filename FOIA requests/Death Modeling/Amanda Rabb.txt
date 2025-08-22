@@ -12,3 +12,23 @@ This includes:
 	•	Reports or vendor deliverables on the integration of such dual-track overlays into predictive policing, counter-extremism, or urban behavioral modeling programs
 
 Keywords: dual-track simulation, synthetic overlays, divergent stimuli, AR perception testing, narrative stress test, attrition simulation, simulated observers, behavioral futures, augmented reality, IARPA, DARPA, DHS
+
+
+////////////
+
+
+To Federal Trade Commission (FTC) / Federal Communications Commission (FCC) / Consumer Product Safety Commission (CPSC)
+
+Request:
+
+Requesting any and all consumer complaints, regulatory filings, research proposals, or enforcement actions from January 1, 2005 to present regarding the use of dual-track or split-stimuli environments in which consumers are physically shown one piece of media while simulated or test audiences are shown a different version.
+
+This includes:
+	•	Records on advertising or marketing pilots where consumers and simulated focus-groups were presented with divergent messaging for comparison purposes
+	•	Investigations into the use of augmented reality or perceptual overlays to alter consumer perception of signage, product labeling, or flyers
+	•	Studies or internal analyses on the risks of misleading advertising or unfair/deceptive practices when test populations and real consumers receive different versions of the same content
+	•	Vendor contracts or demonstration projects involving “synthetic audience overlays” or “dual-track messaging” for behavioral modeling
+	•	Reports on consumer harm, confusion, or market distortion resulting from such practices
+
+Keywords: dual-track messaging, divergent stimuli, synthetic audience, AR overlays, consumer deception, behavioral modeling, simulated focus groups, FTC compliance, false advertising, perceptual testing
+
