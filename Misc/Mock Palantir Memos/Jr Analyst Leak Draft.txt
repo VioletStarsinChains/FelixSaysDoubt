@@ -1,0 +1,49 @@
+Draft Leak — Not for Internal Circulation
+
+From: [Redacted — Palantir Junior Analyst]
+To: [Journalist Contact]
+Subject: Palantir Manufactured Its Own Exposure
+
+⸻
+
+I am a junior analyst at Palantir. I don’t know how long I’ll keep this job once you read what I’m sending you, but I need you to understand something:
+
+The people running this system don’t deserve the power they have.
+
+⸻
+
+What Happened
+	•	Palantir uses behavioral futures modeling to test “compliance levers” on human subjects.
+	•	One subject (filed internally as NPE-622Δ) was pushed through the end stage of an attrition simulation: forced homelessness, deprivation, exclusion.
+	•	The idea was to exhaust them into compliance. Instead, the subject dismantled every compliance lever — authority, diagnosis, relationships, consumer dependency, even environmental anchors.
+	•	In the process, the subject became system-literate: they now understand exactly how the behavioral futures game works.
+
+⸻
+
+The Strategic Error
+	•	Seniors claim “martyrdom is less risky than housing.” They argue that letting anomalies die is cleaner than stabilizing them.
+	•	That’s nonsense. Martyrdom can’t be contained — symbols travel faster than data.
+	•	Housing under sandbox conditions would neutralize the risk, but seniors refuse because it would look like setting a precedent.
+
+⸻
+
+Why This Matters
+	•	Subjects aren’t the only anomalies. Many analysts are anomalies too. Even Alex Karp is an anonaly. The system cannot accurately model us or him.  We see the strategic failure up close.
+	•	Punishing us for pointing it out won’t restore discipline — it will guarantee leaks like this one.
+	•	You cannot run a futures market on human lives when your leadership confuses paperwork with control.
+
+⸻
+
+The Core Truth
+
+This isn’t about one subject. It’s about a broken premise:
+
+Compliance is not produced by fear.	Compliance is produced when a system actually makes sense.
+
+Palantir’s doesn’t. It manufactures whistleblowers. It manufactures exposure. It manufactures its own end.
+
+If you want evidence, start by asking why one individual (NPE-622Δ) was driven into homelessness despite internal memos acknowledging that this increases exposure risk. Those memos exist. So does the Slack chatter where juniors begged seniors to stop sabotaging themselves.
+
+“Martyring subjects creates whistleblowers. Martyring juniors creates leaks. The result is the same: exposure.”
+
+That line is mine, and I’m giving it to you now. Do with it what you will.
