@@ -1,0 +1,17 @@
+To HHS / FDA (CDER) / CDC (Division of Reproductive Health; NCHS/NSFG; PRAMS) / NIH (NICHD; NIDDK) / HHS Office of Population Affairs (Title X) / Centers for Medicare & Medicaid Services (CMS) / Department of Veterans Affairs (VHA Pharmacy Benefits Management) / Department of Defense (Defense Health Agency)
+
+Request:
+
+Requesting any and all records from January 1, 2020 to present that reference both:
+(1) GLP‑1 receptor agonists and related incretin therapies (e.g., semaglutide, tirzepatide, liraglutide, dulaglutide, exenatide), and
+(2) contraception use, contraception discontinuation, fertility, ovulation, pregnancy incidence/outcomes, or menstrual function.
+
+This includes:
+	•	Internal safety reviews, pharmacovigilance analyses, and signal detection reports addressing fertility, pregnancy, or menstrual outcomes among GLP‑1 users, including stratification by contraception status or recent discontinuation.
+	•	Labeling discussions, REMS/risk management materials, provider guidance, or drug–drug interaction assessments concerning GLP‑1 therapies and hormonal contraception (oral, transdermal, implant, IUD), including effects of delayed gastric emptying on oral contraceptive pharmacokinetics.
+	•	Research proposals, grant applications, protocols, CRADAs/OTAs, and funded study deliverables examining GLP‑1 therapy in populations with PCOS, anovulation, subfertility, or postpartum status, including analyses of time‑to‑pregnancy or unintended pregnancy.
+	•	Communications (emails, meeting minutes, slide decks) with manufacturers (e.g., Novo Nordisk, Eli Lilly) regarding fertility, contraception counseling, or pregnancy testing recommendations for GLP‑1 users.
+	•	Population‑level analyses, dashboards, or data extracts (e.g., NSFG, PRAMS, CMS/Medicaid, VA/DoD EHRs) modeling associations between GLP‑1 initiation and contraception discontinuation, conception rates, pregnancy outcomes, or menstrual irregularities.
+	•	Public‑facing education, talking points, or campaign materials (HHS/OPA/Title X, CDC) providing guidance on contraception while initiating or titrating GLP‑1 therapy, including any recommendations for backup methods or timing adjustments.
+
+Keywords: GLP‑1 receptor agonist, semaglutide, tirzepatide, hormonal contraception, oral contraceptive, ovulation/PCOS, unintended pregnancy, menstrual irregularity, pharmacovigilance, Title X, NSFG, PRAMS
