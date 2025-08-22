@@ -145,3 +145,22 @@ This includes:
 	•	Contracts, grants, or cooperative agreements showing Soft White Underbelly as a recipient or pass-through vehicle for federal research or behavioral modeling funds
 
 Keywords: Soft White Underbelly, Mark Laita, FinCEN SAR, IRS audit, shell company, nonprofit status, money laundering, behavioral research funding, undisclosed sponsorship, Treasury investigation
+
+
+/////////
+
+
+To Department of Defense / Defense Advanced Research Projects Agency (DARPA) / Intelligence Advanced Research Projects Activity (IARPA) / Federal Bureau of Investigation (FBI)
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, or technical evaluations from January 1, 2000 to present concerning the deliberate alteration, duplication, or fragmentation of personal identity across multiple digital or perceptual representations for the purpose of behavioral analysis or operational testing.
+
+This includes:
+	•	Programs involving the use of synthetic media, deepfakes, or augmented reality overlays to present different demographic characteristics of the same individual to different audiences
+	•	Studies on the psychological, social, or legal impacts of subjects being represented simultaneously as multiple demographic or behavioral archetypes
+	•	Contracts or vendor deliverables concerning “identity fracture,” “engineered persona divergence,” or “synthetic identity bifurcation” in intelligence or defense contexts
+	•	Interagency communications on the use of such techniques in attrition simulations, narrative stress testing, or predictive modeling
+	•	Reports evaluating the effect of fractured identity representation on public perception, credibility of subjects, or trust in evidence
+
+Keywords: identity fracture, engineered persona, synthetic identity, divergent representation, deepfake overlays, AR identity manipulation, behavioral modeling, narrative stress test, DARPA, IARPA
