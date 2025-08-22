@@ -1,0 +1,31 @@
+FOIA – Digital Mail & Continuity
+
+To: United States Postal Service (USPS) / Office of Inspector General (OIG)
+
+Request:
+Requesting any and all documents, contracts, reports, or interagency communications from 2015 to present concerning the substitution of digital mail previews or digital correspondence in place of physical mail delivery, particularly under the Informed Delivery program and other hybrid mail pilots.
+
+This includes:
+	•	Policies or guidance on when digital previews may replace physical mail delivery
+	•	Contracts with technology vendors for digitization, digital substitution, or electronic delivery of postal correspondence
+	•	Reports or audits on the management and disposal of undeliverable or non-physical mail items
+	•	Records relating to USPS continuity of operations plans (COOP) that rely on digital or substituted correspondence
+
+Keywords: USPS, Informed Delivery, digital substitution, hybrid mail, undeliverable mail disposal, continuity of operations, OIG, digital correspondence
+
+⸻
+
+FOIA (Spicy Angle – Phantom Continuity & Population Stability)
+
+To: United States Postal Service (USPS) / Department of Homeland Security (DHS)
+
+Request:
+Requesting any and all records, contracts, reports, or interagency communications from 2019 to present concerning continuity of address datasets and the use of digital substitution, phantom delivery records, or synthetic mail previews to maintain population-level mail volume stability during the Covid-19 pandemic.
+
+This includes:
+	•	Records describing the creation or use of “phantom” delivery entries to preserve the appearance of normal mail flows at the household level
+	•	Analyses of digital mail previews or synthetic correspondence as tools for continuity of operations during periods of excess mortality or population disruption
+	•	Communications with DHS or other federal agencies regarding continuity of address datasets for economic forecasting, voting by mail, or stimulus distribution
+	•	Reports evaluating whether digital or phantom delivery records were used to stabilize data integrity across government or commercial address-based systems
+
+Keywords: USPS, phantom delivery, digital substitution, synthetic mail preview, continuity of address datasets, population stability, DHS, Covid-19 continuity, data integrity
