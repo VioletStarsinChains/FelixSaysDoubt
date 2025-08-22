@@ -1,0 +1,73 @@
+To Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Office of the Director of National Intelligence (ODNI) / Intelligence Advanced Research Projects Activity (IARPA) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all reports, contracts, program documentation, interagency communications, or research proposals from January 1, 2010 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay systems to create, substitute, or represent child identities in public or commercial contexts.
+
+This includes:
+	•	Research on AR-based “synthetic dependents” or avatars presented as real children in media or celebrity narratives
+	•	Behavioral modeling studies of audience perception, trust, or emotional engagement with AR-mediated children
+	•	Communications with entertainment companies, technology vendors, or contractors regarding AR constructs representing family members or dependents in public appearances
+	•	Ethical reviews, COPPA compliance analyses, or consumer deception assessments related to presenting synthetic AR children as authentic individuals
+	•	Interagency threat assessments concerning identity substitution, AI-coded naming conventions, and the blending of synthetic and biological dependents in public record or media environments
+
+Keywords: AR synthetic children, perceptual overlay, AI-coded identity, mixed reality dependents, avatar substitution, behavioral modeling, COPPA compliance, identity misrepresentation, DARPA AR research, FTC deception
+
+
+//////////
+
+
+To National Science Foundation (NSF) / National Institutes of Health (NIH) / National Institute of Mental Health (NIMH)
+
+Request:
+
+Requesting any and all research proposals, funded projects, ethics reviews, interagency communications, or technical reports from January 1, 2010 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay systems to create or represent synthetic children in developmental, behavioral, or consumer research contexts.
+
+This includes:
+	•	Studies of developmental psychology, attachment, or social learning in interactions with AR-generated children or avatars presented as dependents
+	•	Research on parasocial dynamics and audience response to AR-mediated children in entertainment, media, or celebrity narratives
+	•	Evaluations of compliance with children’s privacy protections (e.g., COPPA) in cases where synthetic children are deployed in consumer-facing environments
+	•	Communications with universities, research institutions, or technology vendors concerning the use of AR child constructs in experimental or public settings
+	•	Reports or ethical analyses on the blending of synthetic and biological dependents in media, research, or commercial applications
+
+Keywords: augmented reality children, synthetic dependents, perceptual overlay, AR avatars, developmental psychology, parasocial response, COPPA compliance, mixed reality research, child identity constructs, behavioral modeling
+
+
+//////////
+
+
+To Department of Homeland Security (DHS) / Department of Defense (DoD) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all reports, research proposals, contracts, interagency communications, or legal reviews from January 1, 2010 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay systems to create, simulate, or substitute individual persons in public, media, or commercial contexts.
+
+This includes:
+	•	Research or program documentation on AR-based “synthetic persons” or avatars used in public appearances, entertainment, or marketing events
+	•	Risk assessments regarding misrepresentation, identity substitution, or civil liberties implications when AR systems simulate individuals, including children
+	•	Communications with corporations, media organizations, or technology vendors about deploying AR constructs to represent family members, dependents, or celebrity personas
+	•	Interagency discussions on consumer deception, fraud, or reputational impacts of presenting synthetic AR persons as real individuals
+	•	Policy reviews or ethical analyses concerning the creation of synthetic identities via AR or perceptual overlays, especially where such constructs interact with minors’ privacy protections (e.g., COPPA compliance)
+
+Keywords: augmented reality, synthetic persons, AR identity substitution, perceptual overlay, virtual child construct, mixed reality avatars, identity misrepresentation, COPPA compliance, FTC deception, DHS threat assessment
+
+
+//////////
+
+
+To Department of Homeland Security (DHS) / DHS Science & Technology Directorate (S&T) / DHS Office of Intelligence & Analysis (I&A) / DHS Office for Civil Rights & Civil Liberties (CRCL) / Office of the Director of National Intelligence (ODNI) / Intelligence Advanced Research Projects Activity (IARPA)
+
+Request:
+
+Requesting any and all threat assessments, research proposals (including BAA responses), program descriptions, contracts, pilot/field‑test reports, after‑action reviews, privacy/ethics/legal analyses, or interagency communications from January 1, 2010 to present concerning the use of augmented reality (AR), mixed reality, or perceptual overlay systems to create, substitute, or operationalize “synthetic dependents” (e.g., AR‑generated children or avatars presented as real minors) for population‑level behavioral modeling, compliance shaping, perception management, or influence activities in public, media, commercial, or online environments.
+
+This includes:
+	•	Human factors or behavioral experiments measuring compliance, sentiment, policy support, purchase intent, donations, de‑escalation, or crowd dynamics in the presence of AR‑mediated children presented as dependents of public figures or participants.
+	•	Concepts of operations (CONOPS), playbooks, or risk assessments for deploying AR child constructs at live events (e.g., rallies, protests, disaster sites) to shape bystander behavior or media coverage.
+	•	Research on “parasocial leverage,” kin‑protective response triggers, reputational shielding, distraction/honeypot effects, or outrage fatigue induced by synthetic dependents.
+	•	Sensor‑fusion/data pipelines combining social media telemetry, mobile location, ad‑tech signals, camera analytics, POS/viewership metrics, eye‑tracking, or physiological proxies to model responses to AR child avatars.
+	•	Communications or agreements with entertainment firms, advertising agencies, platforms, defense contractors, or universities regarding development, testing, or evaluation of AR child identity substitution.
+	•	Legal, privacy, civil liberties, or CRCL analyses (including PIA/DPIA/ethics board materials) addressing disclosure, deception, COPPA‑adjacent concerns, and First Amendment implications.
+	•	Counterintelligence or foreign influence assessments addressing risks of identity substitution, deepfake/AR synergy, or cross‑border exploitation of synthetic dependent constructs.
+
+Keywords: synthetic dependents, AR child avatar, perceptual overlay, compliance testing, population‑level behavioral modeling, parasocial manipulation, identity substitution, reputational shielding, influence operations, DHS S&T, IARPA research, civil liberties review
