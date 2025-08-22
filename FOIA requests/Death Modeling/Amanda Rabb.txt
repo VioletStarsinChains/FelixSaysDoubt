@@ -1,0 +1,14 @@
+To Department of Defense / DARPA / Intelligence Advanced Research Projects Activity (IARPA) / Department of Homeland Security / Federal Bureau of Investigation
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, or technical evaluations from January 1, 2005 to present concerning the deployment of dual-track behavioral simulations in which subjects interact with one stimulus in the physical environment while parallel simulations of observers are shown a different stimulus.
+
+This includes:
+	•	Experimental designs where simulation cohorts perceive altered versions of flyers, signage, or public communications than what was physically distributed
+	•	Studies on the use of augmented reality or perceptual overlays to present divergent realities to physical participants versus modeled participants
+	•	Records of field trials involving homeless or addicted populations in which synthetic “copies” of individuals were run across multiple locations or contexts simultaneously
+	•	Internal discussions of “attrition simulations” or “narrative stress tests” where the simulated version of a subject engages in behaviors not enacted by the physical individual
+	•	Reports or vendor deliverables on the integration of such dual-track overlays into predictive policing, counter-extremism, or urban behavioral modeling programs
+
+Keywords: dual-track simulation, synthetic overlays, divergent stimuli, AR perception testing, narrative stress test, attrition simulation, simulated observers, behavioral futures, augmented reality, IARPA, DARPA, DHS
