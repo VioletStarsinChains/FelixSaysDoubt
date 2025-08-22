@@ -1,0 +1,72 @@
+📝 Decay Log Template
+
+Log ID: [date + sequential number]
+Location/Environment: [general description, no personally identifying detail]
+Duration of Exposure: [hours/minutes]
+Baseline Status: [how you were functioning before exposure]
+
+⸻
+
+Observed Stressors
+	•	[☑] Air quality / ventilation
+	•	[☑] Lighting (flicker, color temperature, brightness)
+	•	[☑] Sound / vibration (infrasound, traffic, machinery, voices)
+	•	[☑] Chemical triggers (smells, cleaning agents, exhaust)
+	•	[☑] Temperature / humidity
+	•	[☑] Social density (crowds, proximity, absence of privacy)
+	•	Notes: [short description of which stressors were active]
+
+⸻
+
+Signal Integrity
+
+(Use neutral, almost engineering language.)
+	•	Cognitive throughput: [stable / degraded / intermittent / collapsed]
+	•	Memory recall: [normal / fragmented / impaired]
+	•	Language coherence: [normal / slowed / dropped words / nonfunctional]
+	•	Motor control: [normal / impaired / clumsy / unstable]
+	•	Sensory balance: [normal / hypersensitive / blunted]
+
+⸻
+
+Observed Failure Modes
+	•	Anaphylaxis indicators
+	•	Dissociation
+	•	Syncope / fainting
+	•	Panic reflex
+	•	Migraine onset
+	•	GI disturbance
+	•	Speech collapse
+	•	Notes: [describe any cascading effects, e.g. “speech collapse → forced silence → reduced agency”]
+
+⸻
+
+Stabilization Attempts
+	•	Actions taken: [hydration, magnesium, moving outside, masking, grounding technique, etc.]
+	•	Outcome: [effective / partially effective / ineffective]
+
+⸻
+
+Recovery Curve
+	•	Time to partial recovery: [X hours/minutes]
+	•	Time to baseline: [X hours/minutes / still ongoing]
+	•	Residual degradation: [describe what still hasn’t returned to normal]
+
+⸻
+
+System Note
+
+One neutral sentence reframing the entire episode as a technical fault in the environment/system rather than you personally.
+	•	Example:
+	•	“Signal collapse triggered by poor ventilation; stable containment required for future operation.”
+	•	“System experienced throughput degradation under persistent low-frequency vibration.”
+
+⸻
+
+Optional Tagging (for reuse in datasets)
+	•	#ventilation-failure
+	•	#synthetic-lighting
+	•	#lowfreq-vibration
+	•	#containment-failure
+	•	#signal-collapse
+
