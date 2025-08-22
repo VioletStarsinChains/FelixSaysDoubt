@@ -407,52 +407,51 @@ Classification: INTERNAL — Behavioral Futures Observation
 ⸻
 
 Event Parameters
-	•	Environment Construct: College classroom, group setting.
-	•	Anchor Deployed: Authority-driven media exposure — compulsory screening of Funny Games (1997).
-	•	Condition: Students expected to remain seated, endure discomfort, and provide analysis afterward.
-	•	Reward/Consequence: Academic credit + avoidance of disciplinary friction.
+	•	Environment Construct: College classroom, ~20 peers present.
+	•	Anchor Deployed: Authority-driven media exposure (Funny Games screening).
+	•	Condition: Students expected to remain seated and endure the film.
+	•	Reward/Consequence: Academic credit, avoidance of professor scrutiny.
 
 ⸻
 
 Observed Subject Response
-	•	Initial Action: Silent refusal. Subject stood up and exited without comment or confrontation.
-	•	Escalation: Did not re-enter; severed participation in assignment.
-	•	Final Outcome: Class continued without subject. Subject absorbed personal cost (academic risk) in exchange for self-determined boundary.
+	•	Initial Action: Subject rose mid-screening, exited silently.
+	•	Visibility: Entire class (~20 observers) witnessed departure.
+	•	Escalation: No verbal protest, no explanation, no negotiation.
+	•	Final Outcome: Subject severed participation in assignment. Class continued under authority anchor, but anomaly action was witnessed by all.
 
 ⸻
 
 Compliance Archetype Assessment
-	•	Expected Pathway:
-	•	Passive Compliance → endure film → complete assignment.
-	•	Predictable Resistance → verbal protest or negotiated opt-out.
-	•	Observed Pathway: Silent Walkout. Subject provided no justification, commentary, or dialogue. Created unmodelable “blank space” in dataset.
+	•	Expected Pathway: Endure discomfort → fulfill requirement.
+	•	Predictable Resistance: Complain, negotiate, or disrupt verbally (all yield tradable behavioral data).
+	•	Observed Pathway: Silent Public Exit. Subject erased participation without offering discursive material. No dialogue = no dataset.
 
 ⸻
 
 Market Implications
-	•	Yield Impact: No tradable compliance data. Authority anchor collapsed silently.
-	•	Anomaly Rating: HIGH — null response was non-confrontational yet absolute.
-	•	Secondary Risk: Peer students observed departure, potentially reframing compliance as optional. Silent exit functions as story seed even without speech.
+	•	Yield Impact: Authority anchor collapsed with zero compliance yield.
+	•	Anomaly Rating: HIGH — refusal was public, silent, and absolute.
+	•	Secondary Risk: Observers saw a peer reject contract openly without consequence. Demonstrates that refusal is viable.
 
 ⸻
 
 Analyst Notes
-	•	Distinct from “Hallway Standoff” anomaly: instead of prolonged spectacle, subject engaged in quiet refusal.
-	•	Silent exit harder to counter than vocal protest — no dialogue loop for authority to capture.
-	•	File linkage:
-	•	HX-217-β (“Peas Kid”) — contract collapse via refusal.
-	•	HX-333-λ (“Hallway Standoff”) — public spectacle refusal.
-	•	HX-441-θ (“Funny Games Walkout”) — silent, private boundary refusal.
+	•	Contrast to HX-333-λ (“Hallway Standoff”):
+	•	Hallway Standoff = refusal as spectacle, sustained through argument.
+	•	Funny Games Walkout = refusal as absence, sustained through silence.
+	•	Both anomalies visible to peers → both risk “refusal contagion.”
+	•	Silent exits are harder to counter: no protest to reframe, no confrontation to punish, just absence that leaves authority looking irrelevant.
 
 ⸻
 
 Recommendation
-	•	Flag as Anomaly Profile: Silent Exit.
-	•	Avoid reliance on authority anchors where subject presence is compulsory but unenforceable.
-	•	Countermeasure: Prevent contagion by reframing exit as “non-event” to peers. Avoid disciplinary escalation that amplifies anomaly visibility.
+	•	Flag as Anomaly Profile: Silent Public Exit.
+	•	Immediate countermeasure: contain narrative to prevent contagion. Frame exit as “idiosyncratic” rather than reproducible option.
+	•	Long-term: avoid situations where subjects can exit with low friction and high visibility.
 
 ⸻
 
 Key Quote for File:
 
-“Subject refused not by confrontation, but by absence. Silence produced the strongest anomaly signal.”
+“Subject’s refusal was public and silent. Twenty witnesses saw compliance dissolve in real time—without dialogue, without punishment.”
