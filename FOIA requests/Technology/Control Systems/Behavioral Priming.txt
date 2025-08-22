@@ -1,0 +1,37 @@
+To: DARPA / Office of Naval Research / U.S. Army Research Laboratory
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, internal communications, or technical reports regarding the use of harmonic frequency patterns in neural entrainment or brain–computer interface systems from 1990 to present.
+
+This includes:
+	•	Studies on neural oscillation entrainment using harmonic multiples of a base stimulation frequency
+	•	Research on triadic, hexagonal, or 9-node network topologies in neural or neuromorphic systems
+	•	Protocols involving multi-tiered control loops with stimulus intervals at harmonic timings (e.g., 3, 6, 9 seconds)
+	•	Modeling or simulations applying power-law or harmonic scaling to spike timing or amplitude control
+	•	Applications of harmonic entrainment in behavioral modification, cognitive enhancement, or decision-making contexts
+	•	Covert or operational testing of harmonic rhythmic cues for subconscious behavioral influence
+	•	Contracts or collaborations with private companies, universities, or foreign entities studying harmonic timing effects in neurostimulation
+
+Keywords: neural entrainment, harmonic frequency, triadic network, hexagonal topology, 3 Hz stimulation, 6 Hz stimulation, 9 Hz stimulation, rhythmic priming, behavioral timing, harmonic scaling
+
+
+////////
+
+
+To: Federal Trade Commission / National Institute of Standards and Technology / Department of Commerce
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, contracts, or technical reports from 2000 to present regarding the use of harmonic frequency patterns in neural entrainment or neuroadaptive consumer technologies.
+
+This includes:
+	•	Studies on neural oscillation entrainment using harmonic multiples of a base stimulation frequency (e.g., 3 Hz, 6 Hz, 9 Hz) in wearable devices, VR/AR systems, or gaming platforms
+	•	Research on triadic, hexagonal, or 9-node network topologies in consumer neurotechnology, brain–computer interfaces, or neuromorphic chips
+	•	Documentation of control-loop designs that deliver stimuli or feedback at harmonic time intervals in user-facing products
+	•	Modeling or simulation data applying power-law or harmonic scaling for signal compression in consumer neurotech
+	•	User testing or market research on subconscious behavioral influence via rhythmic priming or harmonic timing
+	•	Any correspondence with private companies (including but not limited to Apple, Meta, Neuralink, Sony, Microsoft, Alphabet, Samsung) involving harmonic entrainment research or protocols
+	•	Export control assessments or international collaboration records on harmonic timing-based neural stimulation technologies
+
+Keywords: neural entrainment, harmonic frequency, triadic network, hexagonal topology, 3 Hz stimulation, 6 Hz stimulation, 9 Hz stimulation, rhythmic priming, behavioral timing, harmonic scaling, consumer neurotechnology
