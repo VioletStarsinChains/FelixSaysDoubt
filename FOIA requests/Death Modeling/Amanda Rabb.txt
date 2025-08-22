@@ -32,3 +32,40 @@ This includes:
 
 Keywords: dual-track messaging, divergent stimuli, synthetic audience, AR overlays, consumer deception, behavioral modeling, simulated focus groups, FTC compliance, false advertising, perceptual testing
 
+
+////////////
+
+
+To Department of Defense / DARPA / U.S. Navy / Joint Non-Lethal Weapons Directorate (JNLWD)
+
+Request:
+
+Requesting any and all technical reports, research proposals, internal communications, or vendor contracts from January 1, 1990 to present concerning the use of cavitation phenomena as a mechanism for incapacitation or lethality in human or animal subjects.
+
+This includes:
+	•	Studies on cavitation induced by ultrasound, infrasound, directed energy, or electromagnetic methods
+	•	Evaluations of cavitation as a non-lethal deterrent versus as a potential kill mechanism
+	•	Safety assessments, risk-benefit analyses, or medical reviews of cavitation effects on brain, lung, or vascular tissues
+	•	Interagency communications or briefings on the potential for cavitation to be used in crowd control, counterinsurgency, or covert operations
+	•	Contracts or research partnerships with private sector vendors exploring cavitation for defense, intelligence, or law enforcement applications
+
+Keywords: cavitation weapons, ultrasonic cavitation, infrasound lethality, directed energy cavitation, acoustic weapons, JNLWD, DARPA, non-lethal deterrent, crowd control, covert incapacitation
+
+
+//////////
+
+
+To National Institutes of Health (NIH) / Food and Drug Administration (FDA) / National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all studies, internal communications, grant proposals, or regulatory evaluations from January 1, 1990 to present concerning the effects of cavitation phenomena on human or animal health.
+
+This includes:
+	•	Research on ultrasound- or infrasound-induced cavitation and its potential for tissue damage in medical or consumer contexts
+	•	Safety assessments of cavitation in diagnostic ultrasound, lithotripsy, or other therapeutic devices
+	•	Reports of adverse events or complications linked to cavitation in FDA-regulated medical products
+	•	NIST or interagency evaluations of cavitation as an occupational or environmental hazard (e.g. industrial ultrasound, sonar, or energy systems)
+	•	Communications regarding standards development, measurement techniques, or exposure thresholds for cavitation effects on biological tissues
+
+Keywords: cavitation effects, ultrasound safety, infrasound exposure, lithotripsy risks, acoustic cavitation, FDA adverse events, NIST standards, NIH medical research, consumer protection, non-ionizing energy safety
