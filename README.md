@@ -32,6 +32,8 @@ Contents (subject to change at the whim of the universe):
 
 - glossary/ — A lexicon of terms, invented and otherwise
 
+- decay logs/ — Humans require specific conditions for optimal signal output
+
 - felix/ — Files related to the Felix AI epistemology-based interface prototype
 
 - Misc/ — Mostly analysis of Star Trek TNG, DS9, and VOY episodes from a psyop/surveillance capitalism perspective.  Also the occasional leaked doc from z, my informant.
