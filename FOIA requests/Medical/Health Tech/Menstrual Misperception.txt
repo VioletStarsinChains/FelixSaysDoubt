@@ -1,0 +1,35 @@
+To Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC) / Food and Drug Administration (FDA) / Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all records, research proposals, internal communications, or vendor contracts from January 1, 2005 to present concerning augmented reality (AR), virtual reality (VR), or synthetic overlay technologies in the context of reproductive health, menstrual tracking, or pregnancy detection.
+
+This includes:
+	•	Research on the neurological or perceptual effects of AR/VR systems in relation to reproductive health awareness, including menstrual cycle perception and pregnancy detection
+	•	Contracts or pilot programs involving government agencies or private vendors deploying AR overlays or biofeedback systems that may alter user awareness of menstruation, fertility windows, or early pregnancy symptoms
+	•	Communications regarding the ethical, legal, and regulatory implications of technologies that could delay or obscure awareness of pregnancy, with potential downstream effects on access to abortion or reproductive decision-making
+	•	Investigative files or reports related to consumer wearable devices, menstrual tracking apps, or AR-enabled health monitoring tools with impacts on reproductive health data integrity
+	•	Interagency discussions or oversight materials concerning the use of reproductive health data for behavioral modeling, compliance testing, or public health policy design
+
+Keywords: reproductive health AR, menstrual cycle tracking, pregnancy detection, augmented reality overlays, synthetic perception, behavioral modeling, fertility monitoring, abortion access, biofeedback, consumer wearables, DARPA reproductive health
+
+
+///////////
+
+
+To Federal Trade Commission (FTC) / Department of Housing and Urban Development (HUD)
+
+Request:
+
+Requesting any and all records, contracts, consumer complaints, or investigative files from January 1, 2010 to present related to reproductive health applications, menstrual tracking tools, or augmented reality (AR) platforms that may misrepresent, obscure, or manipulate user awareness of menstrual cycles or pregnancy status.
+
+This includes:
+	•	Consumer complaints alleging deceptive practices by menstrual tracking apps, reproductive health wearables, or AR-enabled health monitoring platforms regarding accuracy of cycle or pregnancy detection
+	•	Internal communications or investigations concerning undisclosed use of AR overlays, synthetic perceptual effects, or behavioral modeling systems in reproductive health tools
+	•	Contracts, vendor agreements, or pilot programs involving AR/VR or IoT platforms deployed in the context of reproductive health monitoring, particularly those marketed for menstrual or fertility tracking
+	•	Interagency discussions regarding consumer protection, privacy, and reproductive rights implications of technologies that could delay or obscure awareness of pregnancy
+	•	Reports, audits, or memoranda addressing whether menstrual tracking platforms or AR-enabled health applications are compliant with FTC consumer protection standards, HUD health and housing regulations, or broader federal guidelines on deceptive or harmful digital practices
+
+Keywords: menstrual tracking apps, reproductive health AR, pregnancy detection, augmented reality deception, consumer protection, FTC investigation, HUD health oversight, fertility monitoring, synthetic perception, behavioral modeling, hidden overlays
+
+
