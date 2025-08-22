@@ -31,3 +31,24 @@ This includes:
 	•	Contracts with private vendors, defense contractors, or behavioral analytics firms involved in analyzing population responses during the freeze
 
 Keywords: Texas freeze, attrition simulation, ERCOT, behavioral modeling, rolling outage, compliance testing, survival analysis, behavioral futures markets, resilience data, selective deprivation
+
+
+////////////////
+
+
+PUBLIC HEALTH COVER VERSION
+
+To Centers for Disease Control and Prevention (CDC) / Department of Health and Human Services (HHS) / Federal Emergency Management Agency (FEMA)
+
+Request:
+
+Requesting any and all documents, reports, contracts, or interagency correspondence from 2015 to present concerning federal monitoring of public health outcomes during and after the February 2021 Texas power grid failure and extreme cold weather event.
+
+This includes:
+	•	Records of excess mortality, hospitalization, or morbidity analyses linked to the storm and associated outages
+	•	Reports on health disparities in affected populations, including vulnerable groups (elderly, disabled, unhoused, medically fragile)
+	•	Contracts or agreements with state and local health departments to track emergency room visits, hypothermia cases, and infrastructure-related injuries
+	•	Internal communications regarding federal recommendations for preventing mortality in future cold-weather grid failures
+	•	Research proposals or after-action reviews addressing household- and community-level resilience in relation to prolonged loss of utilities
+
+Keywords: Texas freeze, public health impact, mortality analysis, morbidity, hypothermia, hospitalization, resilience, CDC, HHS, FEMA
