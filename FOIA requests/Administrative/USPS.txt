@@ -29,3 +29,39 @@ This includes:
 	•	Reports evaluating whether digital or phantom delivery records were used to stabilize data integrity across government or commercial address-based systems
 
 Keywords: USPS, phantom delivery, digital substitution, synthetic mail preview, continuity of address datasets, population stability, DHS, Covid-19 continuity, data integrity
+
+
+//////////
+
+
+FOIA – Address Data for Economic Modeling
+
+To: U.S. Census Bureau / Federal Reserve Board of Governors
+
+Request:
+Requesting any and all records, reports, contracts, or interagency communications from 2015 to present concerning the use of USPS address datasets or mail volume data in the production of population estimates, labor force participation data, or economic forecasting models.
+
+This includes:
+	•	Records describing incorporation of USPS address hygiene or delivery datasets into official Census or Federal Reserve models
+	•	Contracts with USPS, technology vendors, or data brokers supplying address-based datasets for statistical use
+	•	Reports evaluating the reliability of address-linked datasets during the Covid-19 pandemic
+	•	Internal analyses discussing continuity of address-level data in the face of population disruption, migration, or mortality
+
+Keywords: USPS address dataset, Census population estimate, Federal Reserve modeling, address hygiene, mail volume, labor force participation, economic forecasting, continuity of data
+
+⸻
+
+FOIA (Spicy Angle – Continuity & Synthetic Population Stability)
+
+To: U.S. Census Bureau / Federal Reserve Board of Governors
+
+Request:
+Requesting any and all records, communications, contracts, or internal analyses from 2019 to present concerning the use of USPS address datasets, phantom delivery records, or synthetic household continuity measures to preserve population-level stability in Census and Federal Reserve modeling during the Covid-19 pandemic.
+
+This includes:
+	•	Records describing reliance on “phantom” address entries or continuity mechanisms to maintain the appearance of stable household counts
+	•	Analyses of synthetic population datasets or substituted delivery records as inputs for labor force participation, unemployment, or demand forecasts
+	•	Communications with USPS or DHS regarding continuity of address-based datasets for economic stability and population integrity
+	•	Reports evaluating whether synthetic or substituted mail records were used to preserve confidence in official population or economic statistics
+
+Keywords: synthetic population, phantom delivery record, continuity of address dataset, Census stability, Federal Reserve forecast, Covid-19 continuity, USPS data integration, household continuity
