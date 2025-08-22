@@ -1,6 +1,17 @@
-To NIH / NIMH
+To NIH / NIMH / DARPA / NSF / FTC / SEC / HUD / DHS / HHS Office for Human Research Protections
 
 Request:
-Funding records and correspondence related to experimental behavioral modeling using nonconsensual signal interference, data harvesting from mentally ill or unhoused populations, and behavioral mapping via NFT-linked biometric data.
+Requesting any and all documents, funding records, contracts, research proposals, internal communications, or vendor partnerships related to the use of non-fungible tokens (NFTs) in behavioral modeling and predictive analytics from 2015 to present.
 
-Keywords: behavioral futures, neuroeconomics, induced inflammation, MCAS simulation cohort, NFT behavior sync
+This includes but is not limited to:
+	•	Pilot studies or funded research involving NFTs as identity anchors for behavioral datasets, particularly when tied to biometric or psychometric measures
+	•	Experimental use of NFTs in predictive modeling of vulnerable populations (mentally ill, unhoused, or disabled cohorts)
+	•	Communications on NFT-linked compliance testing or the use of NFTs to measure response to entrainment stimuli (neurotech, AR overlays, synthetic hallucinations, environmental manipulation)
+	•	Records of NFT integration with federally sponsored neuroeconomics projects or market simulation platforms
+	•	Data-sharing agreements involving NFTs as proxies for human-subject identifiers in behavioral futures markets
+	•	Internal discussions or ethical reviews concerning nonconsensual behavioral tracking tied to digital assets or crypto wallets
+	•	Cross-agency correspondence regarding oversight of NFT marketplaces as behavioral laboratories or environments for covert experimentation
+	•	Reports on adverse events or complaints related to NFT-driven biometric data harvesting or manipulation of housing/employment access
+
+Keywords:
+NFT biometric anchor, behavioral futures markets, predictive modeling, neuroeconomics, signal entrainment, synthetic compliance testing, unhoused populations, digital identity tether, neurotech data harvesting, MCAS simulation, nonconsensual experimentation, SEC crypto oversight
