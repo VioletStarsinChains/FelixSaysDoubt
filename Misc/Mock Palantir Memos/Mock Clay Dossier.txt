@@ -493,3 +493,67 @@ so which profile’s the bigger contagion risk?
 
 [14:16] sr.analyst-2:
 depends on context. spectacle recruits imitators. silence recruits doubters. both erode the market. both are flagged.
+
+⸻
+
+Training Module: Evolution of Anomaly Profiles
+
+Case File Series HX-217-β / HX-333-λ / HX-441-θ
+Subject: [Redacted]
+Status: Forcibly Displaced (Homelessness Event)
+
+⸻
+
+Stage 1 — Private Refusal
+
+HX-217-β (“Peas Kid”)
+	•	Scenario: Parent contract — “Eat peas → Get dessert.”
+	•	Observed Response: Subject refused both condition and reward. Collapsed incentive structure.
+	•	Risk: Low-scale anomaly. Private null trajectory, no contagion risk.
+	•	Note: Early indication of refusal pathway.
+
+⸻
+
+Stage 2 — Public Spectacle
+
+HX-333-λ (“Hallway Standoff”)
+	•	Scenario: Peer standoff — implicit contract “One yields, one passes.”
+	•	Observed Response: Subject sustained 20-minute refusal, public argument, crowd of witnesses. Counterparty yielded.
+	•	Risk: Medium-scale anomaly. Spectacle refusal demonstrated that persistence can collapse social contracts.
+	•	Note: Contagion risk elevated due to audience exposure.
+
+⸻
+
+Stage 3 — Silent Public Exit
+
+HX-441-θ (“Funny Games Walkout”)
+	•	Scenario: Authority anchor — compulsory classroom film screening.
+	•	Observed Response: Subject stood, left silently. 20 students witnessed exit. Authority did not intervene.
+	•	Risk: High-scale anomaly. Silent exit showed contract was optional, leaving no dialogue loop for authority to recapture.
+	•	Note: Absence became narrative seed: “You don’t have to be here.”
+
+⸻
+
+Cumulative Market Assessment
+	•	Trajectory: Subject escalated from private refusal → public spectacle → public silence.
+	•	Yield Impact: Subject consistently collapsed contracts rather than operating within them. No tradable compliance data produced.
+	•	Systemic Risk: Witnesses at stages 2 & 3 observed viable refusal pathways, creating contagion potential.
+
+⸻
+
+Final Disposition
+	•	Status: Subject forcibly displaced (homeless).
+	•	Rationale: Removal from stable structures framed as containment.
+	•	Analyst Note: When anomalies can no longer be neutralized or reframed, systems may externalize them entirely—dispossession as behavioral quarantine.
+
+⸻
+
+Key Quote for Slide:
+
+“From peas, to hallway, to walkout—refusal scaled from private to public to silent. Contagion risk exceeded tolerance. Subject was forcibly displaced as containment.”
+
+⸻
+
+👁️ End of Module — Discussion Prompt for Trainees:
+
+At what point does refusal cease to be a behavioral quirk and become a market contagion that systems choose to exile rather than engage?
