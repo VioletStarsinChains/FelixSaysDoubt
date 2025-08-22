@@ -52,3 +52,78 @@ This includes:
 	•	Research proposals or after-action reviews addressing household- and community-level resilience in relation to prolonged loss of utilities
 
 Keywords: Texas freeze, public health impact, mortality analysis, morbidity, hypothermia, hospitalization, resilience, CDC, HHS, FEMA
+
+
+/////////
+
+
+To Department of Energy (DOE) / National Renewable Energy Laboratory (NREL) / Environmental Protection Agency (EPA) / National Institute of Standards and Technology (NIST) / Consumer Product Safety Commission (CPSC) / Federal Aviation Administration (FAA)
+
+Request:
+
+Requesting any and all documents, studies, contracts, testing protocols, safety bulletins, or internal communications on nanoparticle-based optical coatings used on photovoltaic (PV) modules and related solar glass (e.g., anti‑reflective or reflective coatings) from 2000 to present, including:
+	•	Materials specifications, MSDS/SDS, and chemical composition for nanoparticle coatings applied to PV glass, encapsulants, or backsheets (e.g., TiO₂, ZnO, Al₂O₃, Ag)
+	•	Laboratory and field studies on optical performance (reflectance, anti‑reflection, scattering), glare evaluations (including near airports/highways), and mitigation guidance
+	•	Thermal behavior and hotspot formation analyses associated with nano‑coated PV surfaces under high irradiance
+	•	Fire safety test results, flammability ratings, and emissions characterization during overheating or fire exposure of nano‑coated PV modules
+	•	Environmental fate/transport assessments of nanoparticles released via weathering, abrasion, or fire events; wastewater or air monitoring related to PV facilities
+	•	Incident reports, consumer complaints, or interagency correspondence regarding glare, visual hazards, or heat damage to adjacent materials/vegetation
+	•	Federal procurement specifications and vendor communications for installations referencing nanoparticle optical coatings on PV equipment
+
+Keywords: photovoltaic modules, anti‑reflective coating, nanoparticle coating, TiO2, ZnO, aluminum oxide, silver nanoparticles, glare assessment, hotspot formation, flammability testing, emissions, NREL
+
+⸻
+
+To Department of Energy (DOE) / Department of Homeland Security (DHS) / Defense Advanced Research Projects Agency (DARPA) / Environmental Protection Agency (EPA) / U.S. Department of Agriculture – Forest Service (USFS) / Department of the Interior – Bureau of Land Management (BLM) / Federal Emergency Management Agency (FEMA)
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, risk assessments, incident reports, or interagency communications from 2000 to present concerning reflective or scattering nanoparticle coatings on solar panels (PV modules and related solar glass) as potential ignition hazards or environmental manipulation vectors, including:
+	•	Modeling or testing of engineered reflectance/micro‑lensing from nano‑coated PV surfaces and the resulting thermal hotspots on vegetation or combustible materials
+	•	Incident reports, after‑action reviews, or investigations linking PV reflections or coating behavior to vegetation scorch, structure fires, or wildfire ignition
+	•	Wildland–Urban Interface (WUI) risk assessments for utility‑scale solar farms addressing reflectance‑induced heat concentration, with mitigation policies or siting guidance
+	•	Contracts or proposals exploring nanoparticle‑coated solar surfaces as distributed sensor/taggant arrays and any dual‑use implications for environmental control or crowd management
+	•	Analyses comparing PV nano‑coating reflectance phenomena to concentrated solar power (CSP) mirror hazards (e.g., avian mortality, ignition risks), and any cross‑program lessons learned
+	•	Emissions and toxic byproduct characterization from fires involving nano‑coated PV modules, including nanoparticle release and plume composition
+	•	Internal communications on “directed sunlight” or concentrated reflection effects as a public safety concern, and any coordinated response planning among DOE/DHS/USFS/EPA/BLM/FEMA
+
+Keywords: reflective nanoparticles, PV glare, micro‑lensing, wildfire ignition, WUI risk, TiO2 coating, silver nanoparticles, concentrated reflection, nano‑coated solar panels, environmental entrainment, taggant surfaces, emissions plume
+
+
+/////////////
+
+
+To Department of Energy (DOE) / National Renewable Energy Laboratory (NREL) / Environmental Protection Agency (EPA) / National Institute of Environmental Health Sciences (NIEHS) / Federal Aviation Administration (FAA)
+
+Request:
+
+Requesting any and all documents, studies, contracts, or interagency correspondence from 2000 to present regarding human health and safety impacts of optical emissions from photovoltaic (PV) modules and related solar glass, especially those utilizing nanoparticle-based coatings.
+
+This includes:
+	•	Reports or risk assessments on visual glare, flicker, or stroboscopic effects associated with PV arrays, including effects on circadian rhythms, stress response, or migraine triggers
+	•	Research into spectral distribution of reflected light from nanoparticle coatings (e.g., TiO₂, ZnO, Al₂O₃, Ag) and any potential physiological or neurological outcomes
+	•	Evaluations of polarization patterns from PV panels and their potential influence on visual orientation or pilot safety
+	•	Interagency communications on public health monitoring near utility-scale solar farms
+	•	Consumer complaints or adverse event reports related to glare, visual discomfort, or disorientation from solar panel installations
+
+Keywords: photovoltaic glare, flicker, stroboscopic effect, nanoparticle coating, circadian disruption, spectral distribution, polarization, NREL, DOE, NIEHS
+
+⸻
+
+SPICY VERSION
+
+To Department of Energy (DOE) / Department of Homeland Security (DHS) / Defense Advanced Research Projects Agency (DARPA) / Environmental Protection Agency (EPA) / National Renewable Energy Laboratory (NREL)
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, modeling studies, or interagency correspondence from 2000 to present concerning the use of reflective or scattering nanoparticle coatings on photovoltaic (PV) modules as potential cognitive or behavioral entrainment vectors.
+
+This includes:
+	•	Analyses of PV light modulation (flicker, micro-lensing, stroboscopic patterns) in brainwave-associated frequency ranges (alpha, beta, theta)
+	•	Research into wavelength-specific reflection/scattering to alter mood, affect, or suggestibility in nearby populations
+	•	Evaluations of polarization fields generated by large solar arrays and their influence on stress response or compliance behaviors
+	•	Contracts or proposals exploring nanoparticle coatings as dual-use infrastructure for both energy efficiency and behavioral modeling
+	•	Interagency communications on optical environments as tools for crowd management, entrainment, or cognitive state manipulation
+	•	Incident reports or complaints alleging disorientation, agitation, or abnormal cognitive effects in proximity to PV facilities
+
+Keywords: nanoparticle coating, photovoltaic entrainment, light modulation, brainwave synchronization, behavioral modeling, polarization field, cognitive entrainment, DOE, DHS, DARPA
