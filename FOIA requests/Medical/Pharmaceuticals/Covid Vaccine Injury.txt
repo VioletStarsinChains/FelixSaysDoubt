@@ -1,3 +1,25 @@
+To HHS / FDA (CBER, CDER) / CDC (NCIRD, Immunization Safety Office) / NIH (NIAID, NIDDK) / ASPR (BARDA) / Centers for Medicare & Medicaid Services (CMS) / Department of Veterans Affairs (VHA Pharmacy Benefits Management) / Department of Defense (Defense Health Agency; Operation Warp Speed/Countermeasures Acceleration Group records)
+
+Request:
+
+Requesting any and all records from January 1, 2019 to present that reference, compare, evaluate, or otherwise discuss both COVID‑19 vaccines (including mRNA and adenoviral‑vector platforms) and GLP‑1/incretin‑based therapies (e.g., semaglutide, tirzepatide, liraglutide, dulaglutide, exenatide), without limiting the form or context of the connection.
+
+This includes:
+	•	Pharmacovigilance analyses, signal detection crosswalks, or comparative safety reviews that analyze overlapping adverse event patterns across COVID‑19 vaccines and GLP‑1/incretin therapies (e.g., GI dysmotility, pancreatitis, biliary events, dysautonomia, myocarditis/arrhythmia, kidney injury).
+	•	Briefing memos, meeting minutes, emails, slide decks, or decision documents considering coadministration, sequencing, or timing of GLP‑1 therapy relative to COVID‑19 vaccination, including any immunogenicity or reactogenicity considerations.
+	•	Research proposals, protocols, grants, OTAs/CRADAs, or contractor deliverables examining GLP‑1/incretin effects on immune function, vaccine response, inflammation, fibrosis/remodeling, or autonomic outcomes in post‑viral or vaccinated cohorts.
+	•	Internal or interagency communications addressing supply‑chain integrity, cold‑chain logistics, labeling/lot control, or product integrity risk assessments where COVID‑19 vaccines and GLP‑1/incretin products are mentioned together (e.g., mix‑up prevention, counterfeiting surveillance, track‑and‑trace discussions).
+	•	Guidance, FAQs, safety communications, or provider education discussing management of adverse events or differential diagnosis when patients have exposure histories to both product classes.
+	•	Correspondence with manufacturers (e.g., Pfizer, Moderna, Janssen; Novo Nordisk, Eli Lilly, AstraZeneca) that references both COVID‑19 vaccines and GLP‑1/incretin therapies in the same context, including attachments.
+	•	Data extracts, dashboards, or analyses from VAERS, VSD, Sentinel, CMS, VA, or DoD datasets where variables for vaccination status and GLP‑1/incretin therapy status are modeled together, referenced, or stratified.
+	•	Records concerning product coding (e.g., NDC/lot), barcoding/UDI, or pharmacovigilance case definitions that address methods for distinguishing signals or preventing attribution errors when both product classes are in scope.
+
+Keywords: COVID‑19 vaccine, mRNA vaccine, CBER, VAERS, VSD, Sentinel, GLP‑1 receptor agonist, semaglutide, tirzepatide, pharmacovigilance, coadministration, supply‑chain integrity, product mix‑up
+
+
+///////////////
+
+
 To HHS / FDA (CDER, CBER) / NIH (NIDDK, NHLBI) / CDC (Immunization Safety Office) / ASPR (BARDA) / Department of Veterans Affairs (VHA Pharmacy Benefits Management) / Department of Defense (Defense Health Agency)
 
 Request:
