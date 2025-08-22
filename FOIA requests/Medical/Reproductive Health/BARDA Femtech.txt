@@ -1,0 +1,48 @@
+To: Biomedical Advanced Research and Development Authority (BARDA) / HHS / CDC / NIH
+
+Request:
+
+Requesting any and all research proposals, contracts, internal communications, or pilot program documentation from 2015 to present involving menstrual cycle data, hormonal telemetry, or femtech devices funded or coordinated by BARDA or its DRIVe program.
+
+This includes:
+	•	Use of menstrual cycle tracking in behavioral modeling or psychometric segmentation
+	•	Deployment of femtech wearables for hormonal entrainment, mood mapping, or public health compliance prediction
+	•	Studies linking menstrual irregularity to infection forecasting, stress modeling, or intervention planning
+	•	Communications with femtech startups, digital health platforms, or AI vendors regarding menstrual data analysis
+	•	References to menstrual suppression, modulation, or behavioral entrainment in pandemic-related interventions
+
+Keywords: BARDA, DRIVe, menstrual cycle, femtech, hormonal telemetry, neuroimmune modulation, behavioral prediction, psychometric segmentation, fertility data, public health compliance, digital uterine diagnostics, wearable biosensors
+
+
+///////////
+
+
+To: Department of Health and Human Services (HHS) / Biomedical Advanced Research and Development Authority (BARDA) / Centers for Disease Control and Prevention (CDC) / National Institutes of Health (NIH)
+
+Request:
+
+Requesting any and all documents, internal communications, grant records, vendor contracts, or pilot program documentation from 2015 to present involving the following commercial platforms in relation to menstrual cycle tracking, hormonal telemetry, or fertility-related behavioral modeling:
+
+Vendors of interest:
+	•	Clue
+	•	Flo Health
+	•	Ava Science
+	•	Natural Cycles
+	•	Oura Ring
+	•	Apple Health / Apple ResearchKit
+	•	Whoop
+	•	Fitbit (Google)
+	•	Garmin
+	•	Samsung Health
+
+This includes:
+	•	Data-sharing agreements or API access logs for menstrual, hormonal, or fertility data
+	•	Behavioral segmentation models incorporating menstrual cycle fluctuations or hormonal status
+	•	Federal-funded projects or modeling studies using femtech data for public health compliance or psychometric profiling
+	•	Communications between BARDA, CDC, or NIH and the above vendors regarding mood tracking, menstrual irregularity, or hormonal biomarkers
+	•	Documentation of adverse event monitoring related to menstrual suppression, vaccine-linked amenorrhea, or immune dysregulation
+	•	Records of third-party access to femtech platform data via Palantir, Oracle, or other AI modeling contractors
+
+Keywords: femtech, menstrual cycle tracking, hormonal telemetry, fertility surveillance, psychometric modeling, wearable biosensor, BARDA DRIVe, Flo Health, Clue, Ava, Oura, Apple Health, behavioral segmentation, reproductive compliance
+
+
