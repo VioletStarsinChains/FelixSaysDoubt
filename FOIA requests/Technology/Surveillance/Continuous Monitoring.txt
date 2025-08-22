@@ -1,0 +1,34 @@
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+Cc: National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all documents, regulatory filings, internal communications, or interagency agreements from January 1, 2015 to present, referencing the use of predictive maintenance, reliability engineering, or Failure Mode and Effects Analysis (FMEA) in the oversight of medical device equipment and manufacturing processes.
+
+This includes:
+	•	Correspondence or reports involving Medtronic in connection with equipment reliability, maintenance management, or regulatory compliance.
+	•	Records naming or referencing Matthew Erickson (Principal Equipment Engineer, Medtronic; formerly at 3M and Asset Analytix) in the context of FDA or NIST engagement with predictive maintenance methodologies.
+	•	Documentation of pilot programs, cooperative research, or audits related to predictive maintenance or continuous improvement practices in medical device manufacturing.
+	•	Records assessing the application of asset management tools (such as Maximo or SAP) for equipment reliability in regulated healthcare environments.
+
+Keywords: Medtronic, Matthew Erickson, predictive maintenance, reliability engineering, FMEA, continuous improvement, asset management, Maximo, SAP, regulatory compliance, CDRH, NIST
+
+
+//////////
+
+
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+Cc: Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all documents, contracts, internal communications, compliance reports, or interagency agreements from January 1, 2015 to present, referencing the application of predictive maintenance, reliability engineering, or Failure Mode and Effects Analysis (FMEA) in relation to medical device development, monitoring, or regulatory compliance.
+
+This includes:
+	•	Correspondence or agreements involving Medtronic, 3M, or Asset Analytix Inc., particularly in relation to predictive analytics, asset management, or regulatory compliance systems.
+	•	Records naming or referencing Matthew Erickson (Principal Equipment Engineer at Medtronic; formerly Senior Equipment Engineer at Medtronic, Client Success Manager at Asset Analytix, and Reliability/Asset Management Specialist at 3M) in the context of federal oversight, government partnerships, or technology transfer.
+	•	Documentation of pilot programs or cooperative research involving predictive maintenance methodologies applied to healthcare, neurotechnology, or behavioral monitoring systems.
+	•	Reports, risk assessments, or evaluations linking predictive analytics in medical device manufacturing to federal security, surveillance, or defense-related initiatives.
+	•	Records of contracts, grants, or cooperative research agreements involving the above entities and agencies such as DARPA, IARPA, or DoD medical branches.
+
+Keywords: Medtronic, 3M, Asset Analytix, Matthew Erickson, predictive maintenance, reliability engineering, FMEA, asset management, regulatory compliance, continuous monitoring, technology transfer, DARPA, CDRH
