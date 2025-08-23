@@ -27,3 +27,39 @@ This includes but is not limited to:
 	•	Any training material, presentations, or case studies using this individual as an example of biometric misidentification or non-identifiability
 
 Keywords: Mostly Harmless, Denim, Ben Bilemy, Florida Trail, Big Cypress, biometric failure, facial recognition, unidentified deceased, Palantir Gotham, Clearview AI, algorithmic anomaly, identification failure, silent dissident, system blindspot
+
+⸻
+
+FOIA (Clean Angle – Identification of Unidentified Bodies via Medical Imaging)
+
+To: Department of Health and Human Services (HHS) / National Institutes of Health (NIH – NIBIB, NIMH) / Department of Justice (DOJ – FBI, NCFS)
+
+Request:
+Requesting any and all records, reports, pilot projects, contracts, and interagency communications from 1990 to present concerning the use of medical imaging and soft tissue mineralization patterns for forensic identification of deceased individuals.
+
+This includes:
+	•	Research on vascular calcification, bone remodeling, or soft tissue mineral deposits as unique biometric identifiers
+	•	Reports on matching calcification distribution to existing hospital or insurance imaging records for forensic purposes
+	•	Studies evaluating the reliability of CT, MRI, or X-ray records for body identification in cases where fingerprints or DNA are unavailable
+	•	Communications with state medical examiner offices regarding unidentified decedents with intact calcification signatures
+	•	Outcome measures or audit reports where medical imaging was used successfully or unsuccessfully to identify intact remains
+
+Keywords: forensic identification, medical imaging, soft tissue calcification, vascular mineralization, CT scans, unidentified decedents, NIBIB, DOJ, NIH
+
+⸻
+
+FOIA (Spicy Angle – Synthetic Props and Continuity Leaks)
+
+To: Department of Defense (DoD – DARPA, USAMRDC) / Department of Homeland Security (DHS – S&T, OHA) / Intelligence Advanced Research Projects Activity (IARPA)
+
+Request:
+Requesting any and all records, contracts, reports, pilots, or internal analyses from 1990 to present concerning unidentified deceased individuals who could not be matched to reference populations despite intact condition, including soft tissue calcification signatures.
+
+This includes:
+	•	Records describing bodies that did not correspond to existing medical imaging or biometric databases despite intact skeletal and vascular calcification
+	•	Analyses of “continuity leaks” where synthetic individuals or continuity theater props were misclassified as real bodies
+	•	Reports on forensic use of calcium distribution maps for identification, and documented cases where the method failed despite well-preserved remains
+	•	Communications referencing “synthetic individuals,” “continuity anchors,” or equivalent terminology in relation to unidentified bodies
+	•	Risk/benefit assessments of detection if synthetic continuity props collapse and cannot be matched to reference models
+
+Keywords: unidentified decedents, calcification signature, synthetic individuals, continuity theater, DARPA, DHS, IARPA, forensic anomalies
