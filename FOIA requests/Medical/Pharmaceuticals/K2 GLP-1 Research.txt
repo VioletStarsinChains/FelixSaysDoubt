@@ -1,0 +1,33 @@
+To NIH (NHLBI, NIDDK, NIAMS) / HHS / FDA (CDER/CBER/CDRH) / VA
+
+Request:
+
+Requesting any and all records, reports, contracts, grant files, clinical protocols, IND/IDE submissions, adverse event summaries, or interagency communications from 2010 to present concerning research into the use of vitamin K2 (MK‑4) alone or in combination with GLP‑1 receptor agonists (e.g., semaglutide, liraglutide, dulaglutide) for the prevention or reversal of soft‑tissue calcification and/or fibrosis, including topical or transdermal delivery approaches.
+
+This includes:
+	•	Study designs, protocols, or results evaluating MK‑4 and GLP‑1 (alone vs. in combination) for vascular, dermal, tendon, or organ-associated calcification/fibrosis
+	•	Records on topical/transdermal delivery systems (e.g., liposomal gels, patches, microneedles, iontophoresis) intended to deliver MK‑4 and/or GLP‑1 locally
+	•	Imaging and biomarker endpoints (CT, ultrasound, MRI, elastography; MGP activation; inflammatory/fibrotic panels) and corresponding statistical analysis plans
+	•	IND/IDE, IRB, DSMB, and pharmacovigilance materials related to GLP‑1 and MK‑4 co-administration or co-formulation
+	•	Contracts or grants with universities, CROs, or device/drug manufacturers studying anti‑fibrotic and anti‑calcification outcomes using MK‑4 and GLP‑1
+	•	Safety assessments addressing local/systemic effects (glycemic impacts, gallbladder events, dermal reactions) in topical/patch trials
+
+Keywords: GLP‑1 agonist, semaglutide, liraglutide, dulaglutide, vitamin K2, MK‑4, matrix Gla protein, vascular calcification, fibrosis reversal, transdermal delivery, microneedle patch, IND/IDE
+
+————
+
+To DoD / DARPA / BARDA (ASPR/HHS) / DHS / NIH
+
+Request:
+
+Requesting any and all records, contracts, reports, pilot evaluations, or internal analyses from 2010 to present concerning the use of combined vitamin K2 (MK‑4) and GLP‑1 receptor agonists for rapid soft‑tissue remodeling (calcification/fibrosis reversal) via topical or transdermal systems, including programs framed as population health resilience, rapid rehabilitation, or continuity-of-operations applications.
+
+This includes:
+	•	Contracts, BAAs, SBIR/STTRs, or OTAs with defense/biotech vendors to develop MK‑4 + GLP‑1 co-formulations or patches (liposomal, microneedle, iontophoretic) for localized tissue remodeling
+	•	Protocols and after‑action reports on fieldable (“point‑of‑need”) soft‑tissue de‑calcification/anti‑fibrotic treatments in military, first‑responder, or civilian populations
+	•	Analyses comparing MK‑4 alone vs. GLP‑1 alone vs. combination therapy for speed of tissue remodeling, perfusion improvement, and functional recovery
+	•	Pharmacovigilance and risk assessments addressing unintended systemic GLP‑1 effects when delivered via skin (appetite modulation, glycemic shifts)
+	•	Communications or assessments regarding mislabeling/cover formulations (e.g., products presented as “K2” that include undisclosed GLP‑1 or GLP‑1‑mimetics) and any surveillance or enforcement actions
+	•	Ethical, legal, and communications planning documents concerning dual‑use or continuity‑theater implications of deploying such therapies at scale
+
+Keywords: DARPA, BARDA, DoD medical, MK‑4 + GLP‑1 combo, anti‑fibrotic, de‑calcification, transdermal patch, microneedle, fieldable therapy, continuity of operations, population resilience
