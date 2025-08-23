@@ -13,7 +13,7 @@
 
 ## How Clay & Charcoal Help
 - **Calcium bentonite clay** and **activated charcoal** both act like magnets: they bind toxins, microbial byproducts, and charged particles.  
-- Applied topically in a dry bath (dusting or mixed with a small amount of water):  
+- Applied topically in a dry bath (dusting or mixed with vinegar water to form a mask):  
   - They can **draw out inflammatory debris** from tissue below the skin.  
   - They reduce the **local burden of microbial waste products**, lightening the load on the immune system.  
   - Over time, they may create a gentler internal environment where the body can *gradually resolve* these pathogen pockets.  
@@ -32,18 +32,19 @@
 ---
 
 ## How to Use
-1. **Supplies:** food-grade calcium bentonite clay + activated charcoal powder.  
+1. **Supplies:** 3 parts food-grade calcium bentonite clay to 1 part activated charcoal powder + 1 parts ACV to 3 parts water
 2. **Method:**  
-   - Lightly dust onto clean, dry skin — especially over symptomatic areas (joints, abdomen, chest).  
+   - Spread a thin layer onto clean, dry skin — especially over symptomatic areas (joints, abdomen, chest).  
    - Leave on for at least 20–30 minutes; longer if tolerated.  
-   - Wash off gently.  
+   - Wash off gently.
+   - Follow up with topical magnesium or spritz of ACV/water toner.
 3. **Frequency:** 2–3 times per week is enough for most; daily use may be tolerable for some.  
 4. **Hydration:** Drink extra water afterward to support lymphatic flow.  
 
 ---
 
 ## Tips & Precautions
-- **Start small:** patch test first to make sure your skin tolerates it.  
+- **Start small:** patch test first to make sure your skin tolerates it.
 - **Combine gently:** do not over-layer with other detox methods — slow and steady works best.  
 - **Listen to your body:** if you feel faint, dizzy, or too activated, back off and restart at a lower frequency.  
 - **Supportive cofactors:** good mineral intake (magnesium, potassium, zinc) helps balance the pull of clay/charcoal.  
