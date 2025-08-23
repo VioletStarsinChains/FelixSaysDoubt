@@ -1,0 +1,31 @@
+To NIH (NIMH, NINDS), NSF, DARPA, IARPA, HHS
+
+Request:
+
+Requesting any and all records, grants, contracts, study protocols, reports, data, and interagency communications from 2000 to present concerning research into population‑level or “collective” memory modulation, including memory reconsolidation, attentional/temporal entrainment, and media/AR‑based recall shaping.
+
+This includes:
+	•	Funded projects and proposals on memory reconsolidation and large‑scale recall/attitude change (e.g., timing, rhythm, audio/visual cadence, narrative sequencing)
+	•	Experiments using broadcast/stream timing, push‑notification cadence, or LED/visual ambience to influence memory salience or recall accuracy
+	•	AR/VR or “overlay” studies assessing effects on recognition, logo/brand recall, and historical/event memory updates
+	•	Public communication trials (e.g., PSAs, “prebunking”/debunking) measuring memory drift, persistence, or correction at scale
+	•	Outcome measures, statistical plans, and ethics/IRB documentation related to population memory modulation
+
+Keywords: collective memory, memory reconsolidation, attentional entrainment, temporal entrainment, AR overlays, narrative timing, prebunking, misinformation correction, DARPA, IARPA, NIMH, NSF
+
+————
+
+To DoD (SOCOM/MISO, OUSD(R&E)), DHS (CISA), ODNI/IARPA, FCC
+
+Request:
+
+Requesting any and all records, contracts, reports, pilots, after‑action reviews, or internal analyses from 2000 to present concerning the use of entrainment infrastructure (broadcast/stream timing, asset substitution, AR overlays, street/municipal lighting, push‑alert cadence) to adjust collective memory at population scale, including analyses referencing or characterizing the “Mandela Effect.”
+
+This includes:
+	•	Records describing “memory patching,” AR/asset swaps (logos, captions, map labels), or synchronized re‑issuance of digital artifacts to harmonize public recall
+	•	A/B tests or operations that measure memory drift, update compliance, or recall overwrite following coordinated timing/overlay interventions
+	•	Coordination with platforms, broadcasters, or device OEMs to standardize color temperature, filters, or default assets to steer recognition/recall
+	•	Detection/containment playbooks for continuity leaks (conflicting memories), including explicit references to the “Mandela Effect” as a monitoring signal
+	•	Legal/ethics, risk assessments, and comms plans for population‑level memory adjustment activities
+
+Keywords: continuity theater, memory patching, Mandela Effect, population entrainment, AR retcon, asset substitution, cognitive security, PSYOP/MISO, CISA, FCC, IARPA
