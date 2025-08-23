@@ -31,3 +31,21 @@ This includes:
 	•	Ethical reviews or risk assessments regarding intentional exposure of trail populations to hazardous conditions for predictive or market purposes
 
 Keywords: behavioral futures, risk modeling, Appalachian Trail, disappearances, DARPA, IARPA, DHS, mortality forecasting, predictive analytics
+
+⸻
+
+FOIA (Sidecar – Insurance Partnerships & Trail Mortality Data)
+
+To: Department of Health and Human Services (HHS – CMS) / Department of the Treasury / Securities and Exchange Commission (SEC) / Federal Insurance Office (FIO)
+
+Request:
+Requesting any and all records, contracts, memoranda of understanding, reports, and interagency communications from 1990 to present concerning partnerships between federal agencies and private insurance or reinsurance firms related to mortality, injury, or disappearance data from the Appalachian Trail and associated trail systems.
+
+This includes:
+	•	Records of insurance industry access to mortality, medical emergency, or disappearance data on federally managed trails
+	•	Communications regarding the use of trail incident data for underwriting, actuarial models, or risk-pricing
+	•	Reports or contracts involving reinsurance firms, hedge funds, or financial market actors using trail mortality/disappearance data in predictive models
+	•	Analyses of whether mortality/disappearance events in high-risk outdoor recreation environments are used as inputs for behavioral futures markets or related financial instruments
+	•	Oversight or ethics reviews regarding the sharing of trail mortality data with financial or insurance entities
+
+Keywords: insurance partnerships, reinsurance, actuarial models, Appalachian Trail mortality, risk forecasting, behavioral futures, Treasury, SEC, CMS, FIO
