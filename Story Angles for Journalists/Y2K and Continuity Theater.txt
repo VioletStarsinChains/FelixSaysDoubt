@@ -1,9 +1,0 @@
-Remember Y2K? The problem wasn’t that computers would explode at midnight — it was that they’d suddenly stop knowing what year it was. The whole economy runs on dates and schedules, so if those numbers got scrambled, everything else would start to fall apart.
-
-Now imagine the same kind of problem, but instead of broken dates, you’ve got missing people. After Covid, millions of people died or dropped out of normal life. The economy doesn’t just need money to move — it needs people-shaped flows: bus riders, shoppers, patients, workers. If too many of those flows vanish, the whole machine risks stalling out, just like Y2K.
-
-That’s where digital twins come in. Think of them as the ‘patch’ — stand-in versions of missing people that keep the system running. They don’t have to be perfect; they just have to keep swiping metro cards, filling shopping carts, and clicking ‘buy.’ It’s like ghost traffic filling the streets so the lights don’t blink out.
-
-But here’s the catch: just like programmers had to constantly update and test systems for Y2K, digital twins need constant fresh data so they don’t drift away from reality. That’s what a lot of today’s invasive biosurveillance is really about. It’s not just watching you in particular — it’s harvesting enough real signals to keep all those digital ghosts moving in step with the world.
-
-So when you see cameras everywhere, or wearables tracking heartbeats, or wastewater being tested — it’s less about catching you individually and more about maintaining the scaffolding. The surveillance feeds the twins. The twins keep the economy from crashing. It’s continuity theater: making the machine look alive even if a lot of the gears inside are missing.

@@ -1,0 +1,11 @@
+Think back to Y2K. The worry wasn’t that computers would explode at midnight. The problem was that a lot of old systems stored the year with only two digits. When the clock rolled over from ‘99’ to ‘00,’ the systems would think it was 1900, not 2000. That tiny error could have crashed banks, hospitals, airlines — everything that depended on dates lining up.
+
+Now fast forward to after Covid. Millions of people are gone, but the economy doesn’t just run on money; it runs on people-shaped flows: commuters on buses, shoppers at stores, patients in hospitals. If too many of those flows vanish at once, the system can seize up just like Y2K.
+
+So what’s the patch? Digital twins — stand-in versions of people that keep the signals moving. They don’t have to be perfect; they just need to keep the lights on: fake swipes at metro gates, ghost shopping carts, phantom clicks online.
+
+Here’s where the ‘Ding Dong Ditch’ metaphor comes in. Remember that kid’s prank? You ring someone’s doorbell and run away. The bell still rings, the homeowner still reacts — but nobody’s actually there. That’s what digital twins do for the economy: they keep the ‘doorbells’ ringing so the system believes people are still around, even if the porch is empty.
+
+And all the biosurveillance we see now — wearables, cameras, even wastewater testing — that’s like wiring every house with high-tech doorbells and motion sensors. Not so much to catch the prankster, but to make sure the bells keep ringing. As long as there’s noise at the door, the neighborhood looks alive.
+
+In other words: Y2K was a patch for broken dates. Digital twins are a patch for missing people. And biosurveillance is the doorbell network that keeps the Ding Dong Ditch illusion going, so continuity theater can hold the whole thing together.
