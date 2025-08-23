@@ -32,15 +32,15 @@
 ---
 
 ## How to Use
-1. **Supplies:** 3 parts food-grade calcium bentonite clay to 1 part activated charcoal powder + 1 parts ACV to 3 parts water
+1. **Supplies:** 3 parts food-grade calcium bentonite clay to 1 part activated charcoal powder + 1 parts ACV to 3 parts water + spray bottle
 2. **Method:**  
-   - Spread a thin layer onto clean, dry skin — especially over symptomatic areas (joints, abdomen, chest).  
+   - Mix clay and charcoal; then spritz with ACV/water solution until it forms a paste. (Mix with fingers or NON-METALLIC tool.  Do not mix or store calcium bentonite clay in a metallic container.)
+   - Spread a thin layer onto clean, dry skin — especially over symptomatic areas (joints, liver, sinuses, lymph nodes, throat).  
    - Leave on for at least 20–30 minutes; longer if tolerated.  
    - Wash off gently.
    - Follow up with topical magnesium or spritz of ACV/water toner.
 3. **Frequency:** 2–3 times per week is enough for most; daily use may be tolerable for some.  
 4. **Hydration:** Drink extra water afterward to support lymphatic flow.  
-
 ---
 
 ## Tips & Precautions
