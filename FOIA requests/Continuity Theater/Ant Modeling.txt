@@ -1,0 +1,31 @@
+FOIA (Clean Angle – Ant Colony Data & Human Crowd Modeling)
+
+To: National Science Foundation (NSF) / Department of Energy (DOE) / Department of Transportation (DOT) / DARPA
+
+Request:
+Requesting any and all records, grants, contracts, research reports, or interagency communications from 2000 to present concerning the use of ant colony data or ant-based simulation models to study, predict, or replicate human crowd or traffic dynamics.
+
+This includes:
+	•	Federally funded studies comparing ant trail formation, foraging patterns, or congestion dynamics to human pedestrian, vehicle, or evacuation movement
+	•	Reports on ant colony optimization algorithms applied to transportation networks, crowd safety, or urban design
+	•	Communications between federal agencies and academic or private researchers on translating ant behavioral data to human behavioral prediction systems
+	•	Technical evaluations of the scalability of ant-based modeling to human social or economic systems
+
+Keywords: ant colony optimization, swarm intelligence, collective behavior, pedestrian modeling, crowd dynamics, traffic flow, NSF, DARPA, DOE, DOT
+
+⸻
+
+FOIA (Spicy Angle – Ant Behavior as Continuity Theater Architecture)
+
+To: Department of Defense (DoD) / DARPA / Department of Homeland Security (DHS) / Intelligence Advanced Research Projects Activity (IARPA)
+
+Request:
+Requesting any and all records, contracts, reports, or internal analyses from 2000 to present concerning the use of ant colony behavioral data as a template for continuity theater or simulation-layer crowd management systems.
+
+This includes:
+	•	Records describing ant colony data sets used to design synthetic human nodes or prop populations in simulation environments
+	•	Reports on entrainment protocols derived from swarm dynamics (ant pheromone trails → human crowd herding, alignment, and convergence)
+	•	Communications about ant-based modeling as a basis for continuity theater props (e.g., convergence of synthetic agents around anomalies)
+	•	Analyses explicitly comparing “ant-like” distributed systems to human behavioral futures markets, continuity of operations, or simulation frameworks
+
+Keywords: ant colony modeling, swarm intelligence, continuity theater, synthetic crowds, prop convergence, behavioral futures, DARPA, IARPA, DoD, DHS
