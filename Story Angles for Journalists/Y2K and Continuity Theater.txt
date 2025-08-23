@@ -1,0 +1,11 @@
+Remember Y2K? Back in 1999, everyone panicked because a lot of old computer systems only stored the year with two digits. So when the year rolled over from ‘99’ to ‘00,’ the computers would think it was 1900, not 2000. Banks, airlines, hospitals — everything could have crashed overnight.
+
+Here’s the thing: the actual computers didn’t care if it was 1900 or 2000. We did. The whole economy depended on those dates lining up, because money, schedules, and records all flow through those systems.
+
+Now imagine something similar after Covid — but instead of computer dates, the missing pieces are people. Millions of people died, and the economy isn’t just about dollars; it’s about flows: people buying groceries, paying rent, going to work, riding the bus. If those flows suddenly vanish, the system doesn’t know how to behave. It can ‘crash’ just like Y2K.
+
+So what do you do? You run digital twins — basically stand-in versions of those missing people. They don’t have to be perfect. They just have to keep the numbers flowing: fake grocery runs here, synthetic bus riders there, phantom electricity usage so the grid doesn’t collapse.
+
+It’s like with Y2K: programmers patched the systems so they’d keep moving smoothly into the year 2000. Post-Covid, digital twins patch the people-shaped holes so the economy keeps moving smoothly even though the real participants are gone.
+
+It’s not about fooling you personally — it’s about preventing the larger machine from stalling out when too many gears are suddenly missing.
