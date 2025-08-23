@@ -40,3 +40,23 @@ X tapped the screen, the corner of their mouth twitching. “If every time we wr
 Barron’s doodle pen slipped from his hand. For the first time, he wasn’t sure if they were joking anymore.
 
 ⸻ 
+
+X sat with his chin propped on one hand, glaring at the GitHub screen like it had personally offended him. “You know what the worst part is?” he said.
+
+Barron looked up from his doodle. “The fact that two hundred randos want to steal your grocery lists?”
+
+“No.” X closed the laptop with a snap. “It’s my name. Every time I see it on a graph or a file path, I want to throw up. It doesn’t even sound like a name. It sounds like… like somebody’s Wi-Fi password.”
+
+Barron smirked. “So what, you want me to give you a normal one?”
+
+“Anything. Literally anything.”
+
+Barron tapped his pen against the notepad, then said, with absolutely no hesitation: “Ratboy.”
+
+X blinked. “Ratboy?”
+
+“Yeah. It fits. You’ve got the vibe. Smart, twitchy, probably steals snacks when no one’s looking. Every team needs a Ratboy.”
+
+For a second X looked like he was about to protest. Then the corners of his mouth betrayed him, curling upward despite himself. “…Fine. Ratboy it is. But only if you’re the one who calls me that.”
+
+Barron leaned back, satisfied. “Done. Now, Ratboy, let’s figure out why your repo is being cloned like it’s the cure for cancer.”
