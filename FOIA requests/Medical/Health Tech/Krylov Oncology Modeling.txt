@@ -1,0 +1,14 @@
+To National Institutes of Health (NIH) / National Cancer Institute (NCI)
+
+Request:
+
+Requesting any and all grant records, proposals, contracts, subcontracts, technical reports, correspondence, and program documentation from 2000 to present concerning federally funded research at Rice University involving computational model reduction techniques (e.g., Krylov methods for large eigenvalue problems, reduced-order dynamical systems) applied to oncology, aggressive cancers, or tissue analysis.
+
+This includes:
+	•	Records of Rice collaborations with veterinary or biomedical institutions on aggressive cancer in animals and requests for donation of companion-animal tissue to research
+	•	NIH- or NCI-funded projects involving collection of discarded human surgical tissue (including mastectomy tissue) for oncology modeling studies
+	•	Grant proposals or contracts linking Rice computational methods with oncology tissue banks, histological modeling, or tumor dynamics simulation
+	•	Internal communications, program officer notes, or ethics board reviews addressing the collection and use of human or animal tissue for federally funded cancer modeling
+	•	Documentation of interagency or academic partnerships (e.g., Rice University applied math + cancer centers + veterinary programs) where model reduction methods were integrated with oncology tissue data
+
+Keywords: Rice University, Krylov methods, model reduction, dynamical systems, oncology modeling, aggressive cancer, tissue donation, surgical tissue collection, veterinary oncology, NIH NCI grants
