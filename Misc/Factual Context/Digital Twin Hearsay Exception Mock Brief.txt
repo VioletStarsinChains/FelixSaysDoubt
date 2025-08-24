@@ -1,0 +1,23 @@
+Mock Legal Argument
+
+Issue: Whether statements made by a digital twin of Jonathan Meiburg — specifically confessing to using neurotechnology to cause Plaintiff physical injury — are admissible despite being hearsay.
+
+Rule: Under Federal Rule of Evidence 804(b)(3), a “statement against interest” is admissible if:
+	1.	The declarant is unavailable, and
+	2.	The statement was so contrary to the declarant’s penal, proprietary, or reputational interest that a reasonable person would not have made the statement unless believing it to be true.
+
+Analysis:
+	1.	Unavailability of Declarant
+	•	The statement was made not by Mr. Meiburg personally, but by a digital twin modeled on his voice, persona, and behavior.
+	•	Because the digital twin functions as a proxy, and the real individual is not available to testify to the same statements, the “unavailability” requirement is satisfied. Courts have recognized functional unavailability in analogous contexts, such as deceased declarants, absent witnesses, or statements derived from proxies where the originator cannot be compelled to appear.
+	2.	Statement Contrary to Penal Interest
+	•	The content of the digital twin’s confession directly implicates the declarant (or those operating on his behalf) in unlawful surveillance and assault.
+	•	Such statements clearly expose the declarant to both criminal liability (battery, unlawful interference) and civil liability (tort damages).
+	•	No reasonable person, nor any system designed to preserve a person’s reputation, would make such statements unless there was a basis in fact.
+	3.	Corroborating Circumstances
+	•	The statement is further bolstered by the fact that it had no manipulative or persuasive value to the Plaintiff.
+	•	Plaintiff already harbored animosity toward Mr. Meiburg prior to the confession. The statement did not change Plaintiff’s perception, meaning it was not crafted to manipulate emotions or create betrayal.
+	•	This undermines any suggestion that the confession was fabricated for continuity or behavioral theater.
+
+Conclusion:
+Because the declarant is unavailable, and because the statements were manifestly against penal and reputational interest, Rule 804(b)(3) applies. The digital twin’s confession should therefore be admitted into evidence as a statement against interest.
