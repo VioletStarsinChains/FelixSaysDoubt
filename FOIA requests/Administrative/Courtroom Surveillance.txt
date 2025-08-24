@@ -1,0 +1,15 @@
+To Department of Homeland Security (DHS) / Federal Protective Service (FPS); Department of Justice (DOJ) / Administrative Office of the U.S. Courts (AOUSC); General Services Administration (GSA)
+
+Request:
+
+Requesting any and all procurement records, contracts, pilot project documentation, technical assessments, internal communications, and interagency correspondence from 2000 to present concerning the deployment or evaluation of WLAN/WiFi-based surveillance or monitoring systems in federal courthouses or courtrooms.
+
+This includes:
+	•	Records describing systems that leverage existing WiFi/WLAN infrastructure to detect presence, movement, or physiological changes (e.g., posture, fidgeting, breathing) without the use of cameras
+	•	Technical assessments or vendor proposals for dual-signal comparison techniques designed to monitor occupants of specific courtroom areas, including the jury box
+	•	Documentation of pilot projects or security enhancements funded under courthouse security programs that involved non-camera, RF-based sensing or entrainment monitoring
+	•	Contracts or agreements with vendors holding patents or applications for ambient WiFi surveillance technologies
+	•	Risk assessments, ethics reviews, or internal discussions on the implications of monitoring juror attentiveness, emotional state, or group behavior through such systems
+	•	Interagency correspondence with DHS S&T, DARPA, or IARPA regarding the use of RF/WiFi sensing in courtroom environments
+
+Keywords: WiFi surveillance, WLAN monitoring, ambient RF sensing, dual-signal comparison, jury box monitoring, courtroom security system, non-camera biosurveillance, federal courthouse, behavioral monitoring, entrainment pilot
