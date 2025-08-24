@@ -1,3 +1,20 @@
+This request seeks to clarify whether federal AI programs have used life-simulation gameplay data as a proxy for modeling human behavior. Given the scale of participation in such games and the potential distortion of AI systems trained on environments where cruelty toward simulated agents is normalized, disclosure is clearly in the public interest.
+
+
+To: DARPA, IARPA, DoD Chief Digital and AI Office, DHS S&T, NIH (NIMH/NINDS), and National AI Research Resource Task Force (NAIRR)
+
+Request:
+All records, contracts, datasets, research proposals, and correspondence from 2000–2025 concerning:
+	1.	The collection, acquisition, or use of gameplay telemetry data from simulation-based video games (e.g., The Sims, Second Life, Minecraft, SimCity, or comparable titles) for training artificial intelligence systems.
+	2.	Any references to the use of such gameplay data to model human social behavior, decision-making, emotional regulation, or ethical reasoning.
+	3.	Records identifying whether these datasets were incorporated into federally sponsored AI programs, including but not limited to DARPA/IARPA projects, defense intelligence models, or the National AI Research Resource.
+	4.	Studies, audits, or ethical reviews acknowledging risks that gameplay-derived data (including intentional harm to simulated agents) may distort AI models of human behavior toward patterns of cruelty, dominance, or control.
+	5.	Interagency coordination with defense contractors, academic institutions, or game publishers concerning licensing or anonymization of player data for AI training purposes.
+
+Keywords: gameplay telemetry, simulation dataset, The Sims, Second Life, Minecraft, SimCity, life simulation game, agent-based modeling, social simulation, AI training corpus, behavioral modeling, synthetic agents
+
+⸻ 
+
 This request seeks to determine whether mass-market video games have been integrated into federally sponsored neurotechnology or behavioral futures programs in ways that allowed unknowing civilian participants — including children — to inflict or experience real harm under the guise of “entertainment.” Given the scale of participation and the precedent of Ender’s Game as a military training parable, disclosure is a matter of urgent public interest.
 
 ⸻ 
@@ -37,5 +54,3 @@ All records, contracts, funded studies, and correspondence from 2000–2025 conc
 	•	Dual-use of video game telemetry for military or intelligence operations.
 
 Keywords: The Sims, Ender’s Game, synthetic population engine, unconscious torture participation, civilian interface, dual-use entertainment, gamified continuity, neurotechnology overlay, behavioral entrainment
-
-
