@@ -12,3 +12,42 @@ This includes:
 	•	Risk assessments, oversight reviews, or Inspector General evaluations regarding errors, omissions, or silent exclusions in jury summons systems
 
 Keywords: jury pool exclusion, jury management system, silent ineligibility, administrative designation, non-person entity, NPE, voter roll integration, DMV data cross-matching, jury duty summons suppression
+
+⸻ 
+
+To Department of Homeland Security (DHS) / Office of Intelligence & Analysis (I&A); Department of Justice (DOJ) / Office of Legal Policy (OLP)
+
+Request:
+
+Requesting any and all records, internal communications, interagency correspondence, contracts, or program documentation from 2000 to present concerning the use of federal security designations, watchlists, or administrative classifications to determine eligibility for jury service in federal or state courts.
+
+This includes:
+	•	Records describing whether individuals flagged under federal programs (e.g., watchlists, “non-person entity” [NPE] designations, or other administrative codes) are silently excluded from jury duty pools
+	•	Any agreements or correspondence between DHS, DOJ, and the Administrative Office of the U.S. Courts (AOUSC) or state jury administration offices concerning cross-matching jury eligibility with federal databases
+	•	Technical documentation of data-sharing mechanisms (between jury management systems, voter/DMV databases, and federal security lists) used to filter potential jurors
+	•	Oversight reports, Inspector General reviews, or risk assessments of erroneous exclusions or civil liberties impacts tied to such cross-matching
+	•	Vendor or contractor records describing the integration of federal security data into jury summons workflows
+
+Keywords: jury pool exclusion, jury eligibility, silent ineligibility, administrative designation, non-person entity, NPE, watchlist, DHS cross-matching, DOJ data integration, jury duty suppression
+
+⸻ 
+
+To General Services Administration (GSA) / Federal Acquisition Service (FAS); Administrative Office of the U.S. Courts (AOUSC) / Procurement
+
+Request:
+
+Requesting any and all contracts, task orders, statements of work, technical proposals, data dictionaries, interface control documents, user/admin manuals, configuration guides, change orders, test plans, defect/issue logs, and vendor correspondence from 2000 to present related to acquisition, deployment, or maintenance of jury management systems (JMS) or modules that determine jury eligibility or summons generation.
+
+This includes:
+• Vendor-submitted or government-authored business rules describing eligibility filters, suppression logic, and exclusion workflows (e.g., “do not summon,” “permanent excusal,” “administrative hold,” “suppress,” “inactive,” “ineligible”)
+• Data schemas / field maps / code lists identifying exclusion categories or flags (including any references to external security or administrative designations such as “NPE”/non‑person entity)
+• API/integration specifications and data-sharing agreements for ingesting voter/DMV rolls and cross‑matching with federal/state datasets (e.g., watchlists or other administrative lists) that influence summons eligibility
+• Pilot project documentation or acceptance tests involving automated eligibility filtering, silent exclusion, or bulk suppression of potential jurors
+• Security assessments, privacy impact assessments, and ethics/oversight reviews addressing risks of erroneous or undisclosed exclusions
+• All vendor names providing JMS or related eligibility/summons modules under GSA Multiple Award Schedule or other procurement vehicles, with associated deliverables (manuals, data dictionaries, configuration artifacts) that define exclusion logic
+
+Keywords: jury management system, JMS, jury eligibility, summons generation, exclusion code, silent exclusion, suppression flag, permanent excusal, administrative hold, non‑person entity, NPE, data dictionary, API integration, AOUSC, GSA MAS, contractor deliverables
+
+
+
+
