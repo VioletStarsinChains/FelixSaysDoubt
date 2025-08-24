@@ -1,0 +1,54 @@
+To Department of Homeland Security (DHS) / Science & Technology Directorate (S&T); Defense Advanced Research Projects Agency (DARPA); Intelligence Advanced Research Projects Activity (IARPA)
+
+Request:
+
+Requesting any and all procurement records, contracts, licensing agreements, research proposals, technical evaluations, internal communications, and interagency correspondence from 2000 to present relating to the development, acquisition, or use of WLAN/WiFi-based surveillance systems that detect motion or environmental changes by comparing multiple transmitted and received signals.
+
+This includes:
+	•	Records describing patents or patent applications for systems that leverage existing wireless infrastructure (WLAN/WiFi) to provide surveillance or intruder-detection capabilities
+	•	Technical assessments of methods relying on signal path changes between transmitters and receivers to identify human movement, breathing, or other physical presence
+	•	Research or pilot projects where ambient wireless networks were repurposed for biosurveillance, human tracking, or intrusion monitoring in public or federal facilities
+	•	Documentation of cost-benefit analyses emphasizing low computational load and no need for high spectral purity in such systems
+	•	Vendor agreements or procurement files related to commercial or academic patents describing these surveillance methods
+	•	Risk assessments, ethics reviews, or programmatic discussions regarding non-camera, RF-based sensing for continuous monitoring of people in secure or civilian environments
+
+Keywords: WLAN surveillance, WiFi motion detection, ambient RF sensing, dual-signal comparison, intruder alarm, biosurveillance, through-wall detection, low-cost surveillance, non-camera monitoring, patent licensing
+
+⸻ 
+
+To Federal Communications Commission (FCC) / Office of Engineering and Technology (OET)
+
+Request:
+
+Requesting any and all experimental licenses, equipment authorizations, technical filings, correspondence, or program documentation from 2000 to present concerning the use of WLAN/WiFi infrastructure for surveillance or motion detection purposes, specifically methods relying on the comparison of multiple transmitted and received signals to detect changes in the physical environment.
+
+This includes:
+	•	Records of experimental authorizations or testbed approvals for systems using WiFi signals to track human movement, breathing, or presence through environmental changes
+	•	Equipment authorization filings or Part 15 compliance documents mentioning non-standard surveillance or motion-detection uses of WLAN hardware
+	•	Technical assessments or risk analyses of dual-signal comparison techniques that enable low-cost, low-computation intruder detection or biosurveillance
+	•	Interagency correspondence (with DHS, DARPA, IARPA, or DOD) regarding spectrum compliance or licensing of WiFi-based surveillance systems
+	•	Records of patents or patent-related disclosures submitted to the FCC involving ambient RF sensing, through-wall detection, or non-camera motion monitoring
+	•	Safety or consumer impact evaluations relating to the repurposing of commercial WiFi infrastructure for covert monitoring
+
+Keywords: WLAN surveillance, WiFi motion detection, ambient RF sensing, intruder alarm, dual-signal comparison, through-wall detection, FCC experimental license, Part 15, non-camera biosurveillance, patent licensing
+
+⸻ 
+
+To United States Patent and Trademark Office (USPTO) / Office of Policy and International Affairs (OPIA)
+
+Request:
+
+Requesting any and all records, assignments, licensing agreements, correspondence, and government-interest statements from 2000 to present concerning patents or patent applications describing the use of WLAN/WiFi infrastructure for surveillance, intruder detection, or motion sensing by comparing transmitted and received signals.
+
+This includes:
+	•	Records of patents or applications where WiFi/WLAN equipment is repurposed to detect environmental changes, movement, or biosurveillance signals
+	•	Assignment records showing transfer of ownership or rights to federal agencies, contractors, or federally funded research institutions
+	•	Government-interest statements or disclosures indicating federal funding or contractual support in connection with such patents
+	•	Records of licensing agreements or procurement arrangements between the USPTO, other federal agencies, and patent holders involving WLAN/WiFi surveillance technologies
+	•	Interagency correspondence with DHS, DARPA, IARPA, DOD, or FCC referencing the licensing or use of such patents for federal surveillance or monitoring purposes
+	•	Oversight, compliance, or audit records relating to the classification, export control, or dual-use status of these patents
+
+Keywords: WLAN surveillance, WiFi motion detection, ambient RF sensing, dual-signal comparison, intruder alarm, through-wall detection, biosurveillance, patent licensing, government interest, assignment records
+
+
+
