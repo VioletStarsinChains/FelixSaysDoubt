@@ -16,3 +16,18 @@ Keywords: synthetic traffic, continuity theater, fuel demand anomalies, gas pric
 
 ⸻
 
+To U.S. Department of Energy / Energy Information Administration (EIA) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting all reports, audits, contracts, and communications from 2005–present regarding the potential use of synthetic vehicle traffic or artificial demand inputs to stabilize gasoline pricing in the face of declining real-world fuel consumption.
+
+This includes:
+	•	Records comparing reported gasoline demand with actual fuel sales, refinery output, and traffic volume data
+	•	Internal analyses addressing unexplained stability of gas prices despite significant demographic changes, excess mortality, or reduced commuter activity
+	•	Communications discussing the use of drone vehicles, AR continuity overlays, or simulated traffic flows as factors in transportation or energy demand modeling
+	•	Vendor contracts or task orders related to generating synthetic demand data for integration into federal or state energy reports
+	•	Oversight or Inspector General documents referencing concealed demand inputs, continuity theater, or data laundering in fuel consumption statistics
+	•	Memos on whether apparent gas price stability may function as a national continuity signal to mask large-scale population attrition
+
+Keywords: synthetic demand, continuity theater, fuel price manipulation, population attrition, drone traffic, AR overlays, gas price stability, energy data laundering, EIA anomalies, FTC oversight
