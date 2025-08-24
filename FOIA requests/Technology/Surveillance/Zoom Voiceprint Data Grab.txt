@@ -1,0 +1,36 @@
+FOIA Request: Remote Learning/Work Platforms and Biometric Data Retention
+
+To: Department of Education (Office of Educational Technology), Department of Health and Human Services (Office of the National Coordinator for Health IT), General Services Administration (Technology Transformation Services), and National Institute of Standards and Technology (NIST)
+
+Request:
+Requesting any and all contracts, memoranda of understanding, internal communications, or reports from 2019 to present concerning the use of remote communication platforms (including but not limited to Zoom, Microsoft Teams, Google Meet, Cisco WebEx) in relation to biometric data collection, retention, or analysis during the Covid-19 pandemic.
+
+This includes:
+	•	Records of agreements with platform providers concerning audio, video, or transcription data storage
+	•	Internal analyses of biometric identifiers (voice, facial recognition, behavioral analytics) captured during remote schooling or remote work
+	•	Reports on compliance with federal biometric and privacy standards (NIST frameworks, FISMA, HIPAA, FERPA)
+	•	Communications between DOE, HHS, GSA, and platform vendors regarding data security, biometric extraction, or retention timelines for recorded sessions
+	•	Research projects or funded studies exploring biometric analysis of remote learning/work recordings during or after the Covid-19 pandemic
+
+Keywords: Zoom, Microsoft Teams, Google Meet, Cisco WebEx, biometric data, voiceprint, facial recognition, remote learning, remote work, Covid-19, NIST, FERPA, HIPAA
+
+⸻ 
+
+FOIA Request: Remote Communication Data and Digital Twin Modeling
+
+To: Department of Defense (Defense Advanced Research Projects Agency – Biological Technologies Office; Information Innovation Office), Department of Homeland Security (Office of Intelligence and Analysis), National Security Agency (Research Directorate), Office of the Director of National Intelligence (IARPA)
+
+Request:
+Requesting any and all contracts, research proposals, reports, or internal communications from 2019 to present concerning the use of remote communication platforms (Zoom, Microsoft Teams, Google Meet, Cisco WebEx) for purposes of digital twin modeling, population surveillance, or synthetic continuity simulation during or following the Covid-19 pandemic.
+
+This includes:
+	•	Projects modeling individual or collective digital twins using audio, video, or transcription data from remote schooling and remote work sessions
+	•	Records concerning extraction of voiceprints, facial biometrics, or behavioral telemetry from civilian users of remote platforms
+	•	Analyses of population-scale synthetic continuity simulations derived from remote communication data
+	•	Contracts with universities, defense contractors, or technology firms to process, annotate, or model biometric and behavioral data captured during remote sessions
+	•	Internal communications on the use of remote communication data for predictive modeling, anomaly detection, or behavioral futures markets
+
+Keywords: digital twin, synthetic continuity, behavioral futures, voiceprint, facial biometrics, remote schooling, remote work, Covid-19, DARPA, IARPA
+
+
+
