@@ -1,0 +1,14 @@
+To Administrative Office of the U.S. Courts (AOUSC); [Your State] Judicial Council / Office of Jury Administration
+
+Request:
+
+Requesting any and all records, policies, internal communications, contracts, or program documentation from 2000 to present concerning criteria, classifications, or administrative designations that result in individuals being excluded from jury duty pools without notice to the individual.
+
+This includes:
+	•	Records describing automatic ineligibility flags (beyond the commonly known categories such as felony convictions, non-citizenship, or lack of voter/DMV registration) that prevent a person from ever being randomly summoned
+	•	Any mention of designations such as “non-person entity” (NPE) or similar administrative codes that would suppress jury eligibility
+	•	Technical documentation of the data integration process (voter registration, DMV records, federal databases) that governs how jury pools are created, and how exclusions are applied
+	•	Correspondence with external contractors or federal agencies (e.g., DHS, DOJ) concerning data cross-matching for jury eligibility
+	•	Risk assessments, oversight reviews, or Inspector General evaluations regarding errors, omissions, or silent exclusions in jury summons systems
+
+Keywords: jury pool exclusion, jury management system, silent ineligibility, administrative designation, non-person entity, NPE, voter roll integration, DMV data cross-matching, jury duty summons suppression
