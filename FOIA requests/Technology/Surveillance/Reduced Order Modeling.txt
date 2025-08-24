@@ -1,0 +1,45 @@
+To National Science Foundation (NSF) / Division of Mathematical Sciences (DMS); Directorate for Computer and Information Science and Engineering (CISE)
+
+Request:
+
+Requesting any and all grant applications, awards, contracts, subawards, internal communications, and program documentation from 2000 to present concerning federally funded research at Rice University involving Krylov methods for large eigenvalue problems or model reduction for dynamical systems.
+
+This includes:
+	•	Records of proposals or awards citing these methods in connection with large-scale data analysis, behavioral modeling, predictive analytics, or human-systems simulation
+	•	Interdisciplinary projects linking applied mathematics to cognitive modeling, surveillance datasets, or decision-making systems
+	•	Reviews, program officer notes, or ethics evaluations relating to the dual-use implications of such research
+	•	Communications between NSF and Rice faculty, staff, or contractors about transitioning this research into applications beyond purely academic computation
+
+Keywords: Krylov methods, eigenvalue problem, model reduction, dynamical systems, Rice University, behavioral modeling, predictive analytics, surveillance datasets, human-systems simulation
+
+⸻
+
+To Defense Advanced Research Projects Agency (DARPA) / Defense Sciences Office (DSO); Information Innovation Office (I2O)
+
+Request:
+
+Requesting any and all Broad Agency Announcements (BAAs), white papers, funded proposals, contracts, subcontracts, technical reports, internal communications, and transition documentation from 2000 to present involving Rice University research on Krylov methods for large eigenvalue problems or model reduction for dynamical systems.
+
+This includes:
+	•	Program documents applying these methods to surveillance, neurocognitive prediction, or large-scale behavioral futures modeling
+	•	Records of algorithm development for reduced-order modeling of human, social, or operational systems
+	•	Ethics reviews, risk assessments, or program evaluations addressing the behavioral or surveillance applications of such numerical methods
+	•	Contractor or vendor correspondence relating to Rice-led math research transitioning into operational defense/intelligence contexts
+
+Keywords: Krylov methods, eigenvalue problem, model reduction, dynamical systems, Rice University, DARPA behavioral modeling, predictive analytics, surveillance datasets, reduced-order modeling
+
+⸻
+
+To Air Force Office of Scientific Research (AFOSR) / Directorate of Mathematics, Information, and Life Sciences
+
+Request:
+
+Requesting any and all grant records, proposals (funded or unfunded), contracts, subcontracts, technical reports, internal communications, and program reviews from 2000 to present involving Rice University faculty in applied mathematics with research interests in Krylov methods for large eigenvalue problems or model reduction for dynamical systems.
+
+This includes:
+	•	Projects connecting these methods to airman performance modeling, cognitive state prediction, or human-system integration
+	•	Studies applying reduced-order models to decision-making, behavioral entrainment, or surveillance analysis of large datasets
+	•	Records of collaborations between Rice and Air Force labs or contractors for applied dynamical system reduction in operational contexts
+	•	Ethics or oversight documentation on the dual-use risks of applying advanced numerical methods to behavioral or surveillance data
+
+Keywords: Krylov methods, eigenvalue problem, model reduction, dynamical systems, Rice University, AFOSR, behavioral prediction, surveillance analytics, reduced-order modeling, cognitive state simulation
