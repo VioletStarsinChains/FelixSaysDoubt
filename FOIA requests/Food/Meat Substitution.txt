@@ -1,0 +1,85 @@
+This request seeks to clarify whether, during periods of livestock die-offs and pandemic supply stress, federal policy or practice allowed undisclosed species substitution or labeling flexibilities to preserve the appearance of normal meat and seafood availability. Given sustained public claims that “the food supply is normal,” any internal recognition of widespread substitution or relaxed enforcement is a matter of urgent public interest.
+
+
+FOIA 1 — USDA FSIS (meat/poultry), plus USDA FNS (school meals)
+
+To:
+	•	USDA Food Safety and Inspection Service (FSIS), FOIA Office
+	•	cc: USDA Food and Nutrition Service (FNS) FOIA (re school meal procurements)
+
+Timeframe: January 1, 2019 – present (through August 24, 2025)
+
+Request:
+Please provide all records, datasets, lab reports, audits, non-compliance records, notices of intended enforcement, and correspondence concerning:
+	1.	Species identification and substitution in meat/poultry products (raw and processed), including testing, surveillance, or investigations referencing DNA barcoding, mitochondrial COI, PCR, ELISA, LC-MS markers, or equivalent methods.
+	2.	Economically motivated adulteration involving meat/poultry species swaps or blended proteins (e.g., bovine/porcine/equine, domestic/imported substitutions), including import inspection findings and PHIS data summaries.
+	3.	Any pandemic or mass-mortality period adjustments to inspection, sampling, HACCP verification, or labeling enforcement policies tied to livestock culls, animal disease outbreaks, or supply shortfalls.
+	4.	Contracts/MOUs/communications with packers, distributors, cold storage operators, and retailers addressing continuity of meat supply, protein blending, allowable substitutions, or temporary labeling flexibilities.
+	5.	FNS procurement and vendor guidance regarding protein specifications, allowable substitutions, emergency waivers, and audit results for school meal programs (NSLP/SBP) related to species identity and labeling.
+	6.	Country of origin labeling (COOL) enforcement memos, exception policies, or suspension/relief decisions that could impact species or origin transparency during supply disruptions.
+
+Keywords: species substitution, DNA barcoding, mitochondrial COI, PCR species ID, ELISA species ID, LC-MS markers, PHIS, economically motivated adulteration, COOL, emergency waiver, HACCP verification, blended protein, rendered protein, mechanically separated, import refusal, detention, Lineage Logistics, Americold, Sysco, US Foods, North American Meat Institute, FMI
+
+Format & fees: Electronic, searchable format; itemized indices. Request fee waiver due to public interest in food integrity during national emergencies.
+
+⸻
+
+FOIA 2 — FDA CFSAN/ORA (seafood and non-FSIS foods; restaurant/retail)
+
+To:
+	•	FDA Center for Food Safety and Applied Nutrition (CFSAN) FOIA
+	•	cc: FDA Office of Regulatory Affairs (ORA) FOIA (field labs and import ops)
+
+Timeframe: January 1, 2019 – present
+
+Request:
+All records, testing data, compliance actions, import refusals, warning letters, and correspondence concerning:
+	1.	Species mislabeling/substitution in seafood and other FDA-regulated proteins (e.g., fish swaps, undeclared species in processed foods), including DNA barcoding programs, surveillance results, and method validation.
+	2.	Pandemic-era enforcement adjustments for species identity and labeling (compliance discretion, temporary labeling flexibilities, emergency guidance to industry).
+	3.	Import screening and detentions tied to species substitution, adulteration, or origin misdeclaration; any trade partner communications on protein identity during supply constraints.
+	4.	Retail and restaurant oversight memos, surveillance sweeps, or coordinated operations regarding mislabeled protein at point of sale.
+	5.	Interagency coordination with USDA, DHS, FEMA, and state partners on maintaining protein supply continuity where species substitution risks were identified.
+
+Keywords: seafood substitution, fish mislabeling, DNA barcoding, COI sequences, economically motivated adulteration, import refusal, import alert, ICSMS, PREDICT, compliance discretion, retail surveillance, menu labeling, blended protein
+
+Format & fees: Electronic, searchable; fee waiver requested in the public interest.
+
+⸻
+
+FOIA 3 — DHS/FEMA (continuity contracts; dual-use cold chain)
+
+To:
+	•	DHS FOIA Office
+	•	FEMA FOIA Office
+
+Timeframe: January 1, 2019 – present
+
+Request:
+All contracts, MOUs, contingency plans, situation reports, and correspondence regarding:
+	1.	Continuity of the national protein supply during pandemic/disaster periods, including any guidance that contemplated species substitution or blended protein to maintain volume.
+	2.	Engagements with grocery chains, distributors, and cold-storage providers (e.g., Lineage Logistics, Americold, national retailers) covering dual-use of refrigerated facilities for emergency purposes that could impact food storage, labeling, or public perception.
+	3.	Risk assessments addressing odor control, contamination risk, public messaging, or reputational risk from emergency use of cold chain infrastructure near retail settings.
+	4.	Interagency coordination with USDA and FDA on labeling enforcement, consumer disclosures, and inspection coverage during surge operations affecting protein identity.
+
+Keywords: continuity of operations, cold chain, emergency procurement, mass fatality surge, refrigerated trailer, dual-use infrastructure, protein supply continuity, public messaging, odor containment, private sector coordination
+
+Format & fees: Electronic, searchable; fee waiver requested.
+
+⸻
+
+FOIA 4 — DoD DLA Troop Support (government feeding contracts)
+
+To:
+	•	Defense Logistics Agency (DLA) Troop Support FOIA
+
+Timeframe: January 1, 2019 – present
+
+Request:
+All solicitations, contracts, supplier specs, test results, non-conformance reports, and correspondence related to:
+	1.	Species identity verification for meat/seafood supplied under DLA Troop Support contracts (DNA species testing, acceptance criteria, non-conformances).
+	2.	Emergency or pandemic-era substitutions or relaxed specifications for protein products.
+	3.	Supplier communications about protein shortages, substitutions, blended products, or labeling changes used to meet delivery obligations.
+
+Keywords: species verification, DNA testing, substitution, blended protein, emergency procurement, spec deviation, quality audit, corrective action
+
+Format & fees: Electronic, searchable; fee waiver requested.
