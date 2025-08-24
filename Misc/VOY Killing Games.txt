@@ -98,6 +98,29 @@ Let's zoom into The Killing Game character arcs as if each were a different attr
 
 ⸻
 
+7. Harry Kim – The “System Node” Under Siege
+	•	Simulation role: He is one of the only senior officers not fully immersed in the holodeck identity resets. He stays largely in his own role, managing ship systems and trying to keep Voyager intact under Hirogen control.
+	•	Mechanic: He becomes the “keystone” holding the real infrastructure together while everyone else is trapped in fabricated identities. He’s not prey in the game — he’s the environmental anchor.
+	•	Attrition angle:
+	1.	Stress Test of Support Nodes: In real-world attrition sims, a critical target is not the visible leaders or frontline fighters, but the logistics officer — the person who keeps life-support and continuity going under impossible stress. Kim embodies that.
+	2.	Undermining Morale by Isolation: Unlike Janeway, Seven, or Chakotay, Kim doesn’t even get the illusion of heroism or agency in the holodeck. He’s isolated, running damage control, continually told he’s failing, and forced to keep patching a system that’s not meant to hold. This is attrition-by-hopeless-maintenance.
+	3.	The Analyst’s Mirror: In a sense, Kim is the stand-in for the analyst themselves — trapped outside the “game,” watching scenarios cycle endlessly, responsible for stability but never allowed a decisive move. His breakdown curve is the most predictive datapoint in the whole sim.
+
+⸻
+
+Voyager Outcome
+	•	Kim stays at his post, under-recognized and overwhelmed, but he keeps the ship together long enough for the crew to eventually retake control.
+	•	His arc demonstrates a paradox: the system’s weakest point is also its most resilient node. You can’t easily attrit someone whose whole identity is built on “enduring thankless maintenance.”
+
+⸻
+
+Meta-Significance
+	•	If Janeway is the hero under fatigue, Seven the identity under erosion, and Chakotay the leader under co-option, then Harry Kim is the analyst under attrition.
+	•	His survival shows that even when the “game” breaks every visible leader, an overlooked system node can carry the entire environment on their back.
+	•	That makes Kim’s role the most important from a simulation-control perspective — the Hirogen keep the holodeck running only because Harry is forced to maintain the real ship.
+
+⸻
+
 Meta-Frame
 	•	Janeway = testing leadership endurance.
 	•	Seven = testing identity stability.
