@@ -1,0 +1,53 @@
+To FDA / Center for Food Safety and Applied Nutrition (CFSAN)
+
+Request:
+
+Requesting any and all documents, internal communications, research proposals, or vendor contracts relating to the use of coatings, additives, or embedded compounds in ceramic mugs, brewing devices, or single-cup coffee systems (including Clover machines) deployed in commercial coffee chains such as Starbucks, from 2005 to present.
+
+This includes:
+	•	Records concerning smart pigments or photoactive coatings applied to ceramic mugs or brewing surfaces, particularly those that alter visibility under UV/IR light
+	•	Safety evaluations of hydrophilic/hydrophobic nanocoatings and their potential to retain or release chemical residues
+	•	Vendor agreements referencing bioreactive polymer coatings (enzyme, antibody, or aptamer functionalization) on mug interiors or brewing equipment
+	•	Any testing of transparent conductive oxides (e.g., ITO, graphene films) on food-contact surfaces for sensing or data collection purposes
+	•	Documents on mineral or nanoparticle additives (e.g., silica, titanium dioxide, nanodiamonds) dispensed through single-cup brewing systems
+	•	Risk assessments of targeted beverage modification based on consumer identification (loyalty apps, card data, or biometric recognition)
+	•	Reports of unusual residue patterns in mugs or customer complaints tied to additive films or coatings
+
+Keywords: smart pigments, photoactive coatings, bioreactive polymers, hydrophilic nanocoating, transparent conductive oxide, graphene film, nanodiamond additive, biosurveillance coffee, Clover brewing system, consumer entrainment
+
+⸻
+
+To NSF / Directorate for Engineering (ENG); Directorate for Mathematical & Physical Sciences (MPS); Directorate for Computer & Information Science & Engineering (CISE)
+
+Request:
+
+Requesting any and all solicitations, proposals (funded or unfunded), awards, sub‑awards, contracts, grants, internal communications, safety reviews, Institutional Review Board (IRB) determinations, technology‑transfer documents, and correspondence with private entities regarding research, prototyping, or commercialization of coatings or additives intended for use on food‑contact ceramics or beverage systems (e.g., café mugs and single‑cup brewers) from 2005 to present, with emphasis on materials that enable sensing, tagging, or human‑factors entrainment.
+
+This includes:
+• Records referencing smart pigments / photoactive coatings (UV/IR‑responsive, photochromic/thermochromic) on ceramic or enamel surfaces
+• Research on hydrophilic/hydrophobic patterning or selective wetting that creates residue signatures or film deposition in cups
+• Work on transparent conductive oxides, graphene, or conductive polymers used as electrodes/sensors on glazed surfaces
+• Studies of bioreactive polymer coatings (antibody/aptamer/enzyme‑functionalized) for saliva/metabolite capture from drinkware
+• Projects using quantum dots, upconversion nanoparticles, photonic crystals, metasurfaces, or SERS substrates for optical readout on mugs or brewers
+• Human‑subjects or HCI studies on behavioral entrainment via beverage additives, optical cues, or material‑mediated effects
+• Communications with commercial partners in hospitality/coffee service (including Starbucks/Clover systems) regarding transition or pilot deployments
+
+Keywords: smart pigments, photoactive coatings, hydrophilic patterning, transparent conductive oxide, graphene film, bioreactive polymer, aptamer surface, quantum dots, upconversion nanoparticles, photonic crystal, SERS substrate, Clover brewing
+
+——
+
+To DARPA / Defense Sciences Office (DSO); Microsystems Technology Office (MTO); Biological Technologies Office (BTO); Information Innovation Office (I2O)
+
+Request:
+
+Requesting any and all Broad Agency Announcements (BAAs), topic descriptions, white papers, proposals (funded or not), contracts, subcontracts, program reviews, internal communications, test reports, IRB/ethics determinations, technology‑transition plans, and correspondence with private entities concerning coatings, surface treatments, or beverage‑borne additives applied to food‑contact ceramics or café brewing systems for sensing, tagging, data collection, or human‑state modulation, from 2005 to present.
+
+This includes:
+• Documents on smart pigments / photoactive coatings designed for covert optical readout (UV/IR excitation, photochromic/thermochromic) on mugs or brewers
+• Development of metasurface barcodes, photonic crystals, quantum dots, upconversion nanoparticles, or plasmonic/SERS films on ceramic substrates
+• Integration of ITO/graphene or conductive polymers for impedance, capacitance, or electrochemical sensing of saliva, metabolites, or ionic content
+• Bioreactive/affinity coatings (enzyme/antibody/aptamer) intended to capture biomarkers from drinkware contact
+• Studies on targeted beverage modification or micro‑dosing tied to identity systems (loyalty apps, POS data, facial recognition)
+• Technology‑transition or pilot‑deployment records with commercial coffee chains or equipment vendors (e.g., Starbucks/Clover)
+
+Keywords: smart pigments, photoactive coatings, metasurface barcode, photonic crystal, quantum dots, upconversion nanoparticles, SERS film, transparent conductive oxide, graphene electrode, bioreactive coating, targeted dosing, Clover system
