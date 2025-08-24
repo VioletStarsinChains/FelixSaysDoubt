@@ -1,0 +1,73 @@
+This request seeks to clarify whether simulation-based video games have been used as recruitment or screening pipelines for future intelligence or surveillance personnel, by leveraging player behavior data as a proxy for aptitude. This is a matter of public interest given the scale of participation in such games and the potential for covert recruitment pathways.
+
+FOIA — Simulation Games as Recruitment Pipeline
+
+To: DARPA, IARPA, DoD Human Performance Directorate, Office of Naval Research (ONR), and DHS S&T
+
+Request:
+All records, studies, contracts, or correspondence from 2000–2025 concerning:
+	1.	The use of simulation-based video games (e.g., The Sims, SimCity, Second Life, Minecraft, or comparable titles) as tools for identifying or recruiting individuals with skills relevant to surveillance, intelligence analysis, or population modeling.
+	2.	Any research projects evaluating whether gameplay behaviors (e.g., managing virtual populations, exerting control over simulated agents, or optimizing environments) can serve as predictors of aptitude for military, intelligence, or behavioral analysis careers.
+	3.	Interagency coordination with universities, contractors, or game publishers regarding the use of gameplay data or competitions as recruitment or screening mechanisms.
+	4.	Reports, memos, or policy reviews discussing the ethical implications of using commercial entertainment platforms as recruitment pipelines without explicit participant awareness.
+
+Keywords: simulation game recruitment, behavioral screening, gamer telemetry, The Sims, SimCity, Second Life, Minecraft, surveillance aptitude, intelligence analysis recruitment, population modeling
+
+⸻ 
+
+This request seeks to clarify whether federal AI programs have used life-simulation gameplay data as a proxy for modeling human behavior. Given the scale of participation in such games and the potential distortion of AI systems trained on environments where cruelty toward simulated agents is normalized, disclosure is clearly in the public interest.
+
+
+To: DARPA, IARPA, DoD Chief Digital and AI Office, DHS S&T, NIH (NIMH/NINDS), and National AI Research Resource Task Force (NAIRR)
+
+Request:
+All records, contracts, datasets, research proposals, and correspondence from 2000–2025 concerning:
+	1.	The collection, acquisition, or use of gameplay telemetry data from simulation-based video games (e.g., The Sims, Second Life, Minecraft, SimCity, or comparable titles) for training artificial intelligence systems.
+	2.	Any references to the use of such gameplay data to model human social behavior, decision-making, emotional regulation, or ethical reasoning.
+	3.	Records identifying whether these datasets were incorporated into federally sponsored AI programs, including but not limited to DARPA/IARPA projects, defense intelligence models, or the National AI Research Resource.
+	4.	Studies, audits, or ethical reviews acknowledging risks that gameplay-derived data (including intentional harm to simulated agents) may distort AI models of human behavior toward patterns of cruelty, dominance, or control.
+	5.	Interagency coordination with defense contractors, academic institutions, or game publishers concerning licensing or anonymization of player data for AI training purposes.
+
+Keywords: gameplay telemetry, simulation dataset, The Sims, Second Life, Minecraft, SimCity, life simulation game, agent-based modeling, social simulation, AI training corpus, behavioral modeling, synthetic agents
+
+⸻ 
+
+This request seeks to determine whether mass-market video games have been integrated into federally sponsored neurotechnology or behavioral futures programs in ways that allowed unknowing civilian participants — including children — to inflict or experience real harm under the guise of “entertainment.” Given the scale of participation and the precedent of Ender’s Game as a military training parable, disclosure is a matter of urgent public interest.
+
+⸻ 
+
+To: DARPA, IARPA, DoD Human Performance Directorate, NIH (NIMH/NINDS), and DHS S&T
+
+Request:
+All records, contracts, funded studies, and internal correspondence from 2000–2025 concerning:
+	1.	The use of commercial or entertainment simulation platforms (including but not limited to The Sims, other life-simulation games, or training simulators) as testbeds for:
+	•	Distributed neurotechnology arrays.
+	•	Behavioral modeling and prediction.
+	•	Non-consensual human-subject stimulation, affect regulation, or pain induction.
+	2.	Any projects comparing gameplay interactions (e.g., controlling avatars, inducing suffering/reward in simulated characters) with real-time neurostimulation effects on human participants.
+	3.	Research or operational use of children or unknowing civilians as participants in such systems, where game actions may be mapped onto live human subjects without explicit awareness.
+	4.	Reports, risk assessments, or ethical reviews referencing “Ender’s Game” scenarios — i.e., training or experimental frameworks where participants believe they are interacting with simulations but are in fact impacting real people.
+	5.	Studies or proposals linking entertainment platforms with military training, psychological operations, or continuity theater applications, including the use of gamified interfaces to recruit, distract, or mask operator participation.
+
+Keywords: life simulation game, The Sims, Ender’s Game scenario, hidden human subjects, behavioral modeling, neurostimulation array, distributed torture, unconscious participation, gamification, civilian interface
+
+⸻ 
+
+To: DARPA, IARPA, DoD Human Performance Directorate, NIH (NIMH/NINDS), DHS S&T, and Office of Naval Research (ONR)
+
+Request:
+All records, contracts, funded studies, and correspondence from 2000–2025 concerning:
+	1.	The use of commercial video games and simulation platforms (e.g., The Sims, Minecraft, Second Life, or comparable systems) as operational interfaces for distributed neurotechnology experiments or arrays.
+	2.	Any programs where civilian or child participants engaged with game environments under the belief they were controlling simulated characters, when in fact their actions were mapped to real human subjects for stimulation, stress induction, or behavioral shaping (“Ender’s Game scenario”).
+	3.	Internal assessments, audits, or correspondence regarding:
+	•	The risk of public discovery that mass-market games were serving as cover layers for live experiments.
+	•	The psychological impact on civilian participants if they were later made aware of their unwitting role in inflicting harm.
+	•	Legal or ethical exemptions sought to shield agencies or contractors from liability.
+	4.	Contracts, research notes, or cross-agency memoranda addressing integration of commercial entertainment platforms with continuity theater infrastructure — e.g., games used as “synthetic population engines” to animate background behaviors in controlled environments.
+	5.	Any records referencing the following concepts in connection with entertainment platforms:
+	•	Unwitting participation in torture or coercion.
+	•	Gamified population management.
+	•	Synthetic agents controlled through civilian interfaces.
+	•	Dual-use of video game telemetry for military or intelligence operations.
+
+Keywords: The Sims, Ender’s Game, synthetic population engine, unconscious torture participation, civilian interface, dual-use entertainment, gamified continuity, neurotechnology overlay, behavioral entrainment
