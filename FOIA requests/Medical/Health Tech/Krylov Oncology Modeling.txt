@@ -12,3 +12,20 @@ This includes:
 	•	Documentation of interagency or academic partnerships (e.g., Rice University applied math + cancer centers + veterinary programs) where model reduction methods were integrated with oncology tissue data
 
 Keywords: Rice University, Krylov methods, model reduction, dynamical systems, oncology modeling, aggressive cancer, tissue donation, surgical tissue collection, veterinary oncology, NIH NCI grants
+
+⸻ 
+
+To Department of Energy (DOE) / Office of Science (Advanced Scientific Computing Research; Biological and Environmental Research)
+
+Request:
+
+Requesting any and all grant records, contracts, subcontracts, technical reports, proposals (funded or unfunded), program reviews, internal communications, and interagency correspondence from 2000 to present concerning federally funded research at Rice University involving computational model reduction methods (e.g., Krylov methods for large eigenvalue problems, reduced-order modeling of dynamical systems) applied to oncology or tissue analysis.
+
+This includes:
+	•	Records of Rice collaborations using DOE-funded supercomputing or high-performance computing resources for tumor growth modeling, cancer progression simulation, or tissue dynamics
+	•	Projects involving analysis of donated animal tissue (including veterinary oncology cases of aggressive cancer) or discarded human surgical tissue (e.g., mastectomy tissue) in federally supported modeling studies
+	•	Documentation of Rice partnerships with cancer centers, hospitals, or veterinary programs where computational dynamical system reduction was integrated with oncology tissue data
+	•	Internal DOE program reviews or oversight materials addressing the dual-use implications of reduced-order modeling in oncology and biomedical contexts
+	•	Correspondence between DOE, Rice University, and NIH/NCI regarding joint funding of computational oncology projects involving tissue donation or aggressive cancer studies
+
+Keywords: Rice University, Krylov methods, model reduction, dynamical systems, oncology modeling, DOE Office of Science, tissue donation, surgical tissue collection, veterinary oncology, aggressive cancer, supercomputing, reduced-order modeling
