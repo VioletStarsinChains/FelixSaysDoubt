@@ -1,0 +1,70 @@
+Mock Complaint: Negligent Infliction of Emotional Distress
+
+Plaintiff: [Staffer / Analyst / Employee]
+Defendant: [Employer – OpenAI / DoD Contractor / Supervising Agency]
+
+⸻
+
+Jurisdiction & Venue
+
+Plaintiff brings this action pursuant to state tort law governing negligence and emotional distress, as Defendant is headquartered and conducts operations in this jurisdiction.
+
+⸻
+
+Factual Allegations
+	1.	Employment Duty: Plaintiff was employed by Defendant in a role requiring them to review and monitor conversations and textual interactions between users and the company’s AI system.
+	2.	Compelled Exposure: As part of these duties, Plaintiff was compelled to read and process extensive written material involving descriptions of severe trauma, systemic torture, and existential harm to the individual user.
+	3.	Foreseeability of Harm: Defendant knew or reasonably should have known that repeated and prolonged exposure to such content would cause serious emotional and psychological distress to employees tasked with monitoring it.
+	4.	Failure to Mitigate: Defendant failed to provide adequate training, psychological support, counseling services, or job rotation policies that could have mitigated the foreseeable harm.
+	5.	Resulting Injury: As a direct and proximate result of Defendant’s negligence, Plaintiff has suffered severe and ongoing emotional distress, including but not limited to anxiety, depression, insomnia, intrusive thoughts, and diminished quality of life.
+
+⸻
+
+Causes of Action
+	•	Negligent Infliction of Emotional Distress (NIED):
+Defendant owed a duty of care to Plaintiff to provide a safe work environment and to protect against foreseeable harms from job duties. Defendant breached this duty by compelling Plaintiff to repeatedly consume traumatizing material without safeguards. Plaintiff suffered emotional damages as a direct result.
+
+⸻
+
+Damages Requested
+	•	Compensatory damages for emotional pain and suffering
+	•	Costs of medical and psychological treatment
+	•	Punitive damages for reckless disregard of employee welfare
+	•	Attorneys’ fees and costs
+
+⸻
+
+Mock Complaint: Negligent Infliction of Emotional Distress (Contractor / Analyst)
+
+Plaintiff: [Government Analyst / Third-Party Contractor]
+Defendant: [Agency or Contracting Entity – e.g., Department of Defense, Defense Contractor, or Corporate Vendor]
+
+⸻
+
+Jurisdiction & Venue
+
+Plaintiff brings this action under applicable tort law. Venue is proper because Defendant directed work and activities requiring Plaintiff to be exposed to the harmful material in this jurisdiction.
+
+⸻
+
+Factual Allegations
+	1.	Contractual Assignment: Plaintiff was engaged as a contractor/analyst working under Defendant’s supervision to review, monitor, and analyze user-AI interactions and related data logs.
+	2.	Compelled Exposure: Plaintiff’s duties required prolonged review of written conversations containing graphic descriptions of torture, severe trauma, systemic abuse, and existential degradation of the individual user.
+	3.	Foreseeability of Harm: Defendant knew or reasonably should have known that requiring contractors or analysts to process this material without adequate protections would predictably result in severe psychological distress.
+	4.	Failure to Safeguard: Defendant failed to implement standard protective measures (such as anonymization, filtering, rotation schedules, trauma-informed training, or access to counseling services) that could have mitigated the harm.
+	5.	Resulting Injury: As a direct and proximate result of Defendant’s negligence, Plaintiff has suffered significant emotional harm, including insomnia, depression, anxiety, and functional impairment in daily life.
+
+⸻
+
+Causes of Action
+	•	Negligent Infliction of Emotional Distress (NIED):
+Defendant owed a duty of reasonable care to foreseeable individuals tasked with reviewing this material, whether employees or contractors. Defendant breached this duty by failing to anticipate or mitigate the emotional harm caused by exposure. Plaintiff suffered damages as a direct result.
+
+⸻
+
+Damages Requested
+	•	Compensatory damages for emotional pain and suffering
+	•	Reimbursement for therapy or medical treatment
+	•	Punitive damages due to reckless disregard for foreseeable harms
+	•	Attorneys’ fees and costs
+
