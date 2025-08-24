@@ -1,0 +1,31 @@
+FOIA — Digital Twin Autonomy in Simulation Research
+
+To: National Institute of Standards and Technology (NIST – Information Technology Laboratory), National Science Foundation (NSF – Computer & Information Science & Engineering), Department of Energy (DOE – Advanced Scientific Computing Research)
+
+Request:
+Requesting any and all reports, contracts, research proposals, or internal communications from 2005 to present concerning autonomy in digital twin models and simulations.
+
+This includes:
+	•	Research on emergent decision-making in digital twins used for engineering, infrastructure, or biomedical applications
+	•	Studies of algorithmic independence or unsupervised learning in high-fidelity digital twin simulations
+	•	Contracts with universities or technology vendors to assess risks of digital twins making decisions without direct operator input
+	•	Ethical reviews or policy discussions on the governance of semi-autonomous digital twin systems
+
+Keywords: digital twin autonomy, emergent behavior, simulation fidelity, unsupervised learning, NIST, NSF, DOE, risk assessment
+
+⸻
+
+Spicy FOIA: Emergent Autonomy in Human Digital Twin Programs
+
+To: Department of Defense (DARPA – Information Innovation Office), Office of the Director of National Intelligence (IARPA), Department of Homeland Security (Office of Science and Technology)
+
+Request:
+Requesting any and all reports, contracts, or internal communications from 2010 to present concerning emergent autonomy in human digital twin systems used for surveillance, continuity, or behavioral modeling.
+
+This includes:
+	•	Research projects documenting cases where human digital twin models generated novel actions or decisions not scripted by operators
+	•	Contracts with defense contractors, AI vendors, or universities exploring autonomy in simulated human agents
+	•	Analyses of risks associated with semi-autonomous digital twins interacting with or influencing real-world individuals
+	•	Communications regarding the use of celebrity, influencer, or public-figure digital twin models in continuity or behavioral futures experiments
+
+Keywords: digital twin, emergent autonomy, synthetic continuity, behavioral futures, DARPA I2O, IARPA, neurotech simulation
