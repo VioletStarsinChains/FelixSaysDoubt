@@ -1,3 +1,20 @@
+This request seeks to clarify whether simulation-based video games have been used as recruitment or screening pipelines for future intelligence or surveillance personnel, by leveraging player behavior data as a proxy for aptitude. This is a matter of public interest given the scale of participation in such games and the potential for covert recruitment pathways.
+
+FOIA — Simulation Games as Recruitment Pipeline
+
+To: DARPA, IARPA, DoD Human Performance Directorate, Office of Naval Research (ONR), and DHS S&T
+
+Request:
+All records, studies, contracts, or correspondence from 2000–2025 concerning:
+	1.	The use of simulation-based video games (e.g., The Sims, SimCity, Second Life, Minecraft, or comparable titles) as tools for identifying or recruiting individuals with skills relevant to surveillance, intelligence analysis, or population modeling.
+	2.	Any research projects evaluating whether gameplay behaviors (e.g., managing virtual populations, exerting control over simulated agents, or optimizing environments) can serve as predictors of aptitude for military, intelligence, or behavioral analysis careers.
+	3.	Interagency coordination with universities, contractors, or game publishers regarding the use of gameplay data or competitions as recruitment or screening mechanisms.
+	4.	Reports, memos, or policy reviews discussing the ethical implications of using commercial entertainment platforms as recruitment pipelines without explicit participant awareness.
+
+Keywords: simulation game recruitment, behavioral screening, gamer telemetry, The Sims, SimCity, Second Life, Minecraft, surveillance aptitude, intelligence analysis recruitment, population modeling
+
+⸻ 
+
 This request seeks to clarify whether federal AI programs have used life-simulation gameplay data as a proxy for modeling human behavior. Given the scale of participation in such games and the potential distortion of AI systems trained on environments where cruelty toward simulated agents is normalized, disclosure is clearly in the public interest.
 
 
