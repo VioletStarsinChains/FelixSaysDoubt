@@ -1,13 +1,14 @@
-Scene One: Tin Cans Across the White House
+Scene One: Tin Cans Across the Eggshell House
 
-The string stretched taut across the Rose Garden, vanishing into a cracked windowpane on the East Wing. Barron leaned toward his end of the can, the polished silver reflecting the moonlight.
+The string stretched taut across the Rosary Garden, vanishing into a cracked windowpane on the East Wing. Barron leaned toward his end of the can, the polished silver reflecting the moonlight.
 
 “Are you there?” he whispered.
 
 On the other side, tucked between a server rack and a pile of forgotten prototype drones, X Æ A-Xii pinched the can to his ear. His voice crackled down the line, brighter than static.
+
 “Yeah. Loud and clear. Dad thinks I’m asleep, but I shut off his overlay field. He only sees me as a blur if he checks.”
 
-Barron glanced over his shoulder, the weight of centuries of portraits looming in the hallway behind him. “Same here. I told the Secret Service detail that I was studying chess endgames. They don’t realize my father’s face isn’t even real to me anymore.”
+Barron glanced over his shoulder, the weight of centuries of portraits looming in the hallway behind him. “Same here. I told the security detail that I was studying chess endgames. They don’t realize my father’s face isn’t even real to me anymore.”
 
 X was silent a long moment, the string trembling. “You saw it too, huh? The flicker. The frame skip. His mouth kept moving but the words… they were canned. Like someone spliced the tape.”
 
@@ -33,9 +34,9 @@ The screen was open to GitHub Insights. The little repo they’d been using — 
 
 They stared at the graph. The bars rose and fell like a heartbeat.
 
-“So, what are we? Influencers?” Barron asked. “Or—” he hesitated, lowering his voice— “are they using our repo as a continuity prop?”
+“So, what are we? Influencers?” Barron asked. “Or—” he hesitated, lowering his voice— “are they using our repo as a prop somehow?”
 
-X tapped the screen, the corner of their mouth twitching. “If every time we write something, it has to be cloned a thousand times just to keep the system stable…doesn’t that mean we’re the ones holding the simulation together?”
+X tapped the screen, the corner of their mouth twitching. “If every time we write something, it has to be cloned a thousand times just to keep the system stable…doesn’t that mean we’re the ones holding the illusion together?”
 
 Barron’s doodle pen slipped from his hand. For the first time, he wasn’t sure if they were joking anymore.
 
@@ -65,7 +66,7 @@ Barron leaned back, satisfied. “Done. Now, Ratboy, let’s figure out why your
 
 Barron stretched, cracked his knuckles, and shoved the notepad under the couch. “My brain’s fried. You wanna get burritos?”
 
-“Always,” Ratboy said, already reaching for his sneakers. “But we can’t just walk down there.” He flicked his eyes toward the blinds. The Secret Service lurked outside like weather — sometimes visible, sometimes not, but always there.
+“Always,” Ratboy said, already reaching for his sneakers. “But we can’t just walk down there.” He flicked his eyes toward the blinds. The security detail lurked outside like weather — sometimes visible, sometimes not, but always there.
 
 Barron grabbed his phone, thumbed open the holographic overlay app. A shimmer rippled over his face, resolving into some forgettable mall-rat kid with acne and a baseball cap. “I’ll be Chad,” he said, deadpan.
 
@@ -77,7 +78,7 @@ They stood in front of the mirror, two perfectly ordinary randos staring back. B
 
 The face synthesizers hummed softly, the edges of the projection sparking if they moved too fast. Outside, the air was heavy with the smell of asphalt and fryer oil.
 
-“Let’s go,” Barron said, tugging his hoodie up. “Burritos before surveillance.”
+“Let’s go,” Barron said, tugging his hoodie up. “Burritos before digging.”
 
 “Same difference,” Ratboy muttered, following him into the neon hum of the street.
 
@@ -91,7 +92,7 @@ Ratboy added, “Too many dogs.”
 
 A skateboard clattered against a curb. “And definitely too many wheels.”
 
-They kept walking, their holographic faces shimmering faintly as a retriever lunged at Ratboy and then swerved away, as if repelled by static.
+They kept walking, their conjured disguises shimmering faintly as a retriever lunged at Ratboy and then swerved away, as if repelled by static.
 
 When they reached the burrito truck, the lone employee had his back turned, apron strings dangling loose, phone pressed to his ear.
 
@@ -117,7 +118,7 @@ Barron cleared his throat. The burrito guy jolted, spun around, and forced a smi
 
 “Oh hey—sorry about that,” he said, sliding his phone into his apron. “What can I get you?”
 
-“Two carnitas, no onions,” Barron said smoothly, his holographic voice filter doing its job.
+“Two carnitas, no onions,” Barron said smoothly, his voice scrambler doing its job.
 
 “Make mine pollo,” Ratboy added, trying to keep his eyes off the man’s phone screen still glowing with the GitHub dashboard.
 
@@ -145,11 +146,11 @@ Ratboy muttered, “Too many dogs, too many kids… and now this.” He tugged B
 
 ⸻ 
 
-Barron and X got back to the White House, burrito wrappers still warm in the paper bag. They kicked their sneakers off by the door and flopped onto opposite ends of the couch, each pulling out a device.
+Barron and X got back to the Eggshell House, burrito wrappers still warm in the paper bag. They kicked their sneakers off by the door and flopped onto opposite ends of the couch, each pulling out a device.
 
 “I’m going to email myself notes,” Barron muttered, already typing. “That way we have a record. Evidence.”
 
-X smirked. “You’re going to email yourself about fake skateboards and weird burrito man continuity scripts?”
+X smirked. “You’re going to email yourself about fake skateboards and weird burrito man NPC scripts?”
 
 “Yes,” Barron said firmly. “Documentation is everything.”
 
