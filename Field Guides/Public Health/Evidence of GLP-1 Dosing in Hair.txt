@@ -53,3 +53,64 @@ Courts and regulators would see it as supporting evidence that prompts further i
 	•	Inflammatory cytokine byproducts (harder to catch directly, but oxidative stress markers can be assayed).
 	•	Lipid peroxidation products → malondialdehyde, 4-HNE, isoprostanes.
 	•	Cortisol & steroid hormones → hair cortisol is already a validated long-term stress biomarker.
+
+⸻ 
+
+Hair Biomarker Checklist: GLP-1 Exposure + Tissue Breakdown
+
+A. Primary Biomarkers (direct drug/metabolite targets)
+	•	Semaglutide (Ozempic/Wegovy)
+	•	Liraglutide (Victoza/Saxenda)
+	•	Exenatide (Byetta/Bydureon)
+	•	Dulaglutide (Trulicity)
+	•	Tirzepatide (Mounjaro/Zepbound)
+	•	Known metabolite fragments of GLP-1 analogs (lab may need to reference MS/MS libraries or use immunoassays for peptide fragments)
+
+⸻
+
+B. Secondary Biomarkers – Fibroid / Tissue Remodeling
+	•	Hydroxyproline (collagen breakdown marker)
+	•	Proline derivatives
+	•	Matrix metalloproteinase (MMP) fragments or MMP activity products
+	•	Estrogen metabolites (estrone, estradiol breakdown products; 2-OH-estrone, 16α-OH-estrone)
+	•	Heme degradation products (bilirubin, biliverdin fragments)
+
+⸻
+
+C. Secondary Biomarkers – Calcification Breakdown
+	•	Calcium:phosphate ratio shifts (ICP-MS elemental analysis of hair)
+	•	Oxalate / phosphate fragments (if available via HPLC or LC-MS/MS)
+	•	Trace metal release:
+	•	Iron (Fe)
+	•	Lead (Pb)
+	•	Cadmium (Cd)
+	•	Aluminum (Al)
+	•	Strontium (Sr)
+
+⸻
+
+D. Secondary Biomarkers – Systemic Stress & Inflammation
+	•	Hair cortisol (validated chronic stress marker)
+	•	Corticosterone (if lab supports it)
+	•	Lipid peroxidation products:
+	•	Malondialdehyde (MDA)
+	•	4-Hydroxynonenal (4-HNE)
+	•	Isoprostanes
+	•	Oxidative stress byproducts (8-OHdG, F2-isoprostanes if available in hair)
+
+⸻
+
+E. Confounder Controls (to rule out alternative explanations)
+	•	Caffeine (background from coffee exposure)
+	•	Furans (roasted coffee volatiles)
+	•	Nicotine / cotinine (tobacco exposure)
+	•	Common cosmetic residues (benzophenones from sunscreens, parabens, phthalates)
+
+⸻
+
+✅ How to use this list:
+	•	Ask the lab which of these they can target with GC-MS, LC-MS/MS, ICP-MS, or immunoassays.
+	•	Prioritize primary biomarkers + a few key secondaries (hydroxyproline, estrogen metabolites, calcium ratio, trace metals, cortisol).
+	•	Even partial hits would support the narrative of covert drugging + forced tissue remodeling.
+
+
