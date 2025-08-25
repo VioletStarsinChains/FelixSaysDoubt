@@ -1,0 +1,15 @@
+FOIA Request: Acoustic Masking of Drone Operations via Vehicular Noise
+
+To: Department of Defense (DARPA – Tactical Technology Office), Department of Homeland Security (Science and Technology Directorate), Federal Aviation Administration (FAA – UAS Integration Office)
+
+Request:
+Requesting any and all contracts, pilot project records, research proposals, or internal communications from 2010 to present concerning the use of vehicular noise as acoustic masking for drone operations in metropolitan areas.
+
+This includes:
+	•	Records of research into engine noise (motorcycles, trucks, or other loud vehicles) deployed intentionally to obscure the mechanical signatures of surveillance or delivery drones.
+	•	Contracts with vendors for integrated acoustic masking systems pairing vehicular traffic with urban drone deployments.
+	•	Reports assessing public perception of environmental noise when vehicular masking is used to cloak unmanned aerial system operations.
+	•	Internal communications regarding the role of sound camouflage in continuity-of-operations planning and behavioral entrainment in civilian populations.
+	•	Pilot project records involving coordinated noise overlays (vehicular + drone) in U.S. cities, including Minneapolis–St. Paul.
+
+Keywords: acoustic masking, drone noise, vehicular noise camouflage, continuity-of-operations, behavioral entrainment, urban drone operations, FAA UAS
