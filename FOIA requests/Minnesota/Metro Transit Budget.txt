@@ -13,3 +13,21 @@ This includes:
 	•	Any internal communications or reports reconciling discrepancies between observed fleet presence and budget allocations.
 
 Keywords: Metro Transit, bus operations, fleet budget, service hours, supplemental bus services, continuity of operations, Metropolitan Council
+
+⸻ 
+
+FOIA Request: Phantom Fleet Presence and Continuity Projects in Metro Transit
+
+To: Metropolitan Council (Metro Transit Division), Department of Homeland Security (Office of Science and Technology)
+
+Request:
+Requesting any and all contracts, internal communications, research proposals, or operational records from 2015 to present concerning the use of phantom fleet presence, augmented vehicle visibility, or continuity of service simulations within Metro Transit bus operations in the Minneapolis–St. Paul metropolitan area.
+
+This includes:
+	•	Records of any simulation platforms, augmented-reality overlays, or entrainment systems designed to increase the perceived presence of Metro Transit buses on city streets.
+	•	Contracts with technology vendors, defense contractors, or research institutions for phantom fleet augmentation or synthetic ridership continuity projects.
+	•	Communications regarding the role of bus visibility in continuity-of-operations planning post-pandemic.
+	•	Reports assessing public perception of fleet size compared to actual operational numbers.
+	•	Documentation of experimental or pilot programs where vehicle presence was simulated for behavioral modeling, continuity theater, or predictive futures markets.
+
+Keywords: phantom fleet, augmented vehicle presence, synthetic ridership, continuity of operations, Metro Transit, Metropolitan Council, behavioral modeling
