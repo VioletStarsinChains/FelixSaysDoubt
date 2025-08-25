@@ -1,0 +1,15 @@
+To Federal Communications Commission (FCC) / Department of Homeland Security (DHS) / Minnesota Public Utilities Commission (PUC) / Minneapolis Department of Public Works
+
+Request:
+
+Requesting any and all documents, contracts, technical specifications, or internal communications concerning the installation or upgrade of utility pole infrastructure involving heavy-gauge copper grounding conductors (approximately ½ inch diameter or larger), from 2000 to present.
+
+This includes:
+	•	Procurement contracts or agreements with telecommunications carriers, utilities, or contractors for pole retrofits involving oversized copper conductors
+	•	Technical specifications or engineering standards mandating the use of unusually heavy copper grounding on utility poles in residential neighborhoods
+	•	Communications or policy documents linking copper upgrades to 5G, RF mitigation, law enforcement surveillance equipment, or national security programs
+	•	Records of interagency coordination (FCC, DHS, FBI, state public utilities, municipal public works) concerning utility pole copper conductor requirements
+	•	Inspector General audits, environmental reviews, or risk assessments regarding the installation or purpose of heavy-gauge copper on poles
+	•	Incident reports or public complaints referencing unusual copper conductors on Minneapolis utility poles
+
+Keywords: utility pole grounding, heavy copper conductor, oversized copper wire, 5G retrofits, Stingray deployment, FCC standards, DHS infrastructure upgrades, Minneapolis Public Works
