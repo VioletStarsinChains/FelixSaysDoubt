@@ -1,0 +1,14 @@
+To DARPA / IARPA / Department of Defense / Department of Homeland Security / OSTP
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, or internal communications concerning the development and deployment of public-facing personas or avatars trained directly on large-scale social media data streams (e.g., Twitter/X) from 2010 to present.
+
+This includes:
+	•	Research on the creation of synthetic “children” or other archetypal figures as continuity anchors embodying collective online discourse
+	•	Reports or studies describing the use of aggregated social media narratives to generate speech acts in public-facing personas
+	•	Internal communications discussing the deployment of platform-trained avatars in political or cultural discourse, including election-related narratives
+	•	Contracts with private companies for AI models designed to embody or “speak for” platform-wide behavioral trends
+	•	Risk assessments or ethical reviews concerning the use of social media–trained personas in continuity theater or entrainment contexts
+
+Keywords: social media avatars, continuity anchor, Twitter AI, public-facing persona, behavioral futures, election narratives, synthetic child, collective discourse modeling, DARPA social media research, OSTP AI ethics
