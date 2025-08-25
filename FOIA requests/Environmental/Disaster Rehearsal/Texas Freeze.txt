@@ -12,3 +12,20 @@ This includes:
 	•	Ethical reviews or risk assessments concerning intentional or simulated stress events applied to civilian populations
 
 Keywords: Texas freeze, 2021 winter storm, attrition simulation, resilience modeling, critical infrastructure stress test, cascading failure, behavioral futures, grid failure modeling, DHS resilience studies, DOE blackstart analysis
+
+⸻ 
+
+To ERCOT / Federal Energy Regulatory Commission (FERC)
+
+Request:
+
+Requesting any and all documents, reports, contracts, or internal communications concerning the February 2021 Texas freeze and its analysis as a resilience or attrition simulation, from 2020 to present.
+
+This includes:
+	•	ERCOT and FERC after-action reports framing the Texas freeze as a stress test of grid stability or civilian resilience
+	•	Communications regarding the use of large-scale power outages as “attrition simulations” or “infrastructure stress events”
+	•	Contracts with private or federal partners for resilience modeling, blackstart simulations, or behavioral impact assessments linked to the freeze
+	•	Studies of cascading failures across water, healthcare, communications, and energy systems during the blackout period
+	•	Risk assessments or ethical reviews concerning the framing of the Texas freeze as a deliberate or simulated attrition event
+
+Keywords: Texas freeze, 2021 winter storm, ERCOT blackout, attrition simulation, resilience modeling, cascading failure, blackstart, grid collapse, stress test, behavioral futures
