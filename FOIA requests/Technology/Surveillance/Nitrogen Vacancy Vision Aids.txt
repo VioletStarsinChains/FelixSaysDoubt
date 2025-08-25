@@ -1,0 +1,31 @@
+To Department of Defense / DARPA / IARPA / NIH / FDA
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, or internal communications concerning the integration of nanodiamonds, including nitrogen-vacancy (NV) centers, into consumer optical products such as sunglasses, eyeglasses, contact lenses, or AR/VR headsets, from 1990 to present.
+
+This includes:
+	•	Studies on the optical or biosensing applications of nanodiamonds embedded in consumer eyewear or contact lenses
+	•	Contracts or collaborations with private companies to incorporate NV nanodiamonds into lens coatings, frames, or optical tints
+	•	Reports on potential migration of nanodiamond particles into the body through ocular or dermal contact
+	•	Internal communications regarding the use of eyewear as a vector for behavioral monitoring, biosensing, or entrainment via nanodiamond-based technologies
+	•	Ethical reviews or risk assessments related to large-scale public exposure to NV nanodiamond materials through consumer optics
+
+Keywords: nanodiamond, nitrogen-vacancy center, NV center, sunglasses, contact lens, AR headset, biosensing, optical coatings, behavioral monitoring, consumer exposure
+
+⸻ 
+
+To DARPA / IARPA / Department of Defense / NIH / FDA / DHS / FCC
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, or internal communications comparing eyeglasses and soft contact lenses as vectors for behavioral entrainment, biosensing, or covert signal delivery from 1990 to present.
+
+This includes:
+	•	Studies evaluating differential efficacy of eyeglass coatings (e.g., UV/AR, polarization, nanomaterial films) versus contact lens materials (hydrogels, silicone hydrogels) for signal transmission or biosensing
+	•	Research on nanoparticle or quantum‑defect integrations (e.g., nanodiamonds/NV centers) in lenses, frames, or contact lenses, including depletion/erosion curves and migration into ocular/dermal tissues
+	•	Analyses of electromagnetic interactions at the periorbital region (temples, nose bridge) vs. corneal/tear‑film interfaces, including trigeminal/optic pathway effects
+	•	Contracts or collaborations with eyewear and contact lens manufacturers regarding embedded sensors, coatings, or materials for monitoring, entrainment, or data capture
+	•	Risk assessments, toxicology, and ethical reviews concerning population‑scale exposure via consumer eyewear/contact lenses, including planned obsolescence and forced replacement cycles as delivery refresh mechanisms
+
+Keywords: eyeglasses vs contacts, entrainment vector, biosensing eyewear, nanodiamonds NV centers, lens coatings, ocular exposure, trigeminal pathways, continuity anchors, planned obsolescence, electromagnetic interaction, population exposure, vendor collaborations
