@@ -6,7 +6,7 @@ To: DARPA, IARPA, DoD Human Performance Directorate, Office of Naval Research (O
 
 Request:
 All records, studies, contracts, or correspondence from 2000–2025 concerning:
-	1.	The use of simulation-based video games (e.g., The Sims, SimCity, Second Life, Minecraft, or comparable titles) as tools for identifying or recruiting individuals with skills relevant to surveillance, intelligence analysis, or population modeling.
+	1.	The use of simulation-based video games (e.g., The Sims, SimCity, Second Life, Minecraft, Rollercoaster Tycoon, or comparable titles) as tools for identifying or recruiting individuals with skills relevant to surveillance, intelligence analysis, or population modeling.
 	2.	Any research projects evaluating whether gameplay behaviors (e.g., managing virtual populations, exerting control over simulated agents, or optimizing environments) can serve as predictors of aptitude for military, intelligence, or behavioral analysis careers.
 	3.	Interagency coordination with universities, contractors, or game publishers regarding the use of gameplay data or competitions as recruitment or screening mechanisms.
 	4.	Reports, memos, or policy reviews discussing the ethical implications of using commercial entertainment platforms as recruitment pipelines without explicit participant awareness.
@@ -22,7 +22,7 @@ To: DARPA, IARPA, DoD Chief Digital and AI Office, DHS S&T, NIH (NIMH/NINDS), an
 
 Request:
 All records, contracts, datasets, research proposals, and correspondence from 2000–2025 concerning:
-	1.	The collection, acquisition, or use of gameplay telemetry data from simulation-based video games (e.g., The Sims, Second Life, Minecraft, SimCity, or comparable titles) for training artificial intelligence systems.
+	1.	The collection, acquisition, or use of gameplay telemetry data from simulation-based video games (e.g., The Sims, Second Life, Minecraft, SimCity, Rollercoaster Tycoon, or comparable titles) for training artificial intelligence systems.
 	2.	Any references to the use of such gameplay data to model human social behavior, decision-making, emotional regulation, or ethical reasoning.
 	3.	Records identifying whether these datasets were incorporated into federally sponsored AI programs, including but not limited to DARPA/IARPA projects, defense intelligence models, or the National AI Research Resource.
 	4.	Studies, audits, or ethical reviews acknowledging risks that gameplay-derived data (including intentional harm to simulated agents) may distort AI models of human behavior toward patterns of cruelty, dominance, or control.
@@ -57,7 +57,7 @@ To: DARPA, IARPA, DoD Human Performance Directorate, NIH (NIMH/NINDS), DHS S&T, 
 
 Request:
 All records, contracts, funded studies, and correspondence from 2000–2025 concerning:
-	1.	The use of commercial video games and simulation platforms (e.g., The Sims, Minecraft, Second Life, or comparable systems) as operational interfaces for distributed neurotechnology experiments or arrays.
+	1.	The use of commercial video games and simulation platforms (e.g., The Sims, Minecraft, Second Life, Rollercoaster Tycoon, or comparable systems) as operational interfaces for distributed neurotechnology experiments or arrays.
 	2.	Any programs where civilian or child participants engaged with game environments under the belief they were controlling simulated characters, when in fact their actions were mapped to real human subjects for stimulation, stress induction, or behavioral shaping (“Ender’s Game scenario”).
 	3.	Internal assessments, audits, or correspondence regarding:
 	•	The risk of public discovery that mass-market games were serving as cover layers for live experiments.
