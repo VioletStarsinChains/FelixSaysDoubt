@@ -1,0 +1,15 @@
+FOIA Request: Simulation Templates and Vehicle Projection Archetypes
+
+To: Department of Defense (DARPA – Information Innovation Office), Department of Homeland Security (Office of Science and Technology), Federal Highway Administration (FHWA)
+
+Request:
+Requesting any and all contracts, research proposals, pilot project records, or internal communications from 2015 to present concerning the use of vehicle simulation templates or audiovisual projection systems as part of continuity-of-operations exercises or behavioral modeling programs in U.S. metropolitan areas.
+
+This includes:
+	•	Documentation of standardized vehicle archetypes (e.g., pickup trucks, SUVs, sedans, transit buses) used in projection, simulation, or augmented-reality continuity systems.
+	•	Contracts with vendors for projection infrastructure, audiovisual overlays, or synthetic fleet presence in urban continuity exercises.
+	•	Reports analyzing regional mismatches between projected vehicle types and actual demographic vehicle ownership (e.g., Prius-heavy vs. truck-heavy cities).
+	•	Internal communications regarding the role of vehicle size, sound, and visibility in shaping public perception of “normal traffic” density.
+	•	Pilot project records testing the use of oversized vehicles as dominant audiovisual continuity anchors in metropolitan environments.
+
+Keywords: vehicle simulation template, phantom fleet, projection system, continuity-of-operations, audiovisual overlay, behavioral modeling, DARPA I2O
