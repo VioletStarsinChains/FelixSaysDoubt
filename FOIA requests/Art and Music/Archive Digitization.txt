@@ -15,6 +15,23 @@ Keywords: digitization, dynamic content delivery, reconfigurable print media, eb
 
 ⸻
 
+FOIA: Reconfigurable Print Media in Libraries and News Distribution
+
+To: Institute of Museum and Library Services (IMLS), Library of Congress, Federal Communications Commission (FCC), National Science Foundation (NSF – Division of Information & Intelligent Systems)
+
+Request:
+Requesting any and all contracts, pilot projects, research proposals, or internal communications from 2000 to present concerning the development and deployment of reconfigurable print media for public distribution, including books, newspapers, and library collections.
+
+This includes:
+	•	Records of government-funded research or vendor contracts for print substrates capable of dynamic content updates (e.g., e-ink hybrids, AR-enabled surfaces).
+	•	Communications regarding partnerships with publishers, distributors, or technology companies (e.g., Amazon, Google, large newspaper syndicates) on experimental or adaptive print systems.
+	•	Reports analyzing the use of dynamic print media in public libraries, little free libraries, and newspaper circulation systems.
+	•	Internal discussions of risks, ethics, or public perception tied to altering or dynamically refreshing physical media content.
+
+Keywords: reconfigurable print media, adaptive book substrates, dynamic newspapers, e-ink hybrids, AR-enabled surfaces, continuity of collections, public information access
+
+⸻ 
+
 📄 Spicy FOIA: Adaptive Book Substrates as Behavioral Entrainment Vectors
 
 To: Department of Defense (DARPA – Information Innovation Office), Department of Homeland Security (Office of Science and Technology), National Science Foundation (NSF – Division of Information & Intelligent Systems)
