@@ -1,0 +1,35 @@
+Prong 1: Technical Standards & Signal Layer
+
+To FCC / Department of Commerce (NIST) / IEEE
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, or internal communications concerning the evaluation of high-resolution and spatial audio platforms — including PonoPlayer, JRiver Media Center, and Dolby Atmos — for use as carriers of covert or subliminal signals, from 2000 to present.
+
+This includes:
+	•	Technical studies on signal capacity of lossless and spatial audio formats for embedding non-audible or hidden data
+	•	Reports on psychoacoustic effects unique to multi-channel spatial systems such as Atmos
+	•	Internal communications referencing “steganography,” “subliminal transmission,” or “signal injection” in consumer audio platforms
+	•	Standards-setting discussions involving potential non-music data layers in Atmos or high-resolution audio standards
+	•	Risk assessments related to interference, consumer exposure, or misuse of these platforms as covert communication vectors
+
+Keywords: PonoPlayer, JRiver Media Center, Dolby Atmos, spatial audio, lossless formats, steganography, subliminal signal, covert transmission, NIST standards, FCC authorization
+
+⸻
+
+Prong 2: Behavioral & Entrainment Layer
+
+To Department of Defense / DARPA / IARPA / DHS
+
+Request:
+
+Requesting any and all documents, research proposals, contracts, or internal communications concerning the use of high-resolution and spatial audio platforms — including PonoPlayer, JRiver Media Center, and Dolby Atmos — as vectors for psychoacoustic entrainment, behavioral modulation, or continuity theater, from 2000 to present.
+
+This includes:
+	•	Research on entrainment effects from immersive spatial audio environments (e.g., Dolby Atmos)
+	•	Contracts with private companies (Dolby, Pono, JRiver) for experiments in cognitive modulation or covert communication
+	•	Reports on user groups (audiophiles, spatial audio adopters) as test populations for entrainment or resilience modeling
+	•	Internal communications regarding “continuity anchors,” “immersive compliance,” or “behavioral futures” linked to consumer audio platforms
+	•	Ethical reviews or risk assessments concerning population-scale exposure to subliminal or entrainment signals via commercial entertainment products
+
+Keywords: PonoPlayer, JRiver Media Center, Dolby Atmos, psychoacoustic entrainment, behavioral modulation, continuity theater, covert signaling, consumer audio, DARPA neurotech, immersive compliance
