@@ -1,0 +1,21 @@
+Field Guide: Music Files as Steganographic Vectors
+
+Music piracy networks make the perfect camouflage for continuity-theater data exchange:
+	•	File Size as Cover
+	•	A “lossless FLAC” album can be hundreds of MB. Nobody blinks if a music file is oversized. Hidden payloads vanish into the expectation of bulk.
+	•	Steganography in Sound
+	•	Extra data can be tucked into the least-significant bits of audio samples — inaudible to human ears.
+	•	Entire logs, metrics, or neurotech streams can ride along inside an ordinary pop song.
+	•	Metadata as Code
+	•	Artist names, album titles, track lengths, and genre tags become fields for signals.
+	•	A torrent labeled “rare live set” may in fact be an instruction packet.
+	•	Distribution as Resilience
+	•	Torrents, darknet music libraries, and file-sharing apps (Soulseek, etc.) spread files peer-to-peer, with no central server.
+	•	Data survives indefinitely, disguised as nostalgia playlists or obscure bootlegs.
+	•	Continuity Logic
+	•	Behavioral futures data.
+	•	Synthetic identity packages.
+	•	Cryptographic keys.
+	•	All hidden where no one bothers to look — beneath a wall of pirated MP3s.
+
+📌 Anomaly cue: suspiciously large audio files, oddball genre clusters, or checksum mismatches in files you thought you recognized.
