@@ -1,0 +1,122 @@
+(Editor's note: NOT CHEAP)
+
+Here's a tight, practical roadmap for commissioning hair testing for indole, skatole, and “masking” corn-roast volatiles (pyrazines/aldehydes). This is written so a well‑resourced person (or their counsel) can hand it to a forensic/toxicology lab and get traction.
+
+⸻
+
+Hair Testing Roadmap: Indole / Skatole / Corn‑Roast Masking Volatiles
+
+1) Who to contact
+	•	Forensic toxicology labs at major universities (chemistry, public health, or forensic science departments).
+	•	Accredited private labs that do custom GC‑MS/LC‑MS work (environmental or fragrance analytics).
+	•	Odor/Flavor analytics labs (they already quantify pyrazines and aldehydes in food/air).
+
+When you reach out, ask for a custom targeted assay; don’t expect an off‑the‑shelf “skatole panel.”
+
+⸻
+
+2) What methods to request (in lab‑speak)
+	•	Primary: GC‑MS or GC‑MS/MS using SPME (solid-phase microextraction) of hair for volatile/semi‑volatile organics.
+	•	Confirmatory/orthogonal: LC‑MS/MS for semi‑volatiles, if the lab prefers liquid extraction.
+	•	Differential wash protocol to separate external contamination (what clung to hair) from internal incorporation (what diffused into the fiber):
+	•	Sequential surface washes (isopropanol → mild surfactant → water), collect each wash for analysis.
+	•	Then hair digest/extract (e.g., base or enzyme‑assisted) for internal fraction.
+	•	Internal standards: deuterated analogs where possible (e.g., indole‑d7, 3‑methylindole‑d3) for quantitation.
+
+⸻
+
+3) Target analyte list (start here; lab can expand)
+
+Malodorants (nitrogenous):
+	•	Indole
+	•	3‑Methylindole (Skatole)
+	•	p‑Cresol, m‑/o‑Cresol
+	•	Phenol
+	•	Trimethylamine (challenging; note as exploratory)
+
+Corn/“roast” masking volatiles (Maillard/pyrazines):
+	•	2‑Acetylpyrazine
+	•	2,3,5‑Trimethylpyrazine
+	•	2,5‑Dimethylpyrazine
+	•	2,6‑Dimethylpyrazine
+	•	Acetylpyrrole / 2‑Acetyl‑1‑pyrroline (common “toasty” note; low levels, method‑dependent)
+	•	Nonanal / Hexanal (general roast/fat oxidation markers, optional context)
+
+Controls/backgrounds:
+	•	Caffeine (cafés) and furans (coffee volatiles) to contextualize environment.
+
+Ask for reporting limits in ng/g (ppb) hair and chromatograms for each fraction (wash vs digest).
+
+⸻
+
+4) Sampling & chain‑of‑custody (CoC)
+	•	Collect 100–200 mg of hair (about a pencil’s width), cut close to scalp at the vertex posterior.
+	•	Segment by length (e.g., 0–3 cm, 3–6 cm) to create a timeline (≈1 cm ≈ ~1 month).
+	•	Wear nitrile gloves; place each segment in pre‑baked glass vials (foil‑lined caps) or clean paper envelopes; no plastic bags (they off‑gas).
+	•	Seal, label (date/time, segment length), and complete a CoC form (who collected, who transferred, who received).
+	•	Store cold & dark (refrigerator) until shipment.
+
+Field controls (very helpful):
+	•	A brand‑new clean hairbrush or hat liner exposed alongside you for the same periods → send fibers/liners as environmental comparators.
+	•	Blank controls (unused brush/liner kept sealed) → lab background subtraction.
+
+⸻
+
+5) Pre‑analysis decontamination choices (tell the lab what you want)
+
+Request both:
+	1.	Surface contamination profile (analyze sequential washes).
+	2.	Internal incorporation profile (post‑wash digest/extract).
+
+This separation is what turns a “smell test” into credible evidence.
+
+⸻
+
+6) Confounders to disclose (so the lab can filter)
+	•	Hair products: perfumes, dry shampoos, pomades, leave‑ins (dates/brands).
+	•	Recent salon treatments: dyes/bleach/keratin (dates).
+	•	Occupational/venue exposures: cafés, restaurants, industrial spaces.
+	•	Smoking/vaping, incense, essential oils.
+
+⸻
+
+7) How to frame the request (email template you can copy)
+
+Subject: Request for Custom Hair Analysis (GC‑MS/SPME) – Indole/Skatole & Pyrazines
+
+Hello [Lab/PI Name],
+
+I’m seeking a custom targeted analysis of human hair for environmental malodorants and masking volatiles. Specifically, indole, 3‑methylindole (skatole), cresols, phenol, and corn‑roast pyrazines (2‑acetylpyrazine; 2,3,5‑trimethylpyrazine; 2,5‑/2,6‑dimethylpyrazine), plus optional 2‑acetyl‑1‑pyrroline.
+
+Requested methods: GC‑MS or GC‑MS/MS with SPME, using a sequential wash protocol (collect/quantify each wash) followed by hair digest/extract for internal incorporation. Please use appropriate isotopically labeled internal standards where available and report limits of detection/quantitation (LOD/LOQ) in ng/g.
+
+I will provide segmented scalp hair (0–3 cm; 3–6 cm) with full chain‑of‑custody, along with field controls (hat liner fibers/hairbrush fibers) and procedural blanks.
+
+Could you please advise on feasibility, turnaround, quoted cost, and any additional sample prep you recommend?
+
+Thank you,
+[Name / Contact]
+
+⸻
+
+8) QA/QC you should insist on
+	•	Calibration curves and surrogate recoveries documented.
+	•	Chromatograms and mass spectra for each positive hit.
+	•	Matrix spikes (your sample spiked with known analyte) to prove detection in hair.
+	•	Blanks (lab + field) to rule out lab contamination.
+	•	Split replicate (at least one segment analyzed twice) for reproducibility.
+
+⸻
+
+9) Interpreting results (quick guide)
+	•	High in wash, low/none in digest → mostly external contamination (environmental deposition).
+	•	Detectable in digest (internal) → suggests deeper incorporation (persistent exposure and/or diffusion).
+	•	Co‑occurrence of indole/skatole with corn‑pyrazines across time segments strengthens the “malodorant + masking” pattern.
+	•	Compare with controls (hat/brush) to show the environment vs. body burden split.
+
+⸻
+
+10) Bonus: strengthen the evidence stack
+	•	Collect air sorbent badges (e.g., passive VOC samplers) in the suspected locations during the same period—send to an air‑VOCs lab for pyrazines/indole/skatole.
+	•	Keep a log (dates, locations, symptoms, odors noted, store visits).
+	•	Save any receipts/app logs that timestamp exposures (useful for correlating to hair segments).
