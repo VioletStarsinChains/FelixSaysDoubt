@@ -1,0 +1,14 @@
+To FBI / DEA / U.S. Marshals Service / DHS / DOJ Office of Inspector General / FCC
+
+Request:
+
+Requesting any and all documents, contracts, deployment logs, policies, or internal communications concerning the use of cell-site simulators (also known as Stingrays, Hailstorms, Dirtboxes, IMSI catchers, or portable cell tower simulators) in vehicle-mounted platforms, including vans, RVs, or other mobile surveillance units, from 2010 to present, nationwide.
+
+This includes:
+	•	Procurement contracts with Harris Corporation or other vendors for cell-site simulators and associated vehicle-integration kits
+	•	Deployment logs, location data, or after-action reports documenting the use of RV- or van-mounted Stingrays in U.S. cities or residential neighborhoods
+	•	Policies, training materials, or memoranda regarding concealment of surveillance equipment in civilian-looking vehicles
+	•	Legal reviews, risk assessments, or OIG reports concerning the constitutional implications of mobile cell-site simulator deployments
+	•	Incident reports, audits, or FCC filings related to interference, spectrum licensing, or complaints of unusual RF activity linked to mobile Stingray units
+
+Keywords: cell-site simulator, Stingray, Hailstorm, Dirtbox, IMSI catcher, portable base station, RV surveillance, van-mounted surveillance, Harris Corporation, mobile interception platform
