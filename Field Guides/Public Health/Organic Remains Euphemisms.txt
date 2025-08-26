@@ -1,0 +1,48 @@
+Cheat Sheet: Code Words for “Organic Remains” in Packaging / Materials Research
+
+🌱 Neutral Eco-Speak (covers anything organic)
+	•	“Nontraditional feedstocks”
+	•	“Alternative biomaterials”
+	•	“Sustainable inputs”
+	•	“Circular economy resources”
+	•	“Waste-to-value streams”
+
+👉 These are umbrella terms where unusual organic inputs may be buried.
+
+⸻
+
+🐄 Animal Byproduct Language
+	•	“Collagen-based” → could mean hides, bones, or connective tissue.
+	•	“Gelatin” → hydrolyzed collagen; often from animal remains.
+	•	“Keratin sources” → feathers, hair, horns, hooves.
+	•	**“Bone meal” / “meat and bone ash” → incinerated or ground remains.
+	•	“Rendering plant derivatives” → catch-all for animal carcass byproducts.
+
+⸻
+
+👤 Human Remains (heavily euphemized)
+	•	“Medical waste valorization” → tissues, blood, surgical remains.
+	•	“Mortuary byproducts” → very rare, but has shown up in crematory regulation contexts.
+	•	“Pathological specimens” → coded way of saying human tissue streams.
+	•	“Anatomical donations (expired)” → older term, sometimes buried in med-waste regs.
+	•	“Post-consumer biogenic residue” → could hide human or animal remains under the same umbrella.
+
+⸻
+
+🧪 Industrial Cover Terms
+	•	“Protein foams” → often collagen/gelatin/keratin.
+	•	“Biopolymer composites” → could be starch, but also protein + resin.
+	•	“Hydrolyzed organic inputs” → usually means broken-down remains.
+	•	“Nitrogen-rich organics” → bloodmeal, bone meal, or carcass byproducts.
+	•	“Biosolids” → usually sewage sludge, but sometimes includes human remains.
+
+⸻
+
+⚖️ Red-Flag Phrases in Context
+
+If you see these in a sustainability or packaging document, that’s your cue to dig deeper:
+	•	“Derived from organic waste streams”
+	•	“Exploring nontraditional biomaterials”
+	•	“Pilot testing protein-based foams”
+	•	“Developed with support from rendering partners”
+	•	“Applications in waste-to-value packaging”
