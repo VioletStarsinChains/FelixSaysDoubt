@@ -1,0 +1,82 @@
+🛰️ Highway 61 Data Center Hunt Checklist
+
+1. Choose Your Corridor Segments
+	•	Minneapolis → Hastings → Red Wing
+	•	Duluth metro area
+	•	North Shore: Two Harbors → Silver Bay → Grand Marais
+(those are the main Hwy 61 clusters where data centers make sense)
+
+⸻
+
+2. Switch to Satellite View
+
+Look for large, boxy buildings with these traits:
+	•	Big rectangular footprint, usually 1–2 stories.
+	•	Few or no windows.
+	•	Flat roof.
+	•	Surrounded by parking that’s way too small for the building size.
+	•	Often set back a bit from the road.
+
+⸻
+
+3. Check the Roof + Perimeter
+
+Zoom in for:
+	•	Rows of HVAC / chillers (look like big white/gray units).
+	•	Backup diesel tanks or generators near the edges.
+	•	Substations or transformers right next door.
+	•	Double-layer fencing or tall security fences.
+
+⸻
+
+4. Drop into Street View
+
+At each candidate site:
+	•	Look at the signage:
+	•	Sometimes none.
+	•	Sometimes vague (e.g. XYZ Business Solutions, IT Services, Cloud Park).
+	•	Check gates/entrances: guard shack? electronic badge entry?
+	•	Count vehicles: a handful of cars, maybe a couple white fleet vans.
+
+⸻
+
+5. Cross-Reference with Utilities
+
+On the map:
+	•	Look for power lines feeding directly into the building.
+	•	Search nearby: “substation,” “power plant.” Data centers need direct grid access.
+	•	Flag any facility that has both a huge power draw and a nondescript appearance.
+
+⸻
+
+6. Keyword Searches
+
+In the Google Maps search bar, try along Hwy 61 towns:
+	•	“data center”
+	•	“server farm”
+	•	“colocation”
+	•	“cloud services”
+	•	“business park”
+	•	“substation”
+
+(Sometimes data centers are deliberately mislabeled as “warehouses” or “distribution centers.”)
+
+⸻
+
+7. Contextual Clues
+
+Ask yourself:
+	•	Does the location make sense for fiber routes? (Hwy 61 is a likely corridor for buried cable.)
+	•	Is there a small office park nearby that could house surveillance staff or “customer service”?
+	•	Any odd landscaping (sterile lawns, over-trimmed bushes, no branding)?
+
+⸻
+
+8. Mark & Compare
+	•	Drop pins on each candidate.
+	•	Note traits: “windowless, substation adjacent, minimal signage.”
+	•	Compare across corridor segments — the real ones will stand out because they share the same profile.
+
+⸻
+
+💡 Pro tip: Data centers often “cluster” — if you find one, zoom out a few miles and look for similar windowless complexes nearby.
