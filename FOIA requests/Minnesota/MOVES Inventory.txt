@@ -1,0 +1,18 @@
+To Minnesota Department of Transportation (MnDOT) / Minnesota Department of Revenue (DOR – Motor Fuel Tax) / Minnesota Department of Commerce (Weights & Measures Division) / Minnesota Pollution Control Agency (MPCA) / Metropolitan Council (Transportation Services)
+
+Request:
+
+Requesting any and all technical reports, datasets, audits, contractor deliverables, and internal or interagency communications concerning anomalies, adjustments, reconciliations, or unexplained variances among vehicle miles traveled (VMT) estimates, motor fuel tax receipts/returns, fuel sales volumes, and on-road emissions/activity data in Minnesota, from 2000 to present.
+
+This includes:
+• Datasets and methods for MnDOT’s VMT estimation (ATR/WIM sensor networks, seasonal adjustment factors, imputation/smoothing procedures), including documentation of sensor outages and any synthetic data used to fill gaps
+• Communications and submissions related to HPMS (Highway Performance Monitoring System) reporting to FHWA, including any feedback or flags about Minnesota VMT anomalies or revisions
+• Minnesota Department of Revenue records summarizing motor fuel tax receipts by fuel type (gasoline, diesel), adjustments, refunds, and audit findings; reconciliations between filed returns and estimated statewide consumption
+• Minnesota Department of Commerce Weights & Measures inspection records and calibration/audit reports for retail fuel dispensers; any analyses addressing discrepancies between measured dispenser volumes and tax/consumption figures
+• MPCA transportation emissions inventories (on-road mobile sources), MOVES model inputs/outputs, and any memos reconciling emissions activity data with MnDOT VMT and DOR fuel-tax data
+• Interagency memoranda or meeting notes (MnDOT, DOR, Commerce/Weights & Measures, MPCA, Metropolitan Council) addressing “data smoothing,” “imputation,” “continuity adjustments,” or other methods used to align VMT, fuel tax, sales, and emissions datasets
+• Contracts, SOWs, or deliverables from third-party vendors (e.g., traffic data, probe data, or analytics providers such as INRIX, StreetLight, HERE, or similar) used to estimate or backcast VMT; any evaluations of accuracy or known bias
+• Any analyses comparing Minnesota refinery/terminal throughput or pipeline receipts with reported retail fuel sales and motor fuel tax data, and documents discussing unexplained gaps
+• Records or correspondence addressing population or registration-based baselines (vehicle registrations, odometer statements at title/inspection) used to validate VMT/fuel demand, including any noted inconsistencies or adjustments
+
+Keywords: VMT, vehicle miles traveled, HPMS, ATR, WIM, data imputation, data smoothing, motor fuel tax, fuel receipts, dispenser calibration, Weights & Measures, refinery throughput, MOVES inventory, on-road emissions, reconciliation, anomaly, variance
