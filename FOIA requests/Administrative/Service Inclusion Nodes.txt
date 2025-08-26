@@ -1,0 +1,13 @@
+To: U.S. Department of Homeland Security (DHS), Federal Emergency Management Agency (FEMA), Department of Transportation (DOT / FHWA), and Department of Defense (Continuity of Operations offices)
+
+Request:
+
+Requesting any and all documents, internal communications, technical manuals, or data dictionaries from 2000 to present that reference the use of codes or acronyms (including but not limited to “CRGSNST”) for designating properties, zones, or nodes excluded from normal public services such as transit stops, utility delivery, or emergency response coverage.
+
+This includes:
+	•	Guidance documents, planning manuals, or contractor deliverables that define or explain acronyms or codes applied to residential, commercial, or transportation nodes where bus service, trash pickup, or emergency response is deliberately withheld.
+	•	Records concerning the integration of such codes into transportation, public works, or continuity-of-operations datasets.
+	•	Communications between DHS, FEMA, DOT, DoD, or state/local governments regarding the designation of non-stop or exclusion zones in continuity planning, hazard storage, or emergency evacuation mapping.
+	•	Risk assessments, quality control audits, or evaluations of the social or health impacts of excluding certain properties or neighborhoods from routine public services.
+
+Keywords: CRGSNST, exclusion zone, non-stop node, service exclusion coding, continuity of operations, no-stop designation, dead house, hazmat node
