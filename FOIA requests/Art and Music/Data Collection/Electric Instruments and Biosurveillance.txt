@@ -1,0 +1,14 @@
+To Defense Advanced Research Projects Agency (DARPA) / Department of Defense (DoD) / National Institutes of Health (NIH) / National Science Foundation (NSF)
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, internal communications, or technical reports concerning the dual use of musical instrumentation or performance equipment (including but not limited to electric guitar pickups, microphones, synthesizers, or other signal-transducing devices) as biometric monitoring or data collection systems, from 1990 to present.
+
+This includes:
+	•	Research funded or overseen by DARPA, DoD, NIH, or NSF on the capacity of music instruments (guitar pickups, microphones, MIDI controllers, percussion sensors, etc.) to detect biometric signals such as heart rate variability, muscle tremors, or nervous system activity
+	•	Contracts or subcontracts with manufacturers or academic institutions exploring music and performance technology for dual-use biometric or surveillance purposes
+	•	Reports, evaluations, or incident logs concerning the capture of physiological or neurological data through musical performance contexts
+	•	Policy documents, ethics board reviews, or interagency communications regarding the potential use of musical equipment in experimental or surveillance environments
+	•	Communications with private companies (musical instrument manufacturers, digital audio companies) regarding integration of biometric sensing capabilities into consumer or professional music gear
+
+Keywords: dual-use instrumentation, biometric collection, guitar pickup, microphone, synthesizer, music performance, DARPA, NIH, DoD, NSF
