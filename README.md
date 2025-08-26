@@ -50,9 +50,8 @@ The point is simple: the record continues.
 
 For more information, find me on X at FelixSaysDoubt.
 
-//////////
 
-FAQ
+## FAQ
 
 Q: Is this performance art?
 
