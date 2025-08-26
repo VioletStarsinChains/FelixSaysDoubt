@@ -54,3 +54,35 @@ This includes:
 	•	Oversight documents linking fungal field research with continuity-of-operations, infrastructure resilience, or wildfire recovery programs
 
 Keywords: pyrophilous fungi, post-fire ecology, fungal conductivity, biohybrid networks, IoT substrate, electromagnetic field manipulation, genetically modified fungi, Morchella, Pyronema, continuity of operations
+
+To DARPA / DOE / NSF / NIH (NIBIB, NIAID)
+
+Request:
+
+Requesting any and all records, internal communications, contracts, or research proposals relating to the use of biological organisms — particularly fungi or fungal-derived biofilms — as substrates for electromagnetic field manipulation or Internet-of-Things (IoT) infrastructure, from 2005 to present.
+
+This includes:
+	•	Studies or pilot projects exploring genetic modification of fungi to alter conductivity, dielectric properties, or electromagnetic sensitivity
+	•	Research on biohybrid networks combining fungal mycelium with nanosensors, smart dust, or other IoT devices
+	•	Contracts with defense or commercial vendors investigating living substrates for signal routing, communication, or continuity-of-operations technologies
+	•	Risk assessments, ethical reviews, or security analyses concerning the environmental deployment of fungi or other organisms with engineered electromagnetic properties
+	•	Reports on post-fire fungal proliferation (e.g., pyrophilous fungi such as Morchella or Pyronema) in connection with EM field changes or sensor integration
+
+Keywords: genetically modified fungi, biofilm conductivity, electromagnetic manipulation, IoT substrate, biohybrid networks, smart dust, continuity of operations, pyrophilous fungi
+
+⸻ 
+
+To USDA Forest Service / ARS (Agricultural Research Service) / USGS
+
+Request:
+
+Requesting any and all records, internal communications, contracts, or research proposals regarding the study or use of fungi as environmental substrates for electromagnetic field manipulation, sensing, or communication infrastructure, from 2005 to present.
+
+This includes:
+	•	Research on post-fire fungal proliferation (e.g., Morchella, Pyronema, or other pyrophilous fungi) in relation to soil conductivity or electromagnetic field dynamics
+	•	Projects exploring the use of fungal mycelium or biofilms as living networks for environmental monitoring or Internet-of-Things (IoT) applications
+	•	Interagency or vendor contracts involving the deployment of biologically based signal-routing systems in forested or rural environments
+	•	Reports or risk assessments concerning the environmental, ecological, or public health impacts of releasing genetically modified fungi with altered electromagnetic or conductive properties
+	•	Oversight documents linking fungal field research with continuity-of-operations, infrastructure resilience, or wildfire recovery programs
+
+Keywords: pyrophilous fungi, post-fire ecology, fungal conductivity, biohybrid networks, IoT substrate, electromagnetic field manipulation, genetically modified fungi, Morchella, Pyronema, continuity of operations
