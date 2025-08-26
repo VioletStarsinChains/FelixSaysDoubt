@@ -1,0 +1,77 @@
+NFPA Fire Diamond: Quick Decoder
+
+♦️ Top (Red) = Flammability
+	•	0 = Won’t burn
+	•	1 = Burns if heated a lot
+	•	2 = Burns easily if heated/moderately
+	•	3 = Ignites at room temperature
+	•	4 = Extremely flammable
+
+🔷 Left (Blue) = Health Hazard
+	•	0 = No hazard
+	•	1 = Mild irritation
+	•	2 = Temporary injury possible
+	•	3 = Serious/permanent injury with short exposure
+	•	4 = Deadly even in small amounts
+
+🔶 Right (Yellow) = Reactivity / Instability
+	•	0 = Stable
+	•	1 = Unstable if heated/pressurized
+	•	2 = Violent chemical change possible
+	•	3 = May explode with shock or heat
+	•	4 = May detonate without warning
+
+⚪️ Bottom (White) = Special Hazards
+	•	OX = Oxidizer (makes fire worse)
+	•	COR = Corrosive (eats skin/metals)
+	•	SA = Simple Asphyxiant (displaces oxygen, suffocates)
+	•	W (slash through) = Dangerous with water
+	•	Radiation trefoil = Radioactive
+
+⸻
+
+🛑 Nonstandard Hazmat Indicators
+
+🟥⬜ Red-and-White Diagonal Striping
+	•	Use: OSHA/NFPA marking for “keep clear – hazard zone.”
+	•	Where seen: Barriers, vehicles, storage sites.
+	•	Meaning: Restricted area or oxidizer/fire-supporting hazard.
+
+🟨⬛ Yellow-and-Black Diagonal Striping
+	•	Use: General caution marker.
+	•	Where seen: Floors, machinery, doors.
+	•	Meaning: Physical hazard area, possible chemical storage behind.
+
+🟥 Red or 🟥⬛ Red-and-Black Check Pattern
+	•	Use: Fire equipment access zones, sometimes applied to doors or walls.
+	•	Meaning: Fire-related hazard nearby or keep-clear zone for extinguishers.
+
+🟦 Blue-and-White Stripes or Solid Blue Tape
+	•	Use: Less standardized, but in some OSHA/industrial contexts can mean “equipment under repair” or “non-hazard safety warning.”
+	•	Meaning: Could be repurposed as a covert code for health hazards.
+
+🟩 Green-and-White Stripes
+	•	Use: Safety equipment, emergency egress, or first-aid station.
+	•	Meaning: Not inherently hazardous, but important contextual marker if placed oddly.
+
+⚪ Special Symbols
+	•	OX: Oxidizer.
+	•	COR: Corrosive.
+	•	SA: Simple Asphyxiant (CO₂, N₂).
+	•	Radiation trefoil: Radioactive material.
+	•	Water-reactive slash (“W” with a line through it): Danger if exposed to water.
+
+🚗 Vehicles & Equipment
+	•	Red-and-white striped bumpers or sides: Hazard transport or oxidizer risk.
+	•	Orange panels (especially blank): International marker for dangerous goods in transit.
+	•	Odd livery on contractor trucks: Sometimes functions as “hidden” hazard signage.
+
+🏠 Residential / Informal Indicators (possible camouflage)
+	•	Flags, porch décor, or lawn ornaments in consistent hazard colors (red, blue, yellow, white): May echo NFPA quadrants.
+	•	House numbers with mismatched digits/fonts: Potentially used to signal hazard ratings.
+	•	Little Free Libraries / boxes with color coding: Could function as community-level comm nodes.
+
+⸻
+
+✅ Summary: Hazards aren’t always marked with the standard diamond. Stripes, color patterns, special abbreviations, and even vehicle paint can serve as nonstandard indicators. Awareness of these secondary codes helps spot risk areas that might otherwise blend into the environment.
+
