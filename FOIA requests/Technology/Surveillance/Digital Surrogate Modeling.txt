@@ -1,0 +1,39 @@
+To Department of Defense (DARPA, OUSD(I&S), USSTRATCOM), Department of Homeland Security (I&A, S&T), Office of the Director of National Intelligence (IARPA, NCTC)
+
+Request:
+
+Requesting any and all contracts, technical reports, research proposals, interagency memoranda, or contractor deliverables concerning the use of synthetic or digital surrogate identities for analyst training, behavioral evaluation, or risk assessment, from 2005 to present.
+
+This includes:
+	•	Records on “persona management” systems, synthetic identity modeling, or digital surrogate populations used to replace or supplement live subjects in analyst-facing systems
+	•	Reports or deliverables describing the substitution of digital actors or reference models for real individuals in continuity-of-operations, behavioral risk analysis, or information operations training
+	•	Interagency communications (DoD, DHS, ODNI) concerning policies for substituting synthetic versions of subjects in surveillance feeds shown to analysts
+	•	Contractor proposals or technical documentation for systems that generate, curate, or distribute synthetic actor outputs for use in behavioral simulations
+	•	Evaluations, after-action reviews, or audits of analyst performance when interacting with digital surrogate models rather than real-world data
+
+Keywords: synthetic identity, persona management, digital surrogate, simulated actor, reference model, analyst training, behavioral risk evaluation, continuity of operations
+
+⸻ 
+
+To Department of Defense (DARPA, OUSD(I&S), USSTRATCOM), Department of Homeland Security (S&T, I&A), Office of the Director of National Intelligence (IARPA, NCTC)
+
+Request:
+
+Requesting any and all contracts, research proposals, technical reports, interagency memoranda, or contractor deliverables from 2005 to present concerning the development or use of synthetic identity models, persona management systems, or digital surrogate populations provided by major federal contractors, including but not limited to:
+	•	SAIC (Science Applications International Corporation)
+	•	Booz Allen Hamilton
+	•	Palantir Technologies
+	•	Raytheon / RTX
+	•	MITRE Corporation
+	•	Lockheed Martin
+	•	General Dynamics IT
+	•	Northrop Grumman
+	•	CACI International
+
+This includes:
+	•	Statements of work (SOWs), procurement contracts, or vendor proposals involving persona management, synthetic identities, or digital surrogate populations
+	•	Technical documentation or contractor deliverables describing systems that generate or curate synthetic versions of real-world individuals for analyst-facing platforms
+	•	Interagency communications (DoD, DHS, ODNI) concerning contractor involvement in replacing live subject data with synthetic actors or surrogate models in analyst training, behavioral simulations, or continuity-of-operations exercises
+	•	Audits, after-action reviews, or evaluations of analyst performance when interacting with contractor-provided synthetic models rather than direct real-world data
+
+Keywords: synthetic identity, persona management, digital surrogate, simulated actor, reference model, contractor deliverable, analyst training, behavioral risk evaluation, continuity of operations
