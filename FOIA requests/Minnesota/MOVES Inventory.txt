@@ -16,3 +16,21 @@ This includes:
 • Records or correspondence addressing population or registration-based baselines (vehicle registrations, odometer statements at title/inspection) used to validate VMT/fuel demand, including any noted inconsistencies or adjustments
 
 Keywords: VMT, vehicle miles traveled, HPMS, ATR, WIM, data imputation, data smoothing, motor fuel tax, fuel receipts, dispenser calibration, Weights & Measures, refinery throughput, MOVES inventory, on-road emissions, reconciliation, anomaly, variance
+
+⸻ 
+
+To Metropolitan Council (Transportation Services) / Minnesota Department of Transportation – Metro District / Minnesota Department of Revenue (Motor Fuel Tax Division) / Minnesota Pollution Control Agency (MPCA)
+
+Request:
+
+Requesting any and all datasets, reports, audits, or internal communications concerning anomalies, adjustments, or unexplained variances between measured or estimated vehicle activity and motor fuel consumption in the Twin Cities metropolitan area, from 2000 to present.
+
+This includes:
+	•	Traffic volume data (automatic traffic recorder counts, weigh-in-motion stations, corridor-level monitoring) for the Twin Cities metro area, including documentation of imputation, smoothing, or “continuity adjustments” used to fill sensor gaps
+	•	Metropolitan Council transportation demand models and reconciliation documents comparing projected vehicle miles traveled (VMT) with observed fuel sales or tax data
+	•	Minnesota Department of Revenue records summarizing motor fuel tax receipts attributable to the seven-county metro region, and any memos addressing discrepancies between reported consumption and MnDOT/Met Council VMT data
+	•	MPCA on-road emissions inventory data for the Twin Cities metro (MOVES model inputs and outputs) and internal correspondence regarding reconciliation with MnDOT/Met Council VMT estimates and fuel tax receipts
+	•	Interagency communications or meeting notes involving MnDOT Metro District, Met Council, DOR, and MPCA regarding VMT/fuel demand inconsistencies in the metro area
+	•	Contracts, deliverables, or validation reports from third-party traffic data vendors (e.g., probe data providers such as INRIX, StreetLight, HERE) used in the Twin Cities metro, and any evaluations of accuracy or anomalies
+
+Keywords: vehicle miles traveled, VMT, Twin Cities, fuel sales, motor fuel tax, data imputation, data smoothing, ATR counts, WIM stations, probe data, MOVES inventory, reconciliation, variance, anomaly
