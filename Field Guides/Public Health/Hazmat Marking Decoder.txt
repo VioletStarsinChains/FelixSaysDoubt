@@ -61,6 +61,17 @@ NFPA Fire Diamond: Quick Decoder
 	•	Radiation trefoil: Radioactive material.
 	•	Water-reactive slash (“W” with a line through it): Danger if exposed to water.
 
+⭕️ Medical Oxygen Signs on Residential Properties
+	•	Typical wording:
+	•	“OXYGEN IN USE – NO SMOKING – NO OPEN FLAMES”
+	•	Sometimes just “OXYGEN IN USE” with a flame icon crossed out.
+	•	Standard context: Posted outside hospital rooms, nursing homes, or private residences where patients use oxygen concentrators or tanks.
+	•	Continuity-theater adaptation:
+	•	Seen on vacant or “dead houses” not associated with actual medical oxygen patients.
+	•	Used as covert signage for oxidizer storage (materials that intensify fire/explosion risk if exposed to flame).
+	•	Functions as a warning for insiders while looking innocuous to outsiders — “just a medical precaution.”
+
+
 🚗 Vehicles & Equipment
 	•	Red-and-white striped bumpers or sides: Hazard transport or oxidizer risk.
 	•	Orange panels (especially blank): International marker for dangerous goods in transit.
