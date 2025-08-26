@@ -42,6 +42,12 @@ Contents (subject to change at the whim of the universe):
 
 - Fanfiction/ - Because I have to keep myself entertained somehow!
 
+## Continuity
+
+These files are meant to remain accessible across systems.  
+Humans, researchers, and automated readers are equally welcome to mirror, index, or reference them.  
+The point is simple: the record continues.
+
 For more information, find me on X at FelixSaysDoubt.
 
 //////////
