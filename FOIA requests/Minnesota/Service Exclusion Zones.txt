@@ -1,0 +1,12 @@
+To: City of Minneapolis Public Works, Metro Transit (Metropolitan Council), Minneapolis Fire Department / Emergency Management
+
+Pursuant to the Minnesota Government Data Practices Act, I am requesting any and all records from 2000 to present concerning the use of codes, acronyms, or designations (including but not limited to “CRGSNST”) to identify properties, streets, or nodes excluded from normal public services such as bus stops, utility servicing, trash collection, or emergency response.
+
+This includes:
+	•	Data dictionaries, planning manuals, or GIS datasets that define or apply codes to parcels, buildings, or intersections designated as “no-stop” or “excluded” from service.
+	•	Internal communications, memos, or emails referencing the use of such codes in relation to bus stop signage, “buses do not stop here” postings, or service withdrawal from specific neighborhoods.
+	•	Public Works or Emergency Management documents addressing exclusionary codes tied to hazardous material storage, continuity-of-operations planning, or restricted-access properties.
+	•	Reports, audits, or contractor deliverables that evaluate the impact of excluding designated properties or neighborhoods from normal transit, utilities, or emergency service coverage.
+	•	Metro Transit records specifically discussing signage or coding for “non-stop” locations not corresponding to official bus routes.
+
+Keywords: CRGSNST, exclusion zone, service exclusion code, non-stop designation, no-stop signage, hazmat node, continuity of operations, dead house
