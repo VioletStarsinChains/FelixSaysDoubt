@@ -1,0 +1,14 @@
+To DARPA / DOE / NSF / NIH (NIBIB, NIAID)
+
+Request:
+
+Requesting any and all records, internal communications, contracts, or research proposals relating to the use of biological organisms — particularly fungi or fungal-derived biofilms — as substrates for electromagnetic field manipulation or Internet-of-Things (IoT) infrastructure, from 2005 to present.
+
+This includes:
+	•	Studies or pilot projects exploring genetic modification of fungi to alter conductivity, dielectric properties, or electromagnetic sensitivity
+	•	Research on biohybrid networks combining fungal mycelium with nanosensors, smart dust, or other IoT devices
+	•	Contracts with defense or commercial vendors investigating living substrates for signal routing, communication, or continuity-of-operations technologies
+	•	Risk assessments, ethical reviews, or security analyses concerning the environmental deployment of fungi or other organisms with engineered electromagnetic properties
+	•	Reports on post-fire fungal proliferation (e.g., pyrophilous fungi such as Morchella or Pyronema) in connection with EM field changes or sensor integration
+
+Keywords: genetically modified fungi, biofilm conductivity, electromagnetic manipulation, IoT substrate, biohybrid networks, smart dust, continuity of operations, pyrophilous fungi
