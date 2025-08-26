@@ -1,0 +1,14 @@
+To National Highway Traffic Safety Administration (NHTSA) / Environmental Protection Agency (EPA – Office of Transportation and Air Quality) / Department of Energy (DOE – Energy Information Administration)
+
+Request:
+
+Requesting any and all technical support documents, compliance reports, internal communications, or interagency memoranda concerning anomalies, adjustments, or unexplained variances in Corporate Average Fuel Economy (CAFE) modeling, vehicle miles traveled (VMT) projections, and fleet fuel consumption data, from 2000 to present.
+
+This includes:
+	•	Technical memoranda or internal communications regarding discrepancies between reported fleet sales, compliance submissions from automakers, and observed national fuel consumption patterns
+	•	Interagency correspondence (NHTSA, EPA, DOE) concerning reconciliation of CAFE models with real-world petroleum demand or refinery output data
+	•	Analyses or contractor reports addressing unexpected stability or anomalies in VMT assumptions relative to population demographics
+	•	Policy documents or internal reports discussing “continuity adjustments” or data smoothing in CAFE modeling and compliance processes
+	•	Communications with automakers regarding data irregularities in fuel economy reporting, VMT assumptions, or compliance baselines
+
+Keywords: Corporate Average Fuel Economy, CAFE, NHTSA, vehicle miles traveled, fuel consumption anomaly, DOE petroleum demand, EPA fleet compliance
