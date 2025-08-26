@@ -1,0 +1,57 @@
+Field Guide: Analytical Testing of Mulch and Soil Amendments for Biological Remains
+
+Purpose: Detect covert incorporation of biological remains (animal or human) into landscaping mulch, compost, or soil products.
+
+⸻
+
+🔬 1. Initial Visual & Physical Inspection
+	•	Texture anomalies: Look for irregular fragments (bone shards, teeth, hooves, claws).
+	•	Color variation: Flesh-contaminated mulch may show darker, greasy patches compared to wood-only chips.
+	•	Odor: Distinct putrescine/cadaverine, ammonia, or sulfur notes. Compost odor is earthy; decomposition odor is sharper and sickly-sweet.
+	•	Ash residues: If mulch appears partially burned, test for atypical ash composition (bone ash contains high calcium phosphate).
+
+⸻
+
+🧪 2. Microscopic Screening
+	•	Stereomicroscopy: Quick scan for bone microstructure (Haversian canals, osteons) not found in plant material.
+	•	Histology (thin sectioning): Plant cells vs. bone trabeculae can be distinguished even in tiny fragments.
+	•	Polarized light microscopy: Bone mineral crystals show birefringence patterns distinct from cellulose.
+
+⸻
+
+🧩 3. Molecular / Chemical Testing
+	•	FTIR or Raman Spectroscopy: Detects hydroxyapatite (bone mineral) vs. lignocellulose (wood fiber).
+	•	DNA extraction:
+	•	Short tandem repeats (STRs) for species ID.
+	•	Mitochondrial DNA often survives longer than nuclear DNA.
+	•	Protein markers: Collagen assays (e.g., ELISA or mass spec) — collagen is highly species-specific and persists longer than DNA.
+	•	Stable isotopes (δ¹³C, δ¹⁵N): Can confirm animal vs. plant origin in mixed organic samples.
+
+⸻
+
+🌡️ 4. Forensic Chemistry Approaches
+	•	GC-MS / LC-MS: Detect decomposition volatiles (putrescine, cadaverine, skatole, indole).
+	•	ICP-MS (metals): Elevated calcium, phosphorus, strontium indicate bone ash/fraction.
+	•	Amino acid profiling: Presence of animal proteins in what should be plant-only matter.
+
+⸻
+
+📦 5. Environmental / Epidemiological Indicators
+	•	Soil microbiome shifts: Presence of decomposition-associated bacteria (Clostridium spp., Enterococcus spp.) in mulch piles.
+	•	Insect evidence: Larval remains or cuticle fragments of necrophagous insects (blowflies, beetles).
+	•	Comparative mortality surveillance: If livestock deaths are being concealed, patterns in rendering/disposal records may not align with expected local herd sizes.
+
+⸻
+
+✅ Best Practices for Experts
+	•	Chain of custody: Every sample bagged, labeled, sealed, logged.
+	•	Sample diversity: Collect from multiple depths in mulch piles or beds.
+	•	Blind controls: Include known “clean” mulch for comparison.
+	•	Biosafety: Treat as potential biohazard (Biosafety Level 2 minimum if handling raw tissue DNA).
+
+⸻
+
+🔎 Interpretation
+	•	Plant-only: Wood lignin/cellulose signatures dominate, no hydroxyapatite, no animal proteins.
+	•	Animal remains present: Bone mineral + collagen + DNA/protein signals detected.
+	•	High confidence concealment: Consistent forensic indicators across multiple tests (e.g., collagen + elevated phosphorus + insect remains).
