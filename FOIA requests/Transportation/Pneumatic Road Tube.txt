@@ -12,3 +12,20 @@ This includes:
 	•	Risk assessments, quality control reviews, or error analyses related to automated traffic counter systems.
 
 Keywords: pneumatic road tube, automatic traffic recorder, ATR, vehicle volume, traffic count anomaly, HPMS, MOVES, travel demand model, MetroCount, Jamar
+
+⸻ 
+
+State-Level Public Records Request (Template)
+
+To [State Department of Transportation]
+
+Pursuant to [State Public Records Law], I am requesting access to the following records from 2015 to present concerning automated traffic data collection:
+
+This includes but is not limited to:
+	•	Raw traffic count datasets collected by pneumatic road tube counters, inductive loop detectors, radar/LIDAR systems, or other automated traffic recorders (ATR).
+	•	Reports or audits comparing raw counter data with modeled or reported traffic volumes (e.g., HPMS, MOVES, or state travel demand models).
+	•	Internal communications, memos, or emails discussing anomalous traffic counts, unexplained decreases in vehicle volumes, or discrepancies between raw counter data and modeled expectations.
+	•	Contracts, purchase orders, or deliverables with vendors providing automated traffic count technology or services (e.g., MetroCount, Jamar, Miovision, or state contractors).
+	•	Quality control reviews, risk assessments, or error analyses of automated traffic counting programs.
+
+Keywords: pneumatic road tube, automatic traffic recorder (ATR), vehicle volume, traffic count anomaly, HPMS, MOVES, travel demand model, MetroCount, Jamar, Miovision
