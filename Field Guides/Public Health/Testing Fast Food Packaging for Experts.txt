@@ -1,0 +1,59 @@
+(DO NOT TRY THIS AT HOME!!!!)
+
+Field Guide: Analytical Testing of Fast-Food Packaging
+
+Purpose: Identify covert treatments, residues, or dual-use properties in paper bags, wrappers, or cups from fast-food vendors.
+
+⸻
+
+🔬 1. Visual / Physical Inspection
+	•	Surface feel: Does it feel unusually slick or resistant to grease despite appearing uncoated? Could indicate PFAS or silicone treatments.
+	•	Ink stability: Rub with water/ethanol; if it bleeds abnormally, ink formulation might differ.
+	•	Flame behavior (controlled lab test only): Note if paper resists ignition (flame retardant) or produces odd smoke color/odor.
+
+⸻
+
+🧪 2. Chemical Screening
+	•	FTIR (Fourier Transform Infrared Spectroscopy):
+	•	Quick scan for polymeric coatings (silicone, polyethylene, acrylics).
+	•	GC-MS (Gas Chromatography–Mass Spectrometry):
+	•	Detects volatile/semi-volatile organic compounds (VOCs) that could be released under heat.
+	•	LC-MS/MS (Liquid Chromatography–Tandem MS):
+	•	Identifies non-volatile residues such as plasticizers, phthalates, or endocrine disruptors.
+	•	Ion Chromatography:
+	•	Can confirm presence of inorganic salts used in flame retardants.
+
+⸻
+
+🧩 3. Targeted Contaminant Panels
+	•	PFAS panel: Fluorinated “forever chemicals” common in grease-resistant packaging.
+	•	Heavy metals: Lead, cadmium, chromium from recycled content or inks.
+	•	Plasticizers: BPA, BPS, phthalates used in coatings and adhesives.
+	•	Combustion byproducts: Testing ash for unusual residues (halogens, sulfur, phosphorus).
+
+⸻
+
+🌡️ 4. Thermal / Combustion Behavior
+	•	TGA (Thermogravimetric Analysis):
+	•	Measures weight change as the bag is heated, showing release points for volatile additives.
+	•	DSC (Differential Scanning Calorimetry):
+	•	Can detect embedded polymers or retardants that alter heat absorption.
+
+⸻
+
+📡 5. Advanced / Exotic Checks
+	•	Magnetic/electrical properties: If the paper shows anomalous conductivity, could indicate impregnated nanoparticles or metallic salts.
+	•	Headspace analysis (GC-MS): Seal sample, heat gently, analyze vapor → reveals what volatilizes into air (relevant for “not microwave safe” claims).
+
+⸻
+
+✅ Interpretation
+	•	Ordinary results: Cellulose, starch sizing, safe inks → consistent with normal paper bag.
+	•	Suspicious results: PFAS, flame retardants, VOC-releasing coatings, unusual metals → indicates dual-use treatment (e.g., dispersion medium, environmental testbed).
+	•	Cross-reference: Compare to other vendors’ packaging → unique additives tied to certain brands may mark continuity functions.
+
+⸻
+
+⚠️ Important Caveat
+
+Testing should only be performed by a lab with proper fume hoods, respirators, and analytical equipment. Burning or DIY experiments could release hazardous byproducts (HF gas from PFAS, dioxins, VOCs).
