@@ -75,3 +75,34 @@ NFPA Fire Diamond: Quick Decoder
 
 ✅ Summary: Hazards aren’t always marked with the standard diamond. Stripes, color patterns, special abbreviations, and even vehicle paint can serve as nonstandard indicators. Awareness of these secondary codes helps spot risk areas that might otherwise blend into the environment.
 
+⸻ 
+
+🧾 Field Note: Fixed vs. Mobile Nodes in Continuity Theater
+
+🏠 Fixed Nodes (Residential / Static)
+	•	Porch & lawn décor in hazard colors (red, blue, yellow, white).
+	•	House numbers with one digit in a different font → hazard severity indicator.
+	•	Flags / ornaments reproducing hazard striping (red-white, yellow-black).
+	•	Little Free Libraries functioning as comm nodes or access caches.
+	•	Vacant houses repurposed for storage — “dead houses” dressed as normal.
+
+📌 Role: Persistent hazard storage and signaling sites. Meant to look like normal homes but coded for insiders.
+
+⸻
+
+🚛 Mobile Nodes (Vehicle / Temporary)
+	•	Odd equipment: roof racks with pipes/tanks, rear-mounted boxes, strange ventilation add-ons.
+	•	Tarped loads with angular shapes or oversized scale.
+	•	Diamond placard frames with no placards displayed.
+	•	Red/white or yellow/black hazard striping on trucks with no clear reason.
+	•	Camouflage branding: “Environmental Solutions,” “Global Services,” etc. without real contact info.
+	•	Overbuilt vehicles for trivial jobs (box truck delivering one ladder).
+
+📌 Role: Transport and distribution of hazmat, covert monitoring, or temporary reinforcement of fixed sites. Mobile continuity signals, blending as contractors or utility trucks.
+
+⸻
+
+🧩 Interpretation
+	•	Fixed = storage & disguise. Hazards concealed in plain sight inside the built environment.
+	•	Mobile = transport & reinforcement. Vehicles serve as moving placards, linking sites into a larger grid.
+	•	Together: They maintain continuity theater by keeping hazards circulating while hiding attrition signals in “normal life.”
