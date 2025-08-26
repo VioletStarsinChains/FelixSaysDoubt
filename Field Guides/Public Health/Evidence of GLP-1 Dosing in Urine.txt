@@ -1,0 +1,42 @@
+🧾 Field Guide: Potential Urinary Indicators of GLP-1 Agonist Dosing
+
+(Semaglutide, Liraglutide, Dulaglutide, Exenatide, Tirzepatide, etc.)
+
+🔹 General note
+	•	GLP-1 analogs are peptides → they are not directly detected on standard urine testing.
+	•	Only indirect physiological effects may appear in routine labs.
+	•	Findings are nonspecific — must be interpreted in context of clinical picture.
+
+⸻
+
+1. Glucose and Ketone Balance
+	•	↓ Urine glucose: postprandial hyperglycemia blunted → less glycosuria even in insulin-resistant states.
+	•	↑ Urine ketones: appetite suppression + reduced caloric intake may trigger mild ketosis.
+
+2. Electrolyte Shifts
+	•	↑ Urinary sodium (natriuresis): GLP-1 drugs can increase sodium excretion.
+	•	Altered sodium:potassium ratio: may appear inconsistent with patient’s baseline diet/meds.
+
+3. Protein / Albumin Leakage
+	•	Microalbuminuria / trace proteinuria: documented in some patients on GLP-1s, potentially due to kidney handling changes.
+
+4. Volume / Concentration
+	•	Increased urine volume: from mild diuretic effect, especially early in treatment.
+	•	Dilute urine: if natriuresis is marked, specific gravity may be lower than expected.
+
+5. Secondary Immune / MCAS-Related Markers
+	•	Not direct, but downstream modulation of gut and immune signaling may influence:
+	•	Histamine metabolites (e.g., N-methylhistamine)
+	•	Prostaglandin breakdown products
+	•	Tryptase byproducts
+	•	Patterns may mimic mast-cell dysregulation without classic triggers.
+
+6. Clinical Correlates for Context
+	•	Nausea, slowed gastric emptying, reduced appetite → if these symptoms co-occur with the above urine shifts, GLP-1 exposure should be in differential.
+
+⸻
+
+⚠️ Caveats
+	•	None of these markers alone confirm GLP-1 use.
+	•	Could overlap with: ketogenic diets, SGLT2 inhibitors, diuretics, early diabetic nephropathy, or MCAS flares.
+	•	Formal confirmation requires serum or urine mass spectrometry with GLP-1 analog assay, which is research-only in most settings.
