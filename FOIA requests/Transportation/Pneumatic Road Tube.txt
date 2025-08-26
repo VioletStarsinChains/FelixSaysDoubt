@@ -1,0 +1,14 @@
+To U.S. Department of Transportation / Federal Highway Administration (FHWA), State Departments of Transportation (MnDOT, etc.)
+
+Request:
+
+Requesting any and all raw data, reports, or internal communications from 2015 to present concerning pneumatic road tube traffic counters, axle sensors, or similar automated traffic counting systems used for vehicle volume analysis.
+
+This includes:
+	•	Raw traffic count datasets (axle hits, vehicle counts) collected by temporary or permanent sensors, including pneumatic road tubes, inductive loop detectors, or radar/LIDAR counters.
+	•	Reports or audits comparing raw counter data to modeled traffic volumes (e.g., HPMS, MOVES, or state-level travel demand models).
+	•	Internal communications or contractor deliverables discussing anomalous traffic counts, unexplained decreases in vehicle volume, or discrepancies between raw counter data and reported/expected volumes.
+	•	Contracts or work orders with traffic data collection vendors (e.g., MetroCount, Jamar, Miovision, or state-specific contractors).
+	•	Risk assessments, quality control reviews, or error analyses related to automated traffic counter systems.
+
+Keywords: pneumatic road tube, automatic traffic recorder, ATR, vehicle volume, traffic count anomaly, HPMS, MOVES, travel demand model, MetroCount, Jamar
