@@ -1,0 +1,13 @@
+To Minnesota Department of Public Safety (DPS / Fusion Center), Minnesota IT Services (MNIT), University of Minnesota – College of Science and Engineering / Department of Computer Science, and Minnesota National Guard
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act, requesting any and all contracts, grant proposals, technical reports, research deliverables, or interagency communications from 2005 to present concerning the development, procurement, or use of synthetic identity models, persona management systems, or digital surrogate populations for analyst training, behavioral evaluation, or continuity-of-operations exercises.
+
+This includes:
+	•	Contracts, RFPs, or grant agreements with vendors, contractors, or academic labs developing synthetic identity, persona management, or surrogate population tools for use by Minnesota state agencies or the Minnesota National Guard
+	•	Research proposals or technical deliverables from the University of Minnesota or affiliated research institutes concerning digital surrogate populations, agent-based modeling, or analyst-facing behavioral simulations
+	•	Internal communications between MNIT, DPS, the Minnesota Fusion Center, and federal partners (DHS, DoD, ODNI) regarding pilot programs substituting synthetic actors for real-world data in analyst workflows
+	•	Audits, evaluations, or after-action reviews assessing analyst performance when interacting with synthetic or surrogate identities, compared to live subject data
+
+Keywords: synthetic identity, persona management, digital surrogate, simulated actor, reference model, analyst training, behavioral risk evaluation, continuity of operations, Minnesota IT Services, Fusion Center, University of Minnesota
