@@ -34,3 +34,21 @@ This includes:
 	•	Contracts, deliverables, or validation reports from third-party traffic data vendors (e.g., probe data providers such as INRIX, StreetLight, HERE) used in the Twin Cities metro, and any evaluations of accuracy or anomalies
 
 Keywords: vehicle miles traveled, VMT, Twin Cities, fuel sales, motor fuel tax, data imputation, data smoothing, ATR counts, WIM stations, probe data, MOVES inventory, reconciliation, variance, anomaly
+
+⸻ 
+
+To Metropolitan Council (Metro Transit Division) / Minnesota Department of Transportation (MnDOT) / Minnesota Pollution Control Agency (MPCA) / Minnesota Department of Public Safety – State Fire Marshal Division
+
+Request:
+
+Requesting any and all contracts, internal communications, operational records, or oversight reports concerning the use of Metro Transit buses, light rail, or support vehicles for the transport of non-passenger cargo, hazardous materials, or other “inventory,” from 2000 to present.
+
+This includes:
+	•	Contracts or subcontracts for Metro Transit vehicles to move freight, cargo, or hazardous substances under arrangements with other state or federal agencies
+	•	Fuel allocation records, bulk fuel purchase summaries, and reconciliation documents showing Metro Transit fleet fuel consumption vs. reported passenger miles
+	•	Internal memoranda or meeting notes discussing use of buses, trains, or support vehicles for covert or dual-use transport (including terms such as “special cargo,” “non-passenger load,” or “inventory”)
+	•	Safety audits, incident reports, or MPCA/Fire Marshal inspection records referencing storage or carriage of hazardous materials on Metro Transit property or within fleet vehicles
+	•	Interagency correspondence (Met Council, MnDOT, MPCA, DPS) concerning reconciliation of Metro Transit fleet mileage/fuel use with observed ridership trends
+	•	Vendor or contractor records for outfitting Metro Transit vehicles with storage, containment, or air handling modifications inconsistent with normal passenger service
+
+Keywords: Metro Transit, Metropolitan Council, non-passenger cargo, hazardous materials, dual-use vehicle, bulk fuel allocation, ridership reconciliation, special cargo, inventory transport
