@@ -1,0 +1,35 @@
+To FCC / FTC / CBP / DHS / Department of Commerce (BIS) / CPSC
+
+Request:
+Requesting any and all documents, investigations, enforcement actions, vendor contracts, or communications from January 1, 2010 to present concerning mobile phone cases or accessories containing embedded electronics, sensors, or surveillance components.
+
+This includes:
+	•	Reports of unauthorized transmitters, microphones, cameras, or data collection hardware embedded in phone cases
+	•	Interagency communications regarding spyware, keyloggers, or geolocation trackers in consumer mobile accessories
+	•	Import inspections or seizures of phone cases with undeclared electronics
+	•	Vendor or manufacturer disclosures involving “smart cases” marketed for behavioral or data collection purposes
+	•	Safety analyses of phone cases containing batteries, chips, or RF emitters
+
+Keywords: spyware phone case, surveillance accessory, embedded electronics, hidden microphone, unauthorized transmitter, smart case, covert tracker, mobile spyware, CPSC, FCC enforcement
+
+
+///////////
+
+
+To Department of Defense / DARPA / Defense Intelligence Agency (DIA) / Department of Homeland Security (DHS)
+
+Request:
+Requesting any and all documents, contracts, research proposals, or interagency communications from January 1, 2005 to present concerning the use of consumer mobile phone cases or accessories as surveillance, telemetry, or behavioral monitoring devices.
+
+This includes:
+	•	Research into embedding microphones, RF transmitters, or geolocation trackers in consumer phone cases
+	•	Programs exploring covert telemetry collection through mobile accessories as compliance testing or stress modeling tools
+	•	Contracts with private vendors developing “smart cases” for behavioral analysis, including data fusion with existing mobile device telemetry
+	•	Risk assessments or counterintelligence reports on foreign-manufactured phone cases with embedded spyware or sensors
+	•	Communications with technology contractors regarding the use of phone cases as covert platforms for environmental entrainment, acoustic manipulation, or signal interception
+
+Keywords: DARPA phone case, covert telemetry, embedded surveillance, smart case spyware, behavioral compliance, consumer accessories, RF transmitter, hidden microphone, DIA counterintelligence, mobile surveillance hardware
+
+
+
+
