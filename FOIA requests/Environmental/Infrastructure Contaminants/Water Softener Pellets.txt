@@ -13,3 +13,20 @@ This includes:
 	•	Communications between EPA, FDA, and USDA regarding monitoring, safety testing, or cross-agency oversight of water softener pellet manufacturing and distribution
 
 Keywords: water softener pellets, sodium chloride, potassium chloride, contamination, nonconforming additives, heavy metals, nanoparticles, biological contamination, consumer complaint, EPA oversight, FDA safety testing
+
+⸻ 
+
+To: Department of Homeland Security (DHS) / Department of Defense (DoD) / Defense Threat Reduction Agency (DTRA)
+
+Request:
+
+Requesting any and all documents, reports, research proposals, contracts, or internal communications from 1990 to present concerning the use of commercial water softener pellets (sodium chloride or potassium chloride base) as potential vectors for bioterrorism, population exposure, or behavioral modulation.
+
+This includes:
+	•	Risk assessments or red-team exercises evaluating the vulnerability of water softener pellets to deliberate contamination or weaponization
+	•	Research studies or contractor reports on the solubility of additives (e.g., heavy metals, lithium salts, nanoparticles, engineered microbes) in pelletized salt used in water conditioning systems
+	•	Communications regarding anomalous incidents of contaminated or adulterated pellets in the supply chain
+	•	Evaluations of water softener pellet distribution networks as potential infrastructure targets for covert population-level exposure
+	•	Guidance or mitigation strategies prepared by DHS, DoD, or DTRA regarding monitoring or securing softener pellet manufacturing and distribution
+
+Keywords: water softener pellets, sodium chloride, potassium chloride, bioterrorism vector, population exposure, nanoparticle additive, lithium contamination, engineered microbes, behavioral modulation, infrastructure vulnerability
