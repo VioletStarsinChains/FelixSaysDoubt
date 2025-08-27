@@ -1,0 +1,31 @@
+To Securities and Exchange Commission (SEC) / Commodity Futures Trading Commission (CFTC)
+
+Request:
+
+Requesting any and all records, contracts, internal communications, research proposals, or enforcement actions from 1990 to present concerning the development, marketing, clearing, or regulation of financial instruments tied to human behavior, sentiment indices, or behavioral finance models, particularly where such products involved Citigroup Inc. or its subsidiaries (including Citibank, Citi Markets and Banking, or Citi Global Markets).
+
+This includes:
+	•	Records describing the creation, approval, or trading of derivatives, swaps, futures, or exchange-traded products based on sentiment data, behavioral analytics, or predictive models of human response.
+	•	Communications between SEC, CFTC, or affiliated contractors and Citigroup or its subsidiaries regarding behavioral finance–linked products or instruments resembling human response derivatives.
+	•	Enforcement actions, compliance reviews, or internal risk assessments concerning the appropriateness of marketing or clearing behavioral-linked instruments through Citi’s global platforms.
+	•	Oversight reports on the role of Citigroup as a dealer, custodian, or clearing agent in distributing sentiment-linked or behavioral futures products.
+	•	Interagency or contractor deliverables describing Citigroup’s participation in behavioral finance modeling, stress testing, or systemic risk evaluation involving behavioral futures.
+
+Keywords: behavioral finance, behavioral futures, sentiment index, predictive analytics, investor behavior, human response derivatives, Citibank, Citigroup, Citi Global Markets, SEC, CFTC
+
+⸻ 
+
+To Federal Reserve Board / U.S. Department of the Treasury (Office of Financial Research, Financial Stability Oversight Council)
+
+Request:
+
+Requesting any and all records, contracts, internal communications, stress test documentation, or oversight reports from 1990 to present concerning the identification, monitoring, or regulation of financial instruments linked to human behavior, sentiment indices, or behavioral finance models, particularly in relation to Citigroup Inc. and its subsidiaries (including Citibank, Citi Global Markets, Citi Markets and Banking).
+
+This includes:
+	•	Records describing the classification of derivatives, swaps, futures, or exchange-traded products tied to sentiment data, predictive analytics, or behavioral models as systemic risk instruments.
+	•	Communications between the Federal Reserve, Treasury, FSOC, or Office of Financial Research and Citigroup regarding the trading, clearing, or risk management of behavioral-linked financial products.
+	•	Stress test scenarios, systemic risk assessments, or simulations that incorporated sentiment indices or human-response derivatives in evaluating Citigroup’s resilience.
+	•	Oversight or ethics reviews concerning the appropriateness of embedding behavioral datasets into Citi’s market instruments marketed to institutional or retail clients.
+	•	Interagency or contractor deliverables describing Citigroup’s role as a global counterparty, custodian, or clearing agent in behavioral futures markets.
+
+Keywords: behavioral finance, behavioral futures, sentiment index, predictive analytics, human response derivatives, systemic risk, Citigroup, Citibank, Citi Global Markets, Federal Reserve, Treasury, FSOC
