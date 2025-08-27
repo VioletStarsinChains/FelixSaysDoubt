@@ -12,3 +12,38 @@ This includes:
 	•	Interagency or contractor communications discussing the role of brokerage and custodian platforms (including Schwab) as conduits for behavioral futures markets.
 
 Keywords: behavioral finance, behavioral futures, sentiment index, predictive analytics, investor behavior, human response derivatives, Charles Schwab, SEC, CFTC, derivatives, futures
+
+⸻ 
+
+To Federal Reserve Board / U.S. Department of the Treasury (Office of Financial Research, Financial Stability Oversight Council)
+
+Request:
+
+Requesting any and all records, contracts, internal communications, research proposals, or oversight reports from 1990 to present concerning the development, monitoring, or regulation of financial instruments linked to human behavior, sentiment indices, or behavioral finance models, particularly in relation to systemic risk assessment and custodial platforms including Charles Schwab Corporation and its subsidiaries.
+
+This includes:
+	•	Records describing the identification of derivatives, futures, or exchange-traded products based on sentiment data, predictive models of retail investor behavior, or other behavioral datasets as potential systemic risk instruments.
+	•	Communications between the Federal Reserve, Treasury, or Office of Financial Research and brokerage/custodian institutions (including Schwab) regarding behavioral finance–linked products or instruments resembling human response derivatives.
+	•	Risk assessments, stress tests, or scenario analyses referencing the impact of sentiment-linked or behavioral futures markets on financial stability.
+	•	Oversight or ethics reviews concerning the appropriateness of integrating behavioral datasets into market instruments marketed to or accessible by retail clients.
+	•	Interagency or contractor deliverables describing the role of custodian institutions (including Schwab) in providing liquidity or clearance functions for behavioral futures products.
+
+Keywords: behavioral finance, behavioral futures, sentiment index, predictive analytics, investor behavior, human response derivatives, systemic risk, Charles Schwab, Federal Reserve, Treasury, FSOC
+
+⸻ 
+
+To Federal Reserve Board / U.S. Department of the Treasury (Office of Financial Research, Financial Stability Oversight Council)
+
+Request:
+
+Requesting any and all contracts, deliverables, internal communications, or oversight reports from 1990 to present involving private contractors or research organizations (including but not limited to RAND Corporation, MITRE Corporation, Booz Allen Hamilton, Deloitte, McKinsey & Company, Accenture, SAIC, Palantir Technologies, Battelle) concerning the identification, modeling, or regulation of financial instruments linked to human behavior, sentiment indices, or behavioral finance models.
+
+This includes:
+	•	Contracts or deliverables in which contractors provided analyses of derivatives, futures, or exchange-traded products derived from sentiment data, predictive human-response datasets, or other behavioral indicators.
+	•	Communications between the Federal Reserve, Treasury, or FSOC and contractors regarding the potential systemic risk posed by behavioral-linked instruments or human response derivatives.
+	•	Stress tests, risk simulations, or scenario analyses performed by contractors that included variables for behavioral futures markets, sentiment-driven indices, or predictive investor behavior models.
+	•	Oversight or ethics reviews discussing the appropriateness of outsourcing analyses of behavioral finance instruments to private contractors.
+	•	Interagency or contractor reports evaluating the role of brokerage/custodian platforms (including Charles Schwab) in distributing or clearing behavioral finance–linked products.
+
+Keywords: behavioral finance, behavioral futures, sentiment index, predictive analytics, investor behavior, human response derivatives, systemic risk, Charles Schwab, Federal Reserve, Treasury, FSOC, RAND, MITRE, Booz Allen, Palantir
+
