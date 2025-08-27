@@ -1,0 +1,138 @@
+To HHS / NIH / NIAID / NINDS
+
+Request:
+Requesting any and all grants, contracts, research proposals, IRB submissions, internal memoranda, program reviews, interagency MOUs, meeting notes, and email communications referencing methylene blue (methylthioninium chloride) as an in-vivo biomarker, optical taggant, or neuroactive dye for detection or tracking of human subjects between 1995 and present, including:
+• Studies on excitation/emission spectra, NIR responsiveness, and fluorescence lifetime characteristics in vivo
+• Biodistribution, pharmacokinetics, CNS penetration, and dose–response modeling for imaging/identification use cases
+• Protocols integrating LED/laser illumination for detection (clinical or field)
+• Pilots, demos, or collaborations with DHS/DoD/DOE related to population-level sensing or “smart city” infrastructure
+• Risk, ethics, and privacy assessments concerning human identification or state inference via optical dyes
+• Communications with academic labs or vendors supplying dyes, detectors, or illumination hardware
+• Data pipelines/algorithms for automated detection, classification, or tracking from optical returns
+• Progress reports, final reports, and closeout documents for funded projects involving methylene blue as a marker
+
+Keywords: methylene blue, methylthioninium chloride, phenothiazine dye, near-infrared fluorescence, FLIM, optical taggant, biomarker, biodistribution, in vivo imaging, smart city sensors, biosurveillance, redox dye
+
+————
+
+To DoD / DARPA / JPEO-CBRND / USSOCOM
+
+Request:
+Requesting any and all program documents, BAAs/solicitations, proposals, contracts, test reports, training materials, and communications regarding the use of methylene blue or phenothiazine-class compounds as human taggants for standoff identification, tracking, or combat identification between 1995 and present, including:
+• Requirements and concept studies for LED/laser/NIR illuminators and detector payloads (handheld or standoff)
+• Operational test & evaluation data from field exercises or urban testbeds
+• Safety, countermeasure, and decontamination guidance for dye-based tagging
+• Integration of projector/structured-light or DLP/LCOS elements for pattern projection and detection
+• Vendor communications, SOWs, and deliverables (dye suppliers, optics, sensors, analytics)
+• Interagency coordination with DHS, DOE labs, or intelligence community on urban sensing deployments
+• Algorithmic performance reports for detection/classification under varied lighting and weather conditions
+• After-action reports and privacy/civil liberties reviews, if any
+
+Keywords: methylene blue, taggant, standoff detection, NIR illuminator, laser excitation, phenothiazine, combat identification, structured light, fluorescence imaging, operational test, vendor, BAA
+
+————
+
+To DHS / Science & Technology Directorate / CISA / CWMD
+
+Request:
+Requesting any and all R&D, pilots, acquisition records, privacy impact assessments (PIAs), and communications concerning the use of fluorescent dyes (including methylene blue/methylthioninium chloride) for population-level biosurveillance and identification using public or residential lighting/camera infrastructure between 1995 and present, including:
+• Pilots using streetlights, traffic cameras, or residential devices (doorbell cameras, landscape “holiday projectors”) as illumination/detection platforms
+• PIA/threshold analyses, SORN drafts, and legal reviews related to optical tagging of persons
+• Sensor calibration documents, spectral specs, and safety assessments for public deployments
+• Contracts/MOUs with municipalities, utilities, or vendors supporting such sensing infrastructures
+• Analytics pipelines for detection/alerting, including false-positive/false-negative analyses
+• Training materials, CONOPS, and deployment playbooks
+• Interagency coordination with NIH/DoD/DOE/NIST
+• Community engagement or risk-communication materials
+
+Keywords: methylene blue, methylthioninium, biosurveillance, smart lighting, streetlight sensors, doorbell camera, landscape projector, near-infrared, privacy impact assessment, urban sensing, population monitoring, taggant
+
+————
+
+To HHS / FDA / CDER / CDRH
+
+Request:
+Requesting any and all regulatory submissions, reviews, correspondence, enforcement actions, and adverse event reports referencing methylene blue (systemic or topical) and any device submissions involving its optical detection (e.g., fluorescence/NIR imaging) between 1995 and present, including:
+• 510(k), De Novo, PMA files for devices claiming detection of methylene blue or phenothiazine fluorescence
+• Labeling, guidance, and safety communications concerning light interactions and excitation spectra
+• Adverse event reports and post-market surveillance related to methylene blue use outside operating rooms (e.g., consumer or outpatient contexts)
+• Compliance/enforcement actions regarding methylene blue marketed as a supplement or nootropic
+• Correspondence with manufacturers about excitation sources (LED/laser) and detector specifications
+• Cross-center communications (CDER/CDRH) on dye-device combination product considerations
+
+Keywords: methylene blue, methylthioninium chloride, 510(k), fluorescence imaging, NIR detection, labeling, adverse events, CDER, CDRH, combination product, enforcement, excitation spectrum
+
+————
+
+To CDC / CSELS / NCEZID
+
+Request:
+Requesting any and all documents, protocols, pilots, and communications related to the use of methylene blue (or similar fluorophores) as tracers or biomarkers in community surveillance, field epidemiology, or wastewater/sentinel systems between 1995 and present, including:
+• Field protocols for optical detection of dyes on/in human subjects or environmental matrices
+• Community-level pilots using public lighting or fixed sensors for detection of fluorescent biomarkers
+• Risk assessments, ethics reviews, and community notification materials
+• Data handling, de-identification, and privacy frameworks for optical biomarker datasets
+• Interagency collaborations with DHS/NIH/DoD or local public health departments
+• Vendor lists and product specifications for illumination/detection hardware
+
+Keywords: methylene blue, biosurveillance, sentinel surveillance, wastewater, fluorescence, field sensors, public lighting, near-infrared, biomarker, tracer, ethics review, privacy
+
+————
+
+To DOE / National Laboratories (PNNL, LLNL, Sandia, Los Alamos)
+
+Request:
+Requesting any and all research proposals, internal reports, test data, and interagency communications regarding standoff or remote detection of phenothiazine dyes (including methylene blue) using NIR/laser/LiDAR or structured-light methods between 1995 and present, including:
+• Spectral libraries, fluorescence-lifetime data, and tissue/skin phantom studies
+• Hardware specs for illuminators, detectors, and projectors suitable for urban environments
+• Field trials in urban testbeds, including results and performance limitations
+• Algorithms/models for detection under ambient lighting and occlusion
+• MOUs and contracts with DHS/DoD/municipal partners
+• Transition-to-practice or commercialization reports
+
+Keywords: methylene blue, phenothiazine, standoff detection, LiDAR, NIR laser, fluorescence lifetime, structured light, projector, urban testbed, remote sensing, spectral signature, taggant
+
+————
+
+To ODNI / IARPA
+
+Request:
+Requesting any and all program announcements, AOIs, proposals, contracts, reports, and communications referencing human identification or state inference via fluorescent taggants (including methylene blue) and their detection in “smart city” or public-lighting environments between 1995 and present, including:
+• Program design documents and technical evaluations for spectral sensing on persons
+• Vendor submissions describing dye-based tagging, illumination, and detection concepts
+• Ethical, legal, and social implications (ELSI) assessments and mitigations
+• Interagency coordination with DHS/DoD/NIST/DOE labs
+• Data standards, benchmarks, and evaluation datasets
+• Transition or technology transfer documentation
+
+Keywords: methylene blue, taggant, human identification, spectral sensing, IARPA, smart cities, NIR imaging, fluorescence, covert tracking, algorithms, evaluation, procurement
+
+————
+
+To NIST
+
+Request:
+Requesting any and all standards, reference materials, calibration protocols, test methods, workshops, and interagency communications related to measurement and calibration for detection of fluorescent dyes (including methylene blue) on human skin or in tissues between 1995 and present, including:
+• Reference spectra, tissue/skin phantom standards, and calibration targets
+• Photometry/radiometry guidance for NIR/visible excitation–emission measurement
+• Interoperability standards for detectors, illuminators, and analytics
+• Reports from stakeholder workshops and working groups (with DHS/DoD/NIH/DOE labs)
+• Validation studies of detection accuracy, repeatability, and safety limits
+• Drafts or final versions of measurement protocols and test methods
+
+Keywords: methylene blue, spectral standards, calibration, NIR, fluorescence, reference material, skin optics, tissue phantom, photometry, radiometry, measurement protocol, biosurveillance
+
+————
+
+To HHS / ASPR / BARDA
+
+Request:
+Requesting any and all solicitations, proposals, contracts, deliverables, milestone reports, and correspondence concerning dye-based biosurveillance or identification systems involving methylene blue (or related fluorophores) and their associated illumination/detection hardware between 1995 and present, including:
+• Technical requirements for fieldable detectors and illuminators (LED/laser/NIR)
+• Safety, risk, privacy, and ELSI analyses for population-level deployment
+• Vendor lists, source selection justifications, and cost/price analyses
+• Pilot deployments with state/local partners and evaluation results
+• Integration plans with existing public-health or emergency-response systems
+• Transition-to-sustainment or commercialization planning documents
+
+Keywords: methylene blue, BARDA, biosurveillance, taggant, near-infrared, detection hardware, vendor, pilot, procurement, ELSI, population deployment, transition plan
