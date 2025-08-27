@@ -1,0 +1,118 @@
+To FDA / Center for Food Safety and Applied Nutrition (CFSAN) / CDER / CDRH
+
+Request:
+
+Requesting any and all research studies, regulatory submissions, internal communications, compliance/enforcement records, purchase/vendor files, and meeting notes concerning the use of food color additives—especially blue/purple dyes common in berry-flavored snacks and beverages (e.g., FD&C Blue No. 1/Brilliant Blue FCF, FD&C Blue No. 2/Indigo Carmine)—as optical biomarkers or taggants for detection or tracking of human subjects from 1995 to present, including:
+• Spectral characterization (excitation/emission, NIR responsiveness, FLIM) of approved food dyes on skin, in saliva, urine, or tissue
+• Safety, risk, labeling, and post-market surveillance documents referencing light-based detection or fluorescence of food dyes in vivo
+• Intercenter communications (CFSAN/CDER/CDRH) on dye–device combination products or diagnostics utilizing consumer-ingested dyes
+• Correspondence with manufacturers regarding dye purity, nano/microencapsulation, or functional additives that impact optical detection
+• Records referencing use in or exposure among pediatric and autistic populations (schools, clinics, institutional settings)
+• Enforcement or advisory actions related to undisclosed functional properties of color additives (e.g., fluorescence under specific lighting)
+• Meetings, workshops, or MOUs with other agencies on food dyes used for biosurveillance or population sensing
+
+Keywords: FD&C Blue No. 1, Brilliant Blue FCF, FD&C Blue No. 2, Indigo Carmine, methylene blue, near-infrared fluorescence, optical taggant, berry snacks, CFSAN, combination product, pediatric, autistic populations
+
+————
+
+To USDA / Food and Nutrition Service (FNS) / Agricultural Research Service (ARS)
+
+Request:
+
+Requesting any and all grant records, pilot evaluations, procurement specifications, research reports, and communications concerning blue/purple food dyes used in school meals, snack programs, or institutional feeding (including FD&C Blue No. 1 and FD&C Blue No. 2) as potential optical biomarkers or taggants for detection/tracking of individuals from 1995 to present, including:
+• ARS studies on biodistribution or detectability of common food dyes following ingestion
+• FNS procurement and product specifications for berry-flavored snacks/beverages served in schools or youth programs referencing dye content or optical properties
+• Pilots or collaborations with municipalities or vendors involving “smart” cafeterias, camera-assisted lines, or light-based monitoring of consumption/compliance
+• Records referencing targeted cohorts (e.g., autistic students, special education programs) and any associated ethics reviews
+• Interagency coordination with FDA/CDC/DHS on food dye exposure and environmental detection
+• Guidance or training materials provided to schools on color additives and any light-based detection implications
+
+Keywords: USDA FNS, ARS, FD&C Blue No. 1, FD&C Blue No. 2, berry-flavored snacks, school meals, optical biomarker, fluorescence, institutional feeding, pediatric, autistic, procurement
+
+————
+
+To CDC / CSELS / NCEH / NCEZID
+
+Request:
+
+Requesting any and all protocols, pilot studies, surveillance plans, ethics reviews, and interagency communications referencing ingestion of blue/purple food dyes (e.g., Brilliant Blue FCF, Indigo Carmine) as tracers/biomarkers for community-level detection or behavioral monitoring from 1995 to present, including:
+• Field methods for detecting dye fluorescence on skin/clothing or in biosamples (saliva/urine) under visible/NIR light
+• Community or school-based studies involving dye exposure, including pediatric and autistic populations
+• Data management, de-identification, and privacy impact assessments for optical-biomarker datasets
+• Coordination with FDA/USDA/DHS regarding environmental sensors, streetlights, or camera systems sensitive to dye fluorescence
+• Risk communication materials addressing dye-related surveillance or behavioral outcomes
+
+Keywords: CDC, Brilliant Blue FCF, Indigo Carmine, fluorescence, sentinel surveillance, community studies, school-based, autistic populations, privacy impact assessment, NIR detection, biomarkers, tracers
+
+————
+
+To DHS / Science & Technology Directorate / CISA / Office for Civil Rights and Civil Liberties
+
+Request:
+
+Requesting any and all R&D records, pilot deployments, PIAs/threshold analyses, contracts, and communications on the use of food-derived colorants (including FD&C Blue No. 1 / Blue No. 2) as optical taggants detected by public or residential lighting/camera infrastructure from 1995 to present, including:
+• Concept documents and test reports for streetlight/doorbell/landscape-projector systems used to illuminate and detect dye fluorescence on persons
+• Vendor SOWs, technical specs, and performance evaluations for sensors/illuminators (visible/NIR/laser) tuned to common food dye spectra
+• Deployment playbooks, training, and CONOPS involving youth-dense settings (schools, clinics, community centers)
+• Privacy, civil liberties, and bias assessments, particularly regarding pediatric or autistic cohorts
+• Interagency coordination with FDA/USDA/CDC/DOE labs and local governments
+
+Keywords: DHS S&T, CISA, optical taggant, food dye, Brilliant Blue FCF, Indigo Carmine, smart lighting, doorbell camera, NIR fluorescence, privacy impact, pediatric, autistic
+
+————
+
+To DoD / DARPA / JPEO-CBRND / USD(R&E)
+
+Request:
+
+Requesting any and all program announcements, proposals, contracts, test data, after-action reports, and communications regarding use of consumer-ingested food dyes (including FD&C Blue No. 1 and FD&C Blue No. 2) or phenothiazine/indigoid dyes as human taggants for standoff identification or tracking from 1995 to present, including:
+• Spectral libraries, excitation sources, and detector payloads for detection on skin/clothing in urban environments
+• Structured-light or projector-based methods to elicit fluorescence responses from low-dose dietary dyes
+• Safety, decontamination, and countermeasure guidance for dye-based tagging
+• Records referencing exercises involving schools or public venues and associated ethical/legal reviews
+• Interagency collaboration with DHS/DOE labs/NIH/CDC
+
+Keywords: DARPA, JPEO-CBRND, FD&C Blue No. 1, Indigo Carmine, standoff detection, structured light, NIR imaging, optical taggant, urban sensing, ethics, pediatric, autistic
+
+————
+
+To DOE National Laboratories (PNNL, LLNL, Sandia, Los Alamos)
+
+Request:
+
+Requesting any and all proposals, internal reports, spectral studies, urban testbed results, and interagency communications on standoff or remote detection of consumer food dyes (Brilliant Blue FCF, Indigo Carmine) on human subjects using NIR/laser/structured-light methods from 1995 to present, including:
+• Tissue/skin phantom studies, fluorescence lifetime data, and ambient-light robustness analyses
+• Hardware specs for illuminators, detectors, and projectors suitable for public-space deployments
+• Algorithmic performance reports (false positives/negatives; confounders from clothing, cosmetics, or lighting)
+• MOUs/contracts with DHS/DoD/municipal partners for field trials
+
+Keywords: DOE labs, Brilliant Blue FCF, Indigo Carmine, fluorescence lifetime, NIR laser, structured light, urban testbed, remote sensing, spectral signature, optical taggant, public deployment
+
+————
+
+To NIST
+
+Request:
+
+Requesting any and all standards activities, calibration protocols, workshops, and interagency communications addressing measurement and calibration for detection of food colorants (including FD&C Blue No. 1 / Blue No. 2) on human skin or in tissues from 1995 to present, including:
+• Reference spectra, tissue/skin phantom standards, and calibration targets for visible/NIR fluorescence
+• Interoperability standards for illuminators, cameras, and analytics used to detect dye fluorescence
+• Stakeholder workshop minutes and working-group materials involving FDA/USDA/DHS/DoD/DOE labs
+• Validation studies on accuracy, repeatability, and safety thresholds for illumination/detection
+
+Keywords: NIST, reference spectra, calibration, tissue phantom, NIR fluorescence, food dyes, interoperability, measurement protocol, standards, optical detection, biomarkers
+
+————
+
+To HHS / NIH (NIMH, NINDS, NIDDK)
+
+Request:
+
+Requesting any and all grant applications, funded project records, IRB materials, reports, and communications regarding the use of food-grade blue/purple dyes (Brilliant Blue FCF, Indigo Carmine) or related fluorophores as in-vivo biomarkers, cognitive/behavioral probes, or optical taggants in human studies—including pediatric or autistic cohorts—from 1995 to present, including:
+• Studies on dye pharmacokinetics, CNS penetration, and in-vivo detectability under visible/NIR light
+• Trials linking dye ingestion to cognitive, mood, compliance, or behavioral outcomes
+• Protocols integrating LED/laser illumination and camera-based detection in clinic or community settings
+• Ethics reviews, risk-benefit analyses, and community consent materials
+• Data pipelines/algorithms for automated detection/classification from optical returns
+
+Keywords: NIH, NIMH, autistic, Brilliant Blue FCF, Indigo Carmine, in-vivo imaging, near-infrared, fluorescence, behavioral outcomes, biomarker, optical taggant, pediatric
