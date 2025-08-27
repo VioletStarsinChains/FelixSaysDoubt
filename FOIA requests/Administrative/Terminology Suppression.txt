@@ -1,0 +1,14 @@
+To Federal Trade Commission (FTC) / Securities and Exchange Commission (SEC) / Department of Defense (DARPA, IARPA) / Department of Commerce
+
+Request:
+
+Requesting any and all records, contracts, internal communications, research proposals, or contractor deliverables from 2000 to present that reference or discuss the term “behavioral futures markets”, including any records describing decisions to replace or substitute this phrase with alternative terminology such as “predictive analytics,” “surveillance capitalism,” “algorithmic futures,” “marketized behavioral data,” or “human capital forecasting.”
+
+This includes:
+	•	Oversight or ethics reviews discussing the appropriateness or sensitivity of the phrase “behavioral futures markets.”
+	•	Communications with academic institutions, contractors, or think tanks regarding terminology management in publications, reports, or policy documents.
+	•	Records showing whether the phrase was flagged, suppressed, or quarantined in public-facing reports while being retained in internal use.
+	•	SEC or FTC investigations into financial instruments or derivatives based on behavioral datasets where internal memos used the phrase “behavioral futures markets” but public filings used alternative language.
+	•	DARPA/IARPA or DoD contractor research proposals that initially employed the phrase “behavioral futures markets” but were subsequently revised with alternate terms before publication or funding approval.
+
+Keywords: behavioral futures markets, predictive analytics, surveillance capitalism, algorithmic futures, human capital forecasting, terminology suppression, continuity of operations, controlled vocabulary
