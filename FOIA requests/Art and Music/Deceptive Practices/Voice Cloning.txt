@@ -1,0 +1,14 @@
+To DARPA / IARPA / Department of Defense / National Science Foundation (NSF) / Department of Energy (DOE)
+
+Request:
+
+Requesting any and all contracts, research proposals, datasets, internal communications, or contractor deliverables from 1990 to present concerning the use of musical or vocal recordings as training data for machine learning, artificial intelligence, or behavioral modeling.
+
+This includes:
+	•	Records of voice or singing datasets compiled from commercial music recordings (including but not limited to independent label catalogs such as Matador Records).
+	•	Contracts or subcontracts with universities, private labs, or corporations to provide vocal or musical recordings for use in AI training, synthesis, or recognition.
+	•	Oversight memos, ethics reviews, or internal risk assessments regarding the appropriateness of using copyrighted or commercially released vocal material in government-funded ML systems.
+	•	Communications between DARPA, IARPA, DOE, or NSF and private contractors (e.g. RAND, MITRE, Booz Allen Hamilton, Palantir Technologies, SAIC, Accenture) regarding the collection, labeling, and use of musical recordings for synthetic voice generation.
+	•	Reports or deliverables describing musical voice datasets used in surveillance, continuity-of-operations planning, or behavioral futures modeling.
+
+Keywords: voice dataset, musical recordings, vocal synthesis, voice cloning, machine learning training, AI dataset, indie music, Matador Records, Spoon, Britt Daniel, continuity theater, DARPA, IARPA
