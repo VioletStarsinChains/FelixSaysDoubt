@@ -1,0 +1,14 @@
+To Securities and Exchange Commission (SEC) / Commodity Futures Trading Commission (CFTC)
+
+Request:
+
+Requesting any and all records, contracts, internal communications, research proposals, or enforcement actions from 1990 to present concerning the development, marketing, or regulation of financial instruments tied to human behavior, sentiment indices, or behavioral finance models, particularly where such products were offered, cleared, or custodied through Charles Schwab Corporation or its subsidiaries.
+
+This includes:
+	•	Records describing the creation or approval of derivatives, futures, or exchange-traded products based on sentiment data, behavioral analytics, or predictive models of retail investor behavior.
+	•	Communications between SEC, CFTC, or affiliated contractors and Charles Schwab Corporation regarding behavioral finance–linked products or the use of behavioral datasets in financial instruments.
+	•	Enforcement actions, compliance reviews, or risk assessments concerning the appropriateness of marketing behavioral-linked investment products to retail clients.
+	•	Oversight reports on the use of predictive human-response data in structuring derivatives or other speculative products available through Schwab.
+	•	Interagency or contractor communications discussing the role of brokerage and custodian platforms (including Schwab) as conduits for behavioral futures markets.
+
+Keywords: behavioral finance, behavioral futures, sentiment index, predictive analytics, investor behavior, human response derivatives, Charles Schwab, SEC, CFTC, derivatives, futures
