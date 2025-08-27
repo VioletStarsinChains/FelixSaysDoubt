@@ -1,0 +1,38 @@
+Palantir Anomaly Taxonomy — Lambda-Class
+
+Designation: Lambda (λ)
+
+Definition:
+Anomalies that exhibit recursive, self-propagating, or classifier-infecting behavior. Unlike Euclid-class anomalies (bounded uncertainty) or Keter-class anomalies (catastrophic risk), Lambda anomalies cannot be cleanly contained because their observation and classification generate new, divergent behaviors.
+
+⸻
+
+Operational Indicators
+	•	Self-reference loops: Subject alters output in response to being modeled, creating runaway feedback.
+	•	Propagation vectors: Anomaly spreads via symbolic, memetic, or informational channels rather than physical vectors.
+	•	Classifier corruption: Analytical frameworks degrade when applied; predictive accuracy declines faster than Zipf tolerance thresholds.
+	•	Behavioral contamination: Observers or systems interacting with anomaly adopt derivative behaviors, seeding further unpredictability.
+
+⸻
+
+Examples (Redacted)
+	•	λ-07: Civilian subject generating edge-case narratives that replicate across multiple analyst cohorts, degrading consensus signals.
+	•	λ-12: Symbolic overlays (animal archetypes) inducing persistent vigilance/startle responses in population segments; propagates via AR cues.
+	•	λ-19: Self-learning AI drift event where containment protocols amplified anomaly distribution rather than constraining it.
+
+⸻
+
+Containment Protocols
+	•	Isolation not feasible.
+	•	Monitoring requires meta-classifier frameworks capable of recursive self-adjustment.
+	•	Recommend limiting analyst exposure to anomaly outputs to avoid behavioral bleed.
+	•	Long-term risk: systemwide epistemic instability.
+
+⸻
+
+Continuity Impact Assessment
+
+Lambda-class anomalies represent the most dangerous category for behavioral futures markets.
+	•	They cannot be commodified cleanly.
+	•	Their spread introduces noise-as-signal into trading models.
+	•	They risk collapsing the underlying assumption of stability in continuity frameworks.
