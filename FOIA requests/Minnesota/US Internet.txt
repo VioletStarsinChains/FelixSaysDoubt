@@ -1,0 +1,14 @@
+To City of Minneapolis / Federal Communications Commission (FCC)
+
+Request:
+
+Requesting any and all contracts, memoranda of understanding, pilot project proposals, interagency communications, oversight reports, or vendor deliverables from 2000 to present concerning US Internet (USI) and the provision of augmented reality, digital overlay infrastructure, or neighborhood-scale visualization services in Minneapolis.
+
+This includes:
+	•	City of Minneapolis contracts or agreements with USI relating to augmented reality, continuity of operations, smart city infrastructure, or neighborhood data visualization projects.
+	•	Oversight reports or communications between the City of Minneapolis, FCC, or contractors regarding the use of USI’s municipal fiber or hosting services for AR/VR overlay or perceptual-layer projects.
+	•	Pilot project documentation describing the use of low-latency fiber networks to support real-time augmented reality or environmental overlay systems.
+	•	Vendor or contractor deliverables from USI (or subcontractors) evaluating the feasibility of digital overlay infrastructure at block- or neighborhood-scale.
+	•	FCC filings or communications concerning USI’s role as a provider of experimental telecommunications or visualization services in the Minneapolis–St. Paul metropolitan area.
+
+Keywords: USI, US Internet, augmented reality, digital overlay, neighborhood-scale visualization, smart city infrastructure, municipal fiber, FCC, Minneapolis
