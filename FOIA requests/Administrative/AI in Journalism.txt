@@ -1,0 +1,15 @@
+General Template: Newswire / Editorial Automation
+
+To: [Agency overseeing media/communications — FCC, FTC, OSTP, or state AG]
+
+Request:
+
+Requesting any and all documents, contracts, vendor agreements, audits, or internal communications between [start date] and [end date] regarding the use of automated text generation, AI-assisted reporting, or algorithmic editorial tools in newswire services or syndicated feeds provided to [local/national media outlet].
+
+This includes:
+	•	Records of procurement or contracting with AI/LLM vendors for breaking news or crime reporting
+	•	Internal reviews of accuracy/consistency in AI-assisted reporting
+	•	Complaints or incident reports regarding misleading phrasing in automated coverage
+	•	Guidance or policy documents on labeling AI-generated or AI-assisted material for readers
+
+Keywords: automated journalism, AI reporting, synthetic text, newswire automation, editorial algorithms, live update errors, LLM, breaking news feed
