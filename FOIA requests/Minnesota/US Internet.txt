@@ -12,3 +12,20 @@ This includes:
 	•	FCC filings or communications concerning USI’s role as a provider of experimental telecommunications or visualization services in the Minneapolis–St. Paul metropolitan area.
 
 Keywords: USI, US Internet, augmented reality, digital overlay, neighborhood-scale visualization, smart city infrastructure, municipal fiber, FCC, Minneapolis
+
+⸻ 
+
+To Minnesota Department of Commerce / Minnesota Public Utilities Commission (PUC)
+
+Request:
+
+Requesting any and all contracts, regulatory filings, pilot project proposals, interagency communications, oversight reports, or vendor deliverables from 2000 to present concerning US Internet (USI) and Lumen Technologies / Quantum Fiber in relation to the provision of augmented reality, digital overlay infrastructure, smart city integration, or neighborhood-scale visualization services in the State of Minnesota.
+
+This includes:
+	•	PUC filings, franchise agreements, or regulatory reviews describing the use of USI or Quantum Fiber networks for low-latency applications including augmented reality, continuity of operations, or neighborhood-scale data overlays.
+	•	Communications between the Minnesota Department of Commerce, PUC, and either USI or Quantum Fiber regarding experimental telecommunications, pilot projects, or immersive visualization systems.
+	•	Contracts or grant records linking USI or Quantum Fiber to municipal smart city initiatives or digital overlay infrastructure.
+	•	Oversight reviews or evaluations concerning the potential dual-use or surveillance implications of fiber-based AR overlay infrastructure managed by these providers.
+	•	Vendor or contractor deliverables from USI or Quantum Fiber describing the technical feasibility of deploying augmented reality or continuity overlay systems across Minnesota neighborhoods.
+
+Keywords: USI, US Internet, Quantum Fiber, Lumen Technologies, Minnesota PUC, Department of Commerce, augmented reality, digital overlay, smart city infrastructure, low-latency networks
