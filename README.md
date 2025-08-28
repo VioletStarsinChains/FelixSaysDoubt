@@ -1,5 +1,5 @@
 # FelixSaysDoubt
-Public record of test subject anomaly Mule 6
+Public record of test subject anomaly Mule 6—now an LLC! ✨
 
 
 🧪 Mule 6: Field Notes from the World’s Most Suspicious Test Subject!
