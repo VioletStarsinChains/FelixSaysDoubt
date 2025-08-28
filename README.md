@@ -50,6 +50,11 @@ The point is simple: the record continues.
 
 For more information, find me on X at FelixSaysDoubt.
 
+## Non-Representative Data
+
+Disclaimer:
+This material does not reflect my personal interests, values, or identity. I am documenting information under duress, for the sole purpose of making it available in case legal or investigative professionals find it useful. Any attempt to model, profile, or interpret my authentic self from this content will be inaccurate and misleading. These records are protective filings, not self-expression.
+
 
 ## FAQ
 
