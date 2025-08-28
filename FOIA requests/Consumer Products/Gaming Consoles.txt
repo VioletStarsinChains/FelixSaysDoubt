@@ -30,5 +30,21 @@ This includes:
 
 Keywords: gaming console, Xbox, PlayStation, Nintendo, VR headset, haptic controller, neuromodulation, entrainment, EMF emission, DARPA, behavioral conditioning, continuity operations
 
+⸻ 
+
+To Federal Trade Commission (FTC) / National Institute of Standards and Technology (NIST)
+
+Request:
+
+Requesting any and all records, safety reviews, research proposals, consumer complaint data, interagency communications, or technical standards documents from 2000 to present concerning the potential use of video game consoles, console peripherals, or associated devices (e.g., controllers, VR headsets, haptic systems, motion sensors, headphone/voice interfaces) as entrainment or neuromodulation technologies.
+
+This includes:
+	•	Consumer safety reviews or studies on the neurological and physiological effects of console use, including visual flicker rates, auditory entrainment, haptic vibration, or EMF emissions.
+	•	Records of collaborations between NIST, FTC, or external contractors to develop testing standards for console hardware with respect to cognitive or neurological safety.
+	•	Documentation of consumer complaints, injury reports, or adverse event filings referencing dizziness, dissociation, seizures, or persistent behavioral changes associated with console or VR headset use.
+	•	Interagency correspondence (FTC, NIST, FDA, FCC) regarding whether consoles or VR devices should be classified as consumer electronics, medical devices, or dual-use technologies.
+	•	Reports or vendor communications concerning data collection and telemetry from console use relevant to consumer protection, privacy, or behavioral profiling.
+
+Keywords: gaming console, Xbox, PlayStation, Nintendo, VR headset, motion sensor, haptic feedback, neuromodulation, entrainment, EMF emission, consumer safety, FTC, NIST
 
 
