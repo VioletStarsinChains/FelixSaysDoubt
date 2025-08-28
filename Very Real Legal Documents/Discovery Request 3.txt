@@ -1,0 +1,39 @@
+UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,         
+       Plaintiff,    
+
+v.                                                 
+
+UNITED STATES OF AMERICA,   by and through its agencies including but not limited to   the Central Intelligence Agency (CIA), Department of Defense (DoD),   and Food and Drug Administration (FDA),    and    JOHN DOE DEFENSE CONTRACTORS,   whose names and identities are presently unknown,    
+       Defendants.  
+
+⸻ 
+
+PLAINTIFF’S THIRD REQUEST FOR PRODUCTION OF DOCUMENTS
+
+⸻
+
+Request No. 6 – Dental Imaging Records
+Produce the complete and unredacted dental imaging records of Plaintiff maintained by Metro Dentalcare Richfield, 6601 Lyndale Ave S, Suite 230, Richfield, MN 55423, including but not limited to:
+	1.	All dental X-rays (bitewing, periapical, panoramic, and cephalometric images) taken during Plaintiff’s care, in their original digital format (DICOM or JPEG).
+	2.	Any cone beam CT scans (CBCT) performed, including raw DICOM files and any associated 3D reconstructions.
+	3.	Technologist and dental assistant logs documenting image acquisition, including machine settings, date/time, and any notes regarding unusual findings.
+	4.	Radiology or dental reports interpreting the images, including preliminary or draft notes not transmitted to Plaintiff.
+	5.	Internal communications among Metro Dentalcare staff, or between Metro Dentalcare and external consultants, concerning interpretation of Plaintiff’s imaging results.
+	6.	All versions of treatment plans that reference imaging findings, including notes regarding “non-dental” anomalies observed.
+	7.	Policies and protocols governing retention and release of imaging records to patients, and any exceptions applied to Plaintiff.
+
+⸻
+
+Request No. 7 – Data Sharing
+Produce all records reflecting whether Plaintiff’s dental X-rays or cone beam CT scans were shared with third-party providers, insurance companies, or research databases.
+
+⸻
+
+PURPOSE
+
+These requests are intended to ensure Plaintiff has access to the full imaging record necessary to independently evaluate the presence of potential anomalies or covert implants, and to determine whether Metro Dentalcare withheld, altered, or transmitted such data without Plaintiff’s knowledge or consent.
+
+Respectfully submitted,
+Bango Skank, JD 
