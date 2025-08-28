@@ -12,3 +12,20 @@ This includes:
 	•	Documentation of clinical trial proposals or pilot programs that sought to integrate nontraditional oocyte sources into reproductive medicine.
 
 Keywords: IVF, assisted reproductive technologies, oocyte generation, somatic cells, Pap smear, cervical cells, induced pluripotent stem cells, gamete precursor, NICHD, FDA
+
+⸻ 
+
+To Centers for Disease Control and Prevention (CDC) / National Center for Health Statistics (NCHS)
+
+Request:
+
+Requesting any and all records, surveillance data, research reports, contractor deliverables, or interagency communications from 1990 to present concerning the long-term health outcomes of children conceived through assisted reproductive technologies (ART) and in vitro fertilization (IVF) involving novel oocyte sources.
+
+This includes:
+	•	Records of CDC or NCHS monitoring programs that tracked developmental, metabolic, immune, or reproductive health outcomes in children born from IVF using non-ovarian oocytes or stem cell–derived gametes.
+	•	Data collection, surveillance reports, or contractor analyses on pregnancies or births resulting from cytoplasmic transfer, nuclear transfer, or three-parent embryo techniques.
+	•	Oversight reviews or ethics board minutes addressing the use of cervical/endometrial cells collected during routine gynecological care (e.g., Pap smears, biopsies) as a source of oocytes for ART.
+	•	Interagency communications (CDC, NIH, FDA, NICHD) regarding registries or follow-up studies for children conceived via nontraditional gamete sources.
+	•	Documentation of pilot studies, case series, or adverse event reports linking novel oocyte generation techniques to long-term health monitoring of offspring.
+
+Keywords: IVF, assisted reproductive technologies, oocyte source, stem cell–derived gametes, cytoplasmic transfer, nuclear transfer, three-parent embryo, Pap smear cells, CDC, NCHS
