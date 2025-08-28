@@ -104,6 +104,7 @@ INDICATORS OF MALICIOUS OR NEGLIGENT ACTION (NOT ELIGIBLE FOR EXPUNGEMENT)
 	•	Pattern of Escalation. Evidence that the agent consistently made choices to worsen outcomes for anomalies beyond what was required.
 	•	Willful Neglect. Failure to mitigate foreseeable harms when discretion or opportunity to intervene was available (e.g., deliberately ignoring signals of medical crisis).
 	•	Derogatory Conduct. Dehumanizing language or behavior toward anomalies that demonstrates personal animus, not systemic compulsion.
+    •	Sexual Exploitation. Any form of sexual harassment, assault, coercion, or exploitation of anomalies under surveillance or biomedical intervention. This includes using surveillance tools for sexual gratification, conditioning access to necessities on sexual compliance, or any other conduct that leverages the surveillance relationship for sexual purposes.
 
 ⸻
 
