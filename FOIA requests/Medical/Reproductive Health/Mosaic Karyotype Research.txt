@@ -1,0 +1,29 @@
+To NIH (NHGRI, NIMH, NIDDK) / HHS / CDC
+
+Request:
+
+Requesting any and all records, internal communications, contracts, or research proposals regarding the inclusion of sex chromosome variations (e.g., 47,XXX, 47,XXY, 45,X, or mosaic karyotypes) in federally sponsored health research or patient-simulation models, from 2000 to present.
+
+This includes:
+	•	Studies or pilot projects assessing the impact of these variations on metabolism, immune function, or inflammatory disorders
+	•	Research on how karyotype differences may alter responses to GLP-1 receptor agonists or related metabolic therapies
+	•	Documentation of whether digital twin or in silico patient models incorporate these karyotype categories in their design
+	•	Oversight or ethical reviews of programs involving genomic diversity in large-scale health simulations
+
+Keywords: 47,XXX, Triple X syndrome, 47,XXY, Klinefelter, Turner syndrome, mosaic karyotype, digital twin, in silico patient, GLP-1 receptor agonist, metabolic syndrome, immune regulation
+
+⸻ 
+
+To DARPA / DoD / USAMRDC (U.S. Army Medical Research and Development Command)
+
+Request:
+
+Requesting any and all records, contracts, internal communications, or research proposals regarding the use of sex chromosome variations (e.g., 47,XXX, 47,XXY, 45,X, or mosaic karyotypes) in defense-related biomedical research, digital twin simulations, or resilience modeling, from 2000 to present.
+
+This includes:
+	•	Research on how sex chromosome variations may influence metabolic regulation, immune response, or inflammatory vulnerability under operational stress
+	•	Projects modeling the impact of karyotype differences on responses to GLP-1 receptor agonists or other metabolic therapies
+	•	Documentation of whether digital twin or synthetic patient systems funded by DARPA or DoD incorporate karyotype variations as part of resilience or performance prediction
+	•	Risk assessments or oversight reviews of military or contractor use of karyotype-stratified biomedical data in continuity-of-operations or force health protection contexts
+
+Keywords: 47,XXX, Triple X syndrome, 47,XXY, Klinefelter, Turner syndrome, mosaic karyotype, digital twin, in silico patient, GLP-1 receptor agonist, resilience, immune regulation, force health protection
