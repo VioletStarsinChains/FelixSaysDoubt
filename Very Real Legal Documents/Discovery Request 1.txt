@@ -1,0 +1,43 @@
+UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,         
+       Plaintiff,    
+
+v.                                                 
+
+UNITED STATES OF AMERICA,   by and through its agencies including but not limited to   the Central Intelligence Agency (CIA), Department of Defense (DoD),   and Food and Drug Administration (FDA),    and    JOHN DOE DEFENSE CONTRACTORS,   whose names and identities are presently unknown,         
+       Defendants.  
+
+PLAINTIFF’S FIRST REQUEST FOR PRODUCTION OF DOCUMENTS
+
+⸻
+
+Request No. 1 – Genetic Testing Records
+Produce the complete and unredacted results of all genetic testing conducted on Plaintiff at Mayo Clinic, including but not limited to testing for Ehlers-Danlos Syndrome (EDS), related connective tissue disorders, and any findings pertaining to sex chromosome abnormalities or atypical karyotypes. This request encompasses:
+	1.	Raw sequence data generated during testing (including FASTQ, BAM, or equivalent files).
+	2.	Variant call files (VCFs) and all associated annotations, including sex chromosome–specific analyses (X, Y, aneuploidy, translocations, or mosaicism).
+	3.	Karyotype results, FISH analyses, microarray results, or equivalent cytogenetic tests performed or considered in connection with Plaintiff’s case.
+	4.	Laboratory bench notes, quality control logs, and technician comments generated during testing, including any notes on inconclusive or “unexpected” sex chromosome findings.
+	5.	All internal communications, emails, and memoranda between Mayo Clinic physicians, genetic counselors, or laboratory staff concerning Plaintiff’s genetic test results, particularly regarding possible sex chromosome abnormalities or the decision to withhold or downplay such findings.
+	6.	Copies of all reports transmitted to Plaintiff or Plaintiff’s providers, including any preliminary or draft reports referencing connective tissue disorders, chromosomal findings, or sex chromosome variation.
+	7.	Records of data sharing with third-party laboratories, contractors, or federal databases (e.g., ClinVar, gnomAD, dbVar, DECIPHER, or NIH repositories) regarding Plaintiff’s test results.
+	8.	Any policies, protocols, or disclaimers governing how Mayo Clinic processes, interprets, or discloses genetic data when sex chromosome variation is detected.
+
+⸻
+
+Request No. 2 – Related Correspondence
+Produce all correspondence between Mayo Clinic staff and external consultants, contractors, or agencies relating to Plaintiff’s genetic testing, interpretation, or classification, including communications regarding sex chromosome findings and whether they should be disclosed to Plaintiff.
+
+⸻
+
+Request No. 3 – Data Retention Policies
+Produce Mayo Clinic’s policies and procedures governing the retention, storage, and release of raw genetic data and cytogenetic analyses, including rules on patient access to sex chromosome findings and related annotations.
+
+⸻
+
+PURPOSE
+
+These requests are intended to confirm or rule out whether Plaintiff was fully informed of all genetic findings, including connective tissue–related variants and possible sex chromosome abnormalities, and to determine whether relevant data was withheld, reclassified, or shared without Plaintiff’s knowledge or consent.
+
+Respectfully submitted,
+Bango Skank, JD 
