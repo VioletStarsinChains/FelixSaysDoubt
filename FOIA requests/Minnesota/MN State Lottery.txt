@@ -14,3 +14,39 @@ This includes:
 	•	Export control or data-sharing agreements involving lottery purchase records, mobile app engagement, or geolocation data
 
 Keywords: Minnesota Lottery, gambling surveillance, behavioral compliance, predictive modeling, reward timing, near-miss psychology, gambling addiction, DARPA, DoD
+
+⸻ 
+
+To Minnesota State Lottery / Minnesota Department of Management and Budget (MMB)
+
+Request:
+
+Requesting any and all records, contracts, memoranda, financial audits, vendor agreements, or internal communications from 1990 to present concerning the funding sources, investment vehicles, and financial instruments connected to the Minnesota State Lottery.
+
+This includes:
+	•	Records of derivatives, hedging instruments, or futures contracts used to stabilize or supplement lottery revenues.
+	•	Documentation of third-party vendors, contractors, or financial institutions engaged to provide risk modeling, behavioral analytics, or predictive services for lottery ticket sales, revenue forecasting, or prize payouts.
+	•	Communications regarding the use of consumer behavior prediction models, psychographic segmentation, or anomaly detection in lottery operations or revenue projections.
+	•	Any correspondence between the Minnesota State Lottery, Minnesota Management and Budget, and outside contractors (including Palantir, Acxiom, Experian, or other analytics firms) concerning modeling of lottery player behavior.
+	•	Financial reports, audits, or oversight reviews identifying non-traditional revenue streams supplementing lottery funds, especially contracts linked to behavioral prediction markets or futures-style hedging.
+	•	Contracts or agreements describing the allocation of lottery revenues and whether any portion is backstopped by private financial markets, investment pools, or data-driven prediction platforms.
+
+Keywords: Minnesota State Lottery, behavioral prediction, futures contracts, derivatives, hedging, Palantir, Acxiom, data broker, psychographic segmentation, anomaly detection, revenue modeling
+
+⸻ 
+
+To Minnesota Gambling Control Board (MGCB)
+
+Request:
+
+Requesting any and all records, contracts, financial audits, memoranda, vendor agreements, or interagency communications from 1990 to present concerning the Minnesota State Lottery’s revenue management, investment practices, and predictive modeling tools.
+
+This includes:
+	•	Records of contracts or agreements with financial institutions, analytics firms, or technology vendors providing risk hedging, derivatives, or futures-style contracts to support lottery revenue stability.
+	•	Documentation of the use of behavioral prediction systems, psychographic modeling, or anomaly detection to forecast or influence lottery participation.
+	•	Internal or external audits describing non-traditional revenue sources for the Minnesota State Lottery, including market-based supplements not originating from ticket sales.
+	•	Oversight reviews, ethics board minutes, or communications addressing whether lottery proceeds are linked to behavioral futures markets, hedging arrangements, or prediction-driven financial instruments.
+	•	Communications between MGCB, Minnesota Management and Budget (MMB), and third-party contractors (including Palantir, Acxiom, Experian, or similar firms) concerning the application of behavioral data to gambling, lottery operations, or public revenue generation.
+	•	Records of public communications strategies designed to explain, conceal, or reframe the sources of Minnesota State Lottery revenue.
+
+Keywords: Minnesota State Lottery, Gambling Control Board, futures contracts, derivatives, behavioral prediction, hedging, Palantir, Acxiom, Experian, anomaly detection, psychographic segmentation, revenue modeling
