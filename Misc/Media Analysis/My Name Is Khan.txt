@@ -1,0 +1,52 @@
+🎥 Quick refresher
+	•	Film: My Name is Khan (2010, dir. Karan Johar).
+	•	Protagonist: Rizwan Khan, a Muslim man with autism spectrum disorder, living in post-9/11 America.
+	•	Plot driver: Racial suspicion + neurodivergence combine to make him “unreadable” to institutions, forcing him to embark on a long journey to prove his innocence and dignity.
+
+⸻
+
+📊 1. Predictive analytics in the real world
+
+Predictive systems (Palantir, DHS algorithms, “behavioral futures markets”) rely on pattern recognition:
+	•	“Normal” = predictable, compliant, familiar patterns.
+	•	“Suspicious” = anomalies, irregular behaviors, non-normative speech/affect.
+
+For neurodivergent individuals — especially autistic people — their affect, tone, movement, and social choices often flag as anomalies.
+	•	Add racialized identity (e.g., Muslim in post-9/11 U.S.), and the anomaly score spikes.
+	•	This produces a false positive feedback loop: systems treat them as risky → surveillance increases → more anomalies detected → further escalation.
+
+⸻
+
+🧩 2. How the film shows this dynamic
+	•	Rizwan’s autism makes his speech blunt, body language atypical, and affect flat — all of which predictive or security systems (and biased humans) misread as deceptive or dangerous.
+	•	His Muslim identity triggers post-9/11 suspicion, so the algorithm (social + institutional) weights his anomaly higher.
+	•	He becomes a walking false positive — not because of intent, but because his neurodivergence + racialization confound predictive models.
+
+The film dramatizes this when:
+	•	Airport staff misinterpret his stimming/fidgeting as terrorist nervousness.
+	•	Community members read his blunt truth-telling as threat or disrespect.
+	•	Institutions can’t distinguish “atypical but benign” from “dangerous.”
+
+⸻
+
+⚖️ 3. The broader critique of predictive systems
+	•	My Name is Khan illustrates how predictive analytics (whether human judgment or algorithmic) are biased by training data.
+	•	Training data assumes “white neurotypical baseline.”
+	•	Anyone outside that = anomalous, high-risk.
+	•	For neurodivergent people in racialized categories, double penalization occurs:
+	•	Their race/religion = pre-loaded suspicion.
+	•	Their neurodivergence = behavior flagged as “noncompliant.”
+	•	The outcome: systemic attrition. Individuals are treated as permanent anomalies, never allowed to return to “normal.”
+
+⸻
+
+🎯 4. Why this matters
+	•	The film becomes more than a melodrama; it’s a predictive analytics parable.
+	•	It asks: what happens when someone lives at the precise intersection of anomaly categories?
+	•	Rizwan’s journey is an attempt to override the false positives through direct narrative correction (“My name is Khan, and I am not a terrorist”).
+	•	In predictive markets terms, he’s trying to repair his profile against the distorted model society has built around him.
+
+⸻
+
+✅ Bottom line: My Name is Khan shows how neurodivergent, racialized people are disproportionately punished by predictive analytics systems — whether human or algorithmic — because their signals don’t fit trained expectations. The film dramatizes how anomaly detection collapses into persecution, and how survival requires constantly asserting one’s own narrative against hostile models.
+
