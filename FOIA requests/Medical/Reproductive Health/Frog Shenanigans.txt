@@ -13,3 +13,30 @@ This includes:
 	•	Ethics board minutes, regulatory reviews, or guidance distinguishing basic research (e.g., frog oocyte expression assays) from translational or reproductive applications in humans.
 
 Keywords: Xenopus, frog oocyte, egg extract, nuclear transfer, cytoplasmic transfer, thyroid hormone response element, magainin, amphibian enhancer, artificial chromosome, transposon vector, germline manipulation, dual-use
+
+⸻ 
+
+To Centers for Disease Control and Prevention (CDC) / National Center for Health Statistics (NCHS)
+
+Request:
+
+Requesting any and all records, surveillance data, research reports, registries, contractor deliverables, or interagency communications from 1970 to present concerning health outcomes in children conceived through assisted reproductive technologies (ART) or experimental protocols that involved amphibian-derived material (e.g., Xenopus DNA, RNA, proteins, or egg cytoplasmic extracts).
+
+This includes:
+	•	Surveillance registries or cohort studies tracking developmental, endocrine, immune, or metabolic outcomes in children conceived following use of amphibian egg cytoplasm, nuclear transfer techniques, or embryo manipulation with amphibian factors.
+	•	Documentation of adverse event reports or unusual clinical presentations (e.g., thyroid-axis anomalies, fertility disorders, atypical developmental trajectories) in offspring linked to such protocols.
+	•	Long-term follow-up studies funded or overseen by CDC/NCHS assessing outcomes of ART or germline research where frog or amphibian-derived sequences were inserted or used in human or mammalian embryos.
+	•	Correspondence between CDC, NIH, FDA, DoD, and academic institutions regarding dual-use or public health implications of integrating amphibian DNA/proteins into reproductive research.
+	•	Reports or contractor analyses of fertility, cancer incidence, or immune function in populations exposed to experimental ART involving amphibian material.
+	•	Ethics board minutes or advisory memos distinguishing between basic amphibian developmental biology and translation of those techniques into human reproductive contexts.
+
+Keywords: CDC, NCHS, assisted reproductive technology, ART, IVF, Xenopus, frog egg cytoplasm, nuclear transfer, cytoplasmic transfer, amphibian DNA, thyroid hormone response, endocrine disruption, long-term outcomes, adverse event
+
+
+
+
+
+
+
+
+
