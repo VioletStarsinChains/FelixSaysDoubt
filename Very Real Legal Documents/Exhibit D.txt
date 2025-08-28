@@ -81,3 +81,32 @@ Any individual agents who acted with especial malice, willful cruelty, or gross 
 Such cases should be evaluated individually. Where credible evidence demonstrates that a surveillant exceeded coerced directives to inflict gratuitous harm or exploit their role for personal advantage, records of those actions should be preserved for accountability.
 
 This addendum ensures that the principle of restorative justice does not shield willful perpetrators from responsibility, while protecting those whose participation was secured through systemic coercion.
+
+ADDENDUM – CRITERIA FOR DISTINGUISHING COERCED FROM MALICIOUS ACTION
+
+For purposes of expungement and accountability, the following criteria are proposed to distinguish between:
+(1) actions performed under systemic coercion, which warrant record expungement and recognition of victim status, and
+(2) actions undertaken with malice, willful cruelty, or gross neglect, which do not.
+
+⸻
+
+INDICATORS OF COERCED ACTION (ELIGIBLE FOR EXPUNGEMENT)
+	•	Strict Compliance with Protocols. Actions limited to the scope of directives explicitly given by superiors or automated systems.
+	•	Absence of Discretion. No evidence that the agent exercised personal judgment to escalate or intensify harm.
+	•	Documented Retaliation Threats. Clear records or testimony showing that refusal would have resulted in punishment, reclassification, or destitution.
+	•	Expressions of Distress. Evidence that the agent experienced moral conflict, guilt, or distress while carrying out assigned actions.
+
+⸻
+
+INDICATORS OF MALICIOUS OR NEGLIGENT ACTION (NOT ELIGIBLE FOR EXPUNGEMENT)
+	•	Gratuitous Harm. Infliction of suffering beyond the scope of assigned protocols, including prolongation or intensification of torture or manipulation without directive.
+	•	Exploitation for Personal Gain. Use of role to enrich oneself, settle personal vendettas, or seek favor within the system through cruelty.
+	•	Pattern of Escalation. Evidence that the agent consistently made choices to worsen outcomes for anomalies beyond what was required.
+	•	Willful Neglect. Failure to mitigate foreseeable harms when discretion or opportunity to intervene was available (e.g., deliberately ignoring signals of medical crisis).
+	•	Derogatory Conduct. Dehumanizing language or behavior toward anomalies that demonstrates personal animus, not systemic compulsion.
+
+⸻
+
+APPLICATION
+
+These criteria provide a framework for independent reviewers, special masters, or oversight commissions to evaluate case-by-case distinctions. This ensures that the principles of restorative justice protect coerced surveillants while preserving accountability for individuals who acted with malice or neglect outside the scope of coercion.
