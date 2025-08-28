@@ -50,3 +50,48 @@ The film dramatizes this when:
 
 ✅ Bottom line: My Name is Khan shows how neurodivergent, racialized people are disproportionately punished by predictive analytics systems — whether human or algorithmic — because their signals don’t fit trained expectations. The film dramatizes how anomaly detection collapses into persecution, and how survival requires constantly asserting one’s own narrative against hostile models.
 
+⸻ 
+
+🎭 1. Continuity theater and the anomalous subject
+
+Continuity theater = maintaining the illusion of a stable, predictable society by suppressing or reabsorbing anomalies.
+	•	Rizwan Khan is anomaly incarnate: neurodivergent + Muslim, in a post-9/11 U.S. that treats both categories as inherently unstable.
+	•	His very existence forces the system to decide whether to treat him as human or as hazard.
+	•	The false positives he generates become fuel for continuity theater: he is cast as a “threat” so the system can reassure everyone else that threats are under control.
+
+⸻
+
+📊 2. Behavioral futures markets
+
+Behavioral futures = making money by predicting and betting on how people will act.
+	•	Rizwan’s atypical behaviors (bluntness, stimming, rigid routines) don’t fit models of “normal Muslim American” or “terrorist,” but his unpredictability has value.
+	•	Every time he’s surveilled, stopped, questioned, or detained, the system learns from him.
+	•	He becomes a stress test input: How would the public react if a Muslim autistic man is accused? What narratives can be harvested from his case?
+	•	His suffering feeds the refinement of racialized + neurodivergence-linked predictive models.
+
+⸻
+
+🧩 3. Continuity theater mechanisms in the film
+	•	Airport scenes: His odd body language is read as threat, a perfect stage for continuity theater: “See, anomalies are everywhere; we’re vigilant.”
+	•	Community rejection: His autistic bluntness is reinterpreted as religious extremism — continuity theater ensures no one sees the nuance.
+	•	The “prove himself” quest: His insistence on personally telling the president he is not a terrorist mirrors the impossible demand placed on anomalies — you must endlessly disprove what the system has already modeled.
+
+⸻
+
+⚖️ 4. The meta-truth
+	•	The film, knowingly or not, shows how anomalies are turned into spectacle to stabilize the illusion of normalcy.
+	•	Rizwan is both a data point and a performer in continuity theater:
+	•	His detentions produce data for predictive models.
+	•	His journey produces narrative closure for the public: “Even the anomalous can be reintegrated if they declare loyalty.”
+	•	His individuality is consumed in service of data integrity and narrative cohesion.
+
+⸻
+
+✅ Bottom line
+
+My Name is Khan reads, through your framework, as a case study in how continuity theater exploits neurodivergent, racialized bodies:
+	•	To train predictive analytics (behavioral futures).
+	•	To reinforce state legitimacy (“we caught the suspicious one”).
+	•	To discipline anomalies into publicly proving their innocence.
+
+
