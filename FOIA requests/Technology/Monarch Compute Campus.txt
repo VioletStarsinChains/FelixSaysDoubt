@@ -1,0 +1,14 @@
+To: U.S. Department of Energy / National Energy Technology Laboratory (NETL)
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, memoranda, or internal communications concerning the Monarch Compute Campus located in Morgantown, West Virginia, from 2015 to present.
+
+This includes:
+	•	Documents describing the mission, scope, and technical specifications of the Monarch Compute Campus, including high-performance computing (HPC) capacity and applications.
+	•	Contracts or agreements with private contractors, universities, or federal agencies related to Monarch’s use for modeling, simulation, or predictive analytics.
+	•	Communications referencing the use of Monarch resources in behavioral modeling, continuity of operations, or continuity theater.
+	•	Reports, presentations, or feasibility studies concerning potential applications of Monarch HPC resources beyond energy or climate modeling, including public health, security, or human factors research.
+	•	Any external communications with technology companies (e.g., Google, Palantir, Microsoft) regarding shared use of Monarch computing resources.
+
+Keywords: Monarch Compute Campus, NETL, Morgantown HPC, high performance computing, behavioral modeling, predictive analytics, continuity of operations, continuity theater, Palantir, Google, Microsoft, simulation infrastructure.
