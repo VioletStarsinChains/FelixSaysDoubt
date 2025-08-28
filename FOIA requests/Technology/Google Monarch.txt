@@ -1,0 +1,15 @@
+To: Federal Trade Commission (FTC) / U.S. Department of Justice Antitrust Division
+
+Request:
+
+Requesting any and all documents, contracts, research proposals, internal memoranda, or communications concerning Google’s project codenamed “Monarch” or related orchestration systems for large-scale artificial intelligence (AI) and compute resources, from 2015 to present.
+
+This includes:
+	•	Technical descriptions, proposals, or internal analyses of Google Monarch’s role in AI model orchestration, workload management, or predictive analytics.
+	•	Communications between FTC, DOJ, and Google (or its subsidiaries, including DeepMind and Alphabet) regarding Monarch and its potential implications for competition, consumer protection, or market dominance.
+	•	Documents evaluating the overlap between Monarch and behavioral futures markets, derivative modeling, or human response prediction.
+	•	Contracts, agreements, or partnerships between Google Monarch and federal agencies or contractors (including DoD, DARPA, HHS, and intelligence community entities).
+	•	Risk assessments or policy discussions concerning the impact of Monarch on privacy, surveillance, or continuity of operations frameworks.
+	•	External communications referencing Monarch in connection with Palantir, Microsoft, Amazon, or other firms engaged in predictive modeling.
+
+Keywords: Google Monarch, Alphabet, DeepMind, AI orchestration, compute resource management, behavioral futures, predictive analytics, continuity of operations, continuity theater, Palantir, Microsoft, Amazon.
