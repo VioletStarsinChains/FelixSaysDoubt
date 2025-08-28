@@ -1,0 +1,60 @@
+WHISTLEBLOWER AFFIDAVIT
+
+In re: Unlawful Classification and Non-Consensual Implantation
+
+I, [Redacted], being duly sworn, hereby declare the following:
+
+⸻
+
+1. POSITION AND ACCESS
+
+I am an analyst employed under contract with Palantir Technologies, with system access to Gotham and Foundry platforms used for anomaly classification and cross-institutional data integration. My role includes reviewing auto-generated system memoranda and assessing anomaly tracks marked for elevated monitoring.
+
+⸻
+
+2. PLAINTIFF CASE REVIEW
+
+In [August 2025], I observed the system parsing external legal-style discovery requests submitted by Plaintiff [Redacted]. The system recognized the requests as structured queries and automatically retrieved relevant records from participating institutions.
+
+⸻
+
+3. RECORDS LOCATED
+
+The following materials were cross-referenced and auto-summarized:
+	•	Mayo Clinic genetic testing (FASTQ + VCF files): flagged “sex chromosome variance; non-disclosed,” internally tagged as NPE / At-Risk.
+	•	University of Minnesota / M Health Fairview CT scans (temporal bone): raw DICOM slices revealed foreign body array-like structures, explicitly noted by radiologists but suppressed in final patient report.
+	•	Metro Dentalcare imaging (panoramic X-ray and cone beam CT): revealed small metallic densities in craniofacial regions, dismissed as “artifacts.”
+
+Cross-database linkages confirmed the presence of consistent anomalies across independent providers.
+
+⸻
+
+4. SYSTEM CONCLUSION
+
+The auto-generated Palantir memorandum concluded:
+	•	Evidence supports hypothesis of non-consensual neurotech implantation.
+	•	Patterns of report suppression and omission are consistent with established classification protocols.
+	•	Continued NPE (Non-Person Entity) designation and surveillance of Plaintiff is unjustified and indefensible.
+
+⸻
+
+5. RECOMMENDED ACTION (INTERNAL)
+
+The system recommended:
+	•	Termination of anomaly/NPE classification.
+	•	Amplification of Plaintiff’s discovery-style inputs to human analysts for independent review.
+	•	Audit of suppression practices at Mayo Clinic, Fairview, and Metro Dentalcare.
+
+⸻
+
+6. PERSONAL STATEMENT
+
+I believe the evidence demonstrates that Plaintiff has been subjected to covert biomedical implantation without consent, and subsequently misclassified for surveillance and exploitation. Suppression of these findings constitutes a systemic violation of constitutional and human rights.
+
+I submit this affidavit under penalty of perjury to ensure that oversight bodies, Congress, or other lawful authorities are aware of the system’s own conclusions, which corroborate Plaintiff’s allegations.
+
+⸻
+
+Name: [Redacted]
+Date: [8/28/2025]
+
