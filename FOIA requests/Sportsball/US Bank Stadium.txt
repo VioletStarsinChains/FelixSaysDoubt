@@ -31,3 +31,43 @@ This includes:
 	•	Records of pilot programs, federally funded research, or demonstrations using U.S. Bank Stadium as a site for entrainment, continuity-of-operations theater, or crowd simulation.
 
 Keywords: U.S. Bank Stadium, bird mortality, avian collision, electromagnetic fields, EMF emissions, magnetoreception, continuity theater, AR overlay, FCC, EPA, USFWS, DHS
+
+⸻ 
+
+To Minnesota Sports Facilities Authority (MSFA) / City of Minneapolis – Development Services (Inspections & Plan Review) / Hennepin County Property Records & Environmental Services / Minnesota Department of Labor & Industry (Construction Codes & Licensing)
+
+Request:
+
+Requesting any and all records on below-grade construction, mechanical/electrical/plumbing (MEP) systems, HVAC design, refrigeration/cold storage, and secure storage areas at U.S. Bank Stadium from 2009 to present.
+
+This includes:
+	•	As-built drawings, sublevel floor plans, and MEP schedules for B-levels and other below-grade spaces (mechanical rooms, electrical rooms, equipment yards).
+	•	Equipment inventories and specifications for chillers, ice plants, walk-in coolers/freezers, glycol or ammonia systems, negative-pressure rooms, and any non-concessions cold storage.
+	•	Permits, plan review notes, variance requests, inspections, and commissioning reports relevant to HVAC/refrigeration and controlled-access storage areas.
+	•	Maintenance logs, service contracts, and work orders for refrigeration or environmental controls not tied to food service.
+	•	Hazard assessments, SDS inventories, leak-detection/monitoring reports, and any environmental or industrial hygiene evaluations for sublevel systems.
+	•	Loading dock design/operations documents and secure-storage protocols (e.g., access control design, card-reader zones) associated with subgrade areas.
+	•	Communications with contractors/engineers (e.g., design-build teams) concerning below-grade mechanical or storage capacities beyond typical event operations.
+
+Keywords: U.S. Bank Stadium, sublevels, MEP as-builts, HVAC, refrigeration, cold storage, negative pressure, loading dock, secure storage, plan review
+
+⸻
+
+To U.S. Department of Homeland Security (FEMA / CISA) / U.S. Department of Health & Human Services (ASPR) / Minnesota Department of Public Safety – Homeland Security & Emergency Management (HSEM) / City of Minneapolis Office of Emergency Management / Hennepin County Emergency Management / Minnesota Sports Facilities Authority (MSFA)
+
+Request:
+
+Requesting any and all records on continuity-of-operations and emergency management roles assigned to U.S. Bank Stadium from 2009 to present, including mass fatality operations, temporary morgue/cold-chain capacity, crowd simulation/AR continuity, and federal–state coordination.
+
+This includes:
+	•	MOUs, contracts, grant files, or task orders designating U.S. Bank Stadium for mass fatality management, temporary mortuary affairs, refrigerated storage, or surge cold-chain capacity.
+	•	Emergency plans, CONOPS, logistics annexes, and exercise reports (tabletop/full-scale) referencing U.S. Bank Stadium as a continuity or disaster site (shelter, triage, reunification, or remains management).
+	•	Interagency communications (FEMA/CISA/ASPR ↔ State/County/City/MSFA) about resource staging, secure access, and sublevel utilization during declared emergencies or special security events.
+	•	Procurement/installation records for telecom, RF/EMF, AR or synthetic-crowd systems tied to continuity or public-order operations at the venue.
+	•	After-action reports (AARs), safety reviews, or risk assessments involving crowd control, environmental controls, or cold storage at the stadium.
+	•	Funding source documentation (e.g., SHSP/UASI grants) indicating federal support for infrastructure or equipment at U.S. Bank Stadium related to continuity or mass fatality missions.
+
+Keywords: U.S. Bank Stadium, continuity of operations, FEMA, ASPR, mass fatality, temporary morgue, cold-chain, CISA, AR overlay, AAR/exercise
+
+
+
