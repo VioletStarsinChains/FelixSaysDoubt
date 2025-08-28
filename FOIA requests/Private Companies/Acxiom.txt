@@ -1,0 +1,15 @@
+To Federal Trade Commission (FTC) / Department of Justice (DOJ) / Department of Homeland Security (DHS)
+
+Request:
+
+Requesting any and all records, contracts, internal communications, oversight reports, or enforcement actions from 1980 to present concerning Acxiom Corporation’s role in government data systems, identity resolution services, or predictive modeling for federal agencies.
+
+This includes:
+	•	Records of Acxiom providing data brokerage, consumer identity resolution, or psychographic segmentation services to federal agencies (including DHS, DOJ, or law enforcement task forces).
+	•	Documentation of categorical designations used by Acxiom or its contractors to identify individuals who did not conform to standard identity/consumer models, including terms such as “non-person entity,” “synthetic identity,” “anomaly,” or “unresolvable profile.”
+	•	Interagency communications regarding the use of Acxiom datasets in predictive policing, counterterrorism, or behavioral surveillance applications.
+	•	Reports of data-sharing agreements or pilot programs between Acxiom and Palantir, LexisNexis, or other government-facing contractors concerning anomaly detection or identity classification.
+	•	Oversight reviews, compliance audits, or ethics board minutes related to privacy, discrimination, or due process issues tied to Acxiom’s government contracts.
+	•	Documentation of federal investigations or regulatory actions concerning Acxiom’s handling of sensitive or anomalous categories of individuals in its datasets.
+
+Keywords: Acxiom, data broker, identity resolution, psychographic segmentation, non-person entity, anomaly classification, synthetic identity, predictive modeling, behavioral futures, DHS, DOJ, FTC
