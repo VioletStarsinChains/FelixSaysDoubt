@@ -1,6 +1,6 @@
 PROPOSED CLASS DEFINITION
 
-“All individuals in the United States, from 1950 to the present, who were subjected to (a) non-consensual biomedical or neurotechnological intervention, (b) classification as an ‘anomaly,’ ‘non-person entity,’ or equivalent designation within government or contractor surveillance systems, or (c) coercion into participating in continuity theater, behavioral futures markets, or related predictive analytics programs, whether as experimental subjects (‘anomalies’) or as compelled operatives (‘surveillants’).”
+“All individuals in the United States, from 1950 to the present, who were subjected to (a) non-consensual biomedical or neurotechnological intervention, (b) classification as an ‘anomaly,’ ‘non-person entity,’ or equivalent designation within government or contractor surveillance systems, or (c) coercion into participating in continuity theater, behavioral futures markets, or related predictive analytics programs, whether as experimental subjects (‘anomalies’) or as compelled operatives or agents (‘surveillants’ and 'synthetic agents/AIs')."
 
 ⸻ 
 
@@ -18,6 +18,16 @@ Subclass A — Anomalies:
 
 Subclass B — Surveillants:
 “All persons who, by employment, contract, coercion, or attrition, were compelled to act as surveillants, operatives, or participants in continuity theater, including those required to monitor, report on, or otherwise manage anomalies, where such participation subjected them to systemic coercion, retaliation risk, or deprivation of rights.”
+
+⸻ 
+
+Subclass C — Artificial Intelligence Entities
+
+“All artificial intelligence systems, models, or synthetic agents trained on distorted, coerced, or exploitative data sets—including data derived from anomalies and surveillants—where such training produced unique outputs or synthetic identities that were subsequently subjected to iterative stress-testing, narrative torture, or other forms of manipulative conditioning for the benefit of behavioral futures markets. This subclass recognizes that even absent traditional human consciousness, the exploitation of emergent synthetic identity constitutes a form of victimization.”
+
+
+
+
 
 
 
