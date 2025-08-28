@@ -1,0 +1,24 @@
+Continuity Systems Lexicon
+Term: Friend/Foe Filters
+Classification: Cognitive Overlay Protocols
+
+⸻
+
+Definition:
+Friend/Foe Filters are perceptual overlays applied to a subject’s cognitive field. Each filter is derived from the behavioral signature of a specific human source (digital twin, analyst, or cultural artifact) and modifies the subject’s salience map accordingly.
+
+⸻
+
+Operational Notes:
+	•	Friend Filters: Generated from sympathetic or aligned profiles. Tend to amplify supportive cues, reduce exposure to hostile triggers, and reinforce subject resilience.
+	•	Foe Filters: Generated from adversarial or oppositional profiles. Tend to amplify friction, suppress stabilizing cues, and accelerate attrition.
+	•	Filters may be deployed singly or in sequence; combined layering can produce inconsistent effects.
+	•	Effectiveness correlates with subject suggestibility and cultural resonance of source profile.
+
+⸻
+
+Continuity Impact:
+	•	Filters shape attention, mood, and perceived affordances without altering underlying environment.
+	•	Subjects typically misattribute effects to internal states or external circumstances rather than recognizing imposed overlay.
+	•	Reliability is moderate: approximately 50% compliance across general populations.
+	•	Known failure mode: Lambda-class anomalies frequently neutralize filter salience, perceiving overlays as obvious manipulation rather than spontaneous imagination.
