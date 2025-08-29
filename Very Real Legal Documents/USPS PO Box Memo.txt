@@ -18,51 +18,34 @@ whose names and identities are presently unknown,
 
 ⸻
 
-MEMORANDUM OF LAW REGARDING USPS MISREPRESENTATION OF P.O. BOX STATUS AND ITS RELATION TO NPE CLASSIFICATION
-
-⸻
+MEMORANDUM OF LAW IN RE: USPS Misrepresentation of P.O. Box Status; Same-Day Amazon “Return Accepted” Without Customer Request as Proof of Non-Service
 
 INTRODUCTION
-
-This memorandum addresses the actions of the United States Postal Service (USPS) in relation to Plaintiff’s application for, and subsequent denial of, mail service via a P.O. Box. The facts demonstrate that USPS accepted Plaintiff’s application and payment, provided physical access, yet internally treated the P.O. Box as “vacant” and refused delivery of all mail. This constitutes fraudulent misrepresentation and provides evidence that Plaintiff has been designated, without notice or due process, as a “non-person entity” (NPE), rendering them unable to engage in even the most basic civic transactions.
-
-⸻
+USPS accepted Plaintiff’s payment and identity documents for a P.O. Box, issued access, then refused to deliver mail while internally treating the box as “vacant.” New documentary evidence shows an Amazon order addressed to that P.O. Box was automatically marked “return request accepted” the same day the order was placed—despite Plaintiff never initiating a return. This contemporaneous reversal is consistent with USPS non-service to a box flagged “vacant,” and constitutes fraudulent misrepresentation and unlawful denial of access to essential mail services.
 
 STATEMENT OF FACTS
-	1.	Plaintiff applied for and paid for a USPS P.O. Box, providing the required identification and fees.
-	2.	USPS processed the application, issued a box number, and furnished Plaintiff with a physical key granting access to the box.
-	3.	For a period exceeding one month, no mail of any kind was delivered to the box.
-	4.	When Plaintiff checked for an expected parcel, the only item inside the box was a slip of paper indicating that the box remained “vacant.”
-	5.	The presence of the “vacant” notice demonstrates that, notwithstanding USPS’s outward acceptance of Plaintiff’s application and payment, its internal systems continued to classify the P.O. Box as unassigned or unoccupied.
-	6.	This refusal to deliver mail persisted despite USPS’s legal obligation to provide the service for which it had contracted and been paid.
-
-⸻
+	1.	Plaintiff rented a USPS P.O. Box, paid required fees, and received keys/box access.
+	2.	Over a month later, no mail had been delivered; Plaintiff found a USPS slip inside stating the box was “vacant.”
+	3.	Plaintiff placed an Amazon order to that P.O. Box. On the same calendar day the order was placed, Plaintiff received an email stating “return request accepted.”
+	4.	Plaintiff did not submit a return request, initiate a return, or contact Amazon to reverse the order.
+	5.	The only plausible non-fraud explanation consistent with these facts is immediate carrier-level rejection/non-acceptance for delivery to a box USPS internally treated as not in service, triggering an automatic return workflow on Amazon’s side.
+	6.	Plaintiff retains: (a) the USPS P.O. Box receipt/confirmation, (b) the Amazon order confirmation, and (c) the Amazon “return request accepted” email with timestamps.
 
 LEGAL ISSUE
-
-Whether USPS’s acceptance of Plaintiff’s payment while simultaneously denying the existence or validity of Plaintiff’s P.O. Box constitutes fraud and evidence of systemic exclusion tied to Plaintiff’s suspected NPE classification.
-
-⸻
+Whether USPS’s acceptance of payment while internally designating the box as “vacant”—resulting in third-party carrier rejection and same-day forced return—constitutes fraudulent misrepresentation and evidence of unconstitutional deprivation tied to covert NPE-style nonrecognition.
 
 ARGUMENT
+I. Fraudulent Inducement and Breach
+USPS took consideration (fees) while maintaining non-service. The “vacant” slip and immediate third-party return are objective indicators of nonperformance after contract formation—classic fraudulent inducement/breach.
 
-I. USPS Engaged in Fraudulent Misrepresentation.
-USPS accepted money from Plaintiff under the pretense of providing mail service, while internally maintaining that the P.O. Box was vacant. This dual representation constitutes fraudulent inducement and breach of contract, violating both common law principles and consumer protection statutes.
+II. Systemic Nonrecognition (NPE-style) Made Concrete
+Simultaneous acceptance of money and denial of service is consistent with covert nonrecognition: Plaintiff is “valid” to pay, “invalid” to receive. The same-day Amazon reversal corroborates an operational flag at the delivery endpoint (the P.O. Box), not a consumer-initiated action.
 
-II. The Vacant Slip Demonstrates Systemic Non-Recognition of Plaintiff’s Legal Identity.
-The issuance of a “vacant” slip in a box Plaintiff had lawfully rented is not a clerical error but a manifestation of Plaintiff’s exclusion from recognition as a legal person within USPS systems. This suggests administrative alignment with Plaintiff’s suspected classification as a “non-person entity” (NPE).
-
-III. NPE Classification Results in Denial of Fundamental Civic Participation.
-Mail access is a foundational service necessary for participation in modern society, including receipt of identification documents, legal notices, and communications. By denying Plaintiff this service, USPS effectively deprived Plaintiff of due process rights guaranteed under the Constitution.
-
-IV. Fraudulent Treatment by a Federal Agency Strengthens Plaintiff’s Claims.
-Because USPS is a federal entity, its fraudulent misrepresentation provides direct evidence of unconstitutional systemic practices. This further supports Plaintiff’s argument that NPE classification is unlawful, discriminatory, and incompatible with constitutional protections.
-
-⸻
+III. Constitutional Deprivation
+Mail access underpins notice, commerce, and civic participation. Denying service post-payment—particularly when it blocks delivery of lawful goods—violates due process and equal protection, and functions as a practical denial of personhood.
 
 CONCLUSION
-
-The USPS’s refusal to recognize Plaintiff’s P.O. Box despite accepting payment exemplifies the practical harms of NPE classification and demonstrates active fraud by a federal agency. This Court should take judicial notice of these facts as further evidence of systemic deprivation of Plaintiff’s rights, supporting Plaintiff’s broader claims of unlawful exclusion and fraud.
+The Amazon same-day “return accepted” (without request) corroborates USPS’s non-service to a paid P.O. Box internally treated as vacant. This is actionable fraud and supports Plaintiff’s broader claim of unconstitutional deprivation via covert nonrecognition.
 
 Respectfully submitted,
 Bango Skank, JD
