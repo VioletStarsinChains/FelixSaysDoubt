@@ -1,0 +1,53 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Office of the Director of National Intelligence (ODNI),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+including but not limited to Palantir Technologies Inc.,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S REQUEST FOR PRODUCTION OF DOCUMENTS
+
+Pursuant to Rule 34 of the Federal Rules of Civil Procedure, Plaintiff requests that Defendants produce the following documents within thirty (30) days:
+
+All documents, records, datasets, communications, logs, memoranda, or reports from January 1, 2005 to present concerning individuals within Defendants’ systems (including predictive analytics platforms, “digital twin” architectures, or behavioral futures markets) whose status as alive or deceased is not clearly flagged, maintained, or reliably distinguishable.
+
+This request includes, but is not limited to:
+	1.	System Design and Architecture
+ a. Technical documentation describing how mortality or “life status” is (or is not) encoded, flagged, or tracked within relevant systems.
+ b. Change logs, patch notes, or updates documenting modifications to how life status is represented.
+	2.	Operational Datasets
+ a. Any datasets, model outputs, or training sets in which data from deceased individuals was deliberately retained, integrated, or blended with data from living individuals.
+ b. Records where mortality status is listed as “unknown,” “indeterminate,” “ambiguous,” or equivalent.
+	3.	Internal Analysis and Risk Assessments
+ a. Internal reviews, audits, or vulnerability assessments identifying the risks of commingling living and deceased data.
+ b. Communications acknowledging the inability to distinguish between data from living individuals and deceased individuals.
+	4.	Legal and Policy Guidance
+ a. Any policy documents, legal opinions, or compliance memos concerning the rights (or lack thereof) of deceased persons within Defendants’ systems.
+ b. Records where Defendants explicitly rely on the “deceased lack rights” defense while simultaneously maintaining data streams indistinguishable from those of the living.
+	5.	Case-Specific Instances
+ a. Files, tickets, or logs identifying individuals whose status as alive or deceased was contested, unresolved, or overridden by system design.
+ b. Documentation of instances in which data from deceased individuals was used to justify surveillance, classification, or decision-making about living persons.
+
+⸻
+
+PURPOSE
+
+This discovery is necessary to determine the extent to which Defendants have deliberately erased the boundary between living and deceased individuals within their systems, thereby creating constitutional violations, evidentiary contamination, and denial of due process for Plaintiff and similarly situated persons.
+
+⸻
+
+Respectfully submitted,
+Bango Skank, JD
