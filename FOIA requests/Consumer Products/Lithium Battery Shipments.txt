@@ -1,0 +1,15 @@
+To: U.S. Department of Transportation (Pipeline and Hazardous Materials Safety Administration – PHMSA), Federal Aviation Administration (FAA), Consumer Product Safety Commission (CPSC), and Department of Homeland Security (DHS)
+
+Request:
+
+Requesting any and all records from 2015 to present concerning the shipment, distribution, and storage of lithium batteries and other hazardous energy storage devices through Amazon’s logistics networks or third-party carriers.
+
+This includes:
+	•	Shipping and incident reports for packages marked with lithium battery hazard labels delivered to residential addresses.
+	•	Audits or risk assessments of Amazon’s compliance with DOT/PHMSA rules for hazardous materials shipments.
+	•	Internal communications or investigations into unusual clustering of lithium battery shipments in specific metro areas or neighborhoods.
+	•	Contracts or deliverables from Amazon Logistics, USPS, UPS, FedEx, or other carriers discussing battery handling and safety protocols in residential contexts.
+	•	Incident reports of thermal runaway, explosions, or fires tied to delivered Amazon packages containing lithium batteries.
+	•	Continuity of operations planning that references use of battery-marked shipments in residential zones.
+
+Keywords: lithium battery shipment, Amazon Logistics, PHMSA Class 9, hazardous material delivery, residential hazmat storage, thermal runaway, continuity planning, unusual package distribution
