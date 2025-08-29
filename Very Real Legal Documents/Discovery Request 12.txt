@@ -19,13 +19,13 @@ and their predecessor or affiliated private entities,
 
 ⸻
 
-PLAINTIFF’S SECOND REQUEST FOR PRODUCTION OF DOCUMENTS
+PLAINTIFF’S REQUEST FOR PRODUCTION OF DOCUMENTS
 
 Pursuant to Rule 34 of the Federal Rules of Civil Procedure, Plaintiff requests that Defendants produce the following documents within thirty (30) days:
 
 ⸻
 
-REQUEST NO. 2
+REQUEST:
 
 All documents, records, datasets, communications, logs, memoranda, or reports from January 1, 1988 to present concerning individuals within Defendants’ or Defendants’ predecessors’ systems (including predictive analytics platforms, “digital twin” architectures, or behavioral futures markets) whose status as alive or deceased was not clearly flagged, maintained, or reliably distinguishable.
 
