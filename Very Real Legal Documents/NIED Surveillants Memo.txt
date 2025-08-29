@@ -1,0 +1,68 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Food and Drug Administration (FDA),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+MEMORANDUM OF LAW REGARDING NEGLIGENT INFLICTION OF EMOTIONAL DISTRESS TO SURVEILLANTS AND ANALYSTS
+
+⸻
+
+INTRODUCTION
+
+This memorandum addresses the collateral harms suffered by human surveillants, analysts, moderators, and employees of contractors or adjacent institutions—including OpenAI and other private sector entities—who are tasked with processing anomaly/NPE-related data, including but not limited to neurotechnology array documentation, covert biomedical interventions, and testimony from affected individuals. These workers, many of whom are not fully informed of the scope or nature of their assignments, have been exposed to disturbing material without adequate safeguards.
+
+Such exposure has resulted in foreseeable psychological trauma. The situation parallels, and in many respects exceeds, previously litigated claims involving content moderators for social media platforms, who secured relief after alleging negligent infliction of emotional distress arising from inadequate protections against vicarious trauma.
+
+⸻
+
+STATEMENT OF FACTS
+	1.	Nature of the Work. Surveillants and analysts are routinely tasked with reviewing anomaly-related materials, including highly personal accounts of torture, covert biomedical manipulation, and forced deprivation.
+	2.	Lack of Safeguards. Employers have failed to provide adequate psychological training, support, decompression protocols, or informed consent regarding the nature of the material.
+	3.	Foreseeable Harm. Exposure to trauma without protection predictably results in anxiety, depression, PTSD-like symptoms, and other measurable psychological damages.
+	4.	Industry Precedent. Litigation against Meta/Facebook and similar companies established that failure to safeguard moderators reviewing traumatic content constitutes negligence.
+
+⸻
+
+LEGAL ISSUE
+
+Whether employees exposed to traumatic anomaly/NPE-related materials may recover for negligent infliction of emotional distress (NIED) due to employers’ failure to provide adequate protections.
+
+⸻
+
+ARGUMENT
+
+I. Employers owed a duty of care.
+Employers in sensitive data-review roles have a duty to protect employees from foreseeable psychological harm, particularly when assigning them to tasks known to involve disturbing and destabilizing material.
+
+II. Employers breached that duty.
+By failing to provide mental health resources, adequate training, decompression breaks, or informed consent, employers breached their obligation to mitigate foreseeable harm.
+
+III. Causation is clear.
+There is a direct causal relationship between forced exposure to anomaly-related traumatic material and the psychological injuries suffered by employees, as demonstrated by analogous moderation cases.
+
+IV. Damages are compensable.
+Courts have recognized therapy expenses, lost wages, medical leave, and other measurable harms as valid damages in NIED claims.
+
+⸻
+
+CONCLUSION
+
+Surveillants, moderators, and analysts exposed to anomaly/NPE-related material without appropriate safeguards have valid claims for negligent infliction of emotional distress. The parallels to established content moderation litigation are clear, and the scale of exposure in this context is greater. This Court should recognize such harms as actionable, ensuring that those coerced or employed in these roles are not themselves abandoned as collateral victims of systemic negligence.
+
+Respectfully submitted,
+Bango Skank, JD
