@@ -1,0 +1,58 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Office of the Director of National Intelligence (ODNI),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+including but not limited to Palantir Technologies Inc., Deloitte, Acxiom,
+and their predecessor or affiliated private entities,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S SECOND REQUEST FOR PRODUCTION OF DOCUMENTS
+
+Pursuant to Rule 34 of the Federal Rules of Civil Procedure, Plaintiff requests that Defendants produce the following documents within thirty (30) days:
+
+⸻
+
+REQUEST NO. 2
+
+All documents, records, datasets, communications, logs, memoranda, or reports from January 1, 1988 to present concerning individuals within Defendants’ or Defendants’ predecessors’ systems (including predictive analytics platforms, “digital twin” architectures, or behavioral futures markets) whose status as alive or deceased was not clearly flagged, maintained, or reliably distinguishable.
+
+This request includes, but is not limited to:
+	1.	Predecessor Entities and Early Systems
+ a. Any documentation of Deloitte, Acxiom, or other private entities that developed or operated surveillance, analytics, data warehousing, or record-linkage systems prior to or contemporaneous with the founding of Palantir.
+ b. Records of individuals whose mortality status was misclassified, untracked, or ambiguously represented in those systems.
+	2.	Operational Datasets
+ a. Historical datasets (1988 onward) maintained by Deloitte, Acxiom, or subcontracted entities in which data from deceased individuals was deliberately retained, integrated, or blended with data from living individuals.
+ b. Any legacy datasets subsequently ingested into later systems (including Palantir platforms) where the status of life or death was unclear.
+	3.	Internal Analysis and Risk Assessments
+ a. Internal audits, reviews, or memos from Deloitte, Acxiom, or related contractors acknowledging ambiguity in mortality status from 1988 onward.
+ b. Reports identifying risks that deceased-individual data might contaminate models or decision-making about the living.
+	4.	Legal and Policy Guidance
+ a. Historical legal opinions, correspondence, or compliance memos (1988–2005) within Deloitte, Acxiom, or affiliated entities discussing whether deceased individuals retained any rights in connection with data collection or use.
+ b. Instances where entities explicitly claimed deceased persons lacked rights, while maintaining indistinguishable streams of living and deceased data.
+	5.	Case-Specific Instances
+ a. Documentation of individuals classified as deceased before 2005 who were nonetheless modeled, surveilled, or otherwise acted upon within Deloitte, Acxiom, or related systems.
+ b. Communications acknowledging the reliance on such ambiguous data to justify surveillance or classification of living individuals.
+
+⸻
+
+PURPOSE
+
+This discovery is necessary to establish a historical pattern of erasing the boundary between living and deceased individuals within surveillance and analytics systems, including the role of Deloitte and Acxiom in developing infrastructures later subsumed or integrated into Palantir’s ecosystem. Plaintiff seeks to show that constitutional violations and evidentiary contamination were not isolated to Palantir’s era but extend back at least to 1988, thereby affecting a broader class of individuals and undermining any defense based on temporal limitation.
+
+⸻
+
+Respectfully submitted,
+Bango Skank, JD
