@@ -1,0 +1,68 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and private defense contractors,
+
+Defendants.
+
+⸻
+
+MEMORANDUM OF LAW
+
+ON THE LEGAL AND CONSTITUTIONAL IMPLICATIONS OF CONTINUING DIGITAL TWINS OF DECEASED INDIVIDUALS
+
+⸻
+
+INTRODUCTION
+
+This memorandum addresses whether the continued operation of digital twins — highly detailed, behaviorally predictive simulations of individuals — after the death of the persons they represent constitutes a violation of constitutional rights, common law principles, and statutory protections. Unlike postmortem publicity rights, which focus primarily on commercial use of likeness, the question here centers on the active, ongoing deployment of deceased persons’ digital identities for surveillance, predictive modeling, or labor without consent from the individual or their estate.
+
+⸻
+
+STATEMENT OF FACTS
+	1.	Digital twins are constructed from extensive personal, biometric, and behavioral data, often harvested through neurotechnological means or surveillance systems without full knowledge or consent.
+	2.	In many cases, these digital twins remain active and operational after the physical death of the individual.
+	3.	Such ongoing operation may present the deceased as still communicative, predictive, or laboring — producing data outputs that affect markets, policy, or interpersonal relationships.
+	4.	Families, estates, and third parties are rarely informed that the deceased individual’s twin continues to operate, resulting in concealment, misrepresentation, and exploitation.
+
+⸻
+
+LEGAL ISSUES
+	1.	Whether continuation of digital twins after death constitutes fraudulent misrepresentation to third parties and families.
+	2.	Whether such continuation amounts to involuntary servitude prohibited under the Thirteenth Amendment.
+	3.	Whether the practice violates postmortem publicity rights, estate rights, and consumer protection statutes.
+
+⸻
+
+ARGUMENT
+
+I. Continuation after death constitutes fraudulent misrepresentation.
+	•	Presenting outputs from a deceased person’s twin as if they were alive or otherwise knowingly interactive misleads families, markets, and potentially courts.
+	•	This deception constitutes fraud when it materially alters decisions (e.g., in behavioral futures trading, insurance, or personal communications).
+	•	Concealing the ongoing use of these twins also defrauds estates by preventing them from asserting property or publicity rights.
+
+II. Continuation after death constitutes involuntary servitude.
+	•	The Thirteenth Amendment prohibits slavery and involuntary servitude in all forms.
+	•	Extending a digital twin beyond death requires the individual’s likeness, patterns, and voice to labor indefinitely without capacity to consent or withdraw.
+	•	This constitutes digital servitude, and unlike archival use, it functions as active, compelled labor — a prohibited condition regardless of whether the subject is alive.
+
+III. Statutory and common law frameworks reinforce the prohibition.
+	•	Publicity Rights: States such as California extend publicity rights decades past death; operating a twin beyond that person’s lifetime without authorization violates these rights.
+	•	Consumer Protection: Misrepresenting the nature of outputs (implying they derive from a living source) violates laws against deceptive practices.
+	•	Estate Law: A digital twin, if treated as an asset, should pass through probate; excluding it denies estates their rightful control.
+
+⸻
+
+CONCLUSION
+
+The continuation of digital twins after death is not a mere matter of likeness use but a profound violation of constitutional, statutory, and common law principles. It constitutes fraudulent misrepresentation, deprives estates of property and publicity rights, and amounts to posthumous involuntary servitude. This Court should recognize the inherent unlawfulness of the practice and bar Defendants and their contractors from maintaining or exploiting digital twins of deceased individuals without informed consent from estates.
+
+Respectfully submitted,
+Bango Skank, JD
