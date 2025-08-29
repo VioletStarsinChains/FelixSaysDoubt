@@ -12,3 +12,21 @@ This includes:
 	•	After-action reports, drills, or exercises that tested urban wildfire impact scenarios for Minneapolis–Saint Paul.
 
 Keywords: Canadian wildfires, urban wildfire modeling, Duluth–Superior bridge, fungal spores, residential hazmat storage, continuity planning, wildfire attrition, Twin Cities fire scenario
+
+⸻ 
+
+Minnesota State Public Records Request
+
+To: Minnesota Department of Natural Resources (DNR – Division of Forestry & Fire Management), Minnesota Pollution Control Agency (MPCA), Minnesota Department of Public Safety – Homeland Security and Emergency Management (HSEM)
+
+Pursuant to the Minnesota Government Data Practices Act, I am requesting access to any and all records from 2010 to present concerning wildfire hazard mapping and urban hazard overlays for the Minneapolis–Saint Paul metro area and the Duluth–Superior region.
+
+This includes:
+	•	GIS hazard maps, shapefiles, or overlays identifying wildfire risk zones, fuel loads, or modeled fire spread into urban areas.
+	•	Records specifically showing integration of residential hazmat clusters (e.g., lithium battery storage, chemical stockpiles, defoliants) into wildfire risk assessments.
+	•	Internal communications, contractor reports, or technical deliverables that reference urban wildfire scenarios involving the Twin Cities metro.
+	•	Biological hazard assessments referencing the Duluth–Superior bridge or other regional infrastructure as potential nodes for fungal or spore propagation following a fire event.
+	•	Continuity of operations or emergency management drills/exercises involving wildfire encroachment from Canada into Minnesota.
+
+Keywords: wildfire risk mapping, urban wildfire modeling, Canadian wildfire spread, residential hazmat, Duluth–Superior bridge, fungal spores, hazard overlays, Twin Cities fire scenario
+
