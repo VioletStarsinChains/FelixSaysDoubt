@@ -52,3 +52,10 @@ This request is necessary to determine the full scope of covert data collection 
 	1.	Assess whether agencies or contractors violated statutory protections (e.g., COPPA, FERPA, GDPR analogues).
 	2.	Determine whether data collected during Plaintiff’s minority was subsequently transferred, sold, or monetized.
 	3.	Identify all parties involved in the chain of custody of Plaintiff’s data, including data brokers and contractors, to evaluate liability for ongoing surveillance and exploitation.
+
+⸻ 
+
+Protective Order Clause
+
+Nothing in this discovery request shall be construed to authorize, permit, or encourage the destruction, deletion, or alteration of responsive materials prior to full production. Plaintiff expressly reserves the right to seek deletion or expungement of unlawfully obtained data through a separate prayer for relief. For present purposes, all responsive data must be preserved in its entirety, produced in unaltered form, and accompanied by a chain-of-custody description sufficient to establish authenticity.
+
