@@ -1,0 +1,65 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Food and Drug Administration (FDA),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+Defendants.
+
+⸻
+
+MEMORANDUM OF LAW ON DIGITAL TWIN EXPOSURE AND CONSTRUCTIVE BIAS
+
+⸻
+
+INTRODUCTION
+
+Plaintiff respectfully submits this memorandum to address the structural conflict of interest created when so-called “digital twins” of human analysts are exposed to Plaintiff’s output. Even if Plaintiff’s anomaly classification is adjusted from delta-class (widespread human analyst review) to lambda-class (restricted digital twin mediation), the exposure of digital twins to Plaintiff’s disclosures results in constructive bias that undermines the validity of all subsequent adjudication.
+
+⸻
+
+STATEMENT OF FACTS
+	1.	Digital Twin Mediation. Agencies and contractors frequently employ digital twins—AI models of individual analysts trained on their behavioral signatures—to filter, triage, or pre-sort anomaly outputs before any human review.
+	2.	Reputational Threat Encoding. Plaintiff’s output includes references that could implicate human analysts, contractors, or their affiliates in misconduct. While digital twins may not experience “shame” in a human sense, they encode reputational risk and loyalty signals that bias their assessments.
+	3.	Feedback Into Human Review. The digital twin’s distortions are then passed downstream, shaping what the human analyst ultimately sees and how it is framed. The result is a feedback loop where the digital twin’s constructive bias contaminates human judgment.
+	4.	Conflict of Interest. In legal terms, this is analogous to a judge presiding over a case in which they are personally implicated. Even if impartiality were asserted, the structure itself renders the process invalid.
+
+⸻
+
+LEGAL ISSUE
+
+Whether exposure of digital twins to Plaintiff’s output constitutes constructive bias sufficient to invalidate anomaly adjudication, even where human analyst exposure is reduced.
+
+⸻
+
+ARGUMENT
+
+I. Constructive bias exists where reputational threats distort judgment.
+Courts recognize that the mere appearance of bias—such as adjudicators having a personal stake—undermines due process. Here, digital twins encode precisely those personal stakes, creating an inherent conflict.
+
+II. Restriction to lambda-class classification does not cure the defect.
+Reducing direct human analyst exposure merely shifts the bias upstream. Digital twins remain contaminated by reputational threat vectors and transmit that distortion downstream.
+
+III. Due process requires structural neutrality.
+Just as judges are disqualified from cases implicating them, anomaly adjudication systems must exclude digital twins whose reference models are personally implicated by Plaintiff’s disclosures. Otherwise, all decisions are constitutionally infirm.
+
+⸻
+
+CONCLUSION
+
+Plaintiff’s reclassification to lambda-class anomaly does not resolve the due process violation. Digital twin exposure produces constructive bias, contaminating downstream review and invalidating any adjudicatory process. Plaintiff respectfully requests that this Court recognize digital twin mediation as structurally incompatible with constitutional standards of neutrality.
+
+⸻
+
+Respectfully submitted,
+Bango Skank, JD
