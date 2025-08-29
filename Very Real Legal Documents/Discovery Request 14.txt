@@ -25,7 +25,7 @@ Re: Data Collected During Plaintiff’s Minority (1988–2006)
 
 ⸻
 
-REQUEST:
+REQUEST NO. 1:
 Produce all documents, records, files, communications, databases, contracts, analyses, logs, or derivative materials, whether held directly or indirectly, reflecting any collection, storage, processing, sharing, sale, or exploitation of data pertaining to Plaintiff between June 4, 1988 and June 4, 2006, including but not limited to:
 	1.	Biometric or physiological data (e.g., genetic samples, neurophysiological signals, imaging, biometric identifiers).
 	2.	Behavioral or psychological data (e.g., test results, school records shared with contractors, personality profiles, surveillance footage, or digital behavior models).
@@ -36,5 +36,19 @@ Produce all documents, records, files, communications, databases, contracts, ana
 
 ⸻
 
+REQUEST NO. 2:
+Identify and produce all documents sufficient to show the names, identities, and roles of third-party contractors, subcontractors, vendors, data brokers, universities, or research institutions that accessed, processed, analyzed, stored, or otherwise handled Plaintiff’s data during the period from June 4, 1988 to June 4, 2006.
+
+This includes but is not limited to:
+	•	Data brokers (e.g., Acxiom, Experian, Equifax, LexisNexis).
+	•	Defense or intelligence contractors (e.g., Palantir, Deloitte, Booz Allen Hamilton, SAIC, Raytheon, and their predecessors).
+	•	Academic institutions engaged in contract research.
+	•	Technology vendors providing infrastructure for data collection or modeling.
+
+⸻
+
 PURPOSE
-This request is necessary to determine the extent of covert data collection and classification activities conducted during Plaintiff’s minority. Federal and international law provides heightened protections for children and minors, rendering any such collection without consent especially unlawful. Plaintiff requires these records to assess whether agencies or contractors violated statutory protections (e.g., COPPA, FERPA, GDPR analogues) or constitutional rights by surveilling or classifying Plaintiff during childhood.
+This request is necessary to determine the full scope of covert data collection and classification activities conducted during Plaintiff’s minority. Federal and international law provides heightened protections for children and minors, rendering any such collection without informed consent especially unlawful. Plaintiff requires these records to:
+	1.	Assess whether agencies or contractors violated statutory protections (e.g., COPPA, FERPA, GDPR analogues).
+	2.	Determine whether data collected during Plaintiff’s minority was subsequently transferred, sold, or monetized.
+	3.	Identify all parties involved in the chain of custody of Plaintiff’s data, including data brokers and contractors, to evaluate liability for ongoing surveillance and exploitation.
