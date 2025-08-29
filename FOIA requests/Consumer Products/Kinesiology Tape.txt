@@ -1,0 +1,68 @@
+To DoD / DARPA / JPEO-CBRND / USAMRDC
+
+Request:
+Requesting any and all proposals, contracts, internal reports, test data, and communications concerning the development or evaluation of kinesiology tape, adhesive bandages, or skin-mounted athletic supports as biosurveillance platforms between 1995 and present, including:
+• Projects embedding conductive inks, microelectronics, RFID/NFC, or microfluidics into adhesive substrates
+• Use of fluorescent dyes, phenothiazines, or nanoparticles (e.g., methylene blue, Brilliant Blue FCF, quantum dots) within tape adhesives for optical detection under NIR/UV illumination
+• Test reports on sweat biomarkers (electrolytes, cortisol, glucose, lactate) measured via adhesive strips
+• Field or operational evaluations involving sports, rehabilitation, or autistic populations
+• Interagency coordination with NIH/FDA/DOE labs regarding wearable surveillance adhesives
+• After-action reports, risk assessments, or civil liberties reviews for pilot deployments
+
+Keywords: kinesiology tape, biosensor patch, wearable adhesive, RFID tape, fluorescent dye, methylene blue, taggant, sweat biomarker, DARPA, JPEO, biosurveillance, athletic monitoring
+
+⸻
+
+To HHS / NIH (NIBIB, NINDS, NIMH, NIMHD)
+
+Request:
+Requesting any and all grants, study protocols, IRB materials, reports, and communications referencing kinesiology tape, adhesive bandages, or athletic taping methods as biosensor or biomarker collection platforms from 1995 to present, including:
+• Research on sweat analysis, skin-contact sensing, or optical marker integration via tape substrates
+• Studies on tape used in autism therapies, rehabilitation, or special education programs where data collection was performed
+• Proposals involving dye-impregnated tape for fluorescence/NIR detection of human subjects
+• Reports or publications linking kinesiology tape to behavioral or neurocognitive outcome measures
+• Cross-agency coordination with DoD/DARPA/FDA on wearable surveillance adhesives
+
+Keywords: kinesiology tape, athletic tape, adhesive biosensor, skin patch, sweat biomarker, NIR detection, fluorescent dye, autism, rehabilitation, behavioral outcomes
+
+⸻
+
+To HHS / FDA / CDRH / CDER
+
+Request:
+Requesting any and all device submissions, premarket notifications, De Novo/PMA filings, compliance/enforcement actions, and communications concerning kinesiology tape or adhesive medical products marketed or investigated for biosensing, biomarker detection, or optical tagging from 1995 to present, including:
+• 510(k), De Novo, or PMA files for tape-based devices embedding sensors, RFID/NFC, or fluorescent dyes
+• Labeling and safety reviews addressing optical properties of adhesives or interaction with light/lasers
+• Adverse event reports related to tape products containing nontraditional additives (dyes, nanoparticles, conductive materials)
+• Intercenter communications regarding dye/device combination products and wearable optical markers
+• Regulatory correspondence with manufacturers or vendors on dual-use applications of adhesive medical products
+
+Keywords: kinesiology tape, adhesive patch, medical device, 510(k), biosensor tape, fluorescent dye, taggant, CDRH, CDER, optical detection, RFID
+
+⸻
+
+To DHS / S&T Directorate / CISA
+
+Request:
+Requesting any and all R&D program documents, pilot studies, procurement records, PIAs/threshold assessments, and interagency communications on the use of kinesiology tape, athletic adhesives, or bandages as covert biosurveillance markers between 1995 and present, including:
+• Pilots involving streetlight, camera, or projector infrastructure used to excite or detect optical signatures from tape adhesives
+• Contracts or MOUs with vendors supplying RFID-enabled or dye-embedded tape products
+• Training materials or CONOPS for field personnel involving adhesive-based biosensors
+• Civil liberties, ethics, or privacy assessments tied to population deployments of tape-based taggants
+• Coordination with DoD/NIH/FDA/DOE labs
+
+Keywords: kinesiology tape, adhesive biosurveillance, smart tape, taggant, fluorescent dye, NIR detection, CISA, DHS S&T, privacy assessment, wearable
+
+⸻
+
+To DOE / National Laboratories (Sandia, PNNL, LLNL, Los Alamos)
+
+Request:
+Requesting any and all proposals, internal reports, field trial data, and interagency communications concerning adhesive tapes (including kinesiology tape and athletic supports) as platforms for standoff detection or biosurveillance between 1995 and present, including:
+• Spectral studies on dye-impregnated adhesives under visible/NIR/UV illumination
+• RF/RFID coupling studies using skin-contact adhesives as antennas
+• Urban testbed deployments evaluating adhesive optical signatures under ambient lighting
+• Algorithm development for camera-based detection of fluorescent or tagged tape on human subjects
+• Interagency collaboration with DHS/DoD/NIH/FDA
+
+Keywords: kinesiology tape, adhesive substrate, wearable biosensor, fluorescent tag, NIR fluorescence, RFID adhesive, DOE labs, urban testbed, optical detection
