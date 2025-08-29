@@ -1,0 +1,77 @@
+To FDA / Center for Food Safety and Applied Nutrition (CFSAN) / Office of Food Additive Safety (OFAS) / CFSAN Adverse Event Reporting System (CAERS) / Office of Regulatory Affairs (ORA) / Office of Criminal Investigations (OCI)
+
+Request:
+
+Requesting any and all documents, GRAS notices, food additive petitions, inspection records, sampling/laboratory reports, adverse event data, research proposals, vendor contracts, pilot assignments, and internal or interagency communications from January 1, 2016 to present referencing “cohort-based” or “segmented” consumer dependency/addiction modeling involving food products, including the use of GLP-1 receptor agonists, incretin mimetics, or reinforcement/hedonic additives to steer consumption toward specific product categories or brands.
+
+This includes:
+	•	Program briefs, memos, or slide decks defining “segmented dependencies,” “cohort addiction mapping,” or analogous frameworks in food-behavior management
+	•	Studies or validations of peptide survivability/encapsulation (GLP-1-class) in doughs, frostings, dairy, or post-bake applications; cold-chain handling and shelf-life
+	•	ORA/field sampling plans and analytical methods for detecting incretin-class peptides or other bioactive compounds in fast-food, boutique dessert, or refrigerated products
+	•	CAERS signal analyses regarding early satiety, appetite suppression, paradoxical weight change, nausea/gastroparesis linked to specific chains or product cohorts
+	•	Communications with franchise operators or suppliers about A/B/n pilots, loyalty-app telemetry, or targeted formulation changes by consumer cohort
+	•	Enforcement/OCI records (warning letters, meetings, referrals) tied to undisclosed bioactives or deceptive calorie declarations used to shape cohort behavior
+
+Keywords: cohort addiction mapping, segmented dependencies, GLP-1, incretin mimetic, reinforcement additive, cold chain, CAERS signal, ORA sampling, calorie discrepancy, loyalty telemetry
+
+————
+
+To Federal Trade Commission (FTC) / Bureau of Consumer Protection / Division of Advertising Practices
+
+Request:
+
+Requesting any and all consumer complaints, investigative files, white papers, internal communications, interagency correspondence, and closing memos from January 1, 2016 to present referencing strategies to engineer or manage “cohort-based” or “segmented” consumer dependencies via food products, including use of GLP-1/incretin-class peptides or reinforcement additives, and any related inquiries into deceptive marketing, calorie misrepresentation, or loyalty-app targeting by consumer cohort.
+
+This includes:
+	•	Tip-and-complaint intake citing addiction-like consumption patterns, paradoxical weight change, or satiety anomalies in specific chains or product families
+	•	Substantiation requests for calorie/nutrition claims in cohort-targeted products; responses and supporting methodology (e.g., bomb calorimetry vs. calculated)
+	•	Communications with FDA/USDA/DARPA on engineered consumption control, reinforcement design, or segmented dependency strategies
+	•	Investigations into loyalty programs, digital coupons, geotargeting, or dark-pattern UX used to steer cohorts toward designated product categories
+
+Keywords: deceptive advertising, cohort targeting, loyalty program, GLP-1, incretin, reinforcement chemistry, calorie mislabeling, dark patterns, consumer segmentation, behavioral control
+
+————
+
+To USDA / Food and Nutrition Service (FNS) / Agricultural Marketing Service (AMS) / Agricultural Research Service (ARS)
+
+Request:
+
+Requesting any and all analyses, research proposals, contracts, pilot records, incident reports, and internal or interagency communications from January 1, 2016 to present referencing “cohort-based” or “segmented dependencies” within the food supply, including efforts to steer or stabilize consumption via bioactive additives (e.g., GLP-1/incretin-class peptides) or reinforcement strategies in retail categories relevant to SNAP/WIC populations or broader consumer cohorts.
+
+This includes:
+	•	FNS analytics or vendor communications regarding category management, nudges, or loyalty data used to influence SNAP/WIC purchasing by cohort
+	•	AMS/ARS studies on bioactive additives, appetite modulation, or hedonic formulation changes in dairy, bakery, or ready-to-eat products
+	•	Supply-chain resilience or substitution modeling documents that segment populations into distinct product dependencies for contingency planning
+	•	Interagency correspondence with FDA/FTC on labeling, safety, or behavioral impacts of cohort-targeted formulations
+
+Keywords: SNAP analytics, cohort segmentation, dependency mapping, GLP-1, incretin, hedonic formulation, category management, resilience modeling, AMS/ARS research, WIC purchasing
+
+————
+
+To Department of Commerce / International Trade Administration (ITA) / Bureau of Industry and Security (BIS)
+
+Request:
+
+Requesting any and all trade analyses, industry outreach, market intelligence reports, vendor/academic partnership records, and internal communications from January 1, 2016 to present referencing “segmented dependencies” or “cohort-based” consumer addiction models tied to food supply chains, including import/export of peptide ingredients (GLP-1/incretin-class) or reinforcement additives destined for consumer foods.
+
+This includes:
+	•	Industry roundtables or outreach notes discussing engineered consumption control, loyalty-data targeting, or cohort-specific product lines
+	•	Trade monitoring of peptide ingredient flows for food applications; cold-chain logistics assessments relevant to bakery/dairy sectors
+	•	Interagency correspondence with FDA/USDA/FTC on market behavior, calorie-label scrutiny, or suspected undisclosed bioactives used for cohort steering
+
+Keywords: trade intelligence, peptide ingredient, GLP-1, incretin, cohort model, market segmentation, cold-chain logistics, BIS/ITA outreach, supply resilience, reinforcement additives
+
+————
+
+To Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all research proposals, BAAs/solicitations, contracts, SOWs, datasets, interim/final reports, and internal communications from January 1, 2016 to present referencing “cohort addiction mapping,” “segmented dependencies,” or engineered food-based behavior modulation (including GLP-1/incretin-class peptides and reinforcement additives) for population-level modeling, supply-chain resilience, or behavioral futures applications.
+
+This includes:
+	•	Program descriptions and deliverables modeling standardized cravings, consumption control, or compliance via cohort-specific food dependencies
+	•	Datasets integrating retail sales, loyalty-app telemetry, social sentiment, and adverse event signals to track cohort responses to formulation changes
+	•	Interagency coordination (FDA/USDA/FTC/Commerce/State) on ethical, regulatory, or operational considerations of population segmentation via food
+
+Keywords: behavioral futures, cohort mapping, GLP-1, incretin, reinforcement design, loyalty telemetry, population modeling, supply resilience, dataset integration, DARPA BAA
