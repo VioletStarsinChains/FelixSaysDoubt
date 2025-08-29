@@ -8,62 +8,61 @@ v.
 UNITED STATES OF AMERICA,
 by and through its agencies including but not limited to
 the Central Intelligence Agency (CIA), Department of Defense (DoD),
-United States Postal Service (USPS), and others,
+and Food and Drug Administration (FDA),
 
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
   Defendants.
 
 ⸻
 
-MEMORANDUM OF LAW REGARDING USPS P.O. BOX REFUSAL AS EVIDENCE OF UNCONSTITUTIONAL DEPRIVATION
+MEMORANDUM OF LAW REGARDING USPS MISREPRESENTATION OF P.O. BOX STATUS AND ITS RELATION TO NPE CLASSIFICATION
 
 ⸻
 
 INTRODUCTION
 
-This memorandum addresses the refusal of the United States Postal Service (“USPS”) to deliver mail to Plaintiff’s duly contracted P.O. Box. The refusal is not a trivial matter of customer service but a constitutional issue. It exemplifies the broader pattern of treatment consistent with Plaintiff’s alleged classification as a “non-person entity” (“NPE”), wherein government agencies accept Plaintiff’s documentation and money but subsequently deny basic services.
+This memorandum addresses the actions of the United States Postal Service (USPS) in relation to Plaintiff’s application for, and subsequent denial of, mail service via a P.O. Box. The facts demonstrate that USPS accepted Plaintiff’s application and payment, provided physical access, yet internally treated the P.O. Box as “vacant” and refused delivery of all mail. This constitutes fraudulent misrepresentation and provides evidence that Plaintiff has been designated, without notice or due process, as a “non-person entity” (NPE), rendering them unable to engage in even the most basic civic transactions.
 
 ⸻
 
 STATEMENT OF FACTS
-	1.	Plaintiff applied for and paid for a USPS P.O. Box, providing the required identification and fee.
-	2.	USPS accepted the payment, issued a box number, and provided Plaintiff with a key and physical access.
-	3.	For over a month, no mail was delivered to the box.
-	4.	When Plaintiff checked for an expected parcel, the only item inside the box was a slip of paper stating the box was “vacant.”
-	5.	This occurred despite USPS’s prior acknowledgment of Plaintiff’s application and acceptance of payment, demonstrating that USPS’s internal systems continued to classify the P.O. Box as unassigned or unoccupied.
+	1.	Plaintiff applied for and paid for a USPS P.O. Box, providing the required identification and fees.
+	2.	USPS processed the application, issued a box number, and furnished Plaintiff with a physical key granting access to the box.
+	3.	For a period exceeding one month, no mail of any kind was delivered to the box.
+	4.	When Plaintiff checked for an expected parcel, the only item inside the box was a slip of paper indicating that the box remained “vacant.”
+	5.	The presence of the “vacant” notice demonstrates that, notwithstanding USPS’s outward acceptance of Plaintiff’s application and payment, its internal systems continued to classify the P.O. Box as unassigned or unoccupied.
+	6.	This refusal to deliver mail persisted despite USPS’s legal obligation to provide the service for which it had contracted and been paid.
 
 ⸻
 
-LEGAL ISSUES
-	1.	Breach of Contract / Fraudulent Inducement
- - USPS entered into a binding agreement with Plaintiff to provide mail delivery to a P.O. Box.
- - USPS took Plaintiff’s money but failed to provide service, constituting breach.
- - If the refusal was intentional, knowing that Plaintiff’s classification precluded mail delivery, this rises to fraudulent inducement.
-	2.	Discrimination and Denial of Equal Protection
- - Mail delivery is a core public service, universally accessible to all persons regardless of wealth, race, or status.
- - Denial of delivery to an otherwise valid P.O. Box constitutes disparate treatment, depriving Plaintiff of access to communication, commerce, and civic participation.
-	3.	Evidence of NPE Classification
- - The contradiction—accepting Plaintiff’s contract while refusing to perform—strongly indicates that Plaintiff has been internally designated as an NPE.
- - This designation renders Plaintiff simultaneously recognized for purposes of payment but unrecognized for purposes of service.
- - Such treatment is irreconcilable with the principles of due process and equal protection guaranteed by the Constitution.
+LEGAL ISSUE
+
+Whether USPS’s acceptance of Plaintiff’s payment while simultaneously denying the existence or validity of Plaintiff’s P.O. Box constitutes fraud and evidence of systemic exclusion tied to Plaintiff’s suspected NPE classification.
 
 ⸻
 
 ARGUMENT
 
-I. The USPS refusal is direct, tangible evidence of systemic deprivation.
- The P.O. Box denial is not theoretical—it is a documented, observable instance in which Plaintiff’s rights were curtailed in practice. Unlike abstract anomalies, this is a concrete example of constitutional deprivation manifesting in everyday life.
+I. USPS Engaged in Fraudulent Misrepresentation.
+USPS accepted money from Plaintiff under the pretense of providing mail service, while internally maintaining that the P.O. Box was vacant. This dual representation constitutes fraudulent inducement and breach of contract, violating both common law principles and consumer protection statutes.
 
-II. NPE status cannot lawfully void contracts or personhood.
- By law, USPS cannot pick and choose whom it serves absent statutory authority. To deny mail delivery based on secret anomaly or NPE classification amounts to an unconstitutional abridgment of civil rights.
+II. The Vacant Slip Demonstrates Systemic Non-Recognition of Plaintiff’s Legal Identity.
+The issuance of a “vacant” slip in a box Plaintiff had lawfully rented is not a clerical error but a manifestation of Plaintiff’s exclusion from recognition as a legal person within USPS systems. This suggests administrative alignment with Plaintiff’s suspected classification as a “non-person entity” (NPE).
 
-III. Denial of mail delivery undermines core constitutional guarantees.
- Mail access underpins fundamental rights: to contract, to receive notice, to engage in commerce, and to participate in civic life. Stripping Plaintiff of this access constitutes functional civil death—a state long recognized as unconstitutional when imposed without due process.
+III. NPE Classification Results in Denial of Fundamental Civic Participation.
+Mail access is a foundational service necessary for participation in modern society, including receipt of identification documents, legal notices, and communications. By denying Plaintiff this service, USPS effectively deprived Plaintiff of due process rights guaranteed under the Constitution.
+
+IV. Fraudulent Treatment by a Federal Agency Strengthens Plaintiff’s Claims.
+Because USPS is a federal entity, its fraudulent misrepresentation provides direct evidence of unconstitutional systemic practices. This further supports Plaintiff’s argument that NPE classification is unlawful, discriminatory, and incompatible with constitutional protections.
 
 ⸻
 
 CONCLUSION
 
-The USPS’s refusal to deliver mail to Plaintiff’s P.O. Box, despite accepting Plaintiff’s application and fee, is evidence of systemic fraud, unconstitutional discrimination, and the functional denial of personhood. This conduct supports Plaintiff’s claim that NPE classification is being used as a covert mechanism to strip individuals of their rights while simultaneously exploiting them financially.
+The USPS’s refusal to recognize Plaintiff’s P.O. Box despite accepting payment exemplifies the practical harms of NPE classification and demonstrates active fraud by a federal agency. This Court should take judicial notice of these facts as further evidence of systemic deprivation of Plaintiff’s rights, supporting Plaintiff’s broader claims of unlawful exclusion and fraud.
 
 Respectfully submitted,
 Bango Skank, JD
