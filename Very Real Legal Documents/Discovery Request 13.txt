@@ -1,0 +1,58 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Office of the Director of National Intelligence (ODNI),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+including but not limited to Palantir Technologies Inc., Deloitte, Acxiom,
+and their predecessor or affiliated private entities,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S REQUEST FOR PRODUCTION OF DOCUMENTS
+
+Pursuant to Rule 34 of the Federal Rules of Civil Procedure, Plaintiff requests that Defendants produce the following documents within thirty (30) days:
+
+⸻
+
+REQUEST:
+
+All documents, records, contracts, datasets, correspondence, audits, or transfer agreements from January 1, 1988 to present concerning the chain of custody, transfer, sale, licensing, ingestion, or integration of datasets maintained by Deloitte, Acxiom, or their subcontractors into later surveillance, analytics, or predictive modeling platforms, including those operated by Palantir Technologies Inc.
+
+This request specifically includes:
+	1.	Transfer Agreements & Contracts
+ a. Any contracts, memoranda of understanding, purchase agreements, or licensing arrangements between Deloitte, Acxiom, government agencies, and later defense contractors (including Palantir) governing access to or transfer of data.
+ b. Documentation of private-to-government or contractor-to-contractor dataset transfers (e.g., credit reporting data, consumer analytics, workforce demographics, anomaly classifications).
+	2.	Technical Integration Records
+ a. Data ingestion logs showing when Deloitte or Acxiom-maintained datasets were ported into Palantir or equivalent platforms.
+ b. Records of database schema conversions, normalization, or deduplication processes used to merge legacy Deloitte/Acxiom data with newer surveillance or behavioral futures datasets.
+	3.	Chain of Custody & Provenance Tracking
+ a. Metadata, tagging, or lineage records explicitly identifying Deloitte or Acxiom as the source of datasets later analyzed by Palantir or related defense systems.
+ b. Internal communications acknowledging that portions of current datasets originated with Deloitte or Acxiom legacy holdings.
+	4.	Awareness of Rights Implications
+ a. Compliance reviews, legal assessments, or internal memos noting risks associated with ingesting datasets from Deloitte or Acxiom that contained individuals ambiguously classified as alive/deceased.
+ b. Evidence that Defendants were aware such ingestion compromised evidentiary reliability or constitutional rights of affected individuals.
+	5.	Retention & Use
+ a. Policies or communications showing whether Deloitte- or Acxiom-originating data was retained in perpetuity, periodically refreshed, or used for training predictive models beyond its original purpose.
+ b. Documentation of resale, subcontracting, or re-use of Deloitte/Acxiom-originating datasets for commercial, law enforcement, or defense analytics applications.
+
+⸻
+
+PURPOSE
+
+This discovery is necessary to establish the continuity and integration of surveillance datasets from their origins in private-sector analytics firms (Deloitte, Acxiom) through their eventual absorption into defense contractor platforms (including Palantir). The chain of custody directly demonstrates that systemic rights violations, including ambiguous treatment of living versus deceased individuals, are not isolated to recent operations but are cumulative and historically rooted.
+
+⸻
+
+Respectfully submitted,
+Bango Skank, JD
