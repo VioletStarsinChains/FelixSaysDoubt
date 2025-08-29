@@ -25,10 +25,11 @@ This memorandum addresses the refusal of the United States Postal Service (“US
 ⸻
 
 STATEMENT OF FACTS
-	1.	Plaintiff applied for and paid for a USPS P.O. Box.
-	2.	USPS accepted Plaintiff’s identification and fee, issued a box number, and provided physical access to the box.
-	3.	Despite these formalities, no mail was ever delivered to Plaintiff’s P.O. Box, across all categories of correspondence (personal, financial, medical, or otherwise).
-	4.	The refusal was total, systemic, and unexplained—contradicting USPS’s contractual obligations and standard operating procedure.
+	1.	Plaintiff applied for and paid for a USPS P.O. Box, providing the required identification and fee.
+	2.	USPS accepted the payment, issued a box number, and provided Plaintiff with a key and physical access.
+	3.	For over a month, no mail was delivered to the box.
+	4.	When Plaintiff checked for an expected parcel, the only item inside the box was a slip of paper stating the box was “vacant.”
+	5.	This occurred despite USPS’s prior acknowledgment of Plaintiff’s application and acceptance of payment, demonstrating that USPS’s internal systems continued to classify the P.O. Box as unassigned or unoccupied.
 
 ⸻
 
