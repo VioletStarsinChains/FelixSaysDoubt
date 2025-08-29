@@ -31,7 +31,7 @@ This memorandum addresses the practice of continuing to operate digital twins of
 STATEMENT OF FACTS
 	1.	Continued Operation Post-Death. Digital twins of deceased individuals remain active in predictive systems, with data extrapolated from historical records and algorithmic projections substituting for real-time input.
 	2.	Blurring of Distinctions. System architectures often suppress or omit “mortality flags” that would otherwise demarcate active human data from posthumous projections, thereby maintaining continuity in behavioral futures markets.
-	3.	Collateral Harm to the Living. Families, associates, and survivors are directly impacted, as they may unknowingly interact with simulations of the deceased (e.g., through mediated communications, “friend/foe” filters, or automated overlays), leading to confusion, emotional distress, and coercion into magical thinking or psychosis.
+	3.	Collateral Harm to the Living. Families, associates, and survivors are directly impacted, as they may unknowingly interact with simulations of the deceased (e.g., through mediated communications, Synthetic Dialog Partnering, or automated overlays), leading to confusion, emotional distress, and coercion into magical thinking or psychosis.
 	4.	Administrative Contradictions. Federal agencies simultaneously acknowledge death in legal records (e.g., SSA Death Master File) while maintaining active data nodes in classified systems, creating a structural contradiction akin to fraud or misrepresentation.
 
 ⸻
