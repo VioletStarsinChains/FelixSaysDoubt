@@ -25,3 +25,7 @@ This request specifically seeks:
 	•	Any reference to Plaintiff’s antibody production generally (including comments such as “does not produce antibodies”).
 
 If responsive records have been archived, transferred, or converted to a different electronic health record system, Defendants are instructed to identify the location and custodian of such data and to produce the records in their original form.
+
+PURPOSE
+
+These requests are intended to ensure Plaintiff has access to the full laboratory record necessary to independently evaluate immune function, specifically antibody production and autoantibody profiles, and to determine how covert testing or manipulation may have impacted immunological results. Access to complete and unaltered data is essential for Plaintiff to understand their vulnerability in the context of multiple overlapping, unmitigated pandemics, and to assess whether providers withheld, altered, or transmitted such results without Plaintiff’s knowledge or consent.
