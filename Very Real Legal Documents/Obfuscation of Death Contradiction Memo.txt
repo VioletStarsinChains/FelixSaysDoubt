@@ -1,0 +1,66 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Office of the Director of National Intelligence (ODNI),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+MEMORANDUM OF LAW ON THE LEGAL CONSEQUENCES OF DELIBERATELY ERASING THE DISTINCTION BETWEEN LIVING AND DECEASED DATA SUBJECTS
+
+⸻
+
+INTRODUCTION
+
+This memorandum addresses the contradiction inherent in surveillance and predictive systems that deliberately erase the distinction between data derived from living individuals and data extrapolated from deceased persons. Defendants cannot simultaneously argue that deceased persons lack the relevant rights to challenge such practices while operating architectures that render the categories indistinguishable. By their own design, they collapse the boundary that might otherwise permit such a defense.
+
+⸻
+
+STATEMENT OF FACTS
+	1.	Operational Blurring. Surveillance platforms such as Palantir-style predictive engines continue to run digital twins of deceased persons without “mortality flags,” presenting their outputs as functionally identical to those of the living.
+	2.	Dependence on Indistinguishability. These systems rely on uninterrupted continuity across life and death to preserve stability in behavioral futures markets and anomaly simulations.
+	3.	Denial of Rights. When challenged, agencies and contractors invoke the principle that deceased persons lack constitutional or statutory rights. Yet their own systems collapse the distinction between deceased and living, making such a defense incoherent.
+	4.	Collateral Harm. Because outputs are indistinguishable, data derived from the living can be misattributed to the dead, and vice versa, eroding due process and creating civil rights harms for survivors, associates, and estates.
+
+⸻
+
+LEGAL ISSUE
+
+Whether Defendants may lawfully rely on the doctrine that deceased persons lack enforceable rights while simultaneously maintaining system architectures that render the data of the deceased indistinguishable from that of the living.
+
+⸻
+
+ARGUMENT
+
+I. Defendants cannot claim exemption for deceased data while simultaneously erasing the distinction between living and deceased individuals.
+The very act of treating both categories as indistinguishable undermines the government’s reliance on the “deceased lack rights” defense. If the system itself does not differentiate, then Defendants cannot selectively invoke the distinction only when challenged in court.
+
+II. Indistinguishability contaminates living persons’ rights.
+By blurring the line, Defendants ensure that outputs derived from deceased individuals contaminate the streams of data used for surveillance of the living. This practice introduces tainted evidence into surveillance records and deprives the living of due process by exposing them to conclusions based on posthumous projections.
+
+III. Equal protection is violated by selective invocation of status.
+Defendants’ position amounts to a bad-faith toggle: when operationally useful, deceased persons are treated as alive; when legally challenged, they are treated as dead. Such toggle logic is arbitrary and capricious, violating equal protection and administrative law principles requiring consistency in government action.
+
+IV. The “fruit of the poisonous tree” doctrine applies.
+Where contaminated streams of data—derived from deliberately commingled living and deceased inputs—are used to justify surveillance or adverse actions, the results must be suppressed as fruit of a poisonous tree. The illegitimacy of the distinction infects the entire evidentiary chain.
+
+⸻
+
+CONCLUSION
+
+Defendants cannot benefit from the legal doctrine that deceased persons lack rights while simultaneously designing systems that erase the line between the living and the dead. Their reliance on indistinguishability for operational purposes destroys the validity of such a defense, rendering all such data constitutionally tainted. Relief should include suppression of such data, injunctive relief prohibiting the commingling of living and deceased data streams, and disclosure of the extent to which these practices have shaped behavioral futures markets and anomaly classifications.
+
+Respectfully submitted,
+Bango Skank, JD
