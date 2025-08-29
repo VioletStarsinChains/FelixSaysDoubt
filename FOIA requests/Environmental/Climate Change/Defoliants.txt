@@ -45,3 +45,67 @@ This includes:
 	•	Enforcement or compliance records related to undisclosed large-scale spraying programs impacting fire behavior
 
 Keywords: pesticide permit, experimental use, wildfire susceptibility, defoliant, glyphosate, imazapyr, 2,4-D, Agent Orange, fire modeling, EPA OPP
+
+To Department of Defense (DoD) / U.S. Air Force / U.S. Army Corps of Engineers
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, contracts, field reports, and environmental assessments from January 1, 1990 to present referencing the use, testing, storage, or experimental deployment of tactical herbicides (including but not limited to 2,4-D, 2,4,5-T, Agent Orange, Agent White, Agent Blue, picloram, imazapyr, glyphosate at tactical concentrations) in the continental United States for the purposes of vegetation management, defoliation, or fire control.
+
+This includes:
+	•	Records of aerial or ground spraying missions on or near military training ranges, buffer zones, or communities adjacent to installations
+	•	Environmental impact assessments and risk analyses concerning increased wildfire susceptibility after vegetation die-off
+	•	Interagency communications with USDA, USFS, EPA, or state authorities regarding tactical or experimental herbicide use for fire modeling, fuel load management, or vegetation clearing
+	•	Storage, transport, or disposal logs of legacy defoliants at domestic bases (including Little Rock AFB and other herbicide transit/storage sites)
+	•	Research proposals or DARPA/DoD-funded projects assessing the behavioral, ecological, or infrastructure impacts of wildfire scenarios created through chemical vegetation management
+
+Keywords: Agent Orange, Agent White, Agent Blue, tactical herbicide, vegetation management, defoliation, wildfire susceptibility, fire modeling, Army Corps, DARPA, LRAFB
+
+————
+
+To U.S. Forest Service (USFS) / U.S. Department of Agriculture (USDA)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, contracts, and environmental assessments from January 1, 1990 to present referencing the use of tactical herbicides or high-potency vegetation-control chemicals (including 2,4-D, 2,4,5-T, picloram, glyphosate, imazapyr, or related compounds) on U.S. national forests, state-managed forests, or public lands for purposes of wildfire prevention, wildfire modeling, or vegetation management.
+
+This includes:
+	•	Pilot programs or field experiments linking herbicide use to fire behavior modeling or controlled burn dynamics
+	•	Incident reports or environmental monitoring documenting abnormal vegetation die-off followed by increased wildfire risk
+	•	Contracts or correspondence with private vendors or defense agencies regarding large-scale herbicide spraying campaigns
+	•	Studies analyzing herbicide-induced vegetation mortality as a variable in fire-spread models
+	•	Interagency communications with EPA, DoD, or state forestry agencies regarding fire risk from chemical vegetation control
+
+Keywords: wildfire modeling, defoliant, vegetation die-off, glyphosate, imazapyr, picloram, Agent Orange, USDA Forest Service, herbicide spraying, fire behavior experiment
+
+————
+
+To Environmental Protection Agency (EPA) / Office of Pesticide Programs (OPP) / Office of Research and Development (ORD)
+
+Request:
+
+Requesting any and all documents, risk assessments, internal communications, contracts, enforcement actions, and interagency correspondence from January 1, 1990 to present regarding the intentional use of herbicides/defoliants (including 2,4-D, 2,4,5-T, glyphosate, imazapyr, picloram, or legacy Agent Orange-class compounds) to alter wildfire susceptibility, vegetation density, or forest management outcomes.
+
+This includes:
+	•	Pesticide registration or experimental use permit files referencing “fuel load reduction,” “fire modeling,” or “wildfire susceptibility” as endpoints
+	•	Laboratory or field studies on the role of herbicides in increasing flammability or dry biomass
+	•	Communications with USDA, DoD, USFS, or state fire agencies regarding herbicide-linked wildfire modeling or defoliant-driven vegetation control
+	•	Enforcement or compliance records related to undisclosed large-scale spraying programs impacting fire behavior
+
+Keywords: pesticide permit, experimental use, wildfire susceptibility, defoliant, glyphosate, imazapyr, 2,4-D, Agent Orange, fire modeling, EPA OPP
+
+To Defense Advanced Research Projects Agency (DARPA) / I2O / TTO / DSO / STO
+
+Request:
+
+Requesting any and all research proposals, BAAs/solicitations, white papers, statements of work, contracts/task orders, test plans, after-action reports, modeling datasets/simulation code, internal communications, and interagency/vendor/academic correspondence from January 1, 1990 to present referencing the deliberate manipulation of vegetation (including herbicide/defoliant use) to engineer wildfire scenarios for the purposes of behavioral futures modeling, evacuation/compliance studies, infrastructure resilience testing, or market/insurance impact analysis.
+
+This includes:
+	•	Program briefs and funded project records describing “engineered wildfire,” “fuel load reduction via chemical means,” “defoliation for scenario generation,” or equivalent terminology
+	•	Human-behavior modeling deliverables (agent-based models, synthetic population datasets, mobility/evacuation telemetry, information-operations overlays) derived from or calibrated to chemically induced vegetation die-off and subsequent fire behavior
+	•	Interagency correspondence with DoD services, USFS/USDA, EPA/OPP, DHS, DOI, state forestry/fire agencies, or utilities regarding experimental vegetation management, experimental use permits (EUPs), or fire-scenario field trials
+	•	Data acquisition plans and collected datasets (remote sensing, UAS/aircraft ISR, ground sensor networks) measuring vegetation mortality, flammability, ignition probability, and spread following herbicide/defoliant application
+	•	Risk, ethics, and legal reviews addressing domestic use of herbicides/defoliants for test or modeling purposes, including wildland–urban interface (WUI) implications and community impact assessments
+	•	Contractor and academic partner communications on chemical classes and concentrations (e.g., 2,4-D, 2,4,5-T, picloram, imazapyr, glyphosate; legacy “tactical herbicides” such as Agent Orange/White/Blue) used as variables in wildfire scenario design
+
+Keywords: DARPA, engineered wildfire, defoliant, herbicide fuel treatment, behavioral futures, evacuation modeling, agent-based models, WUI, interagency correspondence, experimental use permit (EUP), remote sensing, resilience testing
