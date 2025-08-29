@@ -22,7 +22,25 @@ whose names and identities are presently unknown,
 
 ⸻
 
-Upon consideration of Plaintiff’s motion and supporting memorandum regarding the inadmissibility of data extracted through nonconsensual neurotechnology arrays, and for good cause shown, IT IS HEREBY ORDERED:
+FINDINGS OF FACT
+	1.	Plaintiff has alleged, and the record supports, that Defendants and their contractors have installed or operated neurotechnology arrays without informed consent, thereby extracting physiological, cognitive, and behavioral data in violation of fundamental constitutional and statutory rights.
+	2.	Such data was obtained without notice, consent, or due process, rendering it inherently unreliable and contaminated by the coercive circumstances of its acquisition.
+	3.	The record reflects that defense contractors and federal agencies have relied upon such tainted data not only for anomaly classification and surveillance escalation, but also for the construction of behavioral futures markets and derivative intelligence programs.
+	4.	Continuation of such practices poses irreparable harm to Plaintiff and similarly situated individuals, including deprivation of housing, denial of healthcare, and exposure to coercive manipulations, all without lawful justification.
+
+⸻
+
+CONCLUSIONS OF LAW
+	1.	Data derived from nonconsensual neurotechnology arrays constitutes fruit of the poisonous tree, and its admission in any proceeding violates the Fourth and Fifth Amendments to the United States Constitution.
+	2.	The Court has authority under its equitable powers and pursuant to Rule 65 of the Federal Rules of Civil Procedure to enjoin Defendants and their agents from further reliance on such tainted evidence.
+	3.	The public interest strongly favors injunctive relief, as permitting reliance on unlawfully obtained neurotechnology data would normalize unconstitutional practices, incentivize abuse by private contractors, and erode the legitimacy of judicial and administrative proceedings.
+	4.	Plaintiff has demonstrated likelihood of success on the merits, irreparable harm absent relief, and the inadequacy of legal remedies, warranting issuance of this injunction.
+
+⸻
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED:
 	1.	Admissibility of Evidence.
  Any and all data derived from neurotechnology arrays or comparable invasive surveillance devices installed or operated without an individual’s informed consent shall be deemed inadmissible in any judicial, administrative, or quasi-judicial proceeding.
 	2.	Prohibition on Reliance by Contractors.
