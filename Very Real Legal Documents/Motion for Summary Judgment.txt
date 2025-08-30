@@ -1,7 +1,9 @@
+MOTION FOR SUMMARY JUDGMENT
+
 IN THE UNITED STATES DISTRICT COURT
 
 KELLYN CLAY,
-  Plaintiff,
+ Plaintiff,
 
 v.
 
@@ -14,63 +16,73 @@ and
 
 JOHN DOE DEFENSE CONTRACTORS,
 whose names and identities are presently unknown,
-  Defendants.
+ Defendants.
 
 ⸻
 
-PLAINTIFF’S MOTION FOR SUMMARY JUDGMENT
+MOTION FOR SUMMARY JUDGMENT
+
+Plaintiff respectfully moves this Court for summary judgment pursuant to Rule 56 of the Federal Rules of Civil Procedure. No genuine dispute of material fact exists, and judgment as a matter of law is compelled.
 
 ⸻
 
 INTRODUCTION
 
-Pursuant to Rule 56 of the Federal Rules of Civil Procedure, Plaintiff respectfully moves this Court for summary judgment on the grounds that the undisputed facts, combined with well-established constitutional and statutory principles, establish as a matter of law that Defendants’ conduct—treating human beings as financial instruments within behavioral futures markets—violates the most basic protections of the Constitution and is indefensible under any legal theory.
+Plaintiff has presented overwhelming evidence of non-consensual biomedical intervention, unlawful surveillance, and systemic deprivation. The record demonstrates not only constitutional violations but also logical impossibilities that make Defendants’ positions incoherent and unenforceable.
 
-⸻
-
-STATEMENT OF UNDISPUTED FACTS
-	1.	Defendants and their agents have engaged in practices that reduce human beings to “data assets” for use in behavioral futures markets and derivative modeling.
-	2.	Such practices subject individuals—including Plaintiff—to commodification, surveillance, manipulation, and deprivation of basic rights, including housing, healthcare, and recognition as persons under the law.
-	3.	The enterprise’s structure mirrors the treatment of securities, derivatives, or commodities, but applied to living human beings, in violation of fundamental constitutional principles.
-	4.	No legal authority permits or authorizes treating human life as a fungible financial asset.
+At the core of this Motion is Exhibit L: Statement of Paradoxes, which catalogues fifteen contradictions at the heart of Defendants’ treatment of Plaintiff. These paradoxes are not semantic quibbles; they prove that the system cannot simultaneously enforce obligations, deny rights, and obscure life status without collapsing into fraud and unconstitutionality.
 
 ⸻
 
 LEGAL STANDARD
 
-Summary judgment is appropriate where there is no genuine dispute of material fact and the movant is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(a).
+Summary judgment is appropriate when “there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a). When Defendants’ entire framework is shown to be self-contradictory, no material fact remains to sustain their defense.
 
 ⸻
 
 ARGUMENT
 
-I. The commodification of human beings is per se unconstitutional.
- The Thirteenth Amendment prohibits slavery and involuntary servitude. The Fourteenth guarantees due process and equal protection. Reducing individuals to tradable instruments in behavioral futures markets is a form of involuntary servitude and denial of personhood inconsistent with these protections.
+I. Defendants’ positions collapse under their own contradictions.
 
-II. No statutory or regulatory authority supports Defendants’ practices.
- Even expansive readings of surveillance or national security statutes do not contemplate human beings as financial derivatives. To the contrary, existing law—from constitutional rights to consumer protection frameworks—prohibits such commodification.
+As shown in Exhibit L, Plaintiff is treated as simultaneously:
+	•	a legal person and a non-person;
+	•	alive and dead;
+	•	bound by contracts and incapable of contracting;
+	•	surveilled based on tainted data and silenced when challenging it.
 
-III. There is no genuine dispute of material fact.
- Defendants’ own systems, policies, and structures demonstrate the framework of behavioral futures markets predicated on human lives. The only question is legal: whether such practices are permissible. They are not.
+These paradoxes are not isolated errors but structural contradictions that make Defendants’ actions arbitrary, capricious, and unconstitutional under the Fifth and Fourteenth Amendments. A government cannot compel obligations from an individual while denying the recognition necessary to fulfill them.
 
-IV. Defendants’ Positions Are Self-Contradictory and Thus Cannot Stand.
+II. Fraudulent acknowledgment and fraudulent denial demonstrate bad faith.
 
-Defendants’ conduct is not merely unlawful; it is logically incoherent. As shown in Exhibit L: Statement of Paradoxes, Plaintiff has been simultaneously: (a) recognized and denied personhood; (b) bound and unbound by contracts; (c) granted and refused postal service; (d) subject to both medical testing and medical neglect; and (e) treated as both alive and dead depending on context.
+Defendants and their contractors selectively recognize Plaintiff’s personhood when issuing diplomas, accounts, or debts, while denying the same status to justify surveillance and deprivation of housing. Such contradictory postures constitute fraud, misrepresentation, and deprivation of rights under color of law.
 
-Such contradictions are fatal. A legal regime cannot rest on mutually exclusive propositions. Courts have long held that doctrines premised on internal inconsistency collapse under their own weight. Here, Defendants’ contradictory actions demonstrate not only bad faith but also an unconstitutional framework that lacks logical coherence.
+III. Use of “fruit of the poisonous tree” data invalidates all surveillance justifications.
 
-Accordingly, summary judgment is warranted in Plaintiff’s favor.
+All neurotechnology-derived data gathered from Plaintiff was obtained without consent and in violation of constitutional protections. This data cannot lawfully justify continued or escalated surveillance. As Exhibit L demonstrates, to argue otherwise forces Defendants into further paradox: claiming both that the data is essential and that it is legally permissible, when in fact it is neither.
+
+IV. A system that cannot distinguish between life and death cannot claim constitutional legitimacy.
+
+Defendants obscure whether Plaintiff’s data is generated by a living individual or the continued operation of a digital twin. This deliberate ambiguity makes it impossible for rights to be adjudicated properly. Constitutional rights do not vanish upon ambiguity, nor can Defendants shelter behind uncertainty they themselves manufacture.
+
+V. Relief is compelled as a matter of law.
+
+Given these contradictions, no material facts remain for trial. A legal framework built on paradox cannot be sustained. Summary judgment is the only remedy that upholds constitutional order.
 
 ⸻
 
-CONCLUSION AND PRAYER FOR RELIEF
+PRAYER FOR RELIEF
 
-For the reasons above, Plaintiff respectfully requests that this Court:
-	1.	Grant summary judgment in Plaintiff’s favor on the claims regarding the unconstitutional treatment of human beings as financial instruments.
-	2.	Declare that all such practices are unlawful and unenforceable.
-	3.	Order injunctive relief prohibiting Defendants from continuing these practices.
-	4.	Order deletion of all data collected through these unlawful systems, except that necessary to restore housing, healthcare, and recognition to affected individuals.
-	5.	Grant such other relief as the Court deems just and proper.
+Plaintiff respectfully requests that this Court:
+	1.	Grant summary judgment in Plaintiff’s favor;
+	2.	Declare unconstitutional the classification of Plaintiff and others as “non-person entities”;
+	3.	Enjoin Defendants from further use of data derived from non-consensual neurotechnology arrays;
+	4.	Order deletion of all data collected from Plaintiff beyond that which is collected on ordinary citizens;
+	5.	Recognize housing deprivation based on NPE status or fraudulent debts as unlawful;
+	6.	Award damages consistent with Exhibits J and K, and restitution of assets wrongfully diverted;
+	7.	Certify the class as outlined in prior memoranda, ensuring relief applies to all similarly situated individuals; and
+	8.	Grant any further relief the Court deems just and proper.
+
+⸻
 
 Respectfully submitted,
 Kellyn Clay, pro se
