@@ -11,3 +11,39 @@ Quark can then sell those futures to other Ferengi across the quadrant, who use 
 In real life, that’s the essence of a behavioral futures market: you create financial instruments that let people bet on or trade around human behavior. The market prices — set by supply and demand — become a kind of consensus forecast of what people are going to do. And if you’re Quark, you don’t just passively watch. You quietly rig the environment — dim the lights, raise the temperature, cue the dabo girls — so the behavior you’ve sold futures on actually happens.
 
 That’s the danger in the real world: once someone can profit from betting on your behavior, they also have an incentive to shape that behavior. Quark doesn’t just predict who will order another drink — he salts the peanuts.
+
+The Spectrum of Behavioral Futures Trading
+
+1. Legit Prediction Market (Harmless Betting)
+	•	What it looks like: People place bets on future events they can’t control.
+	•	Examples:
+	•	Will it rain tomorrow in Chicago?
+	•	Who will win the Federation Council election?
+	•	Real-world parallel: Weather derivatives, sports betting, election markets.
+	•	Quark analogy: Taking bets on who wins the next springball game. Quark doesn’t control the players — he just collects the wagers.
+
+⸻
+
+2. Gray Zone Influence (Subtle Shaping)
+	•	What it looks like: The market operator can’t directly control the outcome, but they have tools to tilt the odds.
+	•	Examples:
+	•	Social media platforms selling ad futures on viral trends — then nudging their algorithms to boost certain content.
+	•	A company betting on “increased soda sales” while also buying billboard space in hot climates.
+	•	Real-world parallel: Behavioral ad targeting, influencer campaigns, algorithmic amplification.
+	•	Quark analogy: Taking bets on whether you’ll order another drink, then dimming the lights and cueing the dabo girls to put you in the mood.
+
+⸻
+
+3. Full-Blown Insider Manipulation (Rigged Game)
+	•	What it looks like: The trader has direct control over the outcome and profits by making it happen.
+	•	Examples:
+	•	A hedge fund sells futures on people defaulting on loans — then manipulates lending standards to cause the defaults.
+	•	A neurotech company sells futures on patient compliance — then uses entrainment tech to ensure patients comply.
+	•	Real-world parallel: Closest cousin is insider trading, but here it extends to mass human behavior.
+	•	Quark analogy: Betting that Odo will arrest someone — then paying a drunk to start a bar fight so Odo has to step in.
+
+⸻
+
+👉 The problem is that behavioral futures markets tend to slide down this spectrum. At first, it’s “just predictions.” Then operators realize they can make safer profits by nudging. Eventually, the temptation is to outright control.
+
+Or in Ferengi terms: “Why gamble on chance, when you can own the odds?”
