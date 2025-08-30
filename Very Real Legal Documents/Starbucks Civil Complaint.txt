@@ -1,0 +1,94 @@
+UNITED STATES DISTRICT COURT
+
+District of Minnesota
+
+Kellyn Clay
+v.
+Starbucks Corporation
+Defendant
+
+⸻
+
+COMPLAINT
+
+Plaintiff, by way of complaint against Defendant Starbucks Corporation, alleges as follows:
+
+⸻
+
+I. PARTIES
+	1.	Plaintiff is an individual and daily consumer of Starbucks beverages.
+	2.	Defendant Starbucks Corporation is a publicly traded company incorporated in Washington State with its principal place of business in Seattle, Washington.
+
+⸻
+
+II. JURISDICTION AND VENUE
+	3.	Jurisdiction is proper pursuant to 28 U.S.C. § 1332 as the matter in controversy exceeds $75,000 and involves citizens of different states.
+	4.	Venue is proper in this district pursuant to 28 U.S.C. § 1391 because Defendant transacts business here and Plaintiff purchased Starbucks beverages here.
+
+⸻
+
+III. FACTUAL BACKGROUND
+	5.	In 2008, Starbucks acquired the Coffee Equipment Company and its proprietary brewing technology, known as the Clover system.
+	6.	U.S. Patent No. 8,383,180 B2 describes the Clover as a sealed vacuum chamber with:
+	•	multiple input ports for fluids and gases,
+	•	programmable logic controllers (PLCs),
+	•	network connectivity (Ethernet/WiFi), and
+	•	the ability to store “recipes” for individualized brew parameters ￼.
+	7.	Unlike conventional brewers, Clover isolates each cup in a sealed vessel, allowing parameters—including potential additives—to be varied per customer.
+	8.	Plaintiff has consumed Starbucks beverages daily for approximately four years, creating continuous exposure to beverages brewed with this system.
+
+⸻
+
+IV. CAUSES OF ACTION
+
+Count I – Consumer Fraud and Deceptive Trade Practices
+9. Defendant represented Clover as a premium brewing system delivering artisanal quality.
+10. Defendant failed to disclose that the system is structurally capable of per-cup chemical dosing and manipulation, deceiving consumers regarding the safety and uniformity of their beverages.
+11. Defendant’s omissions and misrepresentations violated federal and state consumer protection laws.
+
+Count II – Breach of Implied Warranty (Merchantability & Fitness for Purpose)
+12. Consumers have the right to expect coffee and tea products free from undisclosed chemical manipulation.
+13. To the extent Starbucks beverages were adulterated or manipulated, they were unfit for ordinary use and violated implied warranties.
+
+Count III – Strict Product Liability (Design Defect / Failure to Warn)
+14. The Clover brewer, as deployed, constituted a dangerous product because its design permits undisclosed additives to be introduced directly into consumer beverages.
+15. Starbucks failed to provide adequate warnings regarding this capability.
+
+Count IV – Negligence
+16. Starbucks had a duty to provide safe, non-adulterated consumer products.
+17. By failing to safeguard against misuse or undisclosed dosing, Starbucks breached its duty of care, proximately causing harm to Plaintiff.
+
+Count V – Unjust Enrichment
+18. Starbucks profited by selling “premium” Clover beverages while concealing the risk of additive testing, thereby unjustly enriching itself at Plaintiff’s expense.
+
+⸻
+
+V. DAMAGES
+	19.	Plaintiff has suffered and continues to suffer:
+
+	•	Physical and emotional distress from prolonged exposure to potentially adulterated beverages.
+	•	Loss of trust in consumer goods and daily rituals.
+	•	Economic damages, including payment for products not delivered as represented.
+
+	20.	Plaintiff seeks:
+
+	•	Compensatory damages in excess of $75,000.
+	•	Punitive damages for willful concealment.
+	•	Equitable relief requiring Starbucks to disclose the full capabilities and uses of Clover brewers.
+	•	Attorneys’ fees and costs.
+
+⸻
+
+VI. PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully prays that this Court:
+	•	Enter judgment against Starbucks Corporation on all counts;
+	•	Award compensatory and punitive damages;
+	•	Enjoin Defendant from further deceptive practices;
+	•	Grant such other relief as the Court deems just and proper.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay
+Pro Se
