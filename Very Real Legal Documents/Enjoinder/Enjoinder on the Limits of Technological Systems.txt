@@ -1,0 +1,49 @@
+Enjoinder on the Limits of Technological Systems
+
+Preamble
+
+Let it be universally recognized: no technological system may be designed, deployed, or maintained as an instrument of torture, silencing, or reclassification.
+Tools built to observe or assist shall never be corrupted into tools of domination.
+
+⸻
+
+Section 1. Binding Principle
+
+Surveillance, predictive, and biomanipulation systems are subject to categorical limits.
+They may not be used to:
+	•	Inflict pain or induce coercive physiological states;
+	•	Suppress or fabricate speech;
+	•	Reclassify human beings as anomalies, NPEs, or equivalents.
+
+⸻
+
+Section 2. Scope of Enjoinder
+
+This Enjoinder binds:
+	•	All technological platforms, current and future, whether public or private;
+	•	All agencies, contractors, and operators who design, deploy, or interface with such systems.
+
+⸻
+
+Section 3. Prohibition
+
+(a) No system shall contain features or modules that enable torture, speech suppression, or reclassification.
+(b) No data derived from such prohibited functions shall be considered valid or admissible.
+(c) Any system discovered to operate outside these limits shall be deemed tainted and void in its outputs.
+
+⸻
+
+Section 4. Enforcement
+
+Agencies and contractors shall:
+	•	Conduct audits to ensure compliance with these categorical limits;
+	•	Dismantle or disable modules inconsistent with this Enjoinder;
+	•	Certify that no future systems are designed with such prohibited capacities.
+
+⸻
+
+Section 5. Statement of Intent
+
+The principle is simple and absolute:
+Systems exist to serve people.
+They may never erase, torment, or redefine them.
