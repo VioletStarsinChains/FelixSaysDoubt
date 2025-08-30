@@ -1,0 +1,32 @@
+Historical Development of Behavioral Futures Markets
+
+1940s–1950s: Post-War Behavioral Science
+	•	B.F. Skinner and operant conditioning: military and industry adoption of conditioning models for training, persuasion, and control.
+	•	RAND Corporation: applied behavioral science to social engineering and prediction during the early Cold War.
+	•	MK-Ultra and related CIA projects: covert testing of chemical and psychological methods of control, laying groundwork for viewing behavior itself as manipulable material.
+
+1960s–1970s: From Social Engineering to Consumer Control
+	•	Advertising psychology expanded conditioning techniques for mass persuasion.
+	•	Credit scoring and actuarial models: the first large-scale attempts to quantify and predict individual behavior for financial risk markets.
+	•	The “human capital” turn: economists began treating individual traits and choices as measurable assets.
+
+1980s–1990s: Early Digital Futures
+	•	Rise of data brokers: companies like Acxiom aggregated consumer data, selling predictive profiles to corporations and governments.
+	•	Algorithmic trading: financial markets began using models not just to reflect, but to anticipate and bet on future outcomes.
+	•	Workplace monitoring: digital surveillance of employees created new data streams for productivity prediction.
+
+2000s: Behavioral Futures at Scale
+	•	Google, Facebook, and surveillance capitalism: pioneered the monetization of predictive behavioral data.
+	•	Targeted advertising exchanges: behavior-driven ad auctions became the first mass behavioral futures markets.
+	•	Homeland Security & counterterrorism: after 9/11, behavioral prediction was embedded in security infrastructures.
+
+2010s–Present: Integrated Behavioral Futures Markets
+	•	Palantir, predictive policing, and algorithmic governance: government adoption of behavioral futures infrastructures.
+	•	Big Tech health & neurotech projects: expansion into physiological and neurological data for prediction.
+	•	Climate and food security pressures: consumer markets (e.g., coffee substitutes, supply-chain additives) trialed for resilience while generating new behavioral data streams.
+
+⸻
+
+Key Takeaway
+
+Behavioral futures markets did not appear suddenly in the 2010s. They evolved steadily from Cold War behavioral experiments, through advertising and financial risk modeling, into today’s integrated systems of surveillance capitalism, predictive policing, and supply-chain experimentation.
