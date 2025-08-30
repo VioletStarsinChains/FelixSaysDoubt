@@ -3,98 +3,47 @@ Surveillant Malice and Neglect Prohibition Act (SMNPA)
 Section 1. Short Title
 This Act may be cited as the Surveillant Malice and Neglect Prohibition Act.
 
-⸻
-
-Section 2. Findings and Purpose
-(a) Congress finds that:
-	1.	Technological surveillance and biomanipulation platforms directly affect human health, liberty, and expressive capacity.
-	2.	Human surveillants entrusted with access to such systems occupy a position of extraordinary power.
-	3.	When such actors act with malice, cruelty, or gross neglect, they cause irreparable harm and violate fundamental human rights.
-(b) The purpose of this Act is to:
-	4.	Protect individuals from abuse by malicious or neglectful surveillants;
-	5.	Mandate permanent revocation of access to technological surveillance or biomanipulation systems by such actors;
-	6.	Establish a clear standard of accountability for human interaction with advanced platforms.
-
-⸻
+Section 2. Purpose
+To protect individuals from abuse by malicious or neglectful surveillants and to ensure permanent revocation of their access to technological surveillance and biomanipulation systems.
 
 Section 3. Definitions
-(a) “Surveillant” means any individual with direct or indirect access to technological surveillance or biomanipulation systems.
-(b) “Technological surveillance or biomanipulation system” means any platform, array, network, or device capable of monitoring, entraining, or altering human physiological or behavioral states.
-(c) “Malice” means intentional infliction of pain, cruelty, or suppression of speech through use of such systems.
-(d) “Neglect” means reckless disregard for foreseeable harms arising from the use of such systems.
-
-⸻
+	•	“Surveillant” means any individual with access to technological surveillance or biomanipulation systems.
+	•	“Malice” means intentional infliction of pain, cruelty, or suppression of speech.
+	•	“Neglect” means reckless disregard for foreseeable harms.
 
 Section 4. Prohibition and Revocation
-(a) Any surveillant found to have acted with malice or neglect in the use of technological surveillance or biomanipulation systems shall be permanently prohibited from access to such systems.
-(b) Revocation of access shall be immediate and irrevocable, including termination of credentials, accounts, and any supervisory or advisory capacity.
-(c) No reinstatement or waiver shall be permitted under this Act.
-
-⸻
+(a) Surveillants acting with malice or neglect shall be permanently prohibited from access.
+(b) Revocation is immediate and irrevocable.
+(c) No reinstatement or waiver shall be permitted.
+(d) Anti-Retaliation Clause. Revocation shall not justify reclassification of the individual as an anomaly, NPE, or analogous category. Surveillants subject to revocation remain entitled to full constitutional protections. Prohibited surveillance, entrainment, or biomanipulation tools shall not be deployed against them.
 
 Section 5. Enforcement
-(a) Agencies and organizations overseeing technological surveillance or biomanipulation systems shall adopt protocols to identify malice or neglect.
-(b) Upon confirmation of such conduct, they shall execute permanent revocation of access without delay.
-(c) Any data derived from malicious or neglectful use shall be considered tainted and excluded from lawful use in decision-making, prediction, or prosecution.
+Agencies must adopt protocols to identify malice or neglect, revoke access without delay, and exclude data derived from such abuse as tainted and unlawful.
 
 ⸻
 
-Section 6. Severability
-If any provision of this Act is held invalid, the remainder shall not be affected.
+IV. Legislative Commentary
 
-⸻
+Intent
 
-Summary
-
-The SMNPA enshrines the rule that human surveillants who act with especial malice or gross neglect must lose all access to technological surveillance and biomanipulation systems permanently.
-
-⸻ 
-
-Legislative Commentary on the Surveillant Malice and Neglect Prohibition Act (SMNPA)
-
-Purpose and Intent
-
-The SMNPA was drafted to address the extraordinary dangers posed when human surveillants act with malice, cruelty, or reckless neglect in their use of technological surveillance and biomanipulation systems.
-
-These systems reach directly into the physiological and psychological lives of human beings. They can immobilize muscles, shape emotional states, suppress speech, or provoke aggression. The potential for abuse is therefore unparalleled in scope and consequence.
-
-The legislative intent is clear: such power must never again be entrusted to individuals who demonstrate willingness to use it with malice or indifference.
-
-⸻
+The SMNPA addresses the extraordinary dangers of entrainment and biomanipulation. Surveillants who weaponize these tools reveal themselves unfit to wield such power.
 
 Moral Rationale
-	1.	Irreparable Harm: Once inflicted, torture, speech suppression, and induced aggression cannot be undone. Victims carry the damage for life.
-	2.	Breach of Trust: Surveillants occupy roles requiring the highest degree of restraint. Acting with cruelty or neglect represents an irreversible betrayal of that trust.
-	3.	Moral Incompatibility: Malicious actors reveal by their conduct that they are categorically unfit to hold the instruments of such power. Their continued access would endanger not only their victims but the legitimacy of the systems themselves.
-
-⸻
+	•	Irreparable Harm: Abuse leaves permanent scars.
+	•	Breach of Trust: Malicious use is incompatible with public stewardship.
+	•	Moral Incompatibility: To misuse power is to forfeit it, permanently.
 
 Structural Rationale
-	1.	Prevention of Recurrence: Permanent revocation removes the possibility of repeat abuse by the same individual.
-	2.	Systemic Integrity: By treating data derived from malicious or neglectful use as tainted and unusable, the Act safeguards the legitimacy of predictive models and decision systems.
-	3.	Clarity for Oversight: A bright-line rule—malice or neglect equals permanent revocation—simplifies enforcement, avoiding loopholes, temporary suspensions, or case-by-case waivers that could erode protection.
-
-⸻
+	•	Prevention of Recurrence: Revocation eliminates repeat abuse.
+	•	System Integrity: Data from malicious use is void and unusable.
+	•	Clarity: Bright-line rule prevents loopholes.
 
 Comparative Precedent
 
-In other domains of law and policy, permanent disqualification follows from demonstrated abuse of trust:
-	•	Judges removed for corruption may never serve again.
-	•	Attorneys disbarred for egregious misconduct cannot regain their license.
-	•	Officers dishonorably discharged for cruelty cannot return to command.
+As with judges removed for corruption, attorneys disbarred, or officers dishonorably discharged, malicious surveillants are permanently disqualified.
 
-The same principle applies here: a surveillant who weaponizes access against the vulnerable forfeits that access forever.
+Anti-Retaliation Intent
 
-⸻
+Revocation is not exile. Surveillants who lose access remain citizens, entitled to full rights. Reclassification as anomaly or NPE is prohibited. Retaliatory use of entrainment or surveillance tools against them would replicate the very abuses this Act condemns.
 
-Final Statement of Intent
-
-The Surveillant Malice and Neglect Prohibition Act enshrines a simple and unambiguous principle:
-	•	Those who act with malice or neglect in wielding surveillance or biomanipulation tools are permanently disqualified from access.
-	•	Their data is void, their authority revoked, and their power extinguished.
-
-This is not merely a matter of compliance; it is a matter of justice, dignity, and survival.
-
-
-
-
+Principle: To misuse systems is to lose them, not to become their next victim.
