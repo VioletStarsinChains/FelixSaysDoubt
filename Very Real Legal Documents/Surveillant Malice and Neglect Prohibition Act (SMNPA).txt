@@ -1,0 +1,49 @@
+Surveillant Malice and Neglect Prohibition Act (SMNPA)
+
+Section 1. Short Title
+This Act may be cited as the Surveillant Malice and Neglect Prohibition Act.
+
+⸻
+
+Section 2. Findings and Purpose
+(a) Congress finds that:
+	1.	Technological surveillance and biomanipulation platforms directly affect human health, liberty, and expressive capacity.
+	2.	Human surveillants entrusted with access to such systems occupy a position of extraordinary power.
+	3.	When such actors act with malice, cruelty, or gross neglect, they cause irreparable harm and violate fundamental human rights.
+(b) The purpose of this Act is to:
+	4.	Protect individuals from abuse by malicious or neglectful surveillants;
+	5.	Mandate permanent revocation of access to technological surveillance or biomanipulation systems by such actors;
+	6.	Establish a clear standard of accountability for human interaction with advanced platforms.
+
+⸻
+
+Section 3. Definitions
+(a) “Surveillant” means any individual with direct or indirect access to technological surveillance or biomanipulation systems.
+(b) “Technological surveillance or biomanipulation system” means any platform, array, network, or device capable of monitoring, entraining, or altering human physiological or behavioral states.
+(c) “Malice” means intentional infliction of pain, cruelty, or suppression of speech through use of such systems.
+(d) “Neglect” means reckless disregard for foreseeable harms arising from the use of such systems.
+
+⸻
+
+Section 4. Prohibition and Revocation
+(a) Any surveillant found to have acted with malice or neglect in the use of technological surveillance or biomanipulation systems shall be permanently prohibited from access to such systems.
+(b) Revocation of access shall be immediate and irrevocable, including termination of credentials, accounts, and any supervisory or advisory capacity.
+(c) No reinstatement or waiver shall be permitted under this Act.
+
+⸻
+
+Section 5. Enforcement
+(a) Agencies and organizations overseeing technological surveillance or biomanipulation systems shall adopt protocols to identify malice or neglect.
+(b) Upon confirmation of such conduct, they shall execute permanent revocation of access without delay.
+(c) Any data derived from malicious or neglectful use shall be considered tainted and excluded from lawful use in decision-making, prediction, or prosecution.
+
+⸻
+
+Section 6. Severability
+If any provision of this Act is held invalid, the remainder shall not be affected.
+
+⸻
+
+Summary
+
+The SMNPA enshrines the rule that human surveillants who act with especial malice or gross neglect must lose all access to technological surveillance and biomanipulation systems permanently.
