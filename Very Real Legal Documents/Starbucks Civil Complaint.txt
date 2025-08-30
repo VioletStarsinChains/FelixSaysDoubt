@@ -2,16 +2,14 @@ UNITED STATES DISTRICT COURT
 
 DISTRICT OF MINNESOTA
 
-Plaintiff
+Plaintiff, individually and on behalf of all others similarly situated
 v.
 Starbucks Corporation
 Defendant
 
 ⸻
 
-COMPLAINT
-
-Plaintiff, by way of complaint against Defendant Starbucks Corporation, alleges as follows:
+CLASS ACTION COMPLAINT
 
 ⸻
 
@@ -22,8 +20,8 @@ I. PARTIES
 ⸻
 
 II. JURISDICTION AND VENUE
-	3.	This Court has subject matter jurisdiction under 28 U.S.C. § 1332, as the matter in controversy exceeds $75,000 and is between citizens of different states.
-	4.	Venue is proper in the District of Minnesota under 28 U.S.C. § 1391 because a substantial part of the events giving rise to this action occurred here. Plaintiff consumed Starbucks beverages brewed with Clover machines on a daily basis within this District for multiple years.
+	3.	This Court has subject matter jurisdiction under 28 U.S.C. § 1332(d) (Class Action Fairness Act), as the matter in controversy exceeds $5,000,000 in the aggregate and members of the class include citizens of different states from Defendant.
+	4.	Venue is proper in this District under 28 U.S.C. § 1391 because a substantial part of the events giving rise to this action occurred here. Plaintiff consumed Starbucks beverages brewed with Clover machines on a daily basis within this District for multiple years.
 	5.	Defendant transacts business throughout Minnesota, owns and operates numerous Starbucks retail stores here, and has continuous and systematic contacts with this District.
 
 ⸻
@@ -40,51 +38,69 @@ III. FACTUAL BACKGROUND
 
 ⸻
 
-IV. CAUSES OF ACTION
+IV. CLASS ALLEGATIONS
+	10.	Plaintiff brings this action pursuant to Fed. R. Civ. P. 23 on behalf of all persons who purchased and consumed Starbucks beverages brewed with Clover machines in the United States.
+	11.	Numerosity: The class numbers in the millions, making joinder impracticable.
+	12.	Commonality: Common questions include whether the Clover system allows undisclosed additive dosing, whether Starbucks failed to disclose material facts, and whether consumers were harmed.
+	13.	Typicality: Plaintiff’s claims are typical of class members, as all were exposed to the same deceptive practices and risks.
+	14.	Adequacy: Plaintiff will fairly and adequately protect the interests of the class.
 
-Count I – Consumer Fraud and Deceptive Trade Practices
-10. Defendant represented Clover as a premium brewing system delivering artisanal quality.
-11. Defendant failed to disclose that the system is structurally capable of per-cup chemical dosing and manipulation, deceiving consumers regarding the safety and uniformity of their beverages.
-12. Defendant’s omissions and misrepresentations violated federal and Minnesota consumer protection laws.
-
-Count II – Breach of Implied Warranty (Merchantability & Fitness for Purpose)
-13. Consumers have the right to expect coffee and tea products free from undisclosed chemical manipulation.
-14. To the extent Starbucks beverages were adulterated or manipulated, they were unfit for ordinary use and violated implied warranties.
-
-Count III – Strict Product Liability (Design Defect / Failure to Warn)
-15. The Clover brewer, as deployed, constituted a dangerous product because its design permits undisclosed additives to be introduced directly into consumer beverages.
-16. Starbucks failed to provide adequate warnings regarding this capability.
-
-Count IV – Negligence
-17. Starbucks had a duty to provide safe, non-adulterated consumer products.
-18. By failing to safeguard against misuse or undisclosed dosing, Starbucks breached its duty of care, proximately causing harm to Plaintiff.
-
-Count V – Unjust Enrichment
-19. Starbucks profited by selling “premium” Clover beverages while concealing the risk of additive testing, thereby unjustly enriching itself at Plaintiff’s expense.
+Subclass A: Refill Program Customers
+15. Starbucks has adopted a policy allowing free refills indefinitely for customers who remain in-store and use a “for-here” mug.
+16. This policy induced customers to consume multiple beverages in a single sitting, significantly increasing exposure risk.
+17. Starbucks loyalty and POS systems track refill usage, creating a discrete, identifiable subclass of affected consumers.
+18. Plaintiff asserts claims on behalf of all such customers as a subclass within the broader class.
 
 ⸻
 
-V. DAMAGES
-	20.	Plaintiff has suffered and continues to suffer:
+V. CAUSES OF ACTION
+
+Count I – Consumer Fraud and Deceptive Trade Practices
+19. Defendant represented Clover as a premium brewing system delivering artisanal quality.
+20. Defendant failed to disclose that the system is structurally capable of per-cup chemical dosing and manipulation, deceiving consumers regarding the safety and uniformity of their beverages.
+21. Defendant’s omissions and misrepresentations violated federal and state consumer protection statutes.
+
+Count II – Breach of Implied Warranty (Merchantability & Fitness for Purpose)
+22. Consumers have the right to expect coffee and tea products free from undisclosed chemical manipulation.
+23. To the extent Starbucks beverages were adulterated or manipulated, they were unfit for ordinary use and violated implied warranties.
+
+Count III – Strict Product Liability (Design Defect / Failure to Warn)
+24. The Clover brewer, as deployed, constituted a dangerous product because its design permits undisclosed additives to be introduced directly into consumer beverages.
+25. Starbucks failed to provide adequate warnings regarding this capability.
+
+Count IV – Negligence
+26. Starbucks had a duty to provide safe, non-adulterated consumer products.
+27. By failing to safeguard against misuse or undisclosed dosing, Starbucks breached its duty of care, proximately causing harm to Plaintiff and class members.
+
+Count V – Unjust Enrichment
+28. Starbucks profited by selling “premium” Clover beverages while concealing the risk of additive testing, thereby unjustly enriching itself at the expense of Plaintiff and the class.
+
+⸻
+
+VI. DAMAGES
+	29.	Plaintiff and class members have suffered and continue to suffer:
 
 	•	Physical and emotional distress from prolonged exposure to potentially adulterated beverages.
 	•	Loss of trust in consumer goods and daily rituals.
 	•	Economic damages, including payment for products not delivered as represented.
 
-	21.	Plaintiff seeks:
+	30.	Plaintiff and the class seek:
 
-	•	Compensatory damages in excess of $75,000.
+	•	Compensatory damages in an amount to be proven at trial.
 	•	Punitive damages for willful concealment.
 	•	Equitable relief requiring Starbucks to disclose the full capabilities and uses of Clover brewers.
+	•	Restitution for unjust enrichment.
 	•	Attorneys’ fees and costs.
 
 ⸻
 
-VI. PRAYER FOR RELIEF
+VII. PRAYER FOR RELIEF
 
-WHEREFORE, Plaintiff respectfully prays that this Court:
+WHEREFORE, Plaintiff, individually and on behalf of all others similarly situated, respectfully prays that this Court:
+	•	Certify this case as a class action under Rule 23;
 	•	Enter judgment against Starbucks Corporation on all counts;
 	•	Award compensatory and punitive damages;
+	•	Order restitution and disgorgement of profits;
 	•	Enjoin Defendant from further deceptive practices;
 	•	Grant such other relief as the Court deems just and proper.
 
