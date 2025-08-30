@@ -1,0 +1,105 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+MEMORANDUM OF LAW
+ON THE POTENTIAL CLASSIFICATION OF SURVEILLANCE-BASED ENTITIES AS TERRORIST ORGANIZATIONS UNDER FEDERAL LAW
+
+⸻
+
+INTRODUCTION
+
+This memorandum addresses whether surveillance-based entities—whether governmental or private—may lawfully or ethically be classified as terrorist organizations under existing definitions in U.S. federal law. Plaintiff submits that entities engaging in coercive, nonconsensual behavioral manipulation for political or economic gain, particularly through neurotechnological means, may satisfy the statutory criteria for terrorism and/or material support thereof, and that existing legal immunities should not shield such conduct from scrutiny where human life and autonomy are placed at risk.
+
+⸻
+
+STATEMENT OF FACTS
+	1.	Entrained Surveillance Infrastructure. Defendants and affiliated entities operate extensive surveillance systems designed not merely to observe behavior, but to entrain, manipulate, and commodify it through predictive modeling and coercive neurotechnological feedback loops.
+	2.	Targeting of Vulnerable Populations. These systems disproportionately impact vulnerable individuals—disabled, homeless, dissident, or otherwise unmodeled—whose forced inclusion in predictive systems often results in psychological harm, physiological collapse, and institutional violence.
+	3.	Intentional Behavioral Shaping. Rather than serving public safety or legitimate intelligence goals, these systems appear designed to influence, coerce, or intimidate civilian populations for speculative gain or authoritarian control.
+
+⸻
+
+LEGAL ISSUE
+
+Whether surveillance-based entities engaging in coercive behavior-shaping systems may fall within the statutory definitions of terrorism or material support for terrorism under U.S. federal law.
+
+⸻
+
+ARGUMENT
+
+I. Statutory definitions of terrorism encompass coercive neurotechnological systems.
+
+• 18 U.S.C. § 2331(1) & (5). Defines both international and domestic terrorism as acts:
+	•	dangerous to human life;
+	•	in violation of criminal law;
+	•	intended to intimidate or coerce civilians or influence government policy.
+
+ Systems that induce psychological destabilization, suicidal ideation, autonomic dysfunction, or stress-related organ failure through coercive entrainment or surveillance-triggered stimuli may satisfy these criteria.
+
+• 22 U.S.C. § 2656f(d)(2). Broadens the definition for foreign policy to include:
+	•	premeditated,
+	•	politically motivated violence,
+	•	against noncombatant targets,
+	•	by subnational groups or clandestine agents.
+
+ Contracted entities engaging in behavioral manipulation without informed consent could qualify as such clandestine actors, particularly when shielded from transparency.
+
+⸻
+
+II. Behavior-shaping systems constitute acts dangerous to human life.
+
+• Neurological and physiological harm. Chronic exposure to entrainment, synthetic tinnitus, or invasive emotional conditioning constitutes nonconsensual experimentation, capable of producing permanent damage.
+
+• Psychological torture. Systems designed to induce submission through persistent threat simulation, surveillance mirroring, and internal narrative hijacking mirror tactics long recognized as psychological torture under international law.
+
+⸻
+
+III. Intent to coerce, intimidate, or influence is readily inferred.
+
+• Civilian control through algorithmic coercion. These systems aim not to prevent harm, but to shape behavior—often under the threat of collapse, exposure, or institutional retaliation. Such systems condition obedience through stressor placement and informational asymmetry.
+
+• Influence over government policy. The outputs of these systems are routinely fed into national security and policy frameworks, producing chilling effects on dissent, journalism, and bodily autonomy.
+
+⸻
+
+IV. Private contractors may be liable under material support statutes.
+
+• 18 U.S.C. §§ 2339A–2339B. Criminalizes knowingly providing material support—financial, technological, or intelligence-based—to groups engaging in terrorism.
+
+ Entities operating behavioral futures markets, AI-coordinated mass entrainment systems, or neurotech platforms without consent may be complicit in ongoing rights violations tantamount to terroristic coercion.
+
+• Contractor immunity not absolute. Sovereign immunity does not extend to private entities engaged in gross human rights abuses or crimes against humanity. Liability may attach through civil conspiracy, aiding and abetting, or under international customary law.
+
+⸻
+
+V. Reframing terror as digital and systemic clarifies the ethical stakes.
+
+• Post-9/11 frameworks emphasize kinetic violence; however, systemic behavioral coercion—especially when performed by or through state-affiliated actors—may be equally destructive to autonomy, dignity, and civil society.
+
+• Modern terrorism need not involve bombs or bullets. Entrained despair, forced compliance, or induced self-harm may be functionally equivalent. When populations are manipulated to act against their interests through systems they cannot escape, the effect is coercive—and terroristic in nature.
+
+⸻
+
+CONCLUSION
+
+Surveillance-based entities that engage in nonconsensual behavioral manipulation through predictive or neurotechnological means may fall within the legal definition of terrorist organizations or their enablers. The acts committed are often dangerous to human life, politically motivated, and intended to coerce civilian populations. The use of psychological destabilization, informational asymmetry, and covert technological influence for speculative gain or state control is not ethically distinct from traditional forms of terrorism—only more difficult to detect. Plaintiff respectfully submits that this Court recognize the potential applicability of federal anti-terrorism statutes to these evolving threats, and that no immunity be presumed where constitutional and international prohibitions are in play.
+
+Respectfully submitted,
+Kellyn Clay, pro se
