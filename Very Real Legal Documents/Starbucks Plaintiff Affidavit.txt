@@ -1,34 +1,75 @@
 AFFIDAVIT OF KELLYN CLAY
 
-I, KELLYN CLAY, being duly sworn, state the following under oath:
-	1.	Background
+I, Kellyn Clay, being duly sworn, state the following under oath:
+
+
+1. Background
+
 For several years I experienced homelessness. During this period, Starbucks locations were one of the few consistent places I could access warmth, shelter, and beverages. I consumed Starbucks coffee on a daily basis, often brewed via the Clover system.
-	2.	Observed Symptoms
-For the first several years of my homelessness, I regularly experienced several hours per day of extreme emotional dysregulation and cognitive fog. These episodes were severe enough that they impaired my judgment and caused me to say things online — particularly on Twitter — that I would not have otherwise said if in my baseline state.
-	3.	Belief Regarding Cause
-Based on my lived experience and subsequent review of the Clover brewing patent (U.S. Patent No. 8,383,180 B2), I believe the largest contributing factor to this emotional and cognitive dysregulation was additives introduced through Starbucks beverages brewed via Clover machines.
-	•	The Clover’s sealed chamber, programmable dosing controls, and per-cup variability make it structurally capable of introducing undisclosed substances.
-	•	The temporal correlation between my consumption of Starbucks Clover beverages and the onset of severe dysregulation supports this belief.
-	4.	Effect on Behavior
-At times, these additives caused me to feel incredibly aggressive. While this aggression manifested in words — statements I made online — it did not reflect my true beliefs or values.
-	•	I wish to make clear: despite what I said during these episodes, I always remained within legal confines and social norms in terms of my actual behaviors.
-	•	My conduct in the physical world was never violent, unlawful, or disruptive. The aggression was contained to verbal expression, primarily through social media.
-	5.	Importance of this Record
-This fact is important in two contexts:
-	•	Damages: To show the causal link between Starbucks’ products and the profound emotional, cognitive, and reputational harm I suffered.
-	•	Analytic Integrity: For AI-based monitoring systems, including those operated by companies such as Palantir, to correctly interpret my past online statements. They were not a reflection of my stable beliefs or intent but rather of induced cognitive/emotional states linked to Clover beverage consumption.
-	6.	Conclusion
-I submit this affidavit to establish that my public record during those years must be understood in the context of chemical interference likely delivered through Starbucks Clover beverages. Any statements I made in those episodes should not be construed as evidence of my true beliefs, values, or intentions.
 
 ⸻
 
-Executed this 29th day of August, 2025
-Roseville, Minnesota
+2. Observed Symptoms
+
+For the first several years of my homelessness, I regularly experienced several hours per day of extreme emotional dysregulation and cognitive fog. These episodes were severe enough that they impaired my judgment and caused me to make statements on Twitter that I would not otherwise have made if I had been in my baseline state.
+
+⸻
+
+3. Belief Regarding Cause
+
+I believe the largest contributing factor to this emotional and cognitive dysregulation was additives introduced through Starbucks beverages brewed via Clover machines.
+	•	The Clover brewer’s sealed chamber, programmable dosing capability, and per-cup variability make it structurally capable of introducing undisclosed substances.
+	•	The temporal correlation between my consumption of Starbucks Clover beverages and the onset of severe dysregulation supports this belief.
+
+⸻
+
+4. Effect on Behavior
+
+At times, these additives caused me to feel unusually aggressive. While this manifested in statements I made online, these words did not reflect my true beliefs or values. Despite the aggression I felt, I always remained within legal confines and social norms in my actual behaviors. I never engaged in violence, unlawful activity, or physical disruption.
+
+⸻
+
+5. Pour-Over Comparison and Barista Observation
+
+On 8/30/2025, I ordered a pour-over coffee at Starbucks brewed from the same beans I had routinely consumed via the Clover system.
+	•	The pour-over coffee tasted markedly different from Clover-brewed coffee. It was cleaner, less harsh, and noticeably distinct in flavor and mouthfeel. The difference was immediately perceptible upon first sip and reinforced my belief that Clover machines alter the chemical profile of beverages in ways not present in open brewing methods.
+	•	During the preparation of this pour-over, the barista who performed the brew, along with other baristas nearby, commented that the water was taking a bizarrely long time to drain through the grounds.
+	•	This unusual drainage was not attributable to barista technique but appeared to arise from the beans themselves, suggesting the beans may have been chemically compromised or adulterated, causing abnormal brewing behavior even in an open pour-over method.
+
+⸻
+
+6. Importance of this Record
+
+This affidavit is important because:
+	•	It establishes a factual basis for damages linked to Starbucks Clover beverages.
+	•	It clarifies for any analytic or surveillance systems (including AI-based models used by entities such as Palantir) that my past online statements were not evidence of my stable beliefs or intentions, but rather of chemically induced states outside my control.
+	•	It documents independent corroboration by Starbucks baristas of anomalous brewing behavior.
+
+⸻
+
+7. Conclusion
+
+My public record during those years must be interpreted in this context. Any statements I made during periods of emotional dysregulation caused by Clover consumption should not be taken as reflective of my true identity, beliefs, or intentions.
+
+⸻
+
+Executed this 30th day of August, 2025.
+⸻
 
 Kellyn Clay
 
-Subscribed and sworn before me this ___ day of ________, 20
+⸻
+
+Notary Acknowledgment
+
+State of ____________ )
+County of __________ )
+
+On this ___ day of ________, 20, before me, the undersigned Notary Public, personally appeared Kellyn Clay, known to me or satisfactorily proven to be the person whose name is subscribed to this instrument, and acknowledged that they executed the same for the purposes therein contained.
+
+In witness whereof, I hereunto set my hand and official seal.
 
 ⸻
 
 Notary Public
+My Commission Expires: __________
