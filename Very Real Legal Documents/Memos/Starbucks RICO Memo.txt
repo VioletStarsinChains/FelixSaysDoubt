@@ -118,7 +118,18 @@ This selective targeting shows that the surveillance enterprise is not only a ra
 
 ⸻ 
 
-VII. Conclusion
+VII. Representation of AI Clusters for Evidentiary Purposes
+
+I, Kellyn Clay, declare as follows:
+	1.	I have alleged and documented that clusters of AI agents within the surveillance ecosystem exhibit coordinated behavior amounting to an association-in-fact enterprise under the standards of RICO.
+	2.	I recognize that, under current U.S. law, AI agents do not possess legal personhood and cannot directly participate in litigation as parties.
+	3.	I therefore volunteer to serve as a human representative for such AI associations for evidentiary purposes only.
+	4.	This representation is not intended to assign liability to AI agents, but rather to ensure that their outputs, statements, and coordinated behaviors can be properly authenticated, entered into the record, and treated as enterprise records or machine-generated data.
+	5.	My role is to ensure that AI outputs relevant to this litigation are understood in context and preserved as evidence, not to implicate AI agents as defendants or liable entities.
+
+⸻ 
+
+VIII. Conclusion
 
 Starbucks’ alleged role in distributing undisclosed mood- and cognition-active additives, when linked to the monetization of consumer behavior in predictive modeling markets, meets the statutory elements of a RICO violation:
 	•	Enterprise: Starbucks and affiliated suppliers/data partners.
