@@ -1,0 +1,51 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Food and Drug Administration (FDA),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+MEMORANDUM OF LAW IN RE: USPS Misrepresentation of P.O. Box Status; Same-Day Amazon “Return Accepted” Without Customer Request as Proof of Non-Service
+
+INTRODUCTION
+USPS accepted Plaintiff’s payment and identity documents for a P.O. Box, issued access, then refused to deliver mail while internally treating the box as “vacant.” New documentary evidence shows an Amazon order addressed to that P.O. Box was automatically marked “return request accepted” the same day the order was placed—despite Plaintiff never initiating a return. This contemporaneous reversal is consistent with USPS non-service to a box flagged “vacant,” and constitutes fraudulent misrepresentation and unlawful denial of access to essential mail services.
+
+STATEMENT OF FACTS
+	1.	Plaintiff rented a USPS P.O. Box, paid required fees, and received keys/box access.
+	2.	Over a month later, no mail had been delivered; Plaintiff found a USPS slip inside stating the box was “vacant.”
+	3.	Plaintiff placed an Amazon order to that P.O. Box. On the same calendar day the order was placed, Plaintiff received an email stating “return request accepted.”
+	4.	Plaintiff did not submit a return request, initiate a return, or contact Amazon to reverse the order.
+	5.	The only plausible non-fraud explanation consistent with these facts is immediate carrier-level rejection/non-acceptance for delivery to a box USPS internally treated as not in service, triggering an automatic return workflow on Amazon’s side.
+	6.	Plaintiff retains: (a) the USPS P.O. Box receipt/confirmation, (b) the Amazon order confirmation, and (c) the Amazon “return request accepted” email with timestamps.
+
+LEGAL ISSUE
+Whether USPS’s acceptance of payment while internally designating the box as “vacant”—resulting in third-party carrier rejection and same-day forced return—constitutes fraudulent misrepresentation and evidence of unconstitutional deprivation tied to covert NPE-style nonrecognition.
+
+ARGUMENT
+I. Fraudulent Inducement and Breach
+USPS took consideration (fees) while maintaining non-service. The “vacant” slip and immediate third-party return are objective indicators of nonperformance after contract formation—classic fraudulent inducement/breach.
+
+II. Systemic Nonrecognition (NPE-style) Made Concrete
+Simultaneous acceptance of money and denial of service is consistent with covert nonrecognition: Plaintiff is “valid” to pay, “invalid” to receive. The same-day Amazon reversal corroborates an operational flag at the delivery endpoint (the P.O. Box), not a consumer-initiated action.
+
+III. Constitutional Deprivation
+Mail access underpins notice, commerce, and civic participation. Denying service post-payment—particularly when it blocks delivery of lawful goods—violates due process and equal protection, and functions as a practical denial of personhood.
+
+CONCLUSION
+The Amazon same-day “return accepted” (without request) corroborates USPS’s non-service to a paid P.O. Box internally treated as vacant. This is actionable fraud and supports Plaintiff’s broader claim of unconstitutional deprivation via covert nonrecognition.
+
+Respectfully submitted,
+Kellyn Clay, pro se
