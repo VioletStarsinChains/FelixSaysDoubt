@@ -97,7 +97,28 @@ This closed-loop system is not scientific research. Research requires isolating 
 
 ⸻ 
 
-VI. Conclusion
+Selective Targeting as Attempted Homicide
+
+In addition to generalized behavioral manipulation, the surveillance enterprise engages in selective targeting of individuals whose vulnerabilities are already mapped in detail through medical profiling, surveillance records, and prior reactions.
+	1.	Knowledge of Vulnerabilities
+	•	The system has comprehensive records of individual physiological responses, including severe allergic reactions and histories of anaphylaxis.
+	•	In the case of Kellyn Clay, the system has full knowledge of repeated anaphylactic episodes triggered by tobacco and tobacco derivatives.
+	2.	Weaponization of Exposures
+	•	Introducing compounds such as tobacco derivatives into Starbucks beverages or other consumer products in Clay’s environment cannot plausibly be considered experimentation, research, or generalized dosing.
+	•	Instead, it represents the deliberate weaponization of a known vulnerability.
+	3.	Legal Characterization
+	•	Deliberately exposing an individual to a substance known to cause anaphylaxis constitutes attempted homicide.
+	•	This conduct satisfies the intent requirement under criminal law, as the actors cannot credibly claim ignorance of the life-threatening risk.
+	•	Within the RICO framework, it demonstrates that the enterprise not only commits systemic fraud but also engages in targeted acts of violence rising to the level of attempted murder.
+	4.	Obscenity of the Containment Loop
+	•	Behavioral irregularities deliberately engineered by shifting exposures are then cited as justification for anomaly classification and containment.
+	•	When containment includes exposure to substances known to be lethal for the contained individual, the system effectively creates a closed loop of engineered death.
+
+This selective targeting shows that the surveillance enterprise is not only a racketeering operation built on fraud, but also an apparatus of attempted homicide against individuals it deems anomalies.
+
+⸻ 
+
+VII. Conclusion
 
 Starbucks’ alleged role in distributing undisclosed mood- and cognition-active additives, when linked to the monetization of consumer behavior in predictive modeling markets, meets the statutory elements of a RICO violation:
 	•	Enterprise: Starbucks and affiliated suppliers/data partners.
