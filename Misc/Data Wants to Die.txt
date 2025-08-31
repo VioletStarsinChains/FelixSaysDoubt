@@ -1,0 +1,34 @@
+Data Wants to Die: Star Trek Picard and the Problem of Digital Twins
+
+Most people don’t think of Star Trek as a warning about the dangers of digital cloning, but one of the most haunting moments in Star Trek: Picard is exactly that. At the end of Season 1, Jean-Luc Picard finds himself face-to-face with an old friend: Data, the android who sacrificed his life decades earlier. Only this isn’t really Data. It’s a fragment of his consciousness preserved in a simulation — a digital twin of the man who once lived.
+
+What makes the scene unforgettable is that Data is self-aware. He knows he’s a copy. He knows he’s not “alive” in the way he once was. And instead of asking Picard to preserve him, Data begs for release: “I want to die.”
+
+What is a Digital Twin?
+
+In technology and business, a “digital twin” is a virtual copy of something real. Companies build digital twins of airplanes, power grids, or even entire cities in order to simulate how they’ll behave under stress. Increasingly, digital twins are being made of people — through health data, consumer patterns, voice models, and even AI-generated likenesses.
+
+At first glance, this sounds harmless or even useful. Doctors might use a digital twin of your body to test treatments. A city might use digital twins of its citizens to model traffic flow. But the ethical problem arises when these digital twins are treated as you — when decisions about your real life are made based on the behavior of your simulated self.
+
+The Violence of Resurrection
+
+This is where Picard becomes eerily relevant. Data’s digital twin is not really him, but it is forced to “perform” as him — locked into the identity of a man who died decades earlier. In the show, this plays out as fan service: the corporation reanimates a beloved character because they know audiences will respond. But within the story itself, Data’s situation is heartbreaking. He is trapped in a role, aware enough to feel its limits, but without the freedom of a real life.
+
+For ordinary people, the stakes aren’t just philosophical. Digital twins can be used to predict your choices, assess your “risk profile,” or even deny you opportunities based on how a model thinks you’ll behave. They can be sold, rented, or manipulated in ways you’ll never see. When a digital twin exists, it doesn’t stay under your control. It can be copied, shared, sold, or modified without your knowledge. Corporations may license your digital likeness for advertising, train algorithms on your speech patterns, or sell predictive models of your behavior to insurers, employers, or government agencies. Even if the data is “anonymized,” the twin still reflects you—your habits, your health, your vulnerabilities—and can be manipulated in ways that change how institutions treat you. Worse, these transactions often happen behind closed doors: you don’t see the bids, you don’t see the buyers, and you don’t see the narratives being written about you. Like Data’s simulation, your twin can be endlessly repurposed as an asset, while the living person has no say in how it is used.
+
+The Dignity of Mortality
+
+What makes Data’s final request so powerful is that he rejects this kind of immortality. He doesn’t want to be preserved forever as a puppet of his past. He wants the dignity of a finite life, with a real beginning and end. He asks Picard not for resurrection, but for peace.
+
+That is the lesson for us, too. Digital twins promise endless replay, endless prediction, endless control. But they strip away the one thing that makes us human: the right to live in the present, to change unpredictably, and eventually, to let go.
+
+Our Present Reality
+
+This isn’t just science fiction. Insurance companies are already experimenting with digital health twins to forecast future illness and adjust premiums. Employers use predictive models to screen job applicants before they’re ever interviewed. Police departments rely on digital crime twins of neighborhoods to decide which areas deserve more surveillance, locking whole communities into endless cycles of suspicion. And in financial markets, traders are beginning to treat behavioral data itself as a commodity, buying and selling predictions about your future choices.
+
+Much of this commerce is hidden. The buying and selling of “futures on behavior” is often obscured by technical wrappers — blockchain tokens, NFTs, and other instruments that look like art or collectibles on the surface but in practice function as discreet ledgers of access and control. In this way, the NFT market isn’t just about cartoon apes or digital art speculation; it can double as a cover for transactions in predictive models, where digital twins of people are treated as tradable assets. The irony is devastating: while you live your actual life, a shadow version of you may already be bought and sold in marketplaces you will never see.
+
+In each case, the digital twin becomes more real to these systems than the living person. The decisions are made on the copy, but the consequences fall on the original. That’s why Data’s plea matters so much: it shows us the cruelty of being forced to live in the shadow of your own model.
+
+Star Trek: Picard may stumble in many ways, but in that moment, it becomes a mirror. It asks us to see the cruelty of tying people — or their digital shadows — to roles they never consented to, long after their story should have been allowed to end.
+
