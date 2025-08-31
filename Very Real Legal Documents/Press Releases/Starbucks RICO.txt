@@ -1,0 +1,13 @@
+PRESS RELEASE
+
+For Immediate Distribution
+
+Allegations Raised Regarding Starbucks Beverages and Behavioral Futures Markets
+
+Minneapolis, MN — In sworn affidavits, consumer advocate Kellyn Clay has raised concerns that Starbucks beverages — particularly those prepared with Clover brewers and white mocha sauce — may serve as distribution vectors for undisclosed additives with physiological and cognitive effects. These additives may influence consumer behavior in ways that extend beyond ordinary caffeine consumption.
+
+If true, the use of behavioral data harvested from Starbucks customers in the 48 hours following beverage consumption would constitute contaminated data. Such data should not be used in predictive modeling, behavioral futures markets, or related applications until Starbucks can guarantee that customers are not being subjected to undisclosed exposures.
+
+Clay’s testimony highlights potential liability under federal racketeering statutes (RICO) if Starbucks’ supply chains or affiliates knowingly enabled covert testing of additives with behavioral impact. The concern is not limited to consumer safety but extends to the integrity of predictive models and financial markets that rely on unmanipulated behavioral data.
+
+“Behavioral futures markets depend on authentic human signals,” Clay stated. “If those signals are artificially manipulated through undisclosed additives, then every data stream tied to Starbucks customers becomes tainted — and using it in prediction is reckless at best, fraudulent at worst.”
