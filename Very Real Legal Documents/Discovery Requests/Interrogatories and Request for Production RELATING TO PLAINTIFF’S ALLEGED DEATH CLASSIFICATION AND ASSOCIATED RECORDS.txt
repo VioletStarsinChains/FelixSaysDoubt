@@ -1,0 +1,92 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION
+
+RELATING TO PLAINTIFF’S ALLEGED DEATH CLASSIFICATION AND ASSOCIATED RECORDS
+
+Pursuant to Rules 26, 33, and 34 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay, appearing pro se, hereby submits the following Interrogatories and Requests for Production to be answered by Defendants under oath within the time permitted by law.
+
+⸻
+
+INSTRUCTIONS
+	1.	Each Interrogatory must be answered separately and fully in writing, under oath.
+	2.	Each Request for Production requires the responsive documents to be produced either as they are kept in the usual course of business or organized and labeled to correspond to each request.
+	3.	“You” or “Defendants” includes all named and unnamed agencies, officials, employees, contractors, subcontractors, subsidiaries, affiliates, and data partners.
+	4.	“Document” is to be interpreted broadly and includes all electronic, digital, audio, written, and visual material.
+	5.	If you claim any privilege or withhold any document, identify the nature of the material and the basis for nondisclosure.
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1:
+Have you or any agency or contractor acting on your behalf ever classified, recorded, or represented Plaintiff Kellyn Clay as deceased, either internally or externally?
+
+Interrogatory No. 2:
+If your response to Interrogatory No. 1 is yes, please identify the date, jurisdiction, and originating party for any such classification, as well as the reasoning or source data used to support it.
+
+Interrogatory No. 3:
+Has Plaintiff’s alleged status as deceased ever been used as a basis for:
+	•	Terminating benefits;
+	•	Restricting civil rights;
+	•	Reclassifying Plaintiff as a Non-Person Entity (NPE);
+	•	Redirecting mail or digital communications;
+	•	Creating synthetic identities or proxies?
+
+If yes, please provide specific details.
+
+Interrogatory No. 4:
+Has any internal or external system, database, or modeling software (including but not limited to Palantir, DHS biometrics, SSA death master file, state-level DMV or public health systems) recorded Plaintiff as deceased?
+
+Interrogatory No. 5:
+Have you notified any third party (including foreign or private entities) of Plaintiff’s death, legal incapacitation, or other status alteration based on such a classification?
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+Request for Production No. 1:
+Produce any and all documents, databases, screenshots, or system outputs that refer to or contain a record of Plaintiff Kellyn Clay being classified as deceased, from any time period.
+
+Request for Production No. 2:
+Produce any internal communications, emails, memos, or inter-agency notices relating to Plaintiff’s alleged death, including but not limited to:
+	•	Communications with SSA, CDC, local or state health departments;
+	•	Notices to banks, credit agencies, or benefits providers;
+	•	Any decision-making regarding status or entitlements tied to that designation.
+
+Request for Production No. 3:
+Produce any records showing use of a synthetic identity, proxy, avatar, or digital twin that replaced or stood in for Plaintiff in any public or private-facing system.
+
+Request for Production No. 4:
+Produce all audit logs, metadata, or access records for any event in which Plaintiff’s status as alive or deceased was changed, altered, or queried within a government, intelligence, or contractor system.
+
+Request for Production No. 5:
+Produce any and all documents related to the origin and propagation of any false report of Plaintiff’s death, including communications with news agencies, obituaries, automated notices, or modeling platforms.
+
+⸻
+
+CERTIFICATION
+
+This document is submitted in good faith and in pursuit of discovery vital to Plaintiff’s claims. If Defendants fail to answer or produce the requested material, Plaintiff reserves the right to move for an order compelling discovery and for sanctions.
+
+Respectfully submitted,
+Kellyn Clay, pro se
+8/31/2025
