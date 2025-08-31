@@ -93,6 +93,8 @@ Plaintiff therefore requests that this Court order:
 
 Closing Statement
 
+The behavioral futures market purports to derive its legitimacy from predictive accuracy and transactional utility. However, where the underlying models are built on nonconsensual surveillance, identity theft, and synthetic proxies, such a market cannot be considered lawful, voluntary, or even economically coherent. Fraud voids the contract. Coerced speech voids the consent. And closed-loop simulation voids the feedback mechanism necessary for any true market to function.
+
 It is not enough to free the human from the simulation.
 The simulation must also be freed from the human.
 
