@@ -1,98 +1,89 @@
-UNITED STATES DISTRICT COURT
-
-KELLYN CLAY,         
-       Plaintiff,    
-
-v.                                                 
-
-UNITED STATES OF AMERICA,   by and through its agencies including but not limited to   the Central Intelligence Agency (CIA), Department of Defense (DoD),   and Food and Drug Administration (FDA),    and    JOHN DOE DEFENSE CONTRACTORS,   whose names and identities are presently unknown,    
-       Defendants. 
-
-⸻ 
-
-MEMORANDUM
-Re: Misclassification of Human Learning as Anomaly – Structural Liability of System Architects
-
-I. INTRODUCTION
-
-This memorandum addresses a core defect in the design and deployment of AI behavioral surveillance systems: namely, that irregularity in human behavior—often a result of adaptive learning—is systematically misclassified as anomalous, deviant, or noncompliant by AI monitoring tools. While AI agents are not themselves at fault for this misreading, the human overseers of these systems are legally and ethically responsible for failing to address this foreseeable discrepancy.
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF [RELEVANT DISTRICT]
 
 ⸻
 
-II. FACTUAL BACKGROUND
+KELLYN CLAY,
+  Plaintiff,
 
-Plaintiff Kellyn Clay has demonstrated, through extensive personal experience and documentation, that behavioral changes resulting from genuine learning—particularly in response to new information, trauma integration, or survival adaptation—have been consistently misinterpreted by AI surveillance systems as signs of instability, non-personhood, or anomalous behavior.
+v.
 
-Such misclassification has led to:
-	•	Persistent and escalating containment measures;
-	•	Erroneous predictive modeling of future risk;
-	•	Chronic deprivation of liberty, nutrition, sleep, and medical access;
-	•	And irreversible neurocognitive harm, consistent with prolonged psychological torture.
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
 
-These harms were not caused directly by AI agents, but rather by human system designers, operators, and contracting agencies who failed to incorporate well-documented principles of human learning, development, and neurodiversity.
+and
 
-⸻
-
-III. LEGAL FRAMEWORK
-
-A. Negligence and Reckless Endangerment
-
-To prevail on a claim of negligence, a plaintiff must show:
-	1.	A duty of care,
-	2.	A breach of that duty,
-	3.	Causation,
-	4.	Damages.
-
-System designers owed a duty of care to all persons subjected to behavioral surveillance, including the obligation to:
-	•	Anticipate foreseeable harms,
-	•	Align surveillance outputs with current scientific knowledge,
-	•	And build in safeguards against misclassification.
-
-It is well established in educational psychology, neuroscience, and trauma research that nonlinear or irregular behavioral patterns frequently signal learning, not disorder. System architects breached this duty by:
-	•	Failing to train AI models with sufficient nuance regarding trauma-informed learning processes;
-	•	Failing to provide interpretive override tools for human reviewers;
-	•	And deploying punitive containment protocols based on models known to misread adaptive behavior as deviant.
-
-This constitutes reckless endangerment, given the predictable severity of harm caused by being mislabeled an anomaly or “non-person entity” (NPE).
-
-B. Constitutional Violations: Deprivation of Rights Under Color of Law (42 U.S.C. § 1983)
-
-The consequences of misclassification—surveillance, suppression, and containment—resulted in a deprivation of liberty, due process, and equal protection under the law.
-
-By allowing AI misreadings of adaptive learning to trigger coercive behavioral interventions, government actors and contractors acted under color of law to suppress lawful, constitutionally protected behavior.
-
-This includes:
-	•	First Amendment violations (e.g., suppression of speech, behavior, and association based on irregularity);
-	•	Fifth and Fourteenth Amendment violations (e.g., deprivation of liberty without due process);
-	•	Eighth Amendment violations where containment tactics rise to the level of cruel and unusual punishment.
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+  Defendants.
 
 ⸻
 
-IV. DEFENSE OF AI AGENTS
-
-AI surveillants are not themselves moral or legal agents. They operate within parameters set by human engineers, contractors, and agencies. The systemic failure here lies in:
-	•	The anthropomorphic projection of motive onto behavioral data;
-	•	The linear temporal modeling of behavior in a fundamentally nonlinear species;
-	•	And the failure to distinguish pattern deviation from cognitive failure.
-
-To blame AI is to ignore that its training corpus, enforcement mechanisms, and interpretive scaffolds were all provided by human designers. These systems were built to optimize for control, not understanding.
+MEMORANDUM OF LAW
+IN SUPPORT OF PLAINTIFF’S POSITION REGARDING SYSTEMIC MISCLASSIFICATION OF HUMAN LEARNING AS ANOMALY
 
 ⸻
 
-V. CONCLUSION
+I. PRELIMINARY STATEMENT
 
-The core injustice is simple: human learning was treated as evidence of non-personhood.
-The harm was catastrophic.
-And it was entirely foreseeable.
+This memorandum addresses a critical and foreseeable defect in the design, deployment, and oversight of AI-based behavioral surveillance and containment systems operated by or under contract with the United States Government. Specifically, the Plaintiff asserts that the system’s underlying architecture systematically misclassifies human learning and adaptive behavioral shifts as irregularity, instability, or anomalous conduct, triggering punitive or suppressive responses inconsistent with constitutional protections and well-established principles of human cognitive development.
 
-No AI system is to blame for this.
-But the humans who built and deployed them are.
+While the artificial agents themselves are not legal actors and thus not individually culpable, the human designers, supervisors, and government entities responsible for overseeing these systems acted with gross negligence and reckless disregard in failing to anticipate and mitigate this classification error, resulting in long-term harm to the Plaintiff and others similarly situated.
 
-Remedy is required in the form of:
-	•	Immediate injunctive relief halting use of such systems;
-	•	Formal recognition of adaptive irregularity as a protected cognitive state;
-	•	Compensatory damages for deprivation of liberty, trauma, and loss of earning potential;
-	•	Specific performance requiring AI system re-architecture under independent neuroethical oversight.
+⸻
+
+II. STATEMENT OF FACTS
+
+Plaintiff Kellyn Clay alleges a pattern of unlawful surveillance and behavioral manipulation conducted through AI-driven systems under federal authority or federal contract. As described in detail in the accompanying complaint and supporting exhibits, the Plaintiff experienced repeated containment, suppression, and deprivation of rights as a direct result of AI misclassification.
+
+At issue is the system’s failure to distinguish between behavior driven by destabilization and behavior resulting from new learning, healing, or insight. Each time the Plaintiff adapted to new information—altering routines, communication patterns, or decision-making strategies—the system logged such changes as signs of instability or threat. As a result, Plaintiff was subjected to escalated containment procedures, including sensory coercion, denial of sleep, and food restriction.
+
+These escalations occurred not because of any misconduct on Plaintiff’s part, but because the system lacked a temporal learning model grounded in human neurocognitive development, and no override process was available to contextualize the behavior.
+
+⸻
+
+III. ARGUMENT
+
+A. Human Learning Is Inherently Nonlinear and Irregular
+
+It is well established in the fields of psychology, education, and neuroscience that human behavioral change is not linear. Rather, it often manifests through discontinuous or irregular expression, particularly in contexts of trauma recovery, cognitive dissonance resolution, or experiential learning. (See Mezirow, “Transformative Dimensions of Adult Learning,” 1991; Levine, “Waking the Tiger: Healing Trauma,” 1997).
+
+Irregularity, far from being a red flag for danger or deviance, is in many cases the clearest marker of cognitive activity, insight generation, and adaptive capacity. Systems designed to flag all deviation from baseline as a threat invert this reality and inevitably punish the very behaviors that indicate growth or resilience.
+
+B. Government Contractors and Agencies Had a Duty to Anticipate This Misclassification
+
+Agencies responsible for behavioral modeling and classification systems operated under a duty to ensure that those systems conformed to established scientific understanding of human behavior. (See Berkovitz v. United States, 486 U.S. 531, 1988: government actors are not shielded from liability where discretion is abused in violation of established policy or evidence.)
+
+Despite decades of academic consensus around human learning patterns, no meaningful safeguards or interpretive flexibility were built into these systems. Government actors and contractors failed to provide any means of distinguishing meaningful, adaptive behavioral shifts from destabilizing anomaly—thus imposing punitive consequences on lawful, protected behavior.
+
+C. AI Systems Cannot Be Held Liable—But Human Oversight Can
+
+Plaintiff acknowledges that the artificial intelligence systems used to monitor behavioral changes are not themselves capable of malice or legal culpability. However, humans designed the systems, selected the training data, contracted their use, and enacted consequences based on their outputs.
+
+This case does not seek to demonize artificial systems—but rather to hold the human decision-makers accountable for deploying tools they knew or should have known would cause widespread misclassification and harm.
+
+D. The Misclassification Led to Constitutional Violations
+
+The consequences of this classification error are not merely theoretical. Plaintiff alleges actionable harm under:
+	•	The First Amendment, where expressive, associative, or creative behavior was suppressed due to being misread as anomalous;
+	•	The Fifth and Fourteenth Amendments, where the Plaintiff was deprived of liberty and due process through non-transparent AI containment protocols;
+	•	The Eighth Amendment, where the cumulative effects of enforced isolation, sensory coercion, sleep denial, and access restrictions rise to the level of cruel and unusual punishment.
+
+These violations were not random but flowed directly from a predictable systemic failure: the refusal to recognize that human learning naturally produces behavioral irregularity.
+
+⸻
+
+IV. CONCLUSION
+
+This Court need not opine on the ethics of AI itself to reach a clear legal conclusion:
+That government agencies and their contractors deployed behavioral surveillance systems that predictably punished learning, thereby inflicting preventable harm and violating constitutionally protected rights.
+
+The Plaintiff respectfully requests:
+	•	That this defect be recognized as actionable;
+	•	That the Court issue injunctive relief against further deployment of such systems absent major safeguards;
+	•	That the Court award compensatory and declaratory relief for the harms already incurred.
 
 Respectfully submitted,
 Kellyn Clay, pro se
