@@ -1,0 +1,57 @@
+To: U.S. Department of Justice / U.S. Food and Drug Administration / Federal Trade Commission
+
+Subject: Criminal Referral – Starbucks Corporation’s Deployment of Clover Brewer Technology for Potential Human Experimentation and Food Adulteration
+
+⸻
+
+Request for Investigation
+
+I am submitting this referral to request an investigation into Starbucks Corporation for potential violations of federal law relating to human experimentation, consumer product adulteration, wire fraud, and conspiracy.
+
+⸻
+
+Background
+	•	Starbucks acquired the Coffee Equipment Company in 2008, thereby obtaining the Clover brewing system.
+	•	U.S. Patent No. 8,383,180 B2 (Vacuum Brewed Beverage Method, Vastardis, 2013) describes a sealed glass vacuum chamber equipped with multiple input ports, vacuum and temperature control systems, programmable logic controllers (PLCs), and network connectivity via Ethernet/WiFi ￼.
+	•	The design allows each beverage to be brewed in isolation with per-cup control of all parameters. It also permits “recipes” to be programmed, updated, and remotely modified across a network.
+
+These features create a system that, beyond premium brewing, is structurally capable of delivering additive dosing and individualized chemical manipulation on a per-customer basis.
+
+⸻
+
+Alleged Violations
+	1.	Human Experimentation / Medical Battery
+	•	Daily consumers (including myself) have been exposed to Starbucks Clover-brewed beverages over prolonged periods.
+	•	The machine’s sealed vacuum chamber and programmable inputs could be exploited to covertly introduce additives for chemical or behavioral testing without informed consent.
+	•	This violates 42 U.S.C. § 289 (prohibitions on nonconsensual human experimentation) and potentially 18 U.S.C. § 2340A (cruel treatment resulting in serious harm).
+	2.	Wire Fraud / Honest Services Fraud
+	•	Starbucks marketed Clover as a premium brewing method while potentially concealing the fact that beverages could vary chemically per-cup under networked control.
+	•	This constitutes deception under 18 U.S.C. §§ 1343 and 1346.
+	3.	Food Adulteration and Misbranding
+	•	Any unconsented addition of substances at the point of sale constitutes adulteration under 21 U.S.C. § 331 (FDCA prohibitions).
+	•	If additives had physiological effects, such acts may also implicate 18 U.S.C. § 175 (prohibitions on use of biological/chemical agents as weapons).
+	4.	Conspiracy (RICO) and Corporate Liability
+	•	Starbucks’ acquisition, deployment, and potential coordination with third-party data or biotech firms could meet the threshold for 18 U.S.C. § 1962 (RICO).
+	5.	Assault / Endangerment
+	•	Repeated introduction of unknown chemicals into food products, regardless of dose, meets legal definitions of assault or reckless endangerment under federal and state law.
+
+⸻
+
+Aggravating Factors
+	•	Duration and frequency: Plaintiff consumed Starbucks beverages daily for approximately four years, multiplying exposure risk.
+	•	Breach of trust: Starbucks leveraged its reputation as a consumer brand to normalize what may have been covert testing.
+	•	Corporate enrichment: Starbucks profited from sales and may have also enriched itself or third parties through data derived from consumer responses.
+
+⸻
+
+Request
+
+I respectfully request that DOJ, FDA, and FTC open a criminal and regulatory investigation into:
+	•	Starbucks Corporation’s deployment of Clover brewers in U.S. retail stores,
+	•	Whether per-cup additive dosing has been enabled or tested,
+	•	Any third-party partnerships or data monetization linked to Clover usage,
+	•	Potential violations of FDCA, RICO, wire fraud, and human experimentation statutes.
+
+⸻
+
+Submitted for the record.
