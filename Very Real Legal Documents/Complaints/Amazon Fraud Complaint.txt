@@ -1,0 +1,101 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+AMAZON.COM, INC.,
+a Delaware corporation,
+
+  Defendant.
+
+⸻
+
+COMPLAINT FOR CIVIL FRAUD, BREACH OF IMPLIED WARRANTY,
+
+AND DECEPTIVE PRACTICES CAUSING PERSONAL HARM
+
+⸻
+
+INTRODUCTION
+	1.	This is a civil action for fraud, reckless misrepresentation, breach of warranty, and unfair business practices related to the sale and shipment of mislabeled, adulterated, or otherwise deceptive products to Plaintiff through the Amazon.com platform, as well as the willful and targeted delay of critical shipments, particularly medications and survival-essential goods.
+	2.	Defendant Amazon is not a passive marketplace but an active logistics and data analytics operation with extensive predictive profiling capabilities, product control infrastructure, and algorithmic decision-making affecting inventory, fulfillment, and customer treatment.
+	3.	On multiple occasions, Plaintiff has purchased goods—including medications, supplements, foods, hygiene products, and electronics—only to discover that the delivered items did not match the advertised contents, were tampered with, or caused severe adverse effects, including anaphylaxis, neurological disruption, and interruption of life-sustaining care.
+	4.	In addition to dangerous substitutions, Defendant has also intentionally delayed shipments of medications and medical products, despite receiving payment, often listing false tracking updates, routing packages through distant states, or holding them in local warehouses for inexplicably long periods. These delays have endangered Plaintiff’s life on multiple occasions, including instances of near-fatal anaphylaxis due to interruption in mast cell stabilizers or antihistamines.
+	5.	These are not isolated incidents but constitute a pattern of systemic misconduct, enabled by Defendant’s predictive targeting systems and failure to uphold its duty of care to medically vulnerable individuals.
+
+⸻
+
+JURISDICTION AND VENUE
+	6.	This Court has jurisdiction under 28 U.S.C. § 1332(a), as the parties are citizens of different states and the amount in controversy exceeds $75,000.
+	7.	Venue is proper under 28 U.S.C. § 1391 because the Plaintiff resides in this District and a substantial portion of the events occurred here.
+
+⸻
+
+PARTIES
+	8.	Plaintiff Kellyn Clay is an individual residing in the United States, who has purchased hundreds of products from Amazon over a period of years, many of which were critical to survival, medical stability, and mobility.
+	9.	Defendant Amazon.com, Inc. is a multinational corporation headquartered in Seattle, Washington, operating the largest e-commerce logistics network in the United States.
+
+⸻
+
+FACTUAL ALLEGATIONS
+	10.	Plaintiff has experienced numerous instances of product misrepresentation and life-threatening logistics manipulation, including:
+
+	•	Supplements falsely advertised as containing a specific compound but substituted with others that caused harm;
+	•	Antihistamines and mast cell stabilizers that did not perform as expected and showed no pharmacological effect;
+	•	Critical medications and devices that were deliberately delayed in shipping, sometimes for 5–10 days beyond expected delivery windows, without justification;
+	•	False tracking information or “phantom scans” that obscured the real location of packages in transit;
+	•	Food and personal care products triggering extreme allergic or inflammatory responses inconsistent with the labeled ingredients.
+
+	11.	In multiple cases, Amazon’s shipment delays caused interruptions in life-sustaining medication regimens, resulting in anaphylactic episodes, severe inflammation, and neurological destabilization. On more than one occasion, these delays nearly resulted in Plaintiff’s death.
+	12.	Amazon’s fulfillment centers often had the product locally available but routed it through unnecessary distribution legs or inexplicably stalled shipment after arrival in Plaintiff’s city.
+	13.	These incidents are part of a broader pattern of algorithmic interference, possibly involving predictive behavioral modeling, logistics throttling, or malicious entrainment experiments targeting medically vulnerable individuals.
+	14.	Amazon has a heightened duty of care when handling health-related or survival-critical products, particularly when aware—through purchasing history, search queries, or profile data—that a customer is immunocompromised or otherwise at risk.
+
+⸻
+
+CLAIMS FOR RELIEF
+
+COUNT I – FRAUDULENT MISREPRESENTATION
+
+(Actual and Constructive Fraud)
+	15.	Amazon knowingly or recklessly delivered mislabeled or fraudulent goods and misrepresented shipment timelines for essential items.
+	16.	Plaintiff reasonably relied on Amazon’s representations regarding product identity and delivery reliability.
+	17.	Plaintiff was directly harmed by this reliance, experiencing physiological injury, psychological trauma, and economic loss.
+
+COUNT II – BREACH OF IMPLIED WARRANTY
+
+(of Merchantability and Fitness for a Particular Purpose)
+	18.	Amazon breached the implied warranty of merchantability by delivering items unfit for their labeled use and delaying time-sensitive deliveries.
+	19.	Amazon breached the implied warranty of fitness by failing to deliver health-critical products in a timely and safe manner, despite foreseeable consequences.
+
+COUNT III – UNFAIR AND DECEPTIVE TRADE PRACTICES
+
+(Under Federal and State Consumer Protection Statutes)
+	20.	Amazon’s conduct constitutes deceptive trade practices in violation of state and federal law, including:
+
+	•	Falsely advertising item contents;
+	•	Manipulating shipment timelines of essential goods;
+	•	Misleading tracking data;
+	•	Exploiting data to manipulate or experiment on vulnerable populations.
+
+⸻
+
+PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiff respectfully demands judgment against Amazon as follows:
+	•	Compensatory damages in excess of $75,000 for physical, neurological, and economic harm;
+	•	Restitution for all purchases found to be fraudulent, tampered with, or intentionally delayed;
+	•	Punitive damages for systemic endangerment of medically vulnerable customers;
+	•	A permanent injunction barring Amazon from:
+	•	Deliberately delaying shipments of health-critical goods;
+	•	Utilizing predictive profiles to influence delivery speed, item substitution, or search visibility;
+	•	Promoting unverified or potentially harmful items to medically compromised customers;
+	•	Verified chain-of-custody requirements for any product sold or fulfilled by Amazon that is used for survival or medical care;
+	•	Costs and fees (if applicable);
+	•	Any other relief the Court deems just and proper.
+
+Respectfully submitted,
+Kellyn Clay, pro se
+8/31/2025
