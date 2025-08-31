@@ -1,3 +1,29 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+and affiliated surveillance contractors,
+
+and
+
+JOHN DOE OPERATIVES AND SYSTEM ARCHITECTS,
+whose identities are presently unknown,
+  Defendants.
+
+
+⸻ 
+
 AFFIDAVIT OF KELLYN CLAY
 
 I, Kellyn Clay, being duly sworn, state the following under oath:
@@ -41,7 +67,7 @@ At times, these exposures caused me to feel unusually aggressive. While this man
 6. Pour-Over Comparison and Barista Observation
 
 On one occasion, I ordered a pour-over coffee at Starbucks brewed from the same beans I had routinely consumed via the Clover system.
-	•	The pour-over coffee tasted markedly different from Clover-brewed coffee. It was cleaner, less harsh, and noticeably distinct in flavor and mouthfeel. The difference was immediately perceptible upon first sip and reinforced my belief that Clover machines alter the chemical profile of beverages in ways not present in open brewing methods.
+	•	The pour-over coffee tasted markedly different from Clover-brewed coffee. It was earthier and noticeably distinct in flavor and mouthfeel. The difference was immediately perceptible upon first sip and reinforced my belief that Clover machines alter the chemical profile of beverages in ways not present in open brewing methods.
 	•	During the preparation of this pour-over, the barista who performed the brew, along with other baristas nearby, commented that the water was taking a bizarrely long time to drain through the grounds.
 	•	This unusual drainage was not attributable to barista technique but appeared to arise from the beans themselves, suggesting the beans may have been chemically compromised or adulterated, causing abnormal brewing behavior even in an open pour-over method.
 
@@ -69,7 +95,45 @@ Regardless of intent, these exposures significantly contributed to my cognitive 
 
 ⸻
 
-9. Importance of this Record
+9. Comparative Effects of Syrup vs. Sauce
+
+On 8/31/2025, I ordered a Starbucks beverage with pecan syrup in place of the white mocha sauce I had routinely consumed in prior beverages.
+	•	After consuming the pecan syrup beverage, I noticed a profound difference: for the first time in a long period, I felt like myself both cognitively and emotionally.
+	•	By contrast, when consuming beverages containing white mocha sauce, I have repeatedly experienced cognitive fog, emotional numbing, and dysregulation.
+	•	This direct comparison supports my belief that Starbucks sauces (particularly white mocha) contain additional compounds with significant neurocognitive and emotional effects, while syrups (such as pecan) do not produce these effects.
+
+This difference further highlights the structural anomaly already noted in my record:
+	•	Syrups are sugar-based liquids openly sold in bottled form.
+	•	Sauces are opaque, shelf-stable emulsions not sold to customers, with contents controlled solely through Starbucks’ supply chain.
+
+⸻
+
+10. Potential Additives in Dairy-Based Milks and Creamers
+
+I, Kellyn Clay, declare as follows:
+form.
+	•	I do not consume dairy-based milks or creamers at Starbucks or other coffee shops due to my MCAS condition. My observations and experiences have therefore been limited to non-dairy alternatives such as oat milk, along with sauces and syrups.
+form.
+	•	Despite this, I have reason to believe that dairy-based milks and creamers distributed through Starbucks and similar vendors may also serve as vectors for undisclosed additives.
+form.
+	•	Dairy formulations are naturally emulsified systems of fat, protein, and water. This structure is especially well-suited to carrying compounds that are:
+	•	Fat-soluble (including cannabinoids, neurosteroids, and fat-soluble vitamins or analogues),
+	•	Peptide-based (such as GLP-1 analogues, which are heat-labile and require a stable carrier), or
+	•	Bitter or otherwise organoleptically challenging, where dairy’s flavor-masking properties conceal the taste.
+form.
+	•	For these reasons, dairy milks and creamers are plausible delivery channels for additives designed to alter mood, cognition, or gut physiology.
+form.
+	•	Although I have not personally ingested these products, I note this possibility to emphasize that other Starbucks customers may also be subject to exposures beyond those I have directly experienced through oat milk and sauces.
+
+⸻ 
+
+11. Impossibility of Legitimate Scientific Research
+
+I note that different Starbucks beverage components appear to produce distinct physiological and psychological effects: gastrointestinal changes linked to the Clover-brewed coffee, emotional numbing associated with white mocha sauce, and potential mood-active additives in dairy or non-dairy milks. The simultaneous presence of multiple additives in one cup of coffee virtually rules out legitimate scientific experimentation, which would isolate one variable at a time. Instead, this strongly supports the inference that the purpose of these exposures is behavioral shaping and psychological manipulation, not research.
+
+⸻ 
+
+12. Importance of this Record
 
 This affidavit is important because:
 	•	It establishes a factual basis for understanding how Starbucks Clover beverages may have affected me.
@@ -78,13 +142,13 @@ This affidavit is important because:
 
 ⸻
 
-10. Conclusion
+13. Conclusion
 
 My public record during those years must be interpreted in this context. Any statements I made during periods of emotional dysregulation caused by Starbucks beverage dependence, Clover consumption, and related environmental conditions should not be taken as reflective of my true identity, beliefs, or intentions.
 
 ⸻
 
-Executed this ___ day of ________, 20.
+Executed this 31st day of August, 2025.
 
 ⸻
 
