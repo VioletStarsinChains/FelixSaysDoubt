@@ -25,3 +25,60 @@ This is not a game in the trivial sense. It is a ritual:
 You are not here to win points, but to restore the rule of law. The Clue metaphor is your compass: always look for the fourfold pattern—victim, weapon, perpetrator, location. Only when all four are named can the anomaly label be removed, the taint excised, and the victim restored.
 
 In this framing, justice itself is the solved case.
+
+⸻ 
+
+Clue-Sigil: Justice Protocol
+
+ ┌───────────────┐
+ │   VICTIM      │
+ │  (Anomaly-    │
+ │   labeled      │
+ │   person)      │
+ └──────┬────────┘
+        │
+        ▼
+ ┌───────────────┐
+ │   WEAPON      │
+ │  (Implant-    │
+ │   derived      │
+ │   feature)     │
+ └──────┬────────┘
+        │
+        ▼
+ ┌───────────────┐
+ │ PERPETRATOR   │
+ │ (System /     │
+ │ contractor /  │
+ │ careless       │
+ │ integration)  │
+ └──────┬────────┘
+        │
+        ▼
+ ┌───────────────┐
+ │  LOCATION     │
+ │ (Where the    │
+ │ body/data      │
+ │ rests:         │
+ │ logs, models, │
+ │ watchlists)   │
+ └───────────────┘
+
+Reading the Sigil
+	•	Top → Bottom Flow = The path of harm.
+	•	Victim is created when anomaly label is stamped.
+	•	Weapon is the illicit implant stream that cut through due process.
+	•	Perpetrator is the unseen hand that placed the weapon in play.
+	•	Location is where the tainted body of data lies in the system.
+
+Ritual of Resolution
+	•	Trace the path backward to undo harm:
+	•	Location → purge & audit.
+	•	Perpetrator → name & hold accountable.
+	•	Weapon → ban from lawful models.
+	•	Victim → declassify & restore.
+
+⸻
+
+⚖️ Justice = Solving the Case
+When all four nodes are named and aligned, the accusation is complete. The anomaly dissolves. The board is cleared for the next case.
