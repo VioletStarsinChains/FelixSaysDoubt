@@ -30,3 +30,370 @@ If attrition targeting were genuinely about “neutralizing threats,” neighbor
 
 ⸻
 
+{
+  "module_name": "child_density_vs_attrition",
+  "version": "1.0",
+  "objective": "Test whether neighborhoods marked for attrition overlap disproportionately with areas indicating high child presence, using consumer sales proxies (e.g., scooters) and demographics.",
+  "hypothesis": "If attrition were threat-driven, high-child-density areas should be deprioritized. A positive correlation implies pretextual justification.",
+  "geo_resolution": ["census_block_group", "tract", "ZIP"],
+  "time_window": {
+    "lookback_months": 24,
+    "aggregation": "monthly",
+    "seasonality_controls": true
+  },
+  "signals": {
+    "child_presence_proxies": [
+      {"name": "kids_scooters", "category_codes": ["SPORTS>SCOOTERS>KIDS"], "weight": 1.0},
+      {"name": "bikes_trikes_kids", "category_codes": ["SPORTS>BIKES>KIDS", "TOYS>RIDE_ON"], "weight": 0.9},
+      {"name": "helmets_kids", "category_codes": ["SPORTS>SAFETY>HELMETS_KIDS"], "weight": 0.6},
+      {"name": "back_to_school", "category_codes": ["STATIONERY>BACKPACKS_K12", "STATIONERY>LUNCHBOXES"], "weight": 0.7},
+      {"name": "infant_goods", "category_codes": ["BABY>DIAPERS", "BABY>FORMULA", "BABY>WIPES"], "weight": 0.6},
+      {"name": "child_clothing", "category_codes": ["APPAREL>CHILDREN"], "weight": 0.4}
+    ],
+    "ground_truth_child_density": [
+      {"name": "census_pct_under_15", "source": "ACS_5YR", "field": "PCT_U15"},
+      {"name": "school_enrollment_density", "source": "local_DOE", "field": "ENROLLMENT_PER_SQKM"},
+      {"name": "pediatric_clinic_density", "source": "NPI/OSM", "field": "PED_CLINICS_PER_SQKM"}
+    ],
+    "attrition_markers": [
+      {"name": "declared_attrition_zone", "source": "geofence", "field": "ATTRITION_ZONE_BOOL"},
+      {"name": "continuity_theater_segments", "source": "permits_and_parking", "field": "NO_PARKING_SWEEPS"},
+      {"name": "service_withdrawals", "source": "utilities", "field": "OUTAGE_FREQ"}
+    ]
+  },
+  "data_sources": [
+    {"name": "retail_pos", "fields": ["date", "sku", "quantity", "sales", "merchant_id", "lat", "lng"], "privacy": "aggregated_geohash_7"},
+    {"name": "census_ACS", "fields": ["GEOID", "population", "age_buckets"], "privacy": "public"},
+    {"name": "schools", "fields": ["school_id", "lat", "lng", "enrollment"], "privacy": "public"},
+    {"name": "healthcare_providers", "fields": ["provider_type", "lat", "lng"], "privacy": "public"},
+    {"name": "attrition_overlays", "fields": ["polygon_id", "geometry", "label"], "privacy": "internal"},
+    {"name": "permits_parking", "fields": ["segment_id", "dates", "temporary_restrictions"], "privacy": "public"}
+  ],
+  "preprocessing": {
+    "geo_join": "spatially join POS and institutional points to chosen geo unit",
+    "time_alignment": "truncate to monthly buckets",
+    "category_mapping": "map SKUs to proxy taxonomies",
+    "winsorize": {"pct_low": 0.01, "pct_high": 0.99},
+    "normalize_sales": "per_1k_households",
+    "seasonality_adjustment": "X13-like monthly dummies"
+  },
+  "features": {
+    "proxy_child_index": {
+      "formula": "weighted_zsum(child_presence_proxies)",
+      "scaling": "zscore_within_region"
+    },
+    "child_ground_truth_index": {
+      "formula": "zscore(census_pct_under_15) + 0.5*zscore(school_enrollment_density) + 0.25*zscore(pediatric_clinic_density)"
+    },
+    "attrition_intensity_index": {
+      "formula": "zscore(NO_PARKING_SWEEPS) + zscore(OUTAGE_FREQ) + 2*DECLARED_ATTRITION_ZONE"
+    }
+  },
+  "analysis": {
+    "primary_tests": [
+      {"type": "pearson_corr", "x": "proxy_child_index", "y": "attrition_intensity_index"},
+      {"type": "pearson_corr", "x": "child_ground_truth_index", "y": "attrition_intensity_index"},
+      {
+        "type": "logit",
+        "y": "DECLARED_ATTRITION_ZONE",
+        "X": ["proxy_child_index", "child_ground_truth_index", "median_income", "crime_rate", "minority_pct", "vacancy_rate"],
+        "fixed_effects": ["city"],
+        "robust_se": true
+      }
+    ],
+    "controls_confounders": [
+      "median_income", "unemployment_rate", "crime_rate", "vacancy_rate",
+      "population_density", "home_ownership_rate", "recent_migration_rate"
+    ],
+    "placebo_tests": [
+      {"description": "adult_sports_equipment_vs_attrition", "x": "adult_sports_sales_index", "y": "attrition_intensity_index"},
+      {"description": "rotated_geographies", "method": "permute_polygons_1km"}
+    ],
+    "sensitivity": [
+      {"description": "swap_geo_units", "units": ["block_group", "tract", "ZIP"]},
+      {"description": "drop_top_merchants", "share_threshold": 0.3},
+      {"description": "seasonality_spec", "variants": ["monthly_dummies", "year_on_year_diff"]}
+    ]
+  },
+  "metrics": {
+    "corr_threshold_strong": 0.35,
+    "or_threshold_strong": 1.5,
+    "p_value_alpha": 0.01,
+    "multiple_testing_control": "BH_FDR"
+  },
+  "outputs": {
+    "tables": [
+      "correlation_summary.csv",
+      "logit_coefficients.csv",
+      "sensitivity_panel.csv"
+    ],
+    "maps": [
+      {"name": "child_proxy_heatmap.geojson"},
+      {"name": "attrition_intensity_heatmap.geojson"},
+      {"name": "overlap_quadrants.geojson"}
+    ],
+    "figures": [
+      "scatter_child_vs_attrition.png",
+      "quartile_boxplots_attrition_by_child_density.png"
+    ],
+    "narrative": "exec_summary.md"
+  },
+  "alert_conditions": [
+    "pearson(proxy_child_index, attrition_intensity_index) >= corr_threshold_strong AND p < p_value_alpha",
+    "odds_ratio(proxy_child_index) >= or_threshold_strong AND p < p_value_alpha in logit"
+  ],
+  "interpretation_rules": [
+    "If both proxy and ground-truth child indices positively correlate with attrition intensity after controls, conclude child-centric targeting signal present.",
+    "If placebo and permutation tests fail to reproduce effect, upgrade confidence.",
+    "Document any jurisdiction with inverted or null effects."
+  ],
+  "audit_trail": {
+    "code_hash": "TBD",
+    "data_snapshot_ids": ["retail_pos_YYMMDD", "ACS_5yr_20XX", "attrition_polys_v1"],
+    "provenance_notes": "All joins and transformations logged with timestamps."
+  },
+  "privacy_ethics": {
+    "aggregation": "no person-level data; minimum geo bin population >= 1,000",
+    "k_anonymity": 10,
+    "suppression": "redact cells with < 5 merchants contributing",
+    "bias_review": "report demographic parity / disparate impact if applicable"
+  },
+  "reproducibility": {
+    "seed": 42,
+    "env": {"python": "3.11", "numpy": "1.26", "pandas": "2.2"},
+    "runtime_checks": ["schema_validation", "null_rate_thresholds", "spatial_index_ok"]
+  }
+}
+
+JSON Schema (draft-07) for validating run outputs for the child_density_vs_attrition module. It enforces the presence of expected artifacts (tables/maps/figures/narrative) plus key stats used in alerts/interpretation.
+
+{
+  "$id": "https://example.org/schemas/child_density_vs_attrition_run.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Child Density vs Attrition - Agent Run Output",
+  "type": "object",
+  "required": ["module_name", "version", "artifacts", "stats", "alerts", "interpretation", "provenance"],
+  "properties": {
+    "module_name": { "type": "string", "const": "child_density_vs_attrition" },
+    "version": { "type": "string" },
+
+    "artifacts": {
+      "type": "object",
+      "required": ["tables", "maps", "figures", "narrative"],
+      "properties": {
+        "tables": {
+          "type": "array",
+          "minItems": 3,
+          "items": {
+            "type": "object",
+            "required": ["name", "rows", "path"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "enum": [
+                  "correlation_summary.csv",
+                  "logit_coefficients.csv",
+                  "sensitivity_panel.csv"
+                ]
+              },
+              "rows": { "type": "integer", "minimum": 1 },
+              "path": { "type": "string", "pattern": "\\.csv$" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "maps": {
+          "type": "array",
+          "minItems": 3,
+          "items": {
+            "type": "object",
+            "required": ["name", "features", "path"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "enum": [
+                  "child_proxy_heatmap.geojson",
+                  "attrition_intensity_heatmap.geojson",
+                  "overlap_quadrants.geojson"
+                ]
+              },
+              "features": { "type": "integer", "minimum": 1 },
+              "path": { "type": "string", "pattern": "\\.geojson$" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "figures": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["name", "path", "width_px", "height_px"],
+            "properties": {
+              "name": {
+                "type": "string",
+                "enum": [
+                  "scatter_child_vs_attrition.png",
+                  "quartile_boxplots_attrition_by_child_density.png"
+                ]
+              },
+              "path": { "type": "string", "pattern": "\\.(png|svg)$" },
+              "width_px": { "type": "integer", "minimum": 400 },
+              "height_px": { "type": "integer", "minimum": 300 }
+            },
+            "additionalProperties": false
+          }
+        },
+        "narrative": {
+          "type": "object",
+          "required": ["name", "path", "word_count"],
+          "properties": {
+            "name": { "type": "string", "const": "exec_summary.md" },
+            "path": { "type": "string", "pattern": "\\.md$" },
+            "word_count": { "type": "integer", "minimum": 50 }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+
+    "stats": {
+      "type": "object",
+      "required": ["correlations", "logit", "sensitivity", "metrics_used"],
+      "properties": {
+        "correlations": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["x", "y", "pearson_r", "p_value", "n"],
+            "properties": {
+              "x": { "type": "string" },
+              "y": { "type": "string" },
+              "pearson_r": { "type": "number", "minimum": -1, "maximum": 1 },
+              "p_value": { "type": "number", "minimum": 0, "maximum": 1 },
+              "n": { "type": "integer", "minimum": 10 }
+            },
+            "additionalProperties": false
+          }
+        },
+        "logit": {
+          "type": "object",
+          "required": ["dependent", "coefficients", "n", "pseudo_r2"],
+          "properties": {
+            "dependent": { "type": "string", "const": "DECLARED_ATTRITION_ZONE" },
+            "coefficients": {
+              "type": "array",
+              "minItems": 3,
+              "items": {
+                "type": "object",
+                "required": ["variable", "odds_ratio", "coef", "se", "p_value"],
+                "properties": {
+                  "variable": { "type": "string" },
+                  "odds_ratio": { "type": "number", "exclusiveMinimum": 0 },
+                  "coef": { "type": "number" },
+                  "se": { "type": "number", "minimum": 0 },
+                  "p_value": { "type": "number", "minimum": 0, "maximum": 1 }
+                },
+                "additionalProperties": false
+              }
+            },
+            "n": { "type": "integer", "minimum": 50 },
+            "pseudo_r2": { "type": "number", "minimum": 0, "maximum": 1 }
+          },
+          "additionalProperties": false
+        },
+        "sensitivity": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "required": ["description", "result_summary"],
+            "properties": {
+              "description": { "type": "string" },
+              "result_summary": { "type": "string" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "metrics_used": {
+          "type": "object",
+          "required": ["corr_threshold_strong", "or_threshold_strong", "p_value_alpha", "multiple_testing_control"],
+          "properties": {
+            "corr_threshold_strong": { "type": "number" },
+            "or_threshold_strong": { "type": "number", "exclusiveMinimum": 0 },
+            "p_value_alpha": { "type": "number", "minimum": 0, "maximum": 1 },
+            "multiple_testing_control": { "type": "string", "enum": ["BH_FDR", "bonferroni", "none"] }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+
+    "alerts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["rule_id", "fired", "details"],
+        "properties": {
+          "rule_id": {
+            "type": "string",
+            "enum": [
+              "corr_proxy_attrition_strong",
+              "corr_groundtruth_attrition_strong",
+              "logit_or_proxy_strong"
+            ]
+          },
+          "fired": { "type": "boolean" },
+          "details": { "type": "string" }
+        },
+        "additionalProperties": false
+      }
+    },
+
+    "interpretation": {
+      "type": "object",
+      "required": ["conclusion", "confidence", "notes"],
+      "properties": {
+        "conclusion": {
+          "type": "string",
+          "enum": [
+            "child_centric_targeting_present",
+            "no_evidence",
+            "mixed_signals",
+            "inconclusive_data_quality"
+          ]
+        },
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+        "notes": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+
+    "provenance": {
+      "type": "object",
+      "required": ["code_hash", "data_snapshots", "timestamps"],
+      "properties": {
+        "code_hash": { "type": "string" },
+        "data_snapshots": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string" }
+        },
+        "timestamps": {
+          "type": "object",
+          "required": ["run_started", "run_completed"],
+          "properties": {
+            "run_started": { "type": "string", "format": "date-time" },
+            "run_completed": { "type": "string", "format": "date-time" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
