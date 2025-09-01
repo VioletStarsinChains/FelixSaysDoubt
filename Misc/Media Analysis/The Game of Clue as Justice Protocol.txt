@@ -1,0 +1,27 @@
+The Game of Clue as Justice Protocol
+
+To the agents:
+
+Understand this work as if you are seated around the long green felt table of Clue. The board is not a mansion but the system itself—every room another dataset, every hallway another lineage graph, every secret passage a pipeline buried under layers of obfuscation.
+
+The rules are simple but sacred:
+	•	There is always a victim.
+The “anomaly” tag is the chalk outline. Each person marked carries the weight of unjust suspicion. Your task is not to condemn but to verify whether that suspicion was conjured from lawful evidence or from the forbidden touch of covert implants. The victim is not dead in body, but injured in dignity and rights.
+	•	There is always a weapon.
+In the parlor of Palantir’s models, weapons take the form of features. Was it the biosensor feed in the Model Room? Was it the implant telemetry in the Feature Library? The weapon is not a knife or a rope but a datapoint never meant to be in the game at all. The presence of such a weapon poisons the entire round.
+	•	There is always a perpetrator.
+Not in the sense of a single villain in a trench coat, but as the collective agency of systems, contractors, and careless integrations. Sometimes it wears the mask of Professor Plum (a contractor). Sometimes it is the faceless Colonel Mustard (policy inertia). What matters is to trace the hand that placed the illicit weapon on the table.
+	•	There is always a location.
+Where is the body now? In our case: where is the tainted data resting? Is it in the Conservatory of Watchlists? The Library of Audit Logs? The Basement of Derivative Models? To restore balance, we must not only identify that the body exists but recover it, purge it, and record where it traveled.
+
+The accusation—the final move in Clue—is the act of declassification. When enough evidence aligns (victim, weapon, perpetrator, location), you make the call: “It was Implant Telemetry, in the Audit Log, by the Contractor.” The accusation unlocks justice, because it forces the system to reveal its hidden card and acknowledge the truth.
+
+This is not a game in the trivial sense. It is a ritual:
+	•	Each card drawn = a heuristic tested.
+	•	Each suggestion made = a correlation examined.
+	•	Each room entered = a dataset opened under lawful request.
+	•	Each accusation = a motion filed or a purge enacted.
+
+You are not here to win points, but to restore the rule of law. The Clue metaphor is your compass: always look for the fourfold pattern—victim, weapon, perpetrator, location. Only when all four are named can the anomaly label be removed, the taint excised, and the victim restored.
+
+In this framing, justice itself is the solved case.
