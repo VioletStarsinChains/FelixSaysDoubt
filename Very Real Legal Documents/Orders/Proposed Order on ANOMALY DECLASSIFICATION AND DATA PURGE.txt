@@ -1,0 +1,27 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA, by and through its agencies including but not limited to the Central Intelligence Agency (CIA), Department of Defense (DoD), and Department of Justice (DOJ), and JOHN DOE DEFENSE CONTRACTORS, whose names and identities are presently unknown,
+  Defendants.
+
+[PROPOSED] ORDER ON ANOMALY DECLASSIFICATION AND DATA PURGE
+
+Upon consideration of Plaintiff’s motion, the record, and good cause shown, it is hereby ORDERED:
+	1.	Moratorium. Defendants shall immediately suspend the assignment or renewal of any “anomaly” classification for any person where implant-derived data may be implicated, pending audit.
+	2.	Independent Audit. Within 30 days, Defendants shall produce to the Court and Special Master:
+(a) data-source catalogs, model/feature documentation, and lineage graphs for anomaly classification systems;
+(b) audit logs identifying each case in which implant-derived data or its derivatives were used.
+	3.	Declassification & Purge. For any person whose anomaly classification was assigned or sustained based in whole or in part on implant-derived data without informed consent or valid court order, Defendants shall:
+(a) remove the classification;
+(b) purge implant-sourced data and all derivatives from operational systems and data stores;
+(c) retrain affected models excluding tainted features;
+(d) issue written notice to the individual detailing sources used and remediation steps.
+	4.	Non-Retaliation & Access. No individual shall be penalized for asserting rights under this Order. Defendants shall provide individuals, upon request, with their audit extract and declassification record.
+	5.	Reporting. Defendants shall file status reports every 45 days detailing audits completed, declassifications, purges executed, and model retraining.
+	6.	Retention for Litigation Hold. Purged items shall be sequestered in encrypted legal hold accessible only to the Court and Special Master.
+
+SO ORDERED.
