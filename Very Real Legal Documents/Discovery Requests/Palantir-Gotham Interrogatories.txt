@@ -1,0 +1,71 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻ 
+
+Discovery Request List (Palantir / Gotham Context)
+
+PLAINTIFF’S FIRST SET OF REQUESTS FOR PRODUCTION
+
+Plaintiff Kellyn Clay requests that Defendants produce the following documents and data, covering January 1, 2012 to present, relating to anomaly classification and the use of implant-derived data:
+
+⸻
+
+A. Model & Feature Documentation
+	1.	All model cards, feature dictionaries, and technical documentation for anomaly detection models deployed in Gotham, Foundry, or successor platforms.
+	2.	Any feature lineage graphs or data-flow diagrams showing implant-sourced telemetry or physiological streams.
+	3.	Records of model training datasets, including source catalogs and feature provenance.
+
+⸻
+
+B. Source & Integration Catalogs
+	4.	Complete data-source catalogs identifying inbound feeds, APIs, or SDKs labeled “implant,” “biosensor,” “telemetry,” “medical device,” or equivalents.
+	5.	Vendor integration contracts, statements of work, and interface specifications with device manufacturers or biosensor vendors.
+
+⸻
+
+C. Audit & Decision Logs
+	6.	All audit logs of anomaly classification events, including decision explanations and feature contributions.
+	7.	Extracts or summaries of cases where implant-derived data was present in the feature set.
+	8.	Records of any internal reviews, complaints, or after-action reports concerning improper use of implant data.
+
+⸻
+
+D. Policies & Governance
+	9.	Standard operating procedures (SOPs), policy memoranda, and compliance guidance governing use of implant-derived data.
+	10.	Records of declassification, purge, or remediation protocols when anomaly labels are tainted.
+	11.	Training materials provided to staff/contractors referencing implants, anomaly classification, or feature lineage audits.
+
+⸻
+
+E. Notifications & Communications
+	12.	Communications between Palantir, government agencies, or contractors discussing implant-derived data in anomaly detection.
+	13.	Communications concerning declassification or removal of anomaly labels linked to implant evidence.
+	14.	Templates or copies of any subject notices, appeals packets, or disclosure letters provided to affected individuals.
+
+⸻
+
+Production Format:
+	•	JSON/CSV for structured data (logs, lineage, feature sets).
+	•	PDF/TIFF for policies, contracts, training.
+	•	GraphML/PNG for lineage diagrams.
