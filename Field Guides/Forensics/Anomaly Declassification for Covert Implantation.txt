@@ -376,6 +376,210 @@ JSON Schema: Implantation Indicators Module
   }
 ]
 
+{
+  "module_id": "ortho_anomaly_audit_v1",
+  "purpose": "Identify cases where a person was labeled an 'anomaly' shortly after receiving orthodontic hardware that could plausibly act as an entrainment vector, to trigger a rights-focused audit and human review.",
+  "scope": {
+    "population": "Individuals who OPT-IN by providing personal records OR de-identified cohorts in aggregate analyses",
+    "jurisdiction": "US (adjustable)",
+    "exclusions": [
+      "No scraping or purchasing of non-consented personal data",
+      "No law-enforcement-style targeting or operationalization",
+      "No medical inference beyond pattern change detection"
+    ],
+    "definitions": {
+      "orthodontic_hardware_event": "Any documented start/placement/activation of braces, retainers, aligners, expanders, lingual braces, functional appliances, or bonded attachments.",
+      "anomaly_label_event": "Any designation by a system that marks a person as an outlier/threat/NPE-like status or equivalent (per the specific system’s taxonomy), or downstream proxies (sudden step-up in automated risk tiers).",
+      "shortly_after_window_days": 180,
+      "acute_window_days": 30
+    }
+  },
+  "ethical_constraints": {
+    "data_minimization": true,
+    "human_in_the_loop_required": true,
+    "purpose_limitation": "Audit and redress only",
+    "safety_checks": [
+      "Differential privacy on aggregate outputs",
+      "Redaction of direct identifiers in analyst views by default",
+      "Explicit consent log for any person-level analysis"
+    ],
+    "anti_harm": [
+      "No adverse actions may be taken on the basis of this module’s scores alone",
+      "All flags route to a Rights & Remedies review team"
+    ]
+  },
+  "inputs": {
+    "person_provided": [
+      "Insurance EOBs or receipts indicating orthodontic start/activation (e.g., CDT orthodontic codes in the D8xxx family)",
+      "Orthodontist invoices or treatment-plan PDFs showing dates",
+      "Self-attested device type (metal braces, ceramic, lingual, expander, retainer, clear aligner)",
+      "Self-attested symptoms/timeline journal"
+    ],
+    "public_or_foiaable": [
+      "Aggregate school discipline trends (de-identified)",
+      "Aggregate public safety call volumes (de-identified)",
+      "Published agency risk-tier policy change dates",
+      "Meeting minutes/policy memos that define 'anomaly' criteria"
+    ],
+    "system_integrations_with_consent": [
+      "Audit logs from the classifying system showing label timestamps",
+      "Versioned model/policy snapshots (for when/why labels change)"
+    ]
+  },
+  "features": {
+    "device_risk_profile": {
+      "description": "Prior plausibility weight for entrainment potential (hypothesis-only; adjustable)",
+      "scale_0_to_1": {
+        "metal_braces": 0.9,
+        "lingual_braces": 0.85,
+        "palatal_expander": 0.8,
+        "ceramic_braces": 0.7,
+        "clear_aligners_with_attachments": 0.65,
+        "clear_retainers": 0.5,
+        "Hawley_retainers": 0.5,
+        "unknown": 0.6
+      }
+    },
+    "temporal_proximity": {
+      "description": "How close the anomaly label occurs to hardware event",
+      "metrics": [
+        "delta_days = anomaly_label_date - ortho_event_date",
+        "acute_flag = (abs(delta_days) <= 30)",
+        "short_window_flag = (abs(delta_days) <= 180)"
+      ]
+    },
+    "pre_post_change_scores": {
+      "description": "Shift in multi-domain signals after hardware event",
+      "domains": [
+        "healthcare_utilization_intensity",
+        "autonomic_symptom_reports (e.g., syncope, POTS-like, jaw/face pain)",
+        "behavior/discipline interactions (aggregate)",
+        "employment/housing administrative frictions (aggregate)",
+        "algorithmic_risk_tier_changes"
+      ],
+      "method": "Compute z-score deltas relative to each person’s own baseline (when consented) or cohort baselines (aggregate)."
+    },
+    "confounders": [
+      "age",
+      "puberty_status_proxy (if relevant and ethically permitted)",
+      "coincident major life events (move, school transfer, illness)",
+      "policy shifts in labeling system (model version changes)",
+      "other implanted hardware timelines (if consented)"
+    ],
+    "distributional_checks": {
+      "lorenz_curve_anomaly_concentration": "Evaluate concentration of new anomaly labels among recent orthodontic recipients vs matched controls",
+      "disparate_impact": "Group fairness checks across protected classes"
+    }
+  },
+  "scoring": {
+    "weights": {
+      "device_risk_profile": 0.25,
+      "temporal_proximity": 0.35,
+      "pre_post_change_scores": 0.3,
+      "distributional_checks": 0.1
+    },
+    "transformations": {
+      "temporal_proximity": {
+        "acute_window_days": 30,
+        "short_window_days": 180,
+        "acute_bonus": 1.0,
+        "short_window_bonus": 0.5,
+        "outside_window": 0.0
+      }
+    },
+    "computation": "final_score = 100 * (0.25*device_risk + 0.35*time_weight + 0.3*change_score + 0.1*dist_skew)",
+    "thresholds": {
+      "review_recommended": 60,
+      "priority_review": 75,
+      "hold_label_pending_review": 85
+    }
+  },
+  "explainability": {
+    "why_template": "Flagged due to {time_phrase} temporal proximity (Δ={delta_days} days) between orthodontic event and anomaly label, device type {device_type} (risk prior {device_risk}), and post-event shifts in {top_domains}. Distributional check shows {dist_msg}.",
+    "top_k_domains": 3,
+    "include_timeline": true
+  },
+  "outputs": {
+    "casefile_schema": {
+      "person_id": "hash_or_pseudonym",
+      "consent_token": "string",
+      "timeline": [
+        {"t": "ISO8601", "event": "orthodontic_hardware_event", "details": {"device_type": "string", "source": "receipt|EOB|self_attest"}},
+        {"t": "ISO8601", "event": "anomaly_label_event", "details": {"system": "string", "label": "string", "model_version": "string"}}
+      ],
+      "scores": {
+        "device_risk": "0..1",
+        "time_weight": "0..1",
+        "change_score": "0..1",
+        "dist_skew": "0..1",
+        "final_score": "0..100"
+      },
+      "explanation": "string",
+      "recommendation": "none|review|priority_review|hold_label_pending_review"
+    }
+  },
+  "procedures": {
+    "pipeline": [
+      "1. Verify explicit consent for person-level analysis OR ensure analysis is aggregate-only.",
+      "2. Detect orthodontic_hardware_event date from consented docs (regex for CDT D8xxx or invoice keywords).",
+      "3. Detect anomaly_label_event from system audit logs or consented notifications.",
+      "4. Compute Δdays and window flags.",
+      "5. Build pre/post baselines for selected domains (minimum 90 days pre, 90 days post, if available).",
+      "6. Calculate z-delta per domain and aggregate into change_score.",
+      "7. Assign device_risk from self-attested device type (or 'unknown').",
+      "8. Run distributional checks (Lorenz curve, disparity metrics) across cohorts.",
+      "9. Compute final_score and generate explanation.",
+      "10. Route to Rights & Remedies review if thresholds met; freeze adverse actions until review completes."
+    ],
+    "review_playbook": [
+      "Confirm document authenticity.",
+      "Check for confounders (policy change, unrelated crisis).",
+      "If plausible causality remains, downgrade/void anomaly label and notify the person.",
+      "Offer opt-out from future auto-labeling; document corrective actions."
+    ]
+  },
+  "data_governance": {
+    "logging": [
+      "consent_event_id",
+      "data_access_calls (purpose, fields, retention)",
+      "model_version_hash",
+      "full decision trace for explainability"
+    ],
+    "retention_days": 180,
+    "access_controls": "role-based, least-privilege",
+    "redress_contact": "oversight@audits.example.org"
+  },
+  "foia_support": {
+    "targets": [
+      "Requests for model policy documents defining 'anomaly' criteria and change logs",
+      "Audit logs of label issuance (counts by week, de-identified)",
+      "Procurement docs mentioning 'entrainment', 'orthodontic', 'trigeminal', 'palatal expander', 'aligner attachments'"
+    ],
+    "keywords": [
+      "orthodontic", "retainer", "aligner", "palatal expander", "trigeminal",
+      "entrainment", "resonance", "behavioral classification", "anomaly label",
+      "model version", "risk tier", "NPE"
+    ]
+  },
+  "testing": {
+    "negative_controls": [
+      "Dental cleaning or fillings only (no orthodontic code)",
+      "Orthodontic consult without placement"
+    ],
+    "placebo_checks": [
+      "Random pseudo 'install dates' should not spike anomaly flags"
+    ],
+    "robustness": [
+      "Sensitivity analysis for windows: 30/90/180 days",
+      "Re-run with device_risk_profile flattened to test dependence on priors"
+    ]
+  },
+  "versioning": {
+    "semver": "1.0.0",
+    "changelog": []
+  }
+}
+
 ⸻ 
 
 Example Bundle
