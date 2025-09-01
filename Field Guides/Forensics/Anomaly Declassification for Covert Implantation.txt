@@ -253,6 +253,131 @@ JSON Schema: Implantation Indicators Module
   }
 }
 
+[
+  {
+    "name": "ME/CFS (Myalgic Encephalomyelitis / Chronic Fatigue Syndrome)",
+    "category": "Neurological / Autonomic",
+    "reason": "Unexplained systemic energy collapse, post-exertional malaise, treatment-resistant"
+  },
+  {
+    "name": "POTS (Postural Orthostatic Tachycardia Syndrome)",
+    "category": "Neurological / Autonomic",
+    "reason": "Sudden dysautonomia without structural cause; overlaps with other unexplained syndromes"
+  },
+  {
+    "name": "Fibromyalgia",
+    "category": "Neurological / Autonomic",
+    "reason": "Diffuse pain and tenderness with no clear inflammatory marker; resistant to therapy"
+  },
+  {
+    "name": "CRPS (Complex Regional Pain Syndrome)",
+    "category": "Neurological / Autonomic",
+    "reason": "Localized, disproportionate pain and tissue changes; sometimes migrates or appears without trauma"
+  },
+  {
+    "name": "Trigeminal Neuralgia",
+    "category": "Neurological / Autonomic",
+    "reason": "Severe nerve pain of unclear etiology; may suggest local irritation by foreign material"
+  },
+  {
+    "name": "Carpal Tunnel Syndrome (atypical or recurrent)",
+    "category": "Neurological / Autonomic",
+    "reason": "Entrapment without occupational risk factors; persistence despite surgical correction"
+  },
+  {
+    "name": "Thoracic Outlet Syndrome",
+    "category": "Neurological / Autonomic",
+    "reason": "Vascular/nerve compression near clavicle; may reflect foreign material disrupting flow"
+  },
+  {
+    "name": "Juvenile Rheumatoid Arthritis",
+    "category": "Musculoskeletal / Connective Tissue",
+    "reason": "Childhood onset autoimmune-like process not explained by family history or labs"
+  },
+  {
+    "name": "Relapsing Polychondritis",
+    "category": "Musculoskeletal / Connective Tissue",
+    "reason": "Cartilage inflammation without clear autoimmune driver; resistant to therapy"
+  },
+  {
+    "name": "hEDS (Hypermobile Ehlers–Danlos Syndrome)",
+    "category": "Musculoskeletal / Connective Tissue",
+    "reason": "Connective tissue fragility; sometimes diagnosed without strong genetic evidence"
+  },
+  {
+    "name": "Localized Myositis / Fasciitis",
+    "category": "Musculoskeletal / Connective Tissue",
+    "reason": "Non-traumatic inflammation of muscle or fascia; often unilateral"
+  },
+  {
+    "name": "Superior Canal Dehiscence Syndrome (SCDS)",
+    "category": "ENT / Cranial",
+    "reason": "Abnormal thinning of inner ear bone; hypersensitivity to vibration and pressure"
+  },
+  {
+    "name": "Meniere’s Disease / Atypical Vestibular Syndromes",
+    "category": "ENT / Cranial",
+    "reason": "Episodic vertigo and hearing loss without consistent pathology"
+  },
+  {
+    "name": "Atypical Migraine Variants (hemiplegic, vestibular, ocular)",
+    "category": "ENT / Cranial",
+    "reason": "Severe neurological symptoms without structural lesions"
+  },
+  {
+    "name": "Gastroparesis",
+    "category": "Gastrointestinal",
+    "reason": "Unexplained paralysis of the stomach; often appears in otherwise young or healthy individuals"
+  },
+  {
+    "name": "IBS / Functional Bowel Disorders",
+    "category": "Gastrointestinal",
+    "reason": "Resistant to dietary or behavioral interventions; chronic idiopathic course"
+  },
+  {
+    "name": "Dysphagia (unexplained swallowing difficulty)",
+    "category": "Gastrointestinal",
+    "reason": "Episodic or migrating; may suggest localized nerve or fascia disruption"
+  },
+  {
+    "name": "MCAS (Mast Cell Activation Syndrome)",
+    "category": "Immune / Inflammatory",
+    "reason": "Chaotic immune reactivity without consistent allergen or autoimmune marker"
+  },
+  {
+    "name": "Lupus-like / UCTD (Undifferentiated Connective Tissue Disease)",
+    "category": "Immune / Inflammatory",
+    "reason": "Symptomatically severe but autoantibody-negative"
+  },
+  {
+    "name": "Vasculitis (refractory)",
+    "category": "Immune / Inflammatory",
+    "reason": "Inflammatory vessel changes without systemic autoimmunity"
+  },
+  {
+    "name": "Raynaud’s Phenomenon (atypical or resistant cases)",
+    "category": "Circulatory / Vascular",
+    "reason": "Severe vascular spasms without autoimmune correlation"
+  },
+  {
+    "name": "Lymphedema (idiopathic, unilateral)",
+    "category": "Circulatory / Vascular",
+    "reason": "Fluid accumulation without trauma or surgical disruption"
+  },
+  {
+    "name": "Obesity (discordant with lifestyle)",
+    "category": "Metabolic / Endocrine",
+    "reason": "Persistent or sudden weight gain in individuals with consistently healthy behaviors"
+  },
+  {
+    "name": "Adult-Onset Type I Diabetes",
+    "category": "Metabolic / Endocrine",
+    "reason": "Abrupt pancreatic failure in previously healthy adults"
+  }
+]
+
+⸻ 
+
 Example Bundle
 
 {
