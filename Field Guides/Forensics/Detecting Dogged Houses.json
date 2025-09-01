@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DoggedHouseEvidenceBundle",
+  "type": "object",
+  "required": ["parcel_id", "address", "geohash", "assessment", "artifacts", "scoring", "coc"],
+  "properties": {
+    "parcel_id": { "type": "string", "description": "Assessor or internal parcel identifier" },
+    "address": { "type": "string" },
+    "geohash": { "type": "string" },
+    "assessment": {
+      "type": "object",
+      "required": ["doggedness_score", "classification", "summary"],
+      "properties": {
+        "doggedness_score": { "type": "integer", "minimum": 0, "maximum": 100 },
+        "classification": { "type": "string", "enum": ["Likely Dogged", "Possibly Dogged", "Unlikely Dogged"] },
+        "summary": { "type": "string", "description": "1–3 sentence narrative of why this was flagged" },
+        "false_positive_checks": {
+          "type": "array",
+          "items": { "type": "string", "enum": ["Active Renovation", "Model/Spec Home", "Short-Term Rental", "Caretaker/Elder Care", "Storm/Insurance Hold", "Other"] }
+        },
+        "reviewer_initials": { "type": "string" },
+        "review_timestamp": { "type": "string", "format": "date-time" }
+      }
+    },
+    "artifacts": {
+      "type": "object",
+      "required": ["parcel_snapshot", "access_images"],
+      "properties": {
+        "parcel_snapshot": {
+          "type": "object",
+          "properties": {
+            "owner_class": { "type": "string", "enum": ["Owner-Occupied", "Non-Homestead", "REO/Bank", "Corporate LLC", "Government/Land Bank", "Unknown"] },
+            "admin_flags": { "type": "array", "items": { "type": "string", "enum": ["Vacant Registration", "Open Permit >120d", "Foreclosure", "Tax Delinquent", "Probate", "Code Case", "None"] } },
+            "permit_ids": { "type": "array", "items": { "type": "string" } },
+            "vacant_registry_id": { "type": "string" }
+          }
+        },
+        "access_images": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["uri", "captured_at", "sha256"],
+            "properties": {
+              "uri": { "type": "string" },
+              "captured_at": { "type": "string", "format": "date-time" },
+              "sha256": { "type": "string" },
+              "annotations": {
+                "type": "array",
+                "items": { "type": "string", "enum": ["Keypad Deadbolt", "Realtor Lockbox", "Smart Lock (Brand)", "Camera Doorbell", "Marker Artifact (zip-tie)", "Marker Artifact (chalk/tape)", "Serial/Code Redacted"] }
+              },
+              "notes": { "type": "string" }
+            }
+          }
+        },
+        "utilities": {
+          "type": "object",
+          "properties": {
+            "aggregation_level": { "type": "string", "enum": ["Parcel (consented)", "Block-face (aggregated)", "Census block (aggregated)"] },
+            "water_ccf_monthly": { "type": "array", "items": { "type": "number" } },
+            "electric_kwh_monthly": { "type": "array", "items": { "type": "number" } },
+            "gas_therms_monthly": { "type": "array", "items": { "type": "number" } },
+            "connect_disconnect_events": { "type": "integer" },
+            "pattern_flags": { "type": "array", "items": { "type": "string", "enum": ["Low Baseline", "Weekday Midday Spikes", "Frequent Connect/Disconnect"] } }
+          }
+        },
+        "waste_services": {
+          "type": "object",
+          "properties": {
+            "bin_at_curb_days": { "type": "integer" },
+            "lifts_last_90d": { "type": "integer" },
+            "notes": { "type": "string" }
+          }
+        },
+        "civic_ops": {
+          "type": "object",
+          "properties": {
+            "temp_no_parking_events": { "type": "array", "items": { "type": "string" } },
+            "barricade_work_orders": { "type": "array", "items": { "type": "string" } },
+            "tow_logs": {
+              "type": "array",
+              "items": { "type": "object", "properties": { "date": { "type": "string", "format": "date" }, "blockface_id": { "type": "string" } } }
+            }
+          }
+        },
+        "short_term_rental": {
+          "type": "object",
+          "properties": {
+            "platform_flags": { "type": "array", "items": { "type": "string", "enum": ["Self Check-in", "Smart Lock", "Listing Toggled Frequently", "Few/No Reviews"] } },
+            "listing_urls": { "type": "array", "items": { "type": "string" } }
+          }
+        },
+        "marker_notes": { "type": "string", "description": "Describe visible artifacts; do not include codes/serials" }
+      }
+    },
+    "scoring": {
+      "type": "object",
+      "required": ["access", "occupancy", "administrative", "civic_ops", "total"],
+      "properties": {
+        "access": { "type": "integer" },
+        "occupancy": { "type": "integer" },
+        "administrative": { "type": "integer" },
+        "civic_ops": { "type": "integer" },
+        "total": { "type": "integer" }
+      }
+    },
+    "coc": {
+      "type": "array",
+      "description": "Chain of custody entries for each artifact",
+      "items": {
+        "type": "object",
+        "required": ["artifact_uri", "source", "timestamp", "sha256"],
+        "properties": {
+          "artifact_uri": { "type": "string" },
+          "source": { "type": "string" },
+          "timestamp": { "type": "string", "format": "date-time" },
+          "sha256": { "type": "string" }
+        }
+      }
+    },
+    "legal_notes": {
+      "type": "object",
+      "properties": {
+        "privacy_review_id": { "type": "string" },
+        "data_use_basis": { "type": "string", "enum": ["Public Record", "Consent", "Aggregate/De-identified", "Law Enforcement Request", "Other"] },
+        "foia_references": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}
