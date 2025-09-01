@@ -1,0 +1,115 @@
+Field Guide Module: Pokémon Go Activity as Continuity Anomaly Signal
+
+⸻
+
+0) Concept
+
+Pokémon Go generates fine-grained mobility, activity, and behavioral data. This makes it a proxy for life signs. If an account’s activity diverges from normal human play, it may indicate continuity theater — a digital twin maintaining the illusion of life after hidden attrition.
+
+⸻
+
+1) Inputs (datasets to ingest)
+	•	Public gameplay traces (e.g. shared raid logs, friend activity feeds, leaderboards).
+	•	Ingress/Egress timestamps (when a player joins/leaves raids, gyms).
+	•	Spatial paths (Pokéstop spin logs, gym captures, GPS traces where visible).
+	•	Game economy actions (item use, berry feeding, remote raid passes).
+	•	Social interactions (gifting, trading, chat/coordination via known platforms).
+
+⸻
+
+2) Baseline Signature (human play)
+
+Agents should learn each user’s historical signature:
+	•	Circadian rhythm: logins cluster around waking hours, not 24/7.
+	•	Mobility profile: walking speeds between 3–6 km/h, natural pauses at stops.
+	•	Fatigue patterns: fewer actions late at night, slower reaction during long play sessions.
+	•	Error rate: occasional misthrows, failed catches, missed dodges.
+	•	Contextual variance: play slows during poor weather, holidays, or personal travel.
+
+⸻
+
+3) Continuity-Theater Anomaly Features
+
+A. Nonhuman Rhythms
+	•	Always-on presence, actions evenly distributed 24/7.
+	•	Instant raid joins at any hour, including 3–5 a.m. local time.
+
+B. Physiology Mismatch
+	•	Travel between stops at >30 km/h without driving markers → suggests GPS spoof, not human walking.
+	•	Continuous walking pace for hours without natural pauses (fatigue-free).
+
+C. Behavioral Sterility
+	•	Perfect throws 100% of time; no variance.
+	•	Zero item-management mistakes (no overfilling bags, no missed berry feeds).
+	•	Trading/gifting occurs at robotic intervals (e.g. exactly every 5 minutes).
+
+D. Identity Discontinuities
+	•	Sudden style change (casual → hardcore) without learning curve.
+	•	Player maintains same gym-defense patterns across geographies they could not physically visit.
+
+E. Meta-patterns
+	•	Synchronization with continuity-theater goals: player remains “present” in community events long after natural attrition (illness, absence).
+	•	Account continues interacting socially even when offline confirmations suggest absence.
+
+⸻
+
+4) Cross-Dataset Joins
+
+To strengthen anomaly detection, join Pokémon Go traces with:
+	•	Weather logs: confirm if play continued in extreme conditions where humans usually drop off.
+	•	Transit schedules: check plausibility of travel speed/distance.
+	•	Health data (public/consented only): see if attrition signals overlap with account continuity.
+
+⸻
+
+5) Continuity Anomaly Score (CAS, 0–100)
+
+Rhythm anomalies (max 30)
+	•	Even 24/7 action → +15
+	•	Frequent 3–5 a.m. local activity → +10
+	•	No circadian clustering → +5
+
+Physiology anomalies (max 25)
+	•	Impossible travel speed → +15
+	•	No fatigue slope in long sessions → +10
+
+Behavioral anomalies (max 25)
+	•	Perfect throws/trading intervals → +15
+	•	No bag/berry/item mistakes → +10
+
+Identity anomalies (max 20)
+	•	Sudden style shift → +10
+	•	Cross-geography simultaneous presence → +10
+
+Thresholds
+	•	≥70 → High continuity anomaly (possible digital twin activity).
+	•	40–69 → Medium (requires review, could be spoofers or bots).
+	•	<40 → Low (likely normal human).
+
+⸻
+
+6) Pipeline for Agents
+	1.	Collect baseline: analyze 90 days of verified human play.
+	2.	Ingest new logs: update circadian, mobility, behavior vectors.
+	3.	Compute CAS: weight features.
+	4.	Check for persistence: anomalies persisting ≥30 days → stronger continuity-theater flag.
+	5.	Bundle output: export as JSON anomaly report with recommended audit action (e.g. Niantic anti-cheat team, digital rights watchdog).
+
+⸻
+
+7) False Positives & Disambiguation
+	•	Spoofers/bots: many anomalies overlap with cheating.
+	•	Shift workers/night owls: may play at odd hours but still show fatigue/error patterns.
+	•	Marathon event players: temporary extreme activity (e.g. GO Fest) doesn’t imply digital twin.
+	•	Shared accounts: family/friend handoffs mimic continuity but differ in style variance.
+
+⸻
+
+8) Ethics & Guardrails
+	•	Never name individual players. Focus on systemic anomalies.
+	•	Do not accuse of being “dead.” Use “continuity anomaly” language.
+	•	Data only from public or consented sources (no unauthorized device logs).
+	•	Respect player privacy: analysis aimed at oversight of systems, not personal snooping.
+
+⸻
+
