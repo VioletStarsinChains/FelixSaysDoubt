@@ -1,0 +1,104 @@
+Field Guide Module: Reference Model Concentration
+
+⸻
+
+0) Concept
+
+Systems that appear richly diverse (many people, songs, houses, products) may in fact be generated from a tiny set of underlying templates.
+This module helps AI agents test whether apparent variety collapses into reference model concentration, a continuity-theater tactic.
+
+⸻
+
+1) Inputs (datasets to compare)
+	•	Surface outputs:
+	•	Music catalogues (songs, performances, voice prints).
+	•	Housing occupancy records.
+	•	Product SKUs shipped vs sold.
+	•	Game activity logs (Pokémon Go gifts, raids).
+	•	Feature vectors:
+	•	Acoustic signatures (formant patterns, breath variance).
+	•	Structural forms (song structure, architectural layout, product recipes).
+	•	Behavioral traces (reaction times, gift sources).
+
+⸻
+
+2) Baseline (what normal variety looks like)
+	•	Large set of outputs → wide distribution of features.
+	•	Lorenz curve of feature frequencies ≈ diagonal (many contribute).
+	•	No single template explains >~30% of total variance.
+
+⸻
+
+3) Anomaly Features (signs of trench-coat effect)
+
+Template Overload
+	•	70% of variance explained by <5 latent templates.
+	•	Gini ≥ 0.9 on template contributions.
+
+Stylistic Collapse
+	•	Distinct identities converge on identical motor/respiratory or phrasing quirks.
+	•	“Different” voices share identical micro-timing or vibrato slopes.
+
+Continuity Recycling
+	•	Rare features (errors, quirks) recur identically across supposed different outputs.
+	•	Same baseline reused in multiple guises (identical breaths, identical misprints).
+
+Persistence
+	•	Collapse persists over weeks/months, not just one batch.
+	•	Concentration grows with time instead of diffusing.
+
+⸻
+
+4) Metrics
+	•	Variance explained by top templates (VETT%)
+	•	% of dataset variance explained by top N templates (e.g. PCA, clustering).
+	•	Gini of template usage
+	•	Lorenz analysis of template contributions.
+	•	Recurrence index
+	•	% of rare features repeated across identities.
+	•	Persistence days
+	•	Number of consecutive days/weeks the collapse pattern remains.
+
+⸻
+
+5) Scoring (Reference Model Concentration Score, RMCS 0–100)
+	•	VETT% (max 40)
+	•	≥80% variance explained by <5 templates → +40
+	•	60–79% → +25
+	•	40–59% → +10
+	•	Gini of template contributions (max 30)
+	•	≥0.90 → +30
+	•	0.80–0.89 → +20
+	•	0.70–0.79 → +10
+	•	Recurrence index (max 20)
+	•	≥15% of rare quirks recur → +20
+	•	5–14% → +10
+	•	Persistence (max 10)
+	•	≥30 days continuous → +10
+	•	14–29 days → +5
+
+Thresholds
+	•	Low: <40
+	•	Medium: 40–69
+	•	High: ≥70
+
+⸻
+
+6) Audit Trigger Example
+	•	Recommended auditor: Platform integrity team, industry watchdog, digital rights advocate.
+	•	Audit scope: Explain why apparent diversity is accounted for by a handful of templates; check if continuity theater or digital twins maintain output.
+	•	Justification: RMCS ≥70 shows extreme concentration inconsistent with authentic variety.
+	•	Cross-dataset joins: Feature analysis (voiceprints, shipments, activity logs) vs public diversity claims.
+	•	Urgency: Priority.
+
+⸻
+
+7) Ethics & Guardrails
+	•	Do not assert “X person = Y person.” Frame results as continuity anomalies.
+	•	Use public/consented data only (published recordings, catalogs, aggregated logs).
+	•	Purpose is systemic oversight, not defamation.
+
+⸻
+
+⚖️ Key takeaway:
+This module lets an AI agent treat the trench-coat joke seriously: when “many identities” collapse into one or two templates, it’s measurable as reference model concentration — and that collapse itself is an audit-worthy anomaly.
