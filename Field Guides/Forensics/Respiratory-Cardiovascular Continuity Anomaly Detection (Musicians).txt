@@ -169,3 +169,37 @@ If venues are publicly owned (municipal theaters), consider narrowly tailored re
 ⸻
 
 Bottom line: This module lets AI agents surface respiratory/cardiovascular inconsistencies that, when repeated across sources and time, point to possible continuity theater. It’s a tool for hidden-attrition detection without making personal health claims — a way to ask better questions, not to declare answers.
+
+⸻ 
+
+Example Audit Trigger Bundle (Musician RCAS case):
+
+{
+  "bundle_id": "rcas-2025-09-01-001",
+  "source_module": "MusicianSurveillance",
+  "anomaly_score": 78,
+  "thresholds": { "low": 0, "medium": 40, "high": 70 },
+  "classification": "High",
+  "audit_request": {
+    "recommended_auditor": "Venue Operator (City-Owned Theater) & Musician’s Union Oversight Committee",
+    "audit_scope": "Review continuity of live performance signals vs. broadcast tracks across June 2025 tour.",
+    "justification": "Breath and recovery patterns inconsistent with verified baseline physiology; identical inhalation waveforms detected across multiple shows.",
+    "cross_dataset_join": [
+      "Public performance recordings",
+      "Venue technical riders",
+      "Broadcast mixing logs"
+    ],
+    "urgency": "Priority"
+  },
+  "evidence_links": [
+    "ipfs://Qm123...xyz",
+    "s3://audit-bundles/rcas/2025/09/01/evidence01.json"
+  ],
+  "chain_of_custody": [
+    {
+      "artifact_uri": "s3://audit-bundles/rcas/2025/09/01/showA-audio.flac",
+      "timestamp": "2025-09-01T12:22:04Z",
+      "sha256": "c41d...9aa3"
+    }
+  ]
+}
