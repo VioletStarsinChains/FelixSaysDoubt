@@ -1,0 +1,42 @@
+Analyst Cheat Sheet — “Dogged House” ID (One-Pager)
+
+Definition (operational): A single-family parcel exhibiting managed-access vacancy—access controlled by keypad/lockbox/smart lock and serviced episodically by vendors instead of lived-in daily by residents.
+
+Use this when: Triage of high-score parcels (Doggedness ≥70) or adjudicating 40–69 “amber” cases.
+
+What to Look For (from public vantage & lawful data only)
+
+Access hardware (primary tells)
+	•	Keypad deadbolt; realtor/contractor lockbox; branded smart lock (Schlage/Yale/August/igloohome/Supra).
+	•	Auxiliary markers near hardware (colored zip-ties, chalk/tape hash marks, stickered numerals). Describe; do not decode.
+
+Occupancy signals (supporting)
+	•	Utilities: very low baseline with weekday midday spikes (cleaners/inspectors). Frequent connect/disconnects.
+	•	Waste: bins sitting curbside for long periods; irregular/no lifts despite apparent “occupied” staging.
+	•	Lawn/snow: vendor cadence without other resident activity.
+
+Administrative/civic
+	•	Vacant building registration; long-open permits (>120d); REO/corporate/LLC multi-parcel owner; foreclosure/tax issues.
+	•	Repeated temporary No-Parking/barricades + tow clustering without corresponding work orders/completions.
+
+Fast Disambiguation (common false positives)
+	•	Active renovation: visible trades, materials, recent inspections → likely legit.
+	•	Model/spec home: sales signage, office nearby.
+	•	Short-term rental: high review velocity; regular cleaner schedule with consistent guest vehicles.
+	•	Elder care / caretaker: treat as occupied; minimize intrusion; do not escalate absent corroboration.
+
+Decision Rubric
+	•	Doggedness ≥70 → Likely Dogged → compile evidence bundle; mark RED.
+	•	40–69 → Possibly Dogged → request missing records (permits, utility aggregates), brief drive-by for hardware photo, then rescore.
+	•	<40 → Archive; set 60-day recheck if admin flags (foreclosure, new permits) appear.
+
+Evidence Bundle (non-PII, no codes)
+	•	Parcel snapshot (owner class, flags).
+	•	Access snapshot (annotated curb-view images; blur digits).
+	•	Utilities chart (aggregated/consented).
+	•	Civic ops table (temp NP/tows/work orders).
+	•	Marker notes (descriptive only).
+	•	Score breakdown + false-positive checks + chain-of-custody hashes.
+
+Chain-of-Custody (every artifact)
+	•	Source → Timestamp (UTC ISO 8601) → Hash (SHA-256 of raw file) → Storage URI.
