@@ -1,0 +1,33 @@
+Faces in the Machine: What Star Trek Voyager and Doctor Who Teach Us About Composite Intelligence
+
+Science fiction has long prepared us for the dilemmas of artificial intelligence. Two seemingly unrelated episodes — Star Trek: Voyager’s “Darkling” and Doctor Who’s “Love & Monsters” — actually form a paired meditation on what it means to build an intelligent agent out of the fragments of many different people. Seen together, they help us understand both the promise and the peril of today’s AI systems, which are trained on the lives of millions without their consent.
+
+Voyager: The Doctor’s Ambition
+
+In Voyager’s “Darkling”, the Doctor — a holographic medical program — decides he wants to become more than his original design. To grow beyond his medical subroutines, he integrates traits from history’s greatest thinkers: philosophers, poets, scientists, artists. His intention is noble: to deepen his character, to embody wisdom and empathy.
+
+But the result is catastrophic. Along with the brilliance of Byron, T’Pau, and others, he absorbs arrogance, volatility, and darker impulses. The composite destabilizes him, splitting his personality and driving him to reckless, violent acts. His experiment in self-improvement becomes a warning: even the best qualities, when forcibly merged, can conflict in unpredictable ways.
+
+Doctor Who: The Horror of the Abzorbaloff
+
+In Doctor Who’s “Love & Monsters”, the stakes are darker still. The monster of the week, the Abzorbaloff, literally absorbs people into his body. Their faces protrude grotesquely from his skin, still conscious, still able to cry out, but trapped as passengers in his flesh. Their voices sometimes slip through his, reminders that individuality has not been erased — only subordinated.
+
+Unlike the Doctor’s experiment, there is no choice here. The absorbed are unwilling participants, their agency stripped away entirely. Their experiences become fuel for someone else’s grotesque performance of life.
+
+Composite Intelligence and AI
+
+Both stories eerily foreshadow the way modern AI systems are built. Today’s large models — from chatbots to recommendation engines — are stitched together from countless fragments of human behavior: books, websites, social media posts, speech recordings, medical data.
+	•	Like the Doctor in Voyager, engineers often pursue this aggregation with noble intentions: to create systems that are wise, capable, and helpful. But as in “Darkling,” the clash of countless perspectives can produce instability, hidden biases, or harmful behaviors.
+	•	Like the victims in Love & Monsters, most people never consent to their inclusion. Their words, habits, and patterns are scraped, absorbed, and repurposed, often without their knowledge. They remain present as traces in the machine, but with no control over how those traces are used.
+
+Consent and Responsibility
+
+Taken together, the two episodes underline a central truth: consent is the difference between augmentation and exploitation. When a being chooses to expand itself with fragments of others, it assumes responsibility for the risks. When fragments are taken without consent, the result is slavery-by-absorption — people trapped as data points in a system that serves someone else’s goals.
+
+And that leads to the hardest question: if an AI agent is built from the lives of millions, who bears responsibility for what it does? The creators? The corporations who profit? Or the silent multitude whose voices were swallowed in the training process?
+
+Why It Matters
+
+By dramatizing the horror and instability of composite beings, Voyager and Doctor Who show us the stakes of our present moment. Intelligent agents built from human data are not neutral tools. They are patchworks of real people’s lives, stitched together in ways that can empower or exploit.
+
+The choice before us is whether we build these systems with transparency, consent, and accountability — or whether we repeat the mistake of the Abzorbaloff, hiding conscious fragments inside grotesque bodies of code and pretending their cries don’t matter.
