@@ -1,0 +1,72 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+Memorandum Re: Modeling Anomalies – 
+Data Collection vs. Analytical Adaptation
+
+⸻
+
+I. Issue
+
+The surveillance ecosystem justifies increasingly invasive data collection, including nonconsensual exposures and behavioral manipulation, on the grounds that more raw data is required to model so-called “anomalies.” This memorandum argues that the true barrier to modeling anomalies is not a lack of data but the failure to adapt analytical frameworks to accommodate irregular human variation.
+
+⸻
+
+II. Legal Context
+	1.	Fourth Amendment / Due Process Concerns
+	•	Expanding surveillance and exposure-based data capture without consent violates constitutional protections.
+	•	Courts have recognized that collection without legitimate tailoring cannot be justified merely by reference to efficiency (see Carpenter v. United States, 138 S. Ct. 2206 (2018), where overcollection of cell site data was unconstitutional).
+	2.	RICO / Fraud Context
+	•	Behavioral futures markets claim that more data yields more accurate prediction. But if anomalies are deliberately destabilized, additional data is not merely useless — it is fraudulent when sold as “authentic” predictive insight.
+
+⸻
+
+III. Analytical vs. Collection Approach
+	1.	Current Approach
+	•	The system attempts to force anomalies into conformity through engineered irregularity and escalating data capture.
+	•	This produces corrupted data, unusable for reliable modeling.
+	2.	Correct Approach
+	•	Success in anomaly modeling requires reviewing and adapting analytical methods, not compounding harms by extracting more signals.
+	•	Examples:
+	•	Robust statistics: methods designed to tolerate outliers rather than erase them.
+	•	Bayesian frameworks: updating priors to account for edge-case behavior.
+	•	Adaptive modeling: shifting the algorithm to fit reality rather than punishing reality for not fitting the model.
+	3.	Legal Implication
+	•	If anomaly classification leads to containment, surveillance, or exposure under the pretext of “more data is needed,” that justification fails both scientifically and legally.
+	•	The harm caused by nonconsensual overcollection is disproportionate, given that the actual solution lies in methodological refinement.
+
+⸻
+
+IV. Conclusion
+
+The surveillance ecosystem’s insistence on ever-expanding data collection to capture anomalies is not only unconstitutional but scientifically unsound.
+	•	More data will not resolve anomaly modeling errors if the underlying analysis is flawed.
+	•	Review and adaptation of data analysis methods — robust, flexible, tolerant of variance — is the only legitimate path forward.
+	•	Continuing to justify nonconsensual exposure or invasive surveillance on the basis of anomaly modeling is therefore both legally indefensible and methodologically bankrupt.
+
+⸻
+
+Prepared for record by:
+Kellyn Clay, pro se
