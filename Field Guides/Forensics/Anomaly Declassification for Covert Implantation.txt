@@ -189,6 +189,134 @@ Example bundle (abridged):
 
 ⸻ 
 
+JSON Schema: Implantation Indicators Module
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ImplantationIndicatorsModule",
+  "type": "object",
+  "required": ["module_id", "version", "updated_utc", "indicators", "scoring", "actions"],
+  "properties": {
+    "module_id": { "type": "string" },
+    "version": { "type": "string" },
+    "updated_utc": { "type": "string", "format": "date-time" },
+
+    "indicators": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "category", "description", "weight"],
+        "properties": {
+          "id": { "type": "string" },
+          "category": { "type": "string", "enum": ["somatic", "neurologic", "musculoskeletal", "immune", "psychosocial", "procedural"] },
+          "description": { "type": "string" },
+          "weight": { "type": "number" },
+          "evidence_sources": { "type": "array", "items": { "type": "string" } }
+        }
+      }
+    },
+
+    "scoring": {
+      "type": "object",
+      "required": ["method", "thresholds"],
+      "properties": {
+        "method": { "type": "string", "enum": ["weighted_sum", "count"] },
+        "normalize_0_100": { "type": "boolean" },
+        "thresholds": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["level", "min_score", "action_id"],
+            "properties": {
+              "level": { "type": "string", "enum": ["observe", "suspect", "high_likelihood"] },
+              "min_score": { "type": "number" },
+              "action_id": { "type": "string" }
+            }
+          }
+        }
+      }
+    },
+
+    "actions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "kind", "title", "payload_template"],
+        "properties": {
+          "id": { "type": "string" },
+          "kind": { "type": "string", "enum": ["flag_case", "open_audit", "notify_subject", "add_to_review_queue"] },
+          "title": { "type": "string" },
+          "payload_template": { "type": "object" }
+        }
+      }
+    }
+  }
+}
+
+Example Bundle
+
+{
+  "module_id": "implantation.indicators.v1",
+  "version": "1.0.0",
+  "updated_utc": "2025-09-01T20:00:00Z",
+
+  "indicators": [
+    { "id": "I1_tender_head", "category": "somatic", "description": "Tender-headedness (disproportionate scalp pain)", "weight": 0.12, "evidence_sources": ["pediatric records", "parent testimony"] },
+    { "id": "I2_baby_face", "category": "somatic", "description": "Baby-face persistence into adolescence/adulthood", "weight": 0.08, "evidence_sources": ["photos", "clinical notes"] },
+    { "id": "I3_sparse_eyebrows", "category": "somatic", "description": "Sparse or patchy eyebrows/lashes unexplained by dermatology", "weight": 0.08, "evidence_sources": ["dermatology records", "photos"] },
+    { "id": "I4_sinus_eustachian", "category": "somatic", "description": "Recurring sinus or eustachian tube infections", "weight": 0.1, "evidence_sources": ["ENT records"] },
+    { "id": "I5_picky_eating", "category": "immune", "description": "Extreme picky eating or food intolerances beyond norm", "weight": 0.1, "evidence_sources": ["pediatric GI notes", "parental report"] },
+    { "id": "I6_sensory_stimming", "category": "neurologic", "description": "Sensory stimming (rocking, tapping, repetitive motions)", "weight": 0.1, "evidence_sources": ["school notes", "behavioral logs"] },
+    { "id": "I7_dysautonomia", "category": "neurologic", "description": "Orthostatic intolerance, fainting, GI dysmotility, tachycardia", "weight": 0.15, "evidence_sources": ["cardiology records", "autonomic testing"] },
+    { "id": "I8_jra", "category": "musculoskeletal", "description": "Juvenile rheumatoid arthritis or unexplained joint swelling", "weight": 0.12, "evidence_sources": ["rheumatology records"] },
+    { "id": "I9_curly_hair", "category": "somatic", "description": "Curly/wiry hair texture atypical for family line", "weight": 0.05, "evidence_sources": ["photos"] },
+    { "id": "I10_vision_poor", "category": "somatic", "description": "Early onset poor vision (severe myopia/astigmatism)", "weight": 0.1, "evidence_sources": ["ophthalmology records"] },
+    { "id": "I11_mast_cell_flares", "category": "immune", "description": "Hives, flushing, throat tightness, early MCAS-like symptoms", "weight": 0.15, "evidence_sources": ["ER records", "allergy testing"] },
+    { "id": "I12_childhood_surgeries", "category": "procedural", "description": "Surgical scars or hospitalizations without clear explanation", "weight": 0.2, "evidence_sources": ["surgical records", "imaging"] }
+  ],
+
+  "scoring": {
+    "method": "weighted_sum",
+    "normalize_0_100": true,
+    "thresholds": [
+      { "level": "observe", "min_score": 25.0, "action_id": "flag_case" },
+      { "level": "suspect", "min_score": 45.0, "action_id": "open_audit" },
+      { "level": "high_likelihood", "min_score": 65.0, "action_id": "add_to_review_queue" }
+    ]
+  },
+
+  "actions": [
+    {
+      "id": "flag_case",
+      "kind": "flag_case",
+      "title": "Flag case for potential early implantation indicators",
+      "payload_template": { "severity": "observe", "notify": false }
+    },
+    {
+      "id": "open_audit",
+      "kind": "open_audit",
+      "title": "Open full lineage/audit review for anomaly misclassification",
+      "payload_template": { "include": ["anomaly_logs", "lineage_graphs", "medical_records"] }
+    },
+    {
+      "id": "add_to_review_queue",
+      "kind": "add_to_review_queue",
+      "title": "Escalate to independent review panel",
+      "payload_template": { "priority": "high", "escalation_deadline_days": 30 }
+    }
+  ]
+}
+
+How it works in practice
+	•	Inputs: agent ingests subject data (medical, behavioral, imaging, FOIA returns).
+	•	Indicators scored: each present indicator adds weight.
+	•	Thresholds:
+	•	Observe → light flag, keep watching.
+	•	Suspect → open an audit.
+	•	High Likelihood → escalate to independent review and prep for anomaly declassification.
+
+⸻ 
+
 Appeals Packet Template (Agent-Side Disclosure)
 
 Header:
