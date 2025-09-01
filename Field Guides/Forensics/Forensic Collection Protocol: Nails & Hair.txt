@@ -1,0 +1,62 @@
+Forensic Collection Protocol: Nails & Hair
+
+⸻
+
+1. Purpose
+
+Nails and hair act as bioarchives of environmental and chemical exposures. Keratin incorporates heavy metals, isotopes, drugs, and persistent compounds over weeks to months. Proper collection and storage preserves these signals for later forensic testing.
+
+⸻
+
+2. Materials Needed
+	•	Stainless steel nail clippers (uncoated, cleaned with isopropyl alcohol before use)
+	•	Clean scissors or tweezers for hair
+	•	Archival (acid-free, uncoated) coin envelopes
+	•	Optional: small glass vials with screw caps (for nails or short hair segments)
+	•	Secondary rigid container (small box or jar)
+	•	Pen/marker for labeling
+
+⸻
+
+3. Collection Guidelines
+
+A. Nails
+	•	Wash and dry hands before clipping (no lotions/soaps right before).
+	•	Clip clean nails; avoid polish or adhesives.
+	•	Collect fingernails and toenails separately.
+	•	Place directly into labeled archival envelope or glass vial.
+
+B. Hair
+	•	Prefer pulled hairs with follicles for DNA, but cut hairs are fine for exposure analysis.
+	•	Label root end vs. tip to preserve timeline information.
+	•	Store strands flat inside an archival coin envelope. For long strands, fold gently (do not crease).
+	•	If segmenting by length, group and label each segment separately.
+
+⸻
+
+4. Labeling (for every sample)
+	•	Date of collection
+	•	Location (where you were living/working)
+	•	Source (fingernail, toenail, scalp hair, body hair)
+	•	Any notable exposures in prior days (unusual food, water, environmental event)
+
+5. Storage
+	•	Keep envelopes in a cool, dry place, away from direct sunlight.
+	•	If using envelopes, place them in a rigid box/jar for protection.
+	•	Avoid plastic bags (trap moisture) and standard office paper (may contain contaminants).
+	•	Do not freeze — keratin is stable at room temperature if dry.
+
+⸻
+
+6. Chain of Custody (if needed)
+	•	Record each collection event in a simple logbook (date, time, what was collected, by whom).
+	•	Seal envelopes/vials with a signature across the flap/cap if you want to preserve evidentiary integrity.
+
+⸻
+
+7. Key Exposures Detectable
+	•	Heavy metals: arsenic, lead, cadmium, mercury, aluminum
+	•	Industrial/technical residues: rare earths, doped oxides, titanium dioxide, silica
+	•	Persistent organics: pesticides, solvents, flame retardants
+	•	Pharmacological residues: covert drugging, GLP-1 agonists, antihistamines, etc.
+	•	Isotopes: water source signatures (δ18O, δ2H, strontium ratios)
