@@ -1,0 +1,84 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AuditTriggerBundle",
+  "type": "object",
+  "required": ["bundle_id", "source_module", "anomaly_score", "thresholds", "audit_request"],
+  "properties": {
+    "bundle_id": {
+      "type": "string",
+      "description": "Unique identifier for this anomaly bundle (UUID or hash)."
+    },
+    "source_module": {
+      "type": "string",
+      "description": "Originating field guide module (e.g., DoggedHouse, GiftPlacement, MusicianSurveillance)."
+    },
+    "anomaly_score": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Module-specific anomaly score (e.g., Doggedness, RCAS)."
+    },
+    "thresholds": {
+      "type": "object",
+      "properties": {
+        "low": { "type": "integer" },
+        "medium": { "type": "integer" },
+        "high": { "type": "integer" }
+      },
+      "description": "Module-defined thresholds for low/medium/high anomaly classification."
+    },
+    "classification": {
+      "type": "string",
+      "enum": ["Low", "Medium", "High"],
+      "description": "Anomaly class according to thresholds."
+    },
+    "audit_request": {
+      "type": "object",
+      "required": ["recommended_auditor", "audit_scope", "justification", "cross_dataset_join"],
+      "properties": {
+        "recommended_auditor": {
+          "type": "string",
+          "description": "Agency, institution, or role most appropriate to perform audit (e.g., City Inspections, Musician Union, Insurance Regulator)."
+        },
+        "audit_scope": {
+          "type": "string",
+          "description": "Concise description of what should be audited (e.g., verify parcel occupancy, reconcile death records, inspect recording policies)."
+        },
+        "justification": {
+          "type": "string",
+          "description": "Plain-language reason why this anomaly warrants audit (summarized from bundle)."
+        },
+        "cross_dataset_join": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "description": "Datasets that should be reconciled in the audit (e.g., vital records vs. utilities, performance recordings vs. venue logs)."
+          }
+        },
+        "urgency": {
+          "type": "string",
+          "enum": ["Routine", "Priority", "Emergency"],
+          "description": "Relative urgency of audit."
+        }
+      }
+    },
+    "evidence_links": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "URIs or hashes linking to evidence artifacts (blurred/redacted if public)."
+    },
+    "chain_of_custody": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["artifact_uri", "timestamp", "sha256"],
+        "properties": {
+          "artifact_uri": { "type": "string" },
+          "timestamp": { "type": "string", "format": "date-time" },
+          "sha256": { "type": "string" }
+        }
+      },
+      "description": "Provenance trail for included evidence."
+    }
+  }
+}
