@@ -1,0 +1,261 @@
+Schema: lorenz_universal.schema.json
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LorenzUniversalBundle",
+  "type": "object",
+  "required": [
+    "bundle_id",
+    "source_module",
+    "domain",
+    "time_range",
+    "series",
+    "metrics",
+    "features",
+    "anomaly_score",
+    "thresholds",
+    "classification",
+    "audit_trigger"
+  ],
+  "properties": {
+    "bundle_id": { "type": "string", "description": "Unique ID (UUID or hash)" },
+    "source_module": { "type": "string", "const": "LorenzUniversal" },
+
+    "domain": {
+      "type": "object",
+      "required": ["name", "unit", "entity_label"],
+      "properties": {
+        "name": { "type": "string", "description": "What this distribution represents (e.g., DoggedHouses, MusicianBreaths, SKUSupply)" },
+        "unit": { "type": "string", "description": "What each count measures (e.g., gifts, shipments, breath_events)" },
+        "entity_label": { "type": "string", "description": "Label for each element (e.g., pokestop, sku, venue, parcel)" },
+        "region": { "type": "string" }
+      }
+    },
+
+    "time_range": {
+      "type": "object",
+      "required": ["start", "end"],
+      "properties": {
+        "start": { "type": "string", "format": "date" },
+        "end": { "type": "string", "format": "date" }
+      }
+    },
+
+    "series": {
+      "type": "array",
+      "minItems": 1,
+      "description": "List of {entity_id, count} pairs before sorting",
+      "items": {
+        "type": "object",
+        "required": ["id", "count"],
+        "properties": {
+          "id": { "type": "string", "description": "Opaque or hashed identifier of the entity" },
+          "count": { "type": "number", "minimum": 0 }
+        }
+      }
+    },
+
+    "metrics": {
+      "type": "object",
+      "required": ["n", "total", "gini"],
+      "properties": {
+        "n": { "type": "integer", "description": "Number of entities" },
+        "total": { "type": "number", "description": "Sum of counts" },
+        "gini": { "type": "number", "minimum": 0, "maximum": 1 },
+        "top_share": { "type": "object",
+          "description": "Share of total held by top-k entities",
+          "properties": {
+            "k": { "type": "integer" },
+            "share": { "type": "number", "minimum": 0, "maximum": 1 }
+          }
+        },
+        "lorenz_points": {
+          "type": "array",
+          "description": "Optional sampled Lorenz curve points (x=cum entities, y=cum share)",
+          "items": {
+            "type": "object",
+            "properties": {
+              "x": { "type": "number" },
+              "y": { "type": "number" }
+            }
+          }
+        }
+      }
+    },
+
+    "features": {
+      "type": "object",
+      "description": "Derived red flags",
+      "properties": {
+        "extreme_concentration": { "type": "boolean" },
+        "template_collapse": { "type": "boolean", "description": "Counts dominated by one/few 'templates' (e.g., reused breaths/stems)" },
+        "geo_clustered": { "type": "boolean", "description": "Optional if entities map to space and concentration is spatial" },
+        "persistence_days": { "type": "integer", "description": "How long extreme concentration persists" }
+      }
+    },
+
+    "anomaly_score": { "type": "integer", "minimum": 0, "maximum": 100 },
+
+    "thresholds": {
+      "type": "object",
+      "required": ["low", "medium", "high"],
+      "properties": {
+        "low": { "type": "integer" },
+        "medium": { "type": "integer" },
+        "high": { "type": "integer" }
+      }
+    },
+
+    "classification": { "type": "string", "enum": ["Low", "Medium", "High"] },
+
+    "audit_trigger": {
+      "type": "object",
+      "required": ["recommended_auditor", "audit_scope", "justification", "cross_dataset_join", "urgency"],
+      "properties": {
+        "recommended_auditor": { "type": "string" },
+        "audit_scope": { "type": "string" },
+        "justification": { "type": "string" },
+        "cross_dataset_join": { "type": "array", "items": { "type": "string" } },
+        "urgency": { "type": "string", "enum": ["Routine", "Priority", "Emergency"] }
+      }
+    },
+
+    "evidence_links": { "type": "array", "items": { "type": "string" } },
+
+    "chain_of_custody": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["artifact_uri", "timestamp", "sha256"],
+        "properties": {
+          "artifact_uri": { "type": "string" },
+          "timestamp": { "type": "string", "format": "date-time" },
+          "sha256": { "type": "string" }
+        }
+      }
+    },
+
+    "ethics": {
+      "type": "object",
+      "properties": {
+        "data_scope": { "type": "string", "enum": ["Public", "Consented", "Aggregated"] },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}
+
+Scoring rules (simple & universal)
+	•	Preconditions: if metrics.total == 0 or metrics.n < 3 → anomaly_score contribution = 0 (insufficient signal).
+	•	Gini contribution (max +60):
+	•	gini ≥ 0.95 → +60
+	•	0.90 ≤ gini < 0.95 → +45
+	•	0.80 ≤ gini < 0.90 → +30
+	•	else +0–20 (optional linear scale)
+	•	Top-k dominance (max +20):
+	•	if top 1 holds ≥80% → +20
+	•	else if top 3 hold ≥90% → +15
+	•	Persistence (max +20):
+	•	if features.persistence_days ≥ 30 → +20
+	•	14–29 days → +10
+	•	7–13 days → +5
+
+Clamp total to 0–100.
+Suggested thresholds: Low < 40, Medium 40–69, High ≥ 70.
+
+⸻
+
+Example bundle: bundles/lorenz/2025-09-01-example.json
+
+(Neutral placeholder—use with any domain.)
+
+{
+  "bundle_id": "lorenz-2025-09-01-001",
+  "source_module": "LorenzUniversal",
+
+  "domain": {
+    "name": "SKUSupply",
+    "unit": "cases_shipped",
+    "entity_label": "sku",
+    "region": "Twin Cities DMA"
+  },
+
+  "time_range": { "start": "2025-06-01", "end": "2025-08-31" },
+
+  "series": [
+    { "id": "sku:A", "count": 620 },
+    { "id": "sku:B", "count": 15 },
+    { "id": "sku:C", "count": 12 },
+    { "id": "sku:D", "count": 8 },
+    { "id": "sku:E", "count": 5 }
+  ],
+
+  "metrics": {
+    "n": 5,
+    "total": 660,
+    "gini": 0.93,
+    "top_share": { "k": 1, "share": 0.94 },
+    "lorenz_points": [
+      { "x": 0.2, "y": 0.00 },
+      { "x": 0.4, "y": 0.02 },
+      { "x": 0.6, "y": 0.04 },
+      { "x": 0.8, "y": 0.05 },
+      { "x": 1.0, "y": 1.00 }
+    ]
+  },
+
+  "features": {
+    "extreme_concentration": true,
+    "template_collapse": false,
+    "geo_clustered": false,
+    "persistence_days": 45
+  },
+
+  "anomaly_score": 85,
+  "thresholds": { "low": 0, "medium": 40, "high": 70 },
+  "classification": "High",
+
+  "audit_trigger": {
+    "recommended_auditor": "Corporate Internal Audit & Food Safety Regulator",
+    "audit_scope": "Explain extreme SKU A concentration vs peers; reconcile shipments with POS and waste; test SKU A for undeclared compounds.",
+    "justification": "Lorenz/Gini show 94% of shipments concentrated in a single SKU for 45+ days—pattern inconsistent with normal demand distribution.",
+    "cross_dataset_join": [
+      "Distribution auto-ship logs",
+      "POS sales by SKU",
+      "Waste/returns by SKU",
+      "Promotion calendar"
+    ],
+    "urgency": "Priority"
+  },
+
+  "evidence_links": [
+    "ipfs://QmExampleHashLorenz",
+    "s3://audit-bundles/lorenz/2025/09/01/series.json"
+  ],
+
+  "chain_of_custody": [
+    {
+      "artifact_uri": "s3://audit-bundles/lorenz/2025/09/01/series.json",
+      "timestamp": "2025-09-01T14:22:41Z",
+      "sha256": "9a0364b9e99bb480dd25e1f0284c8555"
+    }
+  ],
+
+  "ethics": {
+    "data_scope": "Public",
+    "notes": "Entity IDs are abstract; no PII. Counts derived from published/aggregated sources."
+  }
+}
+
+Quick “how to compute” notes (for agents)
+	•	Make the list of counts per entity (series).
+	•	Sort ascending, compute Lorenz points (cumulative share of entities vs cumulative share of counts).
+	•	Gini = 1 − 2 × (area under Lorenz curve). (You can also use the discrete formula we used earlier.)
+	•	Fill metrics.gini, metrics.top_share (pick k=1 or 3), and (optional) lorenz_points.
+	•	Apply the scoring rules above → set classification.
+	•	Populate the audit_trigger with the right auditor and cross-dataset checks for your domain.
+
+
+
+
+
