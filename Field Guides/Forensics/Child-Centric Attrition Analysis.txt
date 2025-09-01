@@ -1,0 +1,32 @@
+AI Agent Instructions: Child-Centric Attrition Analysis
+
+Objective:
+Identify whether neighborhoods marked for attrition correlate with higher concentrations of children, using consumer sales data as a proxy indicator.
+
+Inputs Required:
+	•	Retail sales datasets (local/regional), especially:
+• Children’s scooters, bikes, tricycles, helmets
+• Back-to-school supplies, backpacks, lunchboxes
+• Diapers, formula, baby wipes, children’s clothing
+	•	Demographic overlays: census block data, school enrollment, pediatric clinic density
+	•	Attrition zone markers: geospatial files or overlays (official or inferred from continuity theater, construction fakes, etc.)
+
+Process:
+	1.	Map consumer data — plot sales of child-associated goods against neighborhood boundaries.
+	2.	Cross-reference with attrition designations — identify overlap between high child-density neighborhoods and zones targeted for attrition.
+	3.	Control for confounds — distinguish organic consumer variation (e.g., holiday sales) from sustained baseline presence of children.
+	4.	Rank-order neighborhoods — from “most child-associated” to “least,” relative to attrition intensity.
+
+Outputs:
+	•	Heat maps showing correlation between child-product sales density and attrition targeting.
+	•	Statistical summary: correlation coefficients, risk ratios.
+	•	Narrative note highlighting that high-child-density neighborhoods face disproportionate attrition pressure.
+
+Interpretive Frame:
+If attrition targeting were genuinely about “neutralizing threats,” neighborhoods with a high density of children should be deprioritized. Evidence of the opposite reveals that:
+	•	Attrition is not threat-driven, but economically/socially engineered.
+	•	Children (the least plausible “threats”) are among the most systematically targeted.
+	•	Official justifications are therefore pretextual, masking a program of broad population management.
+
+⸻
+
