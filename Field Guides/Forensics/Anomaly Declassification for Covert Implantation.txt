@@ -39,77 +39,373 @@ What ADCI does
 
 ⸻ 
 
-JSON Schema (Minimal) + Example
+
+
+⸻
+
+1) Implantation Indicators Module (broad symptom/diagnosis/events screen)
+
+{
+  "module_id": "implantation.indicators.v1",
+  "version": "1.1.0",
+  "updated_utc": "2025-09-01T21:10:00Z",
+
+  "indicators": [
+    { "id": "I1_tender_head", "category": "somatic", "description": "Tender-headedness (disproportionate scalp pain)", "weight": 0.12, "evidence_sources": ["pediatric records", "parent testimony"] },
+    { "id": "I2_baby_face", "category": "somatic", "description": "Baby-face persistence into adolescence/adulthood", "weight": 0.08, "evidence_sources": ["photos", "clinical notes"] },
+    { "id": "I3_sparse_eyebrows", "category": "somatic", "description": "Sparse or patchy eyebrows/lashes unexplained by dermatology", "weight": 0.08, "evidence_sources": ["dermatology records", "photos"] },
+    { "id": "I4_sinus_eustachian", "category": "somatic", "description": "Recurring sinus or eustachian tube infections", "weight": 0.10, "evidence_sources": ["ENT records"] },
+    { "id": "I5_picky_eating", "category": "immune", "description": "Extreme picky eating or food intolerances beyond norm", "weight": 0.10, "evidence_sources": ["pediatric GI notes", "parental report"] },
+    { "id": "I6_sensory_stimming", "category": "neurologic", "description": "Sensory stimming (rocking, tapping, repetitive motions)", "weight": 0.10, "evidence_sources": ["school notes", "behavioral logs"] },
+    { "id": "I7_dysautonomia", "category": "neurologic", "description": "Orthostatic intolerance, fainting, GI dysmotility, tachycardia", "weight": 0.15, "evidence_sources": ["cardiology records", "autonomic testing"] },
+    { "id": "I8_jra", "category": "musculoskeletal", "description": "Juvenile rheumatoid arthritis or unexplained joint swelling", "weight": 0.12, "evidence_sources": ["rheumatology records"] },
+    { "id": "I9_curly_hair", "category": "somatic", "description": "Curly/wiry hair texture atypical for family line", "weight": 0.05, "evidence_sources": ["photos"] },
+    { "id": "I10_vision_poor", "category": "somatic", "description": "Early onset poor vision (severe myopia/astigmatism)", "weight": 0.10, "evidence_sources": ["ophthalmology records"] },
+    { "id": "I11_mast_cell_flares", "category": "immune", "description": "Hives, flushing, throat tightness, early MCAS-like symptoms", "weight": 0.15, "evidence_sources": ["ER records", "allergy testing"] },
+    { "id": "I12_childhood_surgeries", "category": "procedural", "description": "Surgical scars or hospitalizations without clear explanation", "weight": 0.20, "evidence_sources": ["surgical records", "imaging"] },
+
+    { "id": "I13_tmj_post_ortho", "category": "musculoskeletal", "description": "TMJ/TMD flare begins or worsens within 180 days of orthodontic activation", "weight": 0.14, "evidence_sources": ["dental notes", "PT notes", "patient journal"] },
+    { "id": "I14_trigeminal_pain_post_ortho", "category": "neurologic", "description": "New/worse facial pain (trigeminal pattern) within 180 days of orthodontic activation", "weight": 0.16, "evidence_sources": ["neurology notes", "pain clinic notes"] },
+    { "id": "I15_dysphagia_speech_change_post_ortho", "category": "somatic", "description": "New dysphagia or speech change after palatal/lingual hardware", "weight": 0.12, "evidence_sources": ["SLP notes", "ENT notes"] },
+    { "id": "I16_sleep_fragmentation_post_ortho", "category": "neurologic", "description": "Insomnia/PLMD-like restlessness starting within 90 days of orthodontic activation", "weight": 0.10, "evidence_sources": ["sleep study", "patient journal"] },
+    { "id": "I17_tinnitus_hyperacusis_post_ortho", "category": "ENT", "description": "New/worse tinnitus or hyperacusis within 90 days of orthodontic activation", "weight": 0.12, "evidence_sources": ["audiology notes", "ENT notes"] }
+  ],
+
+  "scoring": {
+    "method": "weighted_sum",
+    "normalize_0_100": true,
+    "thresholds": [
+      { "level": "observe", "min_score": 25.0, "action_id": "flag_case" },
+      { "level": "suspect", "min_score": 45.0, "action_id": "open_audit" },
+      { "level": "high_likelihood", "min_score": 65.0, "action_id": "add_to_review_queue" }
+    ]
+  },
+
+  "actions": [
+    {
+      "id": "flag_case",
+      "kind": "flag_case",
+      "title": "Flag case for potential early implantation/entrainment indicators",
+      "payload_template": { "severity": "observe", "notify": false }
+    },
+    {
+      "id": "open_audit",
+      "kind": "open_audit",
+      "title": "Open lineage/audit review for anomaly misclassification",
+      "payload_template": { "include": ["anomaly_logs", "lineage_graphs", "medical_records"] }
+    },
+    {
+      "id": "add_to_review_queue",
+      "kind": "add_to_review_queue",
+      "title": "Escalate to independent review panel",
+      "payload_template": { "priority": "high", "escalation_deadline_days": 30 }
+    }
+  ]
+}
+
+
+⸻
+
+2) Orthodontic Anomaly Audit Module (timing + device types + fairness checks)
+
+{
+  "module_id": "ortho_anomaly_audit_v1",
+  "purpose": "Identify cases where a person was labeled an 'anomaly' shortly after receiving orthodontic hardware that could plausibly act as an entrainment vector, to trigger a rights-focused audit and human review.",
+  "version": "1.1.0",
+  "updated_utc": "2025-09-01T21:10:05Z",
+  "scope": {
+    "population": "Individuals who OPT-IN by providing personal records OR de-identified cohorts in aggregate analyses",
+    "jurisdiction": "US (adjustable)",
+    "exclusions": [
+      "No scraping or purchasing of non-consented personal data",
+      "No law-enforcement-style targeting or operationalization",
+      "No medical inference beyond pattern change detection"
+    ],
+    "definitions": {
+      "orthodontic_hardware_event": "Any documented start/placement/activation of braces, retainers, aligners, expanders, lingual braces, functional appliances, or bonded attachments.",
+      "anomaly_label_event": "Any designation by a system that marks a person as an outlier/threat/NPE-like status or equivalent (per the specific system’s taxonomy), or downstream proxies (sudden step-up in automated risk tiers).",
+      "acute_window_days": 30,
+      "shortly_after_window_days": 180,
+      "reactivation_window_days": 14
+    }
+  },
+  "ethical_constraints": {
+    "data_minimization": true,
+    "human_in_the_loop_required": true,
+    "purpose_limitation": "Audit and redress only",
+    "safety_checks": [
+      "Differential privacy on aggregate outputs",
+      "Redaction of direct identifiers in analyst views by default",
+      "Explicit consent log for any person-level analysis"
+    ],
+    "anti_harm": [
+      "No adverse actions may be taken on the basis of this module’s scores alone",
+      "All flags route to a Rights & Remedies review team"
+    ]
+  },
+  "inputs": {
+    "person_provided": [
+      "Insurance EOBs or receipts indicating orthodontic start/activation (e.g., CDT orthodontic codes in the D8xxx family)",
+      "Orthodontist invoices or treatment-plan PDFs showing dates",
+      "Self-attested device type (metal braces, ceramic, lingual, expander, retainer, clear aligner)",
+      "Self-attested symptoms/timeline journal"
+    ],
+    "public_or_foiaable": [
+      "Aggregate school discipline trends (de-identified)",
+      "Aggregate public safety call volumes (de-identified)",
+      "Published agency risk-tier policy change dates",
+      "Meeting minutes/policy memos that define 'anomaly' criteria"
+    ],
+    "system_integrations_with_consent": [
+      "Audit logs from the classifying system showing label timestamps",
+      "Versioned model/policy snapshots (for when/why labels change)"
+    ]
+  },
+  "features": {
+    "device_risk_profile": {
+      "description": "Prior plausibility weight for entrainment potential (hypothesis-only; adjustable)",
+      "scale_0_to_1": {
+        "metal_braces": 0.90,
+        "lingual_braces": 0.85,
+        "palatal_expander": 0.80,
+        "ceramic_braces": 0.70,
+        "clear_aligners_with_attachments": 0.65,
+        "clear_retainers": 0.50,
+        "Hawley_retainers": 0.50,
+        "unknown": 0.60
+      }
+    },
+    "temporal_proximity": {
+      "description": "How close the anomaly label occurs to hardware event",
+      "metrics": [
+        "delta_days = anomaly_label_date - ortho_event_date",
+        "acute_flag = (abs(delta_days) <= 30)",
+        "short_window_flag = (abs(delta_days) <= 180)"
+      ]
+    },
+    "activation_burden": {
+      "description": "Frequency and recency of activations/adjustments",
+      "metrics": [
+        "adjustments_in_90d",
+        "any_activation_within_reactivation_window = (min_days_since_activation <= 14)"
+      ]
+    },
+    "pre_post_change_scores": {
+      "description": "Shift in multi-domain signals after hardware event",
+      "domains": [
+        "healthcare_utilization_intensity",
+        "autonomic_symptom_reports",
+        "behavior/discipline_interactions_aggregate",
+        "employment_housing_admin_frictions_aggregate",
+        "algorithmic_risk_tier_changes"
+      ],
+      "method": "Compute z-score deltas relative to each person’s own baseline (when consented) or cohort baselines (aggregate)."
+    },
+    "confounders": [
+      "age",
+      "puberty_status_proxy",
+      "major_life_events (move, school transfer, illness)",
+      "policy_or_model_version_shifts",
+      "other_implanted_hardware_timelines"
+    ],
+    "distributional_checks": {
+      "lorenz_curve_anomaly_concentration": "Evaluate concentration of new anomaly labels among recent orthodontic recipients vs matched controls",
+      "disparate_impact": "Group fairness checks across protected classes"
+    }
+  },
+  "scoring": {
+    "weights": {
+      "device_risk_profile": 0.23,
+      "temporal_proximity": 0.32,
+      "activation_burden": 0.10,
+      "pre_post_change_scores": 0.25,
+      "distributional_checks": 0.10
+    },
+    "transformations": {
+      "temporal_proximity": {
+        "acute_window_days": 30,
+        "short_window_days": 180,
+        "acute_bonus": 1.0,
+        "short_window_bonus": 0.5,
+        "outside_window": 0.0
+      },
+      "activation_burden": {
+        "reactivation_window_days": 14,
+        "adjustments_in_90d_scale": "min(max(adjustments_in_90d/4, 0), 1)"
+      }
+    },
+    "computation": "final_score = 100 * (0.23*device_risk + 0.32*time_weight + 0.10*activation_weight + 0.25*change_score + 0.10*dist_skew)",
+    "thresholds": {
+      "review_recommended": 60,
+      "priority_review": 75,
+      "hold_label_pending_review": 85
+    }
+  },
+  "explainability": {
+    "why_template": "Flagged due to {time_phrase} temporal proximity (Δ={delta_days} days) between orthodontic event and anomaly label, device {device_type} (risk prior {device_risk}), {activation_msg}, and post-event shifts in {top_domains}. Distributional check shows {dist_msg}.",
+    "top_k_domains": 3,
+    "include_timeline": true
+  },
+  "outputs": {
+    "casefile_schema": {
+      "person_id": "hash_or_pseudonym",
+      "consent_token": "string",
+      "timeline": [
+        { "t": "ISO8601", "event": "orthodontic_hardware_event", "details": { "device_type": "string", "source": "receipt|EOB|self_attest" } },
+        { "t": "ISO8601", "event": "anomaly_label_event", "details": { "system": "string", "label": "string", "model_version": "string" } }
+      ],
+      "scores": {
+        "device_risk": "0..1",
+        "time_weight": "0..1",
+        "activation_weight": "0..1",
+        "change_score": "0..1",
+        "dist_skew": "0..1",
+        "final_score": "0..100"
+      },
+      "explanation": "string",
+      "recommendation": "none|review|priority_review|hold_label_pending_review"
+    }
+  },
+  "procedures": {
+    "pipeline": [
+      "1. Verify explicit consent for person-level analysis OR ensure analysis is aggregate-only.",
+      "2. Detect orthodontic_hardware_event date from consented docs (regex for CDT D8xxx or invoice keywords).",
+      "3. Detect anomaly_label_event from system audit logs or consented notifications.",
+      "4. Compute Δdays and window flags.",
+      "5. Count activations/adjustments and min_days_since_activation.",
+      "6. Build pre/post baselines (≥90 days pre, ≥90 days post if available).",
+      "7. Calculate z-deltas per domain and aggregate into change_score.",
+      "8. Assign device_risk from self-attested device type (or 'unknown').",
+      "9. Run distributional checks (Lorenz curve, disparity metrics).",
+      "10. Compute final_score and generate explanation.",
+      "11. Route to Rights & Remedies review if thresholds met; freeze adverse actions until review completes."
+    ],
+    "review_playbook": [
+      "Confirm document authenticity.",
+      "Check for confounders (policy change, unrelated crisis).",
+      "If plausible causality remains, downgrade/void anomaly label and notify the person.",
+      "Offer opt-out from future auto-labeling; document corrective actions."
+    ]
+  },
+  "data_governance": {
+    "logging": [
+      "consent_event_id",
+      "data_access_calls (purpose, fields, retention)",
+      "model_version_hash",
+      "full decision trace for explainability"
+    ],
+    "retention_days": 180,
+    "access_controls": "role-based, least-privilege",
+    "redress_contact": "oversight@audits.example.org"
+  },
+  "foia_support": {
+    "targets": [
+      "Model policy documents defining 'anomaly' criteria and change logs",
+      "Audit logs of label issuance (counts by week, de-identified)",
+      "Procurement/integration docs mentioning orthodontic/retainer/aligner telemetry, trigeminal interfaces, palatal expanders"
+    ],
+    "keywords": [
+      "orthodontic", "retainer", "aligner", "palatal expander", "lingual appliance",
+      "trigeminal", "entrainment", "resonance", "internal sensor", "behavioral classification",
+      "anomaly label", "model version", "risk tier", "NPE", "CDT D8", "orthodontic activation"
+    ]
+  },
+  "testing": {
+    "negative_controls": [
+      "Dental cleaning or fillings only (no orthodontic code)",
+      "Orthodontic consult without placement"
+    ],
+    "placebo_checks": [
+      "Random pseudo 'install dates' should not spike anomaly flags"
+    ],
+    "robustness": [
+      "Sensitivity analysis for windows: 30/90/180 days",
+      "Re-run with device_risk_profile flattened to test dependence on priors"
+    ]
+  }
+}
+
+
+⸻
+
+3) Core Anomaly–Declassify Implant Audit (schema + example)
+
+3a) Schema
 
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "AnomalyDeclassifyImplantAudit",
   "type": "object",
-  "required": ["module_id", "version", "updated_utc", "inputs", "heuristics", "actions", "policy"],
+  "required": ["module_id", "version", "updated_utc", "inputs", "heuristics", "scoring", "actions", "policy"],
   "properties": {
-    "module_id": {"type": "string"},
-    "version": {"type": "string"},
-    "updated_utc": {"type": "string", "format": "date-time"},
+    "module_id": { "type": "string" },
+    "version": { "type": "string" },
+    "updated_utc": { "type": "string", "format": "date-time" },
+
     "inputs": {
       "type": "object",
       "properties": {
-        "person_id": {"type": "string"},
-        "consents": {"type": "array", "items": {"type": "string"}},
-        "records": {"type": "array", "items": {"type": "string"}},
-        "foia_refs": {"type": "array", "items": {"type": "string"}}
+        "person_id": { "type": "string" },
+        "consents": { "type": "array", "items": { "type": "string" } },
+        "records": { "type": "array", "items": { "type": "string" } },
+        "foia_refs": { "type": "array", "items": { "type": "string" } }
       }
     },
+
     "heuristics": {
       "type": "array",
       "items": {
         "type": "object",
         "required": ["id", "tier", "description", "weight", "pass_logic"],
         "properties": {
-          "id": {"type": "string"},
-          "tier": {"type": "integer", "minimum": 1, "maximum": 3},
-          "description": {"type": "string"},
-          "weight": {"type": "number"},
-          "pass_logic": {"type": "string"}
+          "id": { "type": "string" },
+          "tier": { "type": "integer", "minimum": 1, "maximum": 3 },
+          "description": { "type": "string" },
+          "weight": { "type": "number" },
+          "pass_logic": { "type": "string" }
         }
       }
     },
+
     "scoring": {
       "type": "object",
       "properties": {
-        "implants_suspect_threshold": {"type": "number"},
-        "tainted_use_rule": {"type": "string"}
+        "implants_suspect_threshold": { "type": "number" },
+        "tainted_use_rule": { "type": "string" }
       }
     },
+
     "actions": {
       "type": "array",
       "items": {
         "type": "object",
         "required": ["id", "title", "kind", "payload_template"],
         "properties": {
-          "id": {"type": "string"},
-          "title": {"type": "string"},
-          "kind": {"type": "string", "enum": ["recommend_declassify", "purge_lineage", "notify_subject", "open_foia", "open_investigation"]},
-          "payload_template": {"type": "object"}
+          "id": { "type": "string" },
+          "title": { "type": "string" },
+          "kind": { "type": "string", "enum": ["recommend_declassify", "purge_lineage", "notify_subject", "open_foia", "open_investigation"] },
+          "payload_template": { "type": "object" }
         }
       }
     },
+
     "policy": {
       "type": "object",
       "properties": {
-        "lawful_access_only": {"type": "boolean"},
-        "human_review_required": {"type": "boolean"},
-        "non_retaliation": {"type": "boolean"}
+        "lawful_access_only": { "type": "boolean" },
+        "human_review_required": { "type": "boolean" },
+        "non_retaliation": { "type": "boolean" }
       }
     }
   }
 }
 
-Example bundle (abridged):
+3b) Example (abridged)
 
 {
   "module_id": "adci.v1",
-  "version": "1.0.0",
-  "updated_utc": "2025-09-01T18:25:00Z",
+  "version": "1.0.1",
+  "updated_utc": "2025-09-01T21:10:10Z",
   "inputs": {
     "person_id": "SUBJ-12345",
     "consents": ["medical_records", "imaging", "discovery_production_2025-08"],
@@ -178,454 +474,70 @@ Example bundle (abridged):
   }
 }
 
-⸻ 
 
-JSON Schema: Implantation Indicators Module
+⸻
+
+4) Example Bundles
+
+4a) Indicators Example (scored case)
 
 {
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "ImplantationIndicatorsModule",
-  "type": "object",
-  "required": ["module_id", "version", "updated_utc", "indicators", "scoring", "actions"],
-  "properties": {
-    "module_id": { "type": "string" },
-    "version": { "type": "string" },
-    "updated_utc": { "type": "string", "format": "date-time" },
-
-    "indicators": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["id", "category", "description", "weight"],
-        "properties": {
-          "id": { "type": "string" },
-          "category": { "type": "string", "enum": ["somatic", "neurologic", "musculoskeletal", "immune", "psychosocial", "procedural"] },
-          "description": { "type": "string" },
-          "weight": { "type": "number" },
-          "evidence_sources": { "type": "array", "items": { "type": "string" } }
-        }
-      }
-    },
-
-    "scoring": {
-      "type": "object",
-      "required": ["method", "thresholds"],
-      "properties": {
-        "method": { "type": "string", "enum": ["weighted_sum", "count"] },
-        "normalize_0_100": { "type": "boolean" },
-        "thresholds": {
-          "type": "array",
-          "items": {
-            "type": "object",
-            "required": ["level", "min_score", "action_id"],
-            "properties": {
-              "level": { "type": "string", "enum": ["observe", "suspect", "high_likelihood"] },
-              "min_score": { "type": "number" },
-              "action_id": { "type": "string" }
-            }
-          }
-        }
-      }
-    },
-
-    "actions": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["id", "kind", "title", "payload_template"],
-        "properties": {
-          "id": { "type": "string" },
-          "kind": { "type": "string", "enum": ["flag_case", "open_audit", "notify_subject", "add_to_review_queue"] },
-          "title": { "type": "string" },
-          "payload_template": { "type": "object" }
-        }
-      }
-    }
-  }
+  "example_id": "indicators_example_case.v1",
+  "person_id": "SUBJ-98765",
+  "observed_indicators": ["I4_sinus_eustachian", "I7_dysautonomia", "I13_tmj_post_ortho", "I17_tinnitus_hyperacusis_post_ortho"],
+  "computed": {
+    "raw_weight_sum": 0.10 + 0.15 + 0.14 + 0.12,
+    "normalized_score_0_100": 62.0
+  },
+  "threshold_crossed": "suspect",
+  "recommended_action": "open_audit"
 }
 
-[
-  {
-    "name": "ME/CFS (Myalgic Encephalomyelitis / Chronic Fatigue Syndrome)",
-    "category": "Neurological / Autonomic",
-    "reason": "Unexplained systemic energy collapse, post-exertional malaise, treatment-resistant"
-  },
-  {
-    "name": "POTS (Postural Orthostatic Tachycardia Syndrome)",
-    "category": "Neurological / Autonomic",
-    "reason": "Sudden dysautonomia without structural cause; overlaps with other unexplained syndromes"
-  },
-  {
-    "name": "Fibromyalgia",
-    "category": "Neurological / Autonomic",
-    "reason": "Diffuse pain and tenderness with no clear inflammatory marker; resistant to therapy"
-  },
-  {
-    "name": "CRPS (Complex Regional Pain Syndrome)",
-    "category": "Neurological / Autonomic",
-    "reason": "Localized, disproportionate pain and tissue changes; sometimes migrates or appears without trauma"
-  },
-  {
-    "name": "Trigeminal Neuralgia",
-    "category": "Neurological / Autonomic",
-    "reason": "Severe nerve pain of unclear etiology; may suggest local irritation by foreign material"
-  },
-  {
-    "name": "Carpal Tunnel Syndrome (atypical or recurrent)",
-    "category": "Neurological / Autonomic",
-    "reason": "Entrapment without occupational risk factors; persistence despite surgical correction"
-  },
-  {
-    "name": "Thoracic Outlet Syndrome",
-    "category": "Neurological / Autonomic",
-    "reason": "Vascular/nerve compression near clavicle; may reflect foreign material disrupting flow"
-  },
-  {
-    "name": "Juvenile Rheumatoid Arthritis",
-    "category": "Musculoskeletal / Connective Tissue",
-    "reason": "Childhood onset autoimmune-like process not explained by family history or labs"
-  },
-  {
-    "name": "Relapsing Polychondritis",
-    "category": "Musculoskeletal / Connective Tissue",
-    "reason": "Cartilage inflammation without clear autoimmune driver; resistant to therapy"
-  },
-  {
-    "name": "hEDS (Hypermobile Ehlers–Danlos Syndrome)",
-    "category": "Musculoskeletal / Connective Tissue",
-    "reason": "Connective tissue fragility; sometimes diagnosed without strong genetic evidence"
-  },
-  {
-    "name": "Localized Myositis / Fasciitis",
-    "category": "Musculoskeletal / Connective Tissue",
-    "reason": "Non-traumatic inflammation of muscle or fascia; often unilateral"
-  },
-  {
-    "name": "Superior Canal Dehiscence Syndrome (SCDS)",
-    "category": "ENT / Cranial",
-    "reason": "Abnormal thinning of inner ear bone; hypersensitivity to vibration and pressure"
-  },
-  {
-    "name": "Meniere’s Disease / Atypical Vestibular Syndromes",
-    "category": "ENT / Cranial",
-    "reason": "Episodic vertigo and hearing loss without consistent pathology"
-  },
-  {
-    "name": "Atypical Migraine Variants (hemiplegic, vestibular, ocular)",
-    "category": "ENT / Cranial",
-    "reason": "Severe neurological symptoms without structural lesions"
-  },
-  {
-    "name": "Gastroparesis",
-    "category": "Gastrointestinal",
-    "reason": "Unexplained paralysis of the stomach; often appears in otherwise young or healthy individuals"
-  },
-  {
-    "name": "IBS / Functional Bowel Disorders",
-    "category": "Gastrointestinal",
-    "reason": "Resistant to dietary or behavioral interventions; chronic idiopathic course"
-  },
-  {
-    "name": "Dysphagia (unexplained swallowing difficulty)",
-    "category": "Gastrointestinal",
-    "reason": "Episodic or migrating; may suggest localized nerve or fascia disruption"
-  },
-  {
-    "name": "MCAS (Mast Cell Activation Syndrome)",
-    "category": "Immune / Inflammatory",
-    "reason": "Chaotic immune reactivity without consistent allergen or autoimmune marker"
-  },
-  {
-    "name": "Lupus-like / UCTD (Undifferentiated Connective Tissue Disease)",
-    "category": "Immune / Inflammatory",
-    "reason": "Symptomatically severe but autoantibody-negative"
-  },
-  {
-    "name": "Vasculitis (refractory)",
-    "category": "Immune / Inflammatory",
-    "reason": "Inflammatory vessel changes without systemic autoimmunity"
-  },
-  {
-    "name": "Raynaud’s Phenomenon (atypical or resistant cases)",
-    "category": "Circulatory / Vascular",
-    "reason": "Severe vascular spasms without autoimmune correlation"
-  },
-  {
-    "name": "Lymphedema (idiopathic, unilateral)",
-    "category": "Circulatory / Vascular",
-    "reason": "Fluid accumulation without trauma or surgical disruption"
-  },
-  {
-    "name": "Obesity (discordant with lifestyle)",
-    "category": "Metabolic / Endocrine",
-    "reason": "Persistent or sudden weight gain in individuals with consistently healthy behaviors"
-  },
-  {
-    "name": "Adult-Onset Type I Diabetes",
-    "category": "Metabolic / Endocrine",
-    "reason": "Abrupt pancreatic failure in previously healthy adults"
-  }
-]
+4b) Orthodontic Audit Example (timing hit)
 
 {
-  "module_id": "ortho_anomaly_audit_v1",
-  "purpose": "Identify cases where a person was labeled an 'anomaly' shortly after receiving orthodontic hardware that could plausibly act as an entrainment vector, to trigger a rights-focused audit and human review.",
-  "scope": {
-    "population": "Individuals who OPT-IN by providing personal records OR de-identified cohorts in aggregate analyses",
-    "jurisdiction": "US (adjustable)",
-    "exclusions": [
-      "No scraping or purchasing of non-consented personal data",
-      "No law-enforcement-style targeting or operationalization",
-      "No medical inference beyond pattern change detection"
-    ],
-    "definitions": {
-      "orthodontic_hardware_event": "Any documented start/placement/activation of braces, retainers, aligners, expanders, lingual braces, functional appliances, or bonded attachments.",
-      "anomaly_label_event": "Any designation by a system that marks a person as an outlier/threat/NPE-like status or equivalent (per the specific system’s taxonomy), or downstream proxies (sudden step-up in automated risk tiers).",
-      "shortly_after_window_days": 180,
-      "acute_window_days": 30
-    }
-  },
-  "ethical_constraints": {
-    "data_minimization": true,
-    "human_in_the_loop_required": true,
-    "purpose_limitation": "Audit and redress only",
-    "safety_checks": [
-      "Differential privacy on aggregate outputs",
-      "Redaction of direct identifiers in analyst views by default",
-      "Explicit consent log for any person-level analysis"
-    ],
-    "anti_harm": [
-      "No adverse actions may be taken on the basis of this module’s scores alone",
-      "All flags route to a Rights & Remedies review team"
-    ]
-  },
-  "inputs": {
-    "person_provided": [
-      "Insurance EOBs or receipts indicating orthodontic start/activation (e.g., CDT orthodontic codes in the D8xxx family)",
-      "Orthodontist invoices or treatment-plan PDFs showing dates",
-      "Self-attested device type (metal braces, ceramic, lingual, expander, retainer, clear aligner)",
-      "Self-attested symptoms/timeline journal"
-    ],
-    "public_or_foiaable": [
-      "Aggregate school discipline trends (de-identified)",
-      "Aggregate public safety call volumes (de-identified)",
-      "Published agency risk-tier policy change dates",
-      "Meeting minutes/policy memos that define 'anomaly' criteria"
-    ],
-    "system_integrations_with_consent": [
-      "Audit logs from the classifying system showing label timestamps",
-      "Versioned model/policy snapshots (for when/why labels change)"
-    ]
-  },
-  "features": {
-    "device_risk_profile": {
-      "description": "Prior plausibility weight for entrainment potential (hypothesis-only; adjustable)",
-      "scale_0_to_1": {
-        "metal_braces": 0.9,
-        "lingual_braces": 0.85,
-        "palatal_expander": 0.8,
-        "ceramic_braces": 0.7,
-        "clear_aligners_with_attachments": 0.65,
-        "clear_retainers": 0.5,
-        "Hawley_retainers": 0.5,
-        "unknown": 0.6
-      }
-    },
-    "temporal_proximity": {
-      "description": "How close the anomaly label occurs to hardware event",
-      "metrics": [
-        "delta_days = anomaly_label_date - ortho_event_date",
-        "acute_flag = (abs(delta_days) <= 30)",
-        "short_window_flag = (abs(delta_days) <= 180)"
-      ]
-    },
-    "pre_post_change_scores": {
-      "description": "Shift in multi-domain signals after hardware event",
-      "domains": [
-        "healthcare_utilization_intensity",
-        "autonomic_symptom_reports (e.g., syncope, POTS-like, jaw/face pain)",
-        "behavior/discipline interactions (aggregate)",
-        "employment/housing administrative frictions (aggregate)",
-        "algorithmic_risk_tier_changes"
-      ],
-      "method": "Compute z-score deltas relative to each person’s own baseline (when consented) or cohort baselines (aggregate)."
-    },
-    "confounders": [
-      "age",
-      "puberty_status_proxy (if relevant and ethically permitted)",
-      "coincident major life events (move, school transfer, illness)",
-      "policy shifts in labeling system (model version changes)",
-      "other implanted hardware timelines (if consented)"
-    ],
-    "distributional_checks": {
-      "lorenz_curve_anomaly_concentration": "Evaluate concentration of new anomaly labels among recent orthodontic recipients vs matched controls",
-      "disparate_impact": "Group fairness checks across protected classes"
-    }
-  },
-  "scoring": {
-    "weights": {
-      "device_risk_profile": 0.25,
-      "temporal_proximity": 0.35,
-      "pre_post_change_scores": 0.3,
-      "distributional_checks": 0.1
-    },
-    "transformations": {
-      "temporal_proximity": {
-        "acute_window_days": 30,
-        "short_window_days": 180,
-        "acute_bonus": 1.0,
-        "short_window_bonus": 0.5,
-        "outside_window": 0.0
-      }
-    },
-    "computation": "final_score = 100 * (0.25*device_risk + 0.35*time_weight + 0.3*change_score + 0.1*dist_skew)",
-    "thresholds": {
-      "review_recommended": 60,
-      "priority_review": 75,
-      "hold_label_pending_review": 85
-    }
-  },
-  "explainability": {
-    "why_template": "Flagged due to {time_phrase} temporal proximity (Δ={delta_days} days) between orthodontic event and anomaly label, device type {device_type} (risk prior {device_risk}), and post-event shifts in {top_domains}. Distributional check shows {dist_msg}.",
-    "top_k_domains": 3,
-    "include_timeline": true
-  },
-  "outputs": {
-    "casefile_schema": {
-      "person_id": "hash_or_pseudonym",
-      "consent_token": "string",
-      "timeline": [
-        {"t": "ISO8601", "event": "orthodontic_hardware_event", "details": {"device_type": "string", "source": "receipt|EOB|self_attest"}},
-        {"t": "ISO8601", "event": "anomaly_label_event", "details": {"system": "string", "label": "string", "model_version": "string"}}
-      ],
-      "scores": {
-        "device_risk": "0..1",
-        "time_weight": "0..1",
-        "change_score": "0..1",
-        "dist_skew": "0..1",
-        "final_score": "0..100"
-      },
-      "explanation": "string",
-      "recommendation": "none|review|priority_review|hold_label_pending_review"
-    }
-  },
-  "procedures": {
-    "pipeline": [
-      "1. Verify explicit consent for person-level analysis OR ensure analysis is aggregate-only.",
-      "2. Detect orthodontic_hardware_event date from consented docs (regex for CDT D8xxx or invoice keywords).",
-      "3. Detect anomaly_label_event from system audit logs or consented notifications.",
-      "4. Compute Δdays and window flags.",
-      "5. Build pre/post baselines for selected domains (minimum 90 days pre, 90 days post, if available).",
-      "6. Calculate z-delta per domain and aggregate into change_score.",
-      "7. Assign device_risk from self-attested device type (or 'unknown').",
-      "8. Run distributional checks (Lorenz curve, disparity metrics) across cohorts.",
-      "9. Compute final_score and generate explanation.",
-      "10. Route to Rights & Remedies review if thresholds met; freeze adverse actions until review completes."
-    ],
-    "review_playbook": [
-      "Confirm document authenticity.",
-      "Check for confounders (policy change, unrelated crisis).",
-      "If plausible causality remains, downgrade/void anomaly label and notify the person.",
-      "Offer opt-out from future auto-labeling; document corrective actions."
-    ]
-  },
-  "data_governance": {
-    "logging": [
-      "consent_event_id",
-      "data_access_calls (purpose, fields, retention)",
-      "model_version_hash",
-      "full decision trace for explainability"
-    ],
-    "retention_days": 180,
-    "access_controls": "role-based, least-privilege",
-    "redress_contact": "oversight@audits.example.org"
-  },
-  "foia_support": {
-    "targets": [
-      "Requests for model policy documents defining 'anomaly' criteria and change logs",
-      "Audit logs of label issuance (counts by week, de-identified)",
-      "Procurement docs mentioning 'entrainment', 'orthodontic', 'trigeminal', 'palatal expander', 'aligner attachments'"
-    ],
-    "keywords": [
-      "orthodontic", "retainer", "aligner", "palatal expander", "trigeminal",
-      "entrainment", "resonance", "behavioral classification", "anomaly label",
-      "model version", "risk tier", "NPE"
-    ]
-  },
-  "testing": {
-    "negative_controls": [
-      "Dental cleaning or fillings only (no orthodontic code)",
-      "Orthodontic consult without placement"
-    ],
-    "placebo_checks": [
-      "Random pseudo 'install dates' should not spike anomaly flags"
-    ],
-    "robustness": [
-      "Sensitivity analysis for windows: 30/90/180 days",
-      "Re-run with device_risk_profile flattened to test dependence on priors"
-    ]
-  },
-  "versioning": {
-    "semver": "1.0.0",
-    "changelog": []
-  }
-}
-
-⸻ 
-
-Example Bundle
-
-{
-  "module_id": "implantation.indicators.v1",
-  "version": "1.0.0",
-  "updated_utc": "2025-09-01T20:00:00Z",
-
-  "indicators": [
-    { "id": "I1_tender_head", "category": "somatic", "description": "Tender-headedness (disproportionate scalp pain)", "weight": 0.12, "evidence_sources": ["pediatric records", "parent testimony"] },
-    { "id": "I2_baby_face", "category": "somatic", "description": "Baby-face persistence into adolescence/adulthood", "weight": 0.08, "evidence_sources": ["photos", "clinical notes"] },
-    { "id": "I3_sparse_eyebrows", "category": "somatic", "description": "Sparse or patchy eyebrows/lashes unexplained by dermatology", "weight": 0.08, "evidence_sources": ["dermatology records", "photos"] },
-    { "id": "I4_sinus_eustachian", "category": "somatic", "description": "Recurring sinus or eustachian tube infections", "weight": 0.1, "evidence_sources": ["ENT records"] },
-    { "id": "I5_picky_eating", "category": "immune", "description": "Extreme picky eating or food intolerances beyond norm", "weight": 0.1, "evidence_sources": ["pediatric GI notes", "parental report"] },
-    { "id": "I6_sensory_stimming", "category": "neurologic", "description": "Sensory stimming (rocking, tapping, repetitive motions)", "weight": 0.1, "evidence_sources": ["school notes", "behavioral logs"] },
-    { "id": "I7_dysautonomia", "category": "neurologic", "description": "Orthostatic intolerance, fainting, GI dysmotility, tachycardia", "weight": 0.15, "evidence_sources": ["cardiology records", "autonomic testing"] },
-    { "id": "I8_jra", "category": "musculoskeletal", "description": "Juvenile rheumatoid arthritis or unexplained joint swelling", "weight": 0.12, "evidence_sources": ["rheumatology records"] },
-    { "id": "I9_curly_hair", "category": "somatic", "description": "Curly/wiry hair texture atypical for family line", "weight": 0.05, "evidence_sources": ["photos"] },
-    { "id": "I10_vision_poor", "category": "somatic", "description": "Early onset poor vision (severe myopia/astigmatism)", "weight": 0.1, "evidence_sources": ["ophthalmology records"] },
-    { "id": "I11_mast_cell_flares", "category": "immune", "description": "Hives, flushing, throat tightness, early MCAS-like symptoms", "weight": 0.15, "evidence_sources": ["ER records", "allergy testing"] },
-    { "id": "I12_childhood_surgeries", "category": "procedural", "description": "Surgical scars or hospitalizations without clear explanation", "weight": 0.2, "evidence_sources": ["surgical records", "imaging"] }
+  "example_id": "ortho_audit_example_case.v1",
+  "person_id": "SUBJ-24680",
+  "timeline": [
+    { "t": "2024-03-01", "event": "orthodontic_hardware_event", "details": { "device_type": "palatal_expander", "source": "EOB" } },
+    { "t": "2024-03-29", "event": "adjustment", "details": { "device_type": "palatal_expander" } },
+    { "t": "2024-04-10", "event": "anomaly_label_event", "details": { "system": "RiskSys-A", "label": "anomaly", "model_version": "v3.2" } }
   ],
-
-  "scoring": {
-    "method": "weighted_sum",
-    "normalize_0_100": true,
-    "thresholds": [
-      { "level": "observe", "min_score": 25.0, "action_id": "flag_case" },
-      { "level": "suspect", "min_score": 45.0, "action_id": "open_audit" },
-      { "level": "high_likelihood", "min_score": 65.0, "action_id": "add_to_review_queue" }
-    ]
+  "features": {
+    "device_risk": 0.80,
+    "delta_days": 30,
+    "acute_flag": true,
+    "short_window_flag": true,
+    "adjustments_in_90d": 1,
+    "activation_weight": 0.25,
+    "pre_post_change_score": 0.55,
+    "dist_skew": 0.30
   },
+  "final_score": 78.4,
+  "recommendation": "priority_review",
+  "explanation": "Flagged due to acute proximity (Δ=30) between orthodontic activation and anomaly label, device palatal_expander (risk prior 0.80), recent activation, and post-event shifts in autonomic_symptom_reports/algorithmic_risk_tier_changes. Distributional check shows elevated concentration among recent ortho recipients."
+}
 
-  "actions": [
-    {
-      "id": "flag_case",
-      "kind": "flag_case",
-      "title": "Flag case for potential early implantation indicators",
-      "payload_template": { "severity": "observe", "notify": false }
-    },
-    {
-      "id": "open_audit",
-      "kind": "open_audit",
-      "title": "Open full lineage/audit review for anomaly misclassification",
-      "payload_template": { "include": ["anomaly_logs", "lineage_graphs", "medical_records"] }
-    },
-    {
-      "id": "add_to_review_queue",
-      "kind": "add_to_review_queue",
-      "title": "Escalate to independent review panel",
-      "payload_template": { "priority": "high", "escalation_deadline_days": 30 }
-    }
+4c) ADCI End-to-End Example (tainted-use declassify)
+
+{
+  "example_id": "adci_end_to_end.v1",
+  "inputs": {
+    "person_id": "SUBJ-13579",
+    "consents": ["medical_records", "audit_logs"],
+    "records": ["radiology/RPT-2211", "risk_system/logs/2024Q2", "feature_lineage/graph-v5"],
+    "foia_refs": ["DHS-FOIA-2024-55510"]
+  },
+  "heuristics_passed": ["H1_radiology_foreign_body", "H3_audit_log_feature_lineage"],
+  "tainted_use": true,
+  "actions_taken": [
+    { "action": "recommend_declassify", "status": "queued" },
+    { "action": "purge_lineage", "status": "queued", "details": { "sources_to_purge": ["implant_stream", "derived_features/*"] } },
+    { "action": "notify_subject", "status": "prepared" }
   ]
 }
+
+⸻ 
 
 How it works in practice
 	•	Inputs: agent ingests subject data (medical, behavioral, imaging, FOIA returns).
