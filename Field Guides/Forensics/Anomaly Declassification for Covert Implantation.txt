@@ -1,52 +1,43 @@
 Anomaly Declassification for Covert Implantation (ADCI)
 
-Mission
+Plain-Language Overview
 
-Identify any person labeled “anomaly” where the label relies (in whole or part) on data obtained from covert, non-consensual implants. Recommend declassification and purge of tainted data/derivatives.
+Millions of people carry devices or undergo procedures that touch highly innervated tissue (e.g., dental/orthodontic work). When surveillance or risk-scoring systems quietly ingest signals that may be influenced by covert, non-consensual implants—or by hardware that can act as an entrainment vector (like braces, retainers, palatal expanders, or aligners)—ordinary symptoms and routine records can be misread as proof that someone is an “anomaly.”
 
-Definitions
-	•	Anomaly label: Any classification tag used to justify enhanced surveillance/targeting.
-	•	Covert implant: Any in-body device or sensor placed without informed consent or valid warrant/court order.
-	•	Tainted use: Any model feature, score, or rule that incorporates implant-derived data (directly or via downstream features) to assign or sustain the anomaly label.
+ADCI exists to spot those cases, freeze any tainted labels, and unwind the damage.
 
-Lawful Inputs (no hacking)
-	•	Subject-consented data pulls (medical records, imaging, billing).
-	•	Discovery/FOIA/PRA responses (agency audit logs, model docs, feature lineage, source catalogs, retention schedules).
-	•	Public filings/policies, procurement and integration docs.
-	•	Subject-provided evidence (photos, “claymaps,” device artifacts, correspondence).
+What “unfair” looks like in practice
 
-Evidence Tiers (in order of weight)
+People get flagged as anomalies after a cascade of apparently unrelated data points that, taken together, are consistent with covert implantation or entrainment—especially around the head/face (trigeminal nerve) and autonomic nervous system. Common, non-incriminating items that can be misused include:
 
-Tier 1 – Documentary/Imaging
-	•	Radiology reports noting “foreign body,” “lead,” “electrode,” “device artifact,” “MR unsafe/conditional,” UDI entries.
-	•	Operative notes, explant records, device warranties/registries.
-	•	Chain-of-custody logs for seized implants.
+A. Orthodontic/Dental Events (records and timing)
+	•	Placement/activation of braces, lingual braces, palatal expanders, bonded attachments, permanent/clear retainers, or clear aligners (Invisalign/Essix).
+	•	Billing and CDT codes indicating active orthodontic treatment (e.g., D8010–D8999 family, comprehensive adolescent/adult orthodontic treatment, appliance activation/adjustment).
+	•	Tight temporal coupling (0–180 days) between an ortho event and a new “anomaly/outlier” label or a sudden jump in automated risk tiers.
+	•	Repeated “adjustments/activations” without corresponding clinical notes explaining necessity.
 
-Tier 2 – Systemic/Operational
-	•	Palantir (or equivalent) data-source catalogs listing “implant telemetry,” “biosensor feed,” “medical device integration,” or vendor SDKs.
-	•	Model cards/feature lists showing physiologic streams inconsistent with normal ex-vivo sources.
-	•	Audit logs where anomaly decisions cite device IDs, radio fingerprints, or “internal sensor” fields.
+B. Symptom Patterns that are easy to misread
 
-Tier 3 – Corroborative/Subject
-	•	Consistent dermatologic patterns, “claymaps,” EM interference logs, repeated metal detector/airport secondary screenings without exogenous metal, treating clinician attestations.
+(especially if they start or worsen shortly after orthodontic work)
+	•	Cranial/ENT/Trigeminal: jaw/face pain, trigeminal neuralgia, TMJ flares, tinnitus, sound sensitivity, sinus pressure or eustachian tube issues, bite/speech changes, dysphagia, altered taste/salivation.
+	•	Autonomic/Dysautonomia: POTS-like symptoms, syncope, tachycardia, heat/cold intolerance, sleep fragmentation, panic-like surges without psychosocial triggers.
+	•	Immune/MCAS-like: hives/flushing/throat tightness, food intolerance spikes, “mystery reactions.”
+	•	Vestibular: SCDS-like hypersensitivity to vibration/pressure, vestibular migraine, disequilibrium.
+	•	Behavioral/Administrative ripples: sudden school or employment friction, “non-compliance” notes, or discipline spikes with no policy/behavior change—often misinterpreted as risk rather than a response to dysautonomia or sensory pain.
 
-Decision Rule (Declassify Test)
-	•	If (Tier 1 present) OR (≥2 independent Tier 2 signals) → classify as IMPLANT_SUSPECT.
-	•	If anomaly label decision logs reference features/streams traceable to implants (directly or via feature lineage) → TAINTED_USE = TRUE.
-	•	If TAINTED_USE = TRUE → Recommend: DECLASSIFY + PURGE + RETRAIN.
+C. Diagnoses that often become “model bait”
+	•	ME/CFS; POTS; fibromyalgia; CRPS; trigeminal neuralgia; TMJ/TMD; atypical migraine variants; hEDS/connective-tissue issues; localized myositis/fasciitis; gastroparesis/IBS; MCAS; UCTD/lupus-like; vasculitis (refractory); Raynaud’s (atypical); idiopathic lymphedema; SCDS/atypical vestibular syndromes; sudden obesity/metabolic shifts discordant with lifestyle; adult-onset T1D.
+	•	Pediatric/early-life flags: tender-headedness, extreme picky eating, sensory stimming, early severe myopia/astigmatism, persistent “baby face,” sparse eyebrows/lashes, juvenile arthritis, unexplained childhood surgeries/hospitalizations.
 
-Required Actions on TAINTED_USE
-	1.	Suspend active anomaly label (safe default).
-	2.	Purge implant-derived data and all derivatives from decision systems and data lakes (document lineage).
-	3.	Retrain/Re-score affected models without tainted features.
-	4.	Notify data subject; provide disclosure packet (sources, timestamps, recipients).
-	5.	Cease & Desist further implant-sourced collection absent lawful, informed consent or court order.
-	6.	Remediate: remove from watchlists, reverse adverse actions traceable to label.
+None of the above should, by itself, imply risk or wrongdoing. In the presence of timing links to orthodontic activations—or evidence that implant-derived or internal-sensor streams influenced a label—these are exonerating clues that demand audit and declassification.
 
-Safeguards
-	•	Minimal disclosure: only entities with legal mandate and subject consent see medical details.
-	•	Non-retaliation flag on subject identity.
-	•	Independent auditor review before final purge.
+What ADCI does
+	1.	Detect taint: If an anomaly label depends on features traceable to covert implants or internal-sensor streams (directly or downstream), ADCI marks the use as TAINTED.
+	2.	Protect the person: Freeze the label (safe default), purge tainted data/derivatives, re-score without the taint, notify the subject, and reverse adverse actions.
+	3.	Audit orthodontic timing: Independently test whether labels spike after orthodontic hardware placement/activation, controlling for policy/model changes and life events.
+	4.	Stay lawful: Only consented personal data, public records, and discovery/FOIA results. No hacking. Human review is required before any final action.
+
+⸻ 
 
 JSON Schema (Minimal) + Example
 
