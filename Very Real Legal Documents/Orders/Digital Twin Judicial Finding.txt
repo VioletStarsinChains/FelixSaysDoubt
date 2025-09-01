@@ -1,7 +1,3 @@
-Here’s a draft Proposed Judicial Finding styled for federal court:
-
-⸻
-
 IN THE UNITED STATES DISTRICT COURT
 
 ⸻
@@ -21,8 +17,6 @@ and
 JOHN DOE DEFENSE CONTRACTORS,
 whose names and identities are presently unknown,
   Defendants.
-
-Civil Action No. _______
 
 ⸻
 
