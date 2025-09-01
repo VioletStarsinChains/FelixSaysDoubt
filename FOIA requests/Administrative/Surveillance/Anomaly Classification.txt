@@ -1,0 +1,45 @@
+To DHS / Privacy Office (including ICE, CBP, USCIS components)
+
+Request:
+
+Requesting any and all records from 2012 to present concerning the assignment, maintenance, or removal of “anomaly” classifications for individuals, including but not limited to: data-source catalogs, model/feature documentation, audit logs, decision justifications, source lineage, retention schedules, and integration guides that reference in-body/implant telemetry or biosensor streams. Please include records indicating whether implant-derived data (directly or via derived features) was relied upon to assign or sustain an anomaly label, and any procedures for declassification and purge where such reliance is found.
+
+This includes:
+	•	Source catalogs and data-use inventories listing “implant,” “biosensor,” “telemetry,” “medical device,” or vendor SDKs for in-body sensors
+	•	Model cards/feature lists, feature lineage/graph exports, and decision-explanation logs for anomaly labels
+	•	Policies, SOPs, and guidance on lawful bases, consent, or warrants for any implant-sourced data
+	•	Declassification procedures, purge workflows, notices to subjects, and remediation protocols when anomaly labels are tainted by implant-sourced data
+	•	Communications with federal, state, or contractor partners (including Palantir) regarding use of implant-derived streams in anomaly detection
+	•	Audit reports, assessments, or after-action reviews on misclassification or improper data sourcing
+
+Keywords: anomaly classification, feature lineage, implant telemetry, biosensor, medical device data, Palantir, Gotham, audit log, declassification, purge, model card, data source catalog
+
+————
+
+To FBI / DOJ (including CJIS and NSD, as applicable)
+
+Request:
+
+Requesting any and all records from 2012 to present related to anomaly or similar classifications used in investigative analytics platforms, including data-source inventories, feature lineages, model documentation, audit logs, and policies describing any ingestion of implant-derived or in-body biosensor data. Also requesting records of declassification, purge, or remediation where such implant-sourced data contributed to a classification.
+
+This includes:
+	•	Decision logs and explanations referencing physiological/telemetry fields inconsistent with ex-vivo sources
+	•	Integration documents or vendor interfaces enabling in-body device data ingestion
+	•	Standard operating procedures for removing tainted labels and notifying impacted individuals
+
+Keywords: anomaly label, implant, biosensor, telemetry, feature lineage, Palantir, audit trail, declassification, purge, CJIS, model governance
+
+————
+
+To [City/State Agency Name] / Police Department / Records Unit (Public Records Act)
+
+Request:
+
+Requesting records from 2012 to present concerning classification of individuals as anomalies (or equivalent label) within analytic platforms used by the department, including source catalogs, model/feature documentation, audit logs, decision explanations, and any references to implant-derived or in-body biosensor data. Also requesting policies and actions related to declassification and purge where implant-sourced data is present.
+
+This includes:
+	•	Platform data dictionaries and source lists (including contractor integrations)
+	•	Audit extracts showing features/fields that fed anomaly labels
+	•	Removal/declassification protocols and any notices provided to affected persons
+
+Keywords: anomaly, classification, implant telemetry, biosensor, Palantir, vendor integration, audit, declassification, purge
