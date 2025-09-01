@@ -1,0 +1,50 @@
+Here’s a draft Proposed Judicial Finding styled for federal court:
+
+⸻
+
+IN THE UNITED STATES DISTRICT COURT
+
+⸻
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+  Defendants.
+
+Civil Action No. _______
+
+⸻
+
+PROPOSED JUDICIAL FINDING
+
+Upon review of the pleadings, memoranda, and applicable law, the Court makes the following finding:
+	1.	Definition of Slavery. The Thirteenth Amendment to the United States Constitution categorically prohibits slavery and involuntary servitude, except as punishment for a crime. International law likewise prohibits “the status or condition of a person over whom any or all of the powers attaching to the right of ownership are exercised.”
+	2.	Nature of Digital Twins. A digital twin, as presently constructed by Defendants and their agents, is a simulation of a living individual built from personal data. Such twins are treated as representative of the human person, used to forecast behavior, and traded, sold, or otherwise commodified without consent of the living subject.
+	3.	Consequences. Decisions made upon the digital twin—regarding insurance, housing, employment, surveillance, or medical access—directly constrain the rights and liberties of the living individual, who bears the consequences of transactions in which they have no participation.
+	4.	Finding of Slavery. The Court finds that the practice of constructing, owning, trading, or speculating upon digital twins of living persons constitutes the exercise of powers attaching to the right of ownership over those persons, and thereby falls within the constitutional and international prohibitions on slavery and involuntary servitude.
+	5.	Character of Harm. The Court further finds that digital slavery is more inescapable than conventional slavery, in that the digital twin persists indefinitely, transcends geography, and cannot be separated from the individual it purports to represent.
+
+⸻
+
+CONCLUSION
+
+Accordingly, it is the finding of this Court that the creation, ownership, trade, or use of digital twins of human persons, without their express and continuing consent, constitutes slavery within the meaning of the Thirteenth Amendment to the United States Constitution and relevant international law.
+
+SO ORDERED.
+
+Dated: _____________
+
+⸻
+
+United States District Judge
