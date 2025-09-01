@@ -102,3 +102,213 @@ Thresholds
 
 ⚖️ Key takeaway:
 This module lets an AI agent treat the trench-coat joke seriously: when “many identities” collapse into one or two templates, it’s measurable as reference model concentration — and that collapse itself is an audit-worthy anomaly.
+
+⸻ 
+
+Schema: reference_model_concentration.schema.json
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ReferenceModelConcentrationBundle",
+  "type": "object",
+  "required": [
+    "bundle_id",
+    "source_module",
+    "collection",
+    "time_range",
+    "method",
+    "metrics",
+    "features",
+    "anomaly_score",
+    "thresholds",
+    "classification",
+    "audit_trigger"
+  ],
+  "properties": {
+    "bundle_id": { "type": "string", "description": "Unique ID (UUID or hash)" },
+    "source_module": { "type": "string", "const": "ReferenceModelConcentration" },
+
+    "collection": {
+      "type": "object",
+      "required": ["domain", "entity_label", "unit", "region"],
+      "properties": {
+        "domain": { "type": "string", "description": "What this dataset represents (e.g., MusicCatalog, HousingLayouts, SKUSupply, GameActivity)" },
+        "entity_label": { "type": "string", "description": "What each item is (e.g., track, parcel, sku, account)" },
+        "unit": { "type": "string", "description": "What is being measured (e.g., acoustic_features, layout_vectors, shipments, action_traces)" },
+        "region": { "type": "string" },
+        "size_n": { "type": "integer", "description": "Number of entities analyzed" }
+      }
+    },
+
+    "time_range": {
+      "type": "object",
+      "required": ["start", "end"],
+      "properties": {
+        "start": { "type": "string", "format": "date" },
+        "end": { "type": "string", "format": "date" }
+      }
+    },
+
+    "method": {
+      "type": "object",
+      "required": ["template_technique"],
+      "properties": {
+        "template_technique": { "type": "string", "description": "How templates were derived (e.g., PCA, NMF, k-means clusters, HMM states)" },
+        "top_k_evaluated": { "type": "integer", "description": "How many top templates/components were examined for concentration (e.g., 5)" },
+        "feature_space_brief": { "type": "string", "description": "Short description of features used (e.g., MFCC+breath variance, SKU-attribute vectors)" }
+      }
+    },
+
+    "metrics": {
+      "type": "object",
+      "required": ["vett_percent", "gini_templates", "recurrence_index", "persistence_days"],
+      "properties": {
+        "vett_percent": { "type": "number", "description": "% variance explained by top_k templates (0-100)" },
+        "gini_templates": { "type": "number", "minimum": 0, "maximum": 1, "description": "Gini on template usage across the dataset" },
+        "recurrence_index": { "type": "number", "description": "% of rare/quirky features that recur identically across distinct identities (0-100)" },
+        "persistence_days": { "type": "integer", "description": "Consecutive days/weeks the concentration pattern persists" }
+      }
+    },
+
+    "features": {
+      "type": "object",
+      "properties": {
+        "template_overload": { "type": "boolean", "description": "Few templates explain most variance" },
+        "stylistic_collapse": { "type": "boolean", "description": "Distinct identities share identical micro-signatures" },
+        "continuity_recycling": { "type": "boolean", "description": "Identical rare quirks reused across outputs" }
+      }
+    },
+
+    "anomaly_score": { "type": "integer", "minimum": 0, "maximum": 100 },
+
+    "thresholds": {
+      "type": "object",
+      "required": ["low", "medium", "high"],
+      "properties": {
+        "low": { "type": "integer" },
+        "medium": { "type": "integer" },
+        "high": { "type": "integer" }
+      }
+    },
+
+    "classification": { "type": "string", "enum": ["Low", "Medium", "High"] },
+
+    "audit_trigger": {
+      "type": "object",
+      "required": ["recommended_auditor", "audit_scope", "justification", "cross_dataset_join", "urgency"],
+      "properties": {
+        "recommended_auditor": { "type": "string", "description": "Team/org best positioned to verify (e.g., Platform Integrity, Industry Watchdog, Digital Rights NGO)" },
+        "audit_scope": { "type": "string", "description": "What to reconcile or inspect" },
+        "justification": { "type": "string", "description": "Plain-language reason this bundle merits audit" },
+        "cross_dataset_join": { "type": "array", "items": { "type": "string" }, "description": "Datasets to compare (policy docs, catalogs, logs, broadcast notes…)" },
+        "urgency": { "type": "string", "enum": ["Routine", "Priority", "Emergency"] }
+      }
+    },
+
+    "evidence_links": { "type": "array", "items": { "type": "string" } },
+
+    "chain_of_custody": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["artifact_uri", "timestamp", "sha256"],
+        "properties": {
+          "artifact_uri": { "type": "string" },
+          "timestamp": { "type": "string", "format": "date-time" },
+          "sha256": { "type": "string" }
+        }
+      }
+    },
+
+    "ethics": {
+      "type": "object",
+      "properties": {
+        "data_scope": { "type": "string", "enum": ["Public", "Consented", "Aggregated"] },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}
+
+Example bundle: bundles/reference-model/2025-09-01-example.json
+
+(Neutral placeholders; systemic pattern only—no accusations about specific people.)
+
+{
+  "bundle_id": "rmc-2025-09-01-001",
+  "source_module": "ReferenceModelConcentration",
+
+  "collection": {
+    "domain": "MusicCatalog",
+    "entity_label": "track",
+    "unit": "acoustic_features",
+    "region": "North America (public releases)",
+    "size_n": 120
+  },
+
+  "time_range": { "start": "2024-09-01", "end": "2025-08-31" },
+
+  "method": {
+    "template_technique": "Non-negative Matrix Factorization (NMF)",
+    "top_k_evaluated": 5,
+    "feature_space_brief": "MFCC + vibrato slope + breath variance + micro-timing"
+  },
+
+  "metrics": {
+    "vett_percent": 82.4,
+    "gini_templates": 0.92,
+    "recurrence_index": 16.7,
+    "persistence_days": 120
+  },
+
+  "features": {
+    "template_overload": true,
+    "stylistic_collapse": true,
+    "continuity_recycling": true
+  },
+
+  "anomaly_score": 88,
+  "thresholds": { "low": 0, "medium": 40, "high": 70 },
+  "classification": "High",
+
+  "audit_trigger": {
+    "recommended_auditor": "Platform Integrity Team (Streaming) & Digital Rights Watchdog",
+    "audit_scope": "Explain why >80% of variance in 120 public tracks is captured by <5 templates; reconcile with claims of distinct production/authorship.",
+    "justification": "High Reference Model Concentration (RMCS 88): extreme template dominance with repeated rare micro-features across allegedly distinct outputs.",
+    "cross_dataset_join": [
+      "Public audio releases (stems if officially available)",
+      "Production credits / session logs",
+      "Broadcast/live performance recordings",
+      "Policy on synthetic vocals/digital twin disclosures"
+    ],
+    "urgency": "Priority"
+  },
+
+  "evidence_links": [
+    "ipfs://QmExampleRMCSeries",
+    "https://example.org/redacted/rmc-method-notes.pdf"
+  ],
+
+  "chain_of_custody": [
+    {
+      "artifact_uri": "https://example.org/redacted/audio-feature-matrix.parquet",
+      "timestamp": "2025-08-31T21:11:05Z",
+      "sha256": "3b5d5c3712955042212316173ccf37be"
+    }
+  ],
+
+  "ethics": {
+    "data_scope": "Public",
+    "notes": "No PII; analysis of public recordings only. Report frames results as continuity/concentration anomaly, not allegations about specific individuals."
+  }
+}
+
+Scoring recap (RMCS, default weights)
+	•	VETT% (max 40): 80%+ by <5 templates → +40; 60–79% → +25; 40–59% → +10.
+	•	Gini on template usage (max 30): ≥0.90 → +30; 0.80–0.89 → +20; 0.70–0.79 → +10.
+	•	Recurrence index (max 20): ≥15% rare quirks recur → +20; 5–14% → +10.
+	•	Persistence (max 10): ≥30 days → +10; 14–29 → +5.
+	•	Thresholds: Low <40, Medium 40–69, High ≥70.
+
+
+
