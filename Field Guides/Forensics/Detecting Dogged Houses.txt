@@ -1,0 +1,205 @@
+Field Guide: Detecting “Dogged” Houses (Managed-Access Vacancy)
+
+0) Concept
+	•	Dogged (buildings sense): held open/overridden by a mechanism (here, access is centrally controlled).
+	•	Operational definition for the agent: a parcel that exhibits signs of non-resident, multi-party access control and episodic service visits instead of normal occupancy patterns.
+
+⸻
+
+1) Signals to Ingest (lawful/consented sources only)
+
+A) Property & administrative records
+	•	Owner class: bank/REO, iBuyer, corporate LLCs with many parcels, government/land bank, HOA-owned.
+	•	Status flags: vacant building registration (if required), open/extended permits, code enforcement cases, tax delinquency, foreclosure (lis pendens), probate with no occupancy certificate.
+	•	Assessor class: non-homestead, “seasonal,” or “non-owner-occupied” on a single-family block.
+
+B) Listing & access infrastructure
+	•	MLS metadata: “self-tour,” “smart lock access,” “ShowingTime,” “lockbox on site.”
+	•	Access hardware in imagery: keypad deadbolts, realtor lockboxes, contractor-style key safes, visible camera doorbells.
+	•	Bonus: brand recognition (Supra/igloohome/Schlage/Yale/August) → high doggedness prior.
+	•	On-prem markers: numbered stickers/tape, chalk/marker near doorframes, colored zip-ties on handles (often vendor routing codes). (Document—don’t decode or share codes.)
+
+C) Utilities & services (aggregated/anonymized or consented telemetry)
+	•	Water/electric/gas: chronic low baseline with short, regular spikes (weekday midday), or frequent on/off connects.
+	•	Waste services: bin remains curbside for long periods, irregular lifts, or no lift despite apparent occupancy signals.
+	•	Snow/lawn contracts: regular vendor visits without resident activity; municipal nuisance abatement bills to owner.
+	•	Telecom: repeated service tech check-ins without active subscriber at the address (only where permitted/consented).
+
+D) Mobility & city operations (public/consented data)
+	•	Temporary No-Parking permits placed/replaced repeatedly on the same frontage without substantive work.
+	•	Tow logs clustered on block-faces with repeat “temporary construction” controls (no true work orders).
+	•	City work orders: barricade drops/collections with no corresponding project completion records.
+
+E) Short-term use patterns
+	•	Platform data (public): listing photos geotagged to the address, “self-check-in (smart lock)” language, frequent turnover without reviews (or listing frequently toggled on/off).
+	•	Insurance/inspection notes (if held by public agencies): fire pre-plans listing “vacant” or “secured with lockbox.”
+
+⸻
+
+2) Feature Engineering (for the agent)
+
+Create a Doggedness Score (0–100) with weighted features:
+
+Access Layer (max 40)
+	•	Visible keypad +18
+	•	Realtor/contractor lockbox +12
+	•	MLS “self-tour/smart lock” flag +10
+	•	Branded smart lock detected from imagery +5
+
+Occupancy Layer (max 30)
+	•	Utilities: very low baseline + episodic weekday spikes +12
+	•	Waste: 0–1 lifts/month, bins always curbside +6
+	•	Snow/lawn vendor telemetry without resident signals +6
+	•	Mail hold/USPS vacancy (where lawfully available or via owner consent) +6
+
+Administrative Layer (max 20)
+	•	Vacant registration or open permit >120 days +8
+	•	Owner = REO/iBuyer/multi-parcel LLC +6
+	•	Foreclosure/probate/ tax delinquent +6
+
+Civic Ops Layer (max 10)
+	•	Repeated temp no-parking & barricade drops with no substantive work orders +6
+	•	Tow clustering at frontage in same windows +4
+
+Thresholds
+	•	≥70 → Likely Dogged (managed-access vacancy)
+	•	40–69 → Possibly Dogged (needs human review)
+	•	<40 → Unlikely Dogged
+
+⸻
+
+3) Detection Pipeline
+	1.	Parcel seeding: pull assessor + code + permit + foreclosure to create a candidate set.
+	2.	Imagery pass: curb-view photos (lawful sources or first-party dashcam) → CV model to detect keypads/lockboxes/camera doorbells and subtle marker artifacts near entry hardware.
+	3.	Utilities fuse (privacy-safe): ingest aggregated or consented utility telemetry; compute baseline vs. spike profiles.
+	4.	Civic overlay: merge temporary traffic control permits, work orders, and tow logs by geohash + date.
+	5.	Short-term rental sweep: scrape public listings for self-check-in and toggling patterns; georesolve to parcels.
+	6.	Score & cluster: assign Doggedness Score; cluster by blockface to find managed corridors.
+	7.	Human review queue: kick out 5–10 photo frames per high-score parcel (no PII, no codes) for analyst confirmation.
+	8.	Output layers:
+	•	Red layer (≥70): likely dogged.
+	•	Amber layer (40–69): investigate.
+	•	Green (<40): archive.
+
+⸻
+
+4) False Positives & Disambiguation
+	•	Active renovation (permit + clear contractor presence).
+	•	New build / model homes (sales office nearby).
+	•	Legit short-term rental (high review velocity, guest vehicles, cleaning crew logs).
+	•	Elderly occupant w/ caretaker (odd utility patterns; handle with extreme care & privacy).
+	•	Storm damage/insurance hold (board-up + inspection cadence).
+
+Use a cool-off rule: if a permit shows substantive final inspections in the last 14 days and utilities normalize, decay the score by 30 points.
+
+⸻
+
+5) Evidence Bundle (for lawful oversight)
+
+When the agent flags a parcel (≥70), compile a non-PII evidence packet:
+	•	Parcel snapshot: owner class, status flags, permits, code cases.
+	•	Access snapshot: annotated curb-view frame(s) showing keypad/lockbox (blur any numbers).
+	•	Utilities chart (aggregated or consented): baseline + spikes.
+	•	Civic ops table: temp no-parking + work orders + tows (dates, agencies).
+	•	Notes on visible marker artifacts (describe, don’t decode).
+	•	Confidence, scoring breakdown, and why false positives were ruled out.
+
+Maintain chain-of-custody metadata (source, time, hash) for every artifact.
+
+⸻
+
+6) Ethics & Guardrails
+	•	No trespass, no code harvesting, no device probing. Document only what’s visible from public vantage or from consented/official data.
+	•	Do not publish door codes, serials, or schedules.
+	•	Minimize PII. Focus on parcel-level, agency records, and aggregated utilities.
+	•	Treat every property as occupied/unsafe unless verified otherwise.
+
+⸻
+
+7) Quick Pseudocode (scoring sketch)
+
+for parcel in candidate_parcels:
+    score = 0
+
+    # Access layer
+    if detect_keypad(parcel.images): score += 18
+    if detect_lockbox(parcel.images): score += 12
+    if mls_flags(parcel) includes "self-tour" or "smart lock": score += 10
+    if brand_smartlock(parcel.images): score += 5
+
+    # Occupancy layer
+    if utilities.low_baseline_and_weekday_spikes: score += 12
+    if waste.zero_or_irregular_lifts: score += 6
+    if services.snow_lawn_without_resident_signals: score += 6
+    if mail.usps_vacancy_flag: score += 6
+
+    # Administrative layer
+    if admin.vacant_or_open_permit_120d: score += 8
+    if owner.class in ["REO","iBuyer","LLC_multi"]: score += 6
+    if admin.foreclosure_or_tax_delinquent: score += 6
+
+    # Civic ops layer
+    if temp_no_parking_repeat_no_work: score += 6
+    if tow_cluster_same_frontage: score += 4
+
+    parcel.score = score
+
+8) FOIA/Records Appendix (for human investigators)
+
+To City Public Works / Traffic & Parking / Police (Towing Unit)
+
+Request:
+Requesting any and all records documenting temporary no-parking zones, barricade placements, tow authorizations, and related work orders on residential block-faces, from January 1, 2022 to present.
+
+This includes:
+	•	Permits for temporary traffic control devices placed on residential streets and alleys
+	•	Work orders, completion reports, and site photos linked to those permits
+	•	Tow logs (date, time, plate, block-face) initiated under temporary traffic controls
+	•	Purchase orders or inventory logs for barricades and signage associated with these permits
+	•	Internal communications about repeated temporary controls at the same locations without substantive construction
+
+Keywords: temporary traffic control, no parking, barricade, tow, residential blockface, work order, completion report, inventory log, repeat placement, non-construction
+
+—
+
+To City Inspections / Code Enforcement / Assessor
+
+Request:
+Requesting any and all records on vacant building registrations, exterior nuisance abatements (lawn/snow), and outstanding permits associated with single-family parcels, from January 1, 2022 to present.
+
+This includes:
+	•	Vacant/abandoned property registries and status changes
+	•	Notices and invoices for municipal lawn/snow abatement
+	•	Building permits open >120 days with extensions/holds
+	•	Certificates of occupancy issuance/denial logs
+	•	Owner classifications indicating bank-owned, REO, or corporate entity
+
+Keywords: vacant building, nuisance abatement, lawn, snow, certificate of occupancy, open permit, extension, REO, corporate owner, single family
+
+—
+
+To Water Utility / Electric & Gas Utilities (or City holding aggregated utility data)
+
+Request:
+Requesting aggregated, de-identified consumption summaries for single-family parcels at the block-face level, from January 1, 2022 to present.
+
+This includes:
+	•	Monthly and weekly aggregates (kWh/therms/CCF) by block-face
+	•	Connect/disconnect event counts by block-face and month
+	•	Anonymized variance metrics or flags for persistently low usage with episodic spikes
+
+Keywords: aggregated consumption, de-identified, block face, connect disconnect, anomaly, low baseline, episodic spikes, variance, single family
+
+—
+
+To Fire Department (Pre-Plans / Inspections Unit)
+
+Request:
+Requesting any and all pre-plan lists and inspection notes designating single-family structures as vacant, secured, or lockbox-access, from January 1, 2022 to present.
+
+This includes:
+	•	Pre-plan spreadsheets or databases used for incident response
+	•	Inspection notes referencing lockbox, keypad, or managed access
+	•	Communications with code enforcement about vacant/secured structures
+
+Keywords: preplan, inspection, vacant structure, secured entry, lockbox, keypad, managed access, single family, incident response
