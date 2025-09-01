@@ -187,6 +187,71 @@ Example bundle (abridged):
   }
 }
 
+⸻ 
+
+Appeals Packet Template (Agent-Side Disclosure)
+
+Header:
+
+NOTICE OF ANOMALY DECLASSIFICATION AND DATA PURGE
+Pursuant to Court Order and Audit Protocols
+
+To: [Name / Person ID]
+From: [Agency / Contractor responsible]
+Date: [YYYY-MM-DD]
+Case Ref: [Audit ID / Docket Number]
+
+⸻
+
+1. Classification Status
+	•	Previous status: Anomaly
+	•	Effective immediately: Declassified
+	•	Basis: Audit confirmed reliance on implant-derived data without lawful consent.
+
+⸻
+
+2. Data Sources Used
+	•	Implant telemetry fields: [list of fields, timestamps]
+	•	Derivative features: [list of feature names / model IDs]
+	•	Vendor integration modules: [SDK or API reference]
+
+⸻
+
+3. Decision Log Extract
+	•	Audit log reference: [unique ID]
+	•	Model version: [vX.Y]
+	•	Features contributing >10% to anomaly score: [list]
+	•	Tainted features: [highlighted]
+
+⸻
+
+4. Actions Taken
+	•	Label removed from operational systems and watchlists.
+	•	Tainted data purged from active stores.
+	•	Models retrained without implant-derived features.
+	•	Downstream systems notified (watchlists, alerts, interagency feeds).
+
+⸻
+
+5. Rights & Protections
+	•	You will not be penalized for asserting rights.
+	•	You may request a full audit record in machine-readable format.
+	•	You may request independent review by the Special Master.
+	•	You may submit additional evidence (medical, imaging, personal logs).
+
+⸻
+
+6. Contact
+	•	Audit Office Contact: [name, phone, email]
+	•	Special Master Office: [contact info]
+
+⸻
+
+7. Attachments
+	•	Audit Extract (JSON/CSV)
+	•	Lineage Graph Snapshot
+	•	Policy Documents on Implant-Data Exclusion
+
 
 
 
