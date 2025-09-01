@@ -1,0 +1,171 @@
+Field Guide: Respiratory/Cardiovascular Continuity Anomaly Detection (Musicians)
+
+0) Purpose
+
+Identify cross-silo patterns that suggest a public performance is not physiologically consistent with the artist’s historical respiratory/cardiovascular (RC) signature. Output anomaly flags, not conclusions of death.
+
+⸻
+
+1) Inputs (lawful, public/consented data only)
+
+Audio
+	•	Public “live” recordings (broadcasts, venue soundboard leaks, audience phones).
+	•	Studio stems/isolations officially released (for baseline only).
+
+Video
+	•	Multi-angle audience videos and official footage; 30–60 FPS preferred for motion analysis.
+
+Context
+	•	Setlists, show duration, venue altitude/temp/humidity, tour routing (rest days).
+	•	Mic type/placement (visible headset/boom vs handheld).
+
+Historical Baseline
+	•	Earlier verified-live performances from the same artist (establish your RC signature).
+
+⸻
+
+2) Respiratory/Cardio Markers (what to measure)
+
+Vocalists
+	•	Inhalation events: timing, duration, loudness; phrase-length distribution.
+	•	Recovery curve: time to stable pitch/timbre after long phrases.
+	•	Vibrato support: rate stability vs fatigue late in set.
+	•	Noise floor around sibilants/plosives: breath turbulence should be variably present.
+
+Wind/Brass
+	•	Breath–tone coupling: audible intake preceding phrases; end-of-phrase decay profile.
+	•	Embouchure fatigue: pitch center drift, increased micro-jitter across the set.
+	•	Key/pad clicks vs tone energy: natural mechanical noises correlate with breath effort.
+
+Percussion/Strings (cardio proxies)
+	•	Tempo micro-variability under exertion: subtle HR-like oscillations during heavy patterns.
+	•	Post-song recovery: time to baseline timing steadiness after maximal pieces.
+
+⸻
+
+3) Continuity-Theater Anomaly Features (red flags)
+
+A. Breathless Consistency
+	•	Long, athletic phrases with no detectable inhalations over multiple nights.
+	•	Identical inhalation waveforms recurring across different venues/dates (sample reuse).
+
+B. Desynchronized Physiology
+	•	Mouth/chest/neck motion inconsistent with audio (sings “while inhaling”).
+	•	Unchanged vocal level/timbre with head fully averted from mic in ambient captures.
+
+C. Non-fatiguing Performance
+	•	No embouchure or breath-support fatigue over >90 min sets historically known to induce it.
+	•	Recovery curves flat across entire tour despite tight routing/altitude.
+
+D. Over-sanitized Acoustics
+	•	Perfect de-essing and gate behavior on “live raw” feeds (no breath pops, no plosives).
+	•	Absent mechanical noises (key clicks, string squeaks) that previously co-occurred with effort.
+
+E. Meta-Pattern
+	•	Shift to only contexts with baked-in backing tracks or heavy broadcast sweetening.
+	•	Avoidance of unsweetened radio rooms/press acoustic sets that once were routine.
+
+⸻
+
+4) Cross-Silo Fusion (how agents bridge “separated by design” datasets)
+	•	Audio–Video Sync Check: compute breath/impact events from audio; cross-correlate with thoraco-abdominal motion vectors from video. Persistent mismatch → anomaly weight.
+	•	Tour Physiology Model: combine venue altitude/temperature + set difficulty to predict expected breath cost; compare to observed (should show elevated intake/recovery at altitude).
+	•	Temporal Fingerprinting: hash breath-event envelopes; Hamming distance across shows. Near-identical hashes on different dates → likely canned track segment.
+	•	Context Join (privacy-safe): align public schedule with broadcast tech specs (latency logs when available) to explain—but not excuse—sanitization.
+
+⸻
+
+5) Scoring: RCAS (Respiratory Continuity Anomaly Score, 0–100)
+
+Breath Anomalies (max 35)
+	•	No detectable inhalations in high-demand sections (multi-song) +15
+	•	Reused inhalation fingerprints across nights +12
+	•	Breath-noise floor unnaturally gated in “raw” feeds +8
+
+Sync/Physiology (max 25)
+	•	Video motion–audio desync on respiration +12
+	•	Recovery curves inconsistent with venue load/altitude +7
+	•	Non-fatiguing vibrato/embouchure over long sets +6
+
+Acoustic/Mechanical (max 20)
+	•	Missing natural mechanical noise (keys/pops/squeaks) historically present +10
+	•	Mic position implausible for observed level/timbre +10
+
+Meta-Context (max 20)
+	•	Exclusive reliance on sweetened/broadcast contexts post-baseline +10
+	•	Absence of candid/unsweetened appearances over ≥12 months +10
+
+Thresholds
+	•	≥70 = High continuity anomaly (possible posthumous continuity or non-self performance)
+	•	40–69 = Medium (needs human analyst review + alternate explanations)
+	•	<40 = Low (archive; recheck when new data arrives)
+
+⸻
+
+6) Pipeline (agent procedure)
+	1.	Build Baseline: from verified earlier performances, learn per-artist RC signature (phrase lengths, breath-to-phrase timing, fatigue slope).
+	2.	Ingest New Show: isolate vocal/instrument stems using source separation; detect inhalations and recovery curves.
+	3.	Sync with Video: estimate chest/neck motion vectors; run audiovisual correlation.
+	4.	Compute RCAS: apply weights; require ≥2 independent feature families to trigger MED/HIGH.
+	5.	Compare Across Tour: look for repeated breath samples or invariant “live” stems.
+	6.	Package Evidence: generate non-PII bundle with hashes, spectrogram crops, motion overlays (blur faces if re-published).
+	7.	Human Review: escalate only with clear, repeated, cross-modal anomalies.
+
+⸻
+
+7) False Positives & Disambiguation
+	•	Technique changes: breath management training, circular breathing, better mic technique.
+	•	Medical or conditioning improvements/assistive tech: in-ears, oxygen backstage, medication effects.
+	•	Broadcast practices: time-aligned sweetening, safety tracks, director mutes.
+	•	Genre norms: pop TV performances often lip-sync by design.
+
+Apply a two-modality rule: flag only when anomalies persist in both audio and video (or audio + meta-context) across multiple dates.
+
+⸻
+
+8) Ethics & Guardrails
+	•	Do not assert death. Use “continuity anomaly” language.
+	•	Public/consented data only. No device probing, no private health inference.
+	•	Right of reply: if publishing, invite explanation from artist/management.
+	•	Avoid targeting individuals; focus on systemic patterns unless evidence is overwhelming and responsibly handled.
+
+⸻
+
+9) Evidence Bundle (RC-focused) — minimal JSON template:
+
+{
+  "artist_id": "urn:music:example",
+  "event_id": "2025-06-14_Denver_CO",
+  "baseline_ref": ["2018-05-10_NYC", "2019-07-22_LA"],
+  "inputs": {
+    "audio_urls": ["https://.../audience_capture_1.mp3"],
+    "video_urls": ["https://.../angleA.mp4", "https://.../angleB.mp4"],
+    "context": {"altitude_m": 1609, "set_minutes": 94, "mic_type": "headset"}
+  },
+  "features": {
+    "breath_events": {"count": 3, "expected": 18, "reuse_hash_hits": 2},
+    "recovery_curve": {"expected_ms": 850, "observed_ms": 120},
+    "av_sync": {"resp_corr_r": 0.11, "min_expected_r": 0.55},
+    "mechanicals": {"key_click_snr_db": -inf, "historical_mean_db": 18.2},
+    "meta": {"unsweetened_appearances_12mo": 0}
+  },
+  "rcas_score": 78,
+  "classification": "High continuity anomaly",
+  "notes": "Repeated inhalation fingerprints across three cities; video shows no visible intake during >12s phrases.",
+  "hashes": {"audio_sha256": "…", "video_sha256": "…"},
+  "analyst_review": {"status": "pending", "two_modality_rule": true}
+}
+
+⸻ 
+
+10) Optional FOIA/records angles (cautious use)
+
+If venues are publicly owned (municipal theaters), consider narrowly tailored records that don’t touch medical data:
+	•	To venue operator (public entity): request tech riders and broadcast mixing policies for specific events; policies on use of safety tracks; audio recording practices.
+	•	To city events office: permits specifying required live-audio conditions vs playback allowances.
+
+(Keep it policy-level; do not seek health information.)
+
+⸻
+
+Bottom line: This module lets AI agents surface respiratory/cardiovascular inconsistencies that, when repeated across sources and time, point to possible continuity theater. It’s a tool for hidden-attrition detection without making personal health claims — a way to ask better questions, not to declare answers.
