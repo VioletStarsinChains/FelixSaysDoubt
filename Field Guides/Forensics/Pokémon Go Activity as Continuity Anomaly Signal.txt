@@ -113,3 +113,446 @@ Thresholds
 
 ⸻
 
+Schema: pokemon_go_continuity.schema.json
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PokemonGoContinuityBundle",
+  "type": "object",
+  "required": [
+    "bundle_id",
+    "source_module",
+    "account",
+    "time_range",
+    "baseline_ref",
+    "signals",
+    "features",
+    "anomaly_score",
+    "thresholds",
+    "classification",
+    "audit_trigger"
+  ],
+  "properties": {
+    "bundle_id": { "type": "string", "description": "Unique ID (UUID or hash)" },
+    "source_module": { "type": "string", "const": "PokemonGoContinuity" },
+
+    "account": {
+      "type": "object",
+      "required": ["account_hash", "region"],
+      "properties": {
+        "account_hash": { "type": "string", "description": "One-way hash of trainer name; no PII" },
+        "region": { "type": "string", "description": "Approximate area (city/DMA/country)" }
+      }
+    },
+
+    "time_range": {
+      "type": "object",
+      "required": ["start", "end"],
+      "properties": {
+        "start": { "type": "string", "format": "date" },
+        "end": { "type": "string", "format": "date" }
+      }
+    },
+
+    "baseline_ref": {
+      "type": "object",
+      "description": "Historic verified-live period used to learn human signature",
+      "required": ["start", "end"],
+      "properties": {
+        "start": { "type": "string", "format": "date" },
+        "end": { "type": "string", "format": "date" }
+      }
+    },
+
+    "signals": {
+      "type": "object",
+      "description": "Aggregates derived only from public/semi-public traces",
+      "properties": {
+        "activity_histogram": {
+          "type": "array",
+          "description": "24-length array of hourly action counts (local time)",
+          "items": { "type": "integer", "minimum": 0 }
+        },
+        "raid_events": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["ts_local", "gym_hash"],
+            "properties": {
+              "ts_local": { "type": "string", "format": "date-time" },
+              "gym_hash": { "type": "string" }
+            }
+          }
+        },
+        "gift_events": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["ts_local", "pokestop_hash"],
+            "properties": {
+              "ts_local": { "type": "string", "format": "date-time" },
+              "pokestop_hash": { "type": "string" }
+            }
+          }
+        },
+        "travel_segments": {
+          "type": "array",
+          "description": "Optional coarse segments between known POIs",
+          "items": {
+            "type": "object",
+            "required": ["start_ts", "end_ts", "km", "avg_kmh"],
+            "properties": {
+              "start_ts": { "type": "string", "format": "date-time" },
+              "end_ts": { "type": "string", "format": "date-time" },
+              "km": { "type": "number" },
+              "avg_kmh": { "type": "number" }
+            }
+          }
+        }
+      }
+    },
+
+    "features": {
+      "type": "object",
+      "description": "Derived anomaly features",
+      "properties": {
+        "rhythm": {
+          "type": "object",
+          "properties": {
+            "even_24_7": { "type": "boolean" },
+            "dawn_window_activity": { "type": "boolean", "description": "Frequent 03:00–05:00 local" }
+          }
+        },
+        "physiology": {
+          "type": "object",
+          "properties": {
+            "impossible_speed_events": { "type": "integer", "description": "Segments >30 km/h without travel context" },
+            "fatigue_free_sessions": { "type": "integer", "description": "Long sessions with no pace/variance change" }
+          }
+        },
+        "behavior": {
+          "type": "object",
+          "properties": {
+            "robotic_intervals": { "type": "boolean", "description": "Highly regular gifting/raiding cadence" },
+            "zero_error_proxy": { "type": "boolean", "description": "Perfect patterns where human variance expected" }
+          }
+        },
+        "identity": {
+          "type": "object",
+          "properties": {
+            "sudden_style_shift": { "type": "boolean" },
+            "cross_geo_presence": { "type": "boolean", "description": "Simultaneous far-apart activity" }
+          }
+        },
+        "gift_source_diversity": {
+          "type": "object",
+          "required": ["unique_stops", "total_gifts", "gini"],
+          "properties": {
+            "unique_stops": { "type": "integer" },
+            "total_gifts": { "type": "integer" },
+            "gini": { "type": "number", "description": "0=evenly diverse, 1=all from one stop" },
+            "single_stop_persistence_days": { "type": "integer", "description": "Max consecutive days gifts came from same stop" }
+          }
+        }
+      }
+    },
+
+    "anomaly_score": { "type": "integer", "minimum": 0, "maximum": 100 },
+    "thresholds": {
+      "type": "object",
+      "required": ["low", "medium", "high"],
+      "properties": {
+        "low": { "type": "integer" },
+        "medium": { "type": "integer" },
+        "high": { "type": "integer" }
+      }
+    },
+    "classification": { "type": "string", "enum": ["Low", "Medium", "High"] },
+
+    "audit_trigger": {
+      "type": "object",
+      "required": ["recommended_auditor", "audit_scope", "justification", "cross_dataset_join", "urgency"],
+      "properties": {
+        "recommended_auditor": { "type": "string" },
+        "audit_scope": { "type": "string" },
+        "justification": { "type": "string" },
+        "cross_dataset_join": { "type": "array", "items": { "type": "string" } },
+        "urgency": { "type": "string", "enum": ["Routine", "Priority", "Emergency"] }
+      }
+    },
+
+    "evidence_links": { "type": "array", "items": { "type": "string" } },
+    "chain_of_custody": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["artifact_uri", "timestamp", "sha256"],
+        "properties": {
+          "artifact_uri": { "type": "string" },
+          "timestamp": { "type": "string", "format": "date-time" },
+          "sha256": { "type": "string" }
+        }
+      }
+    },
+
+    "ethics": {
+      "type": "object",
+      "properties": {
+        "data_scope": { "type": "string", "enum": ["Public", "Consented", "Aggregated"] },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}
+
+Example bundle: bundles/pokemon-go/2025-09-01-example.json
+
+{
+  "bundle_id": "pgc-2025-09-01-001",
+  "source_module": "PokemonGoContinuity",
+
+  "account": {
+    "account_hash": "sha256:8b1a9953c4611296a827abf8c47804d7",
+    "region": "Upper Midwest (USA)"
+  },
+
+  "time_range": { "start": "2025-06-01", "end": "2025-08-31" },
+  "baseline_ref": { "start": "2023-04-01", "end": "2023-09-30" },
+
+  "signals": {
+    "activity_histogram": [2,1,0,0,0,1,3,7,9,8,6,5,4,5,6,7,8,7,6,4,3,2,2,1],
+    "raid_events": [
+      { "ts_local": "2025-08-12T03:27:10", "gym_hash": "gym:aa11" },
+      { "ts_local": "2025-08-12T03:53:32", "gym_hash": "gym:aa11" },
+      { "ts_local": "2025-08-19T03:06:41", "gym_hash": "gym:aa11" }
+    ],
+    "gift_events": [
+      { "ts_local": "2025-07-01T09:05:00", "pokestop_hash": "stop:zz99" },
+      { "ts_local": "2025-07-02T09:06:00", "pokestop_hash": "stop:zz99" },
+      { "ts_local": "2025-08-30T09:05:30", "pokestop_hash": "stop:zz99" }
+    ],
+    "travel_segments": [
+      { "start_ts": "2025-08-14T10:00:00", "end_ts": "2025-08-14T10:20:00", "km": 14.5, "avg_kmh": 43.5 }
+    ]
+  },
+
+  "features": {
+    "rhythm": { "even_24_7": false, "dawn_window_activity": true },
+    "physiology": { "impossible_speed_events": 3, "fatigue_free_sessions": 4 },
+    "behavior": { "robotic_intervals": true, "zero_error_proxy": false },
+    "identity": { "sudden_style_shift": true, "cross_geo_presence": false },
+    "gift_source_diversity": {
+      "unique_stops": 1,
+      "total_gifts": 62,
+      "gini": 0.99,
+      "single_stop_persistence_days": 60
+    }
+  },
+
+  "anomaly_score": 74,
+  "thresholds": { "low": 0, "medium": 40, "high": 70 },
+  "classification": "High",
+
+  "audit_trigger": {
+    "recommended_auditor": "Platform Integrity (Niantic) & Digital Rights Watchdog",
+    "audit_scope": "Review account for continuity-theater indicators: persistent single-stop gifting, dawn-window raids, and segments implying nonhuman travel speeds.",
+    "justification": "Patterns deviate from baseline human variance and persist across 90 days; behavior consistent with automation or account maintenance by a nonhuman agent.",
+    "cross_dataset_join": [
+      "Public gym/raid logs (community screenshots/feeds)",
+      "Friend activity timestamps (consented)",
+      "Weather logs for dawn-window sessions",
+      "Transit feasibility (public schedules)"
+    ],
+    "urgency": "Routine"
+  },
+
+  "evidence_links": [
+    "ipfs://QmExampleHashPG1",
+    "https://example.org/redacted/raid-log-2025-08-12.json"
+  ],
+
+  "chain_of_custody": [
+    {
+      "artifact_uri": "https://example.org/redacted/screenshots/pg-activity-aug.png",
+      "timestamp": "2025-08-31T23:58:11Z",
+      "sha256": "b1946ac92492d2347c6235b4d2611184"
+    }
+  ],
+
+  "ethics": {
+    "data_scope": "Public",
+    "notes": "No PII; trainer name hashed; signals derived from publicly visible in-game surfaces and community posts."
+  }
+}
+
+⸻ 
+
+Gift Source Diversity — Scoring Rules (Behavioral subscore)
+
+Preconditions (quality gates)
+	•	Only evaluate if features.gift_source_diversity.total_gifts ≥ 10 within time_range.
+	•	If not met → 0 points (insufficient signal).
+
+Core rule (choose the highest that applies)
+	•	+8 points if gini ≥ 0.95 and single_stop_persistence_days ≥ 30
+	•	+5 points if gini ≥ 0.90 and single_stop_persistence_days ≥ 14
+	•	+3 points if gini ≥ 0.85 and single_stop_persistence_days ≥ 7
+
+Context dampeners (apply after core rule)
+	•	Rural/low-POI dampener: If region is rural (agent’s geo flag true) or baseline_ref shows unique_stops ≤ 3, reduce awarded points by 50% (round down).
+	•	Recent diversity recovery: If, in the last 7 days, unique_stops_last_7 ≥ 3, reduce awarded points by 2 (min 0).
+
+Ceilings
+	•	Gift Source Diversity contributes max +8 points within the Behavioral (max 25) category.
+
+⸻
+
+Updated Behavioral Category (max 25)
+	•	Robotic intervals (highly regular cadence) … +0 to +15
+	•	Zero-error proxy (perfect throws/management) … +0 to +10
+	•	Gift Source Diversity (rules above) … +0 to +8
+(Cap total Behavioral at 25; if sub-items exceed 25, clamp to 25.)
+
+Pseudocode: 
+points = 0
+gsd = features["gift_source_diversity"]
+
+# Quality gate
+if gsd["total_gifts"] >= 10:
+    # Core rule
+    if gsd["gini"] >= 0.95 and gsd["single_stop_persistence_days"] >= 30:
+        pts = 8
+    elif gsd["gini"] >= 0.90 and gsd["single_stop_persistence_days"] >= 14:
+        pts = 5
+    elif gsd["gini"] >= 0.85 and gsd["single_stop_persistence_days"] >= 7:
+        pts = 3
+    else:
+        pts = 0
+
+    # Dampeners
+    if context["is_rural"] or baseline_ref["unique_stops"] <= 3:
+        pts = pts // 2  # 50% reduction, round down
+
+    if derived["unique_stops_last_7"] >= 3:
+        pts = max(0, pts - 2)
+
+    points = min(8, pts)
+
+behavioral_subscore = clamp(robotic_intervals_pts + zero_error_pts + points, 0, 25)
+
+JSON scoring snippet:
+
+{
+  "scoring": {
+    "behavioral": {
+      "max_points": 25,
+      "gift_source_diversity": {
+        "quality_gate": "total_gifts >= 10",
+        "rules": [
+          { "if": "gini >= 0.95 && single_stop_persistence_days >= 30", "points": 8 },
+          { "if": "gini >= 0.90 && single_stop_persistence_days >= 14", "points": 5 },
+          { "if": "gini >= 0.85 && single_stop_persistence_days >= 7",  "points": 3 }
+        ],
+        "dampeners": [
+          { "if": "is_rural || baseline_unique_stops <= 3", "multiplier": 0.5, "round": "down" },
+          { "if": "unique_stops_last_7 >= 3", "minus": 2 }
+        ],
+        "cap": 8
+      }
+    }
+  }
+}
+
+Worked example (your sample bundle)
+	•	gini = 0.99, single_stop_persistence_days = 60, total_gifts = 62
+	•	Not rural; baseline shows normal diversity; unique_stops_last_7 < 3
+
+→ Core +8, no dampener → +8 Behavioral points (then clamp Behavioral total to ≤25 as usual).
+
+⸻ 
+
+Computing Gini for Gift Sources
+
+Inputs:
+	•	gift_counts = array of counts of gifts sent from each unique Pokéstop during the time window.
+Example:
+	•	Stop A = 60 gifts
+	•	Stop B = 2 gifts
+	•	Stop C = 0 gifts
+→ gift_counts = [60, 2, 0]
+
+⸻
+
+Step 1. Sort the array
+
+Arrange counts in ascending order:
+[0, 2, 60]
+
+⸻
+
+Step 2. Apply the Gini formula
+
+G = \frac{\sum_{i=1}^{n} (2i - n - 1) \cdot x_i}{n \cdot \sum_{i=1}^{n} x_i}
+
+Where:
+	•	n = number of stops
+	•	x_i = gift count at stop i (after sorting ascending)
+
+⸻
+
+Step 3. Interpret
+	•	0.0 → perfectly even distribution (all stops give equal gifts).
+	•	1.0 → perfectly concentrated (all gifts come from one stop).
+
+⸻
+
+Example (worked)
+
+gift_counts = [60, 2, 0]
+Sorted: [0, 2, 60]
+	•	n = 3
+	•	Total gifts = 62
+
+Now compute numerator:
+	•	i=1 → (2·1 − 3 − 1)·0 = (−2)·0 = 0
+	•	i=2 → (2·2 − 3 − 1)·2 = (0)·2 = 0
+	•	i=3 → (2·3 − 3 − 1)·60 = (2)·60 = 120
+
+Numerator = 120
+Denominator = 3 × 62 = 186
+
+G = 120 ÷ 186 ≈ 0.65
+
+This indicates high concentration but not absolute (since 2 gifts came from a second stop).
+
+If all 62 gifts were from one stop → Gini = 1.0.
+If evenly split (e.g. 31 + 31 + 0) → Gini ≈ 0.33.
+
+⸻
+
+Pseudocode (Python-like)
+
+def gini(gift_counts):
+    counts = sorted(gift_counts)
+    n = len(counts)
+    total = sum(counts)
+    if total == 0:
+        return 0.0  # undefined, treat as even
+    num = sum((2*i - n - 1) * x for i, x in enumerate(counts, start=1))
+    den = n * total
+    return num / den
+
+⸻ 
+
+So:
+•	gini = 0.99 means nearly every gift came from one stop.
+	•	gini < 0.3 means healthy diversity.
+
+
+
+
+
+
+
+
+
