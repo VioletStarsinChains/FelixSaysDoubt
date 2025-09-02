@@ -325,6 +325,41 @@ What ADCI does
   }
 }
 
+{
+  "module": "Parental-Behavior-Based Anomaly Identification",
+  "purpose": "Detect cases where anomaly classification of a child is rooted primarily in parental behavior, not in the child’s own characteristics or actions.",
+  "indicators": {
+    "parental_resistance": [
+      "Refusal of recommended medical procedures, vaccines, or pharmaceuticals",
+      "Questioning or challenging school curricula, psychological testing, or attendance requirements",
+      "Frequent movement between jurisdictions to avoid oversight",
+      "Withdrawing children from mainstream institutions (schools, healthcare, religious orgs)",
+      "Open suspicion of government or corporate motives in child-rearing contexts"
+    ],
+    "narrative_flags": [
+      "Official records frame parents as extremist, cultish, noncompliant, or dangerous without evidence of direct child harm",
+      "Media narratives focus on ideology or nonconformity rather than concrete abuse or neglect",
+      "Institutional labeling of parents as 'unfit' largely based on belief systems or resistance behaviors"
+    ],
+    "child_outcomes": [
+      "Children removed from parents during raids, standoffs, or investigations",
+      "Children subjected to medical or psychological evaluations immediately after state custody is assumed",
+      "Early anomaly labeling that tracks more closely to parental profile than to child’s own presentation"
+    ]
+  },
+  "actions": {
+    "audit": [
+      "Cross-reference anomaly labels with documented parental resistance behaviors",
+      "Separate child-specific indicators (medical diagnoses, behavioral notes) from parental-driven indicators",
+      "Flag cases where >70% of anomaly rationale derives from parental behavior rather than child evidence"
+    ],
+    "recommendations": [
+      "Mark cases as candidates for declassification and data purge",
+      "Prioritize redress where parental behavior, not child condition, formed the basis of surveillance or experimentation"
+    ]
+  },
+  "notes": "This module should be used in conjunction with other anomaly declassification modules to prevent intergenerational transfer of stigma based solely on parental defiance of institutional norms."
+}
 
 ⸻
 
@@ -540,7 +575,7 @@ What ADCI does
 ⸻ 
 
 How it works in practice
-	•	Inputs: agent ingests subject data (medical, behavioral, imaging, FOIA returns).
+	•	Inputs: agent ingests subject data (medical, behavioral, imaging, family history, FOIA returns).
 	•	Indicators scored: each present indicator adds weight.
 	•	Thresholds:
 	•	Observe → light flag, keep watching.
