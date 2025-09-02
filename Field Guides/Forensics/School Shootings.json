@@ -1,0 +1,315 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SchoolShootingResearchScreening",
+  "type": "object",
+  "required": ["school", "incident", "screening", "outputs"],
+  "properties": {
+    "ingest_metadata": {
+      "type": "object",
+      "properties": {
+        "schema_version": { "type": "string", "default": "1.0.0" },
+        "generated_at": { "type": "string", "format": "date-time" },
+        "agent_id": { "type": "string" },
+        "run_id": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "school": {
+      "type": "object",
+      "required": ["name", "district", "city", "state"],
+      "properties": {
+        "name": { "type": "string" },
+        "district": { "type": "string" },
+        "nces_id": { "type": "string" },
+        "city": { "type": "string" },
+        "state": { "type": "string", "minLength": 2, "maxLength": 2 },
+        "grades_served": { "type": "string" },
+        "school_type": { "type": "string", "enum": ["public", "charter", "private", "unknown"] },
+        "geo": {
+          "type": "object",
+          "properties": {
+            "lat": { "type": "number" },
+            "lon": { "type": "number" }
+          },
+          "additionalProperties": false
+        },
+        "website": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "incident": {
+      "type": "object",
+      "required": ["date", "source_refs"],
+      "properties": {
+        "date": { "type": "string", "format": "date" },
+        "fatalities": { "type": "integer", "minimum": 0 },
+        "injuries": { "type": "integer", "minimum": 0 },
+        "law_enforcement_case_ids": { "type": "array", "items": { "type": "string" } },
+        "source_refs": {
+          "description": "URLs or identifiers for public reports of the shooting",
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "screening": {
+      "type": "object",
+      "required": ["funding", "procurement", "personnel", "narrative"],
+      "properties": {
+        "funding": {
+          "type": "object",
+          "properties": {
+            "grants": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["funder", "program", "title", "year", "amount", "category"],
+                "properties": {
+                  "funder": { "type": "string", "enum": ["NIH", "NSF", "DoD", "DARPA", "ED", "CDC", "Private", "State", "Other"] },
+                  "program": { "type": "string" },
+                  "title": { "type": "string" },
+                  "year": { "type": "integer" },
+                  "amount": { "type": "number" },
+                  "category": {
+                    "type": "string",
+                    "enum": [
+                      "behavioral_tracking",
+                      "neurotech_BCI",
+                      "SEL_experiments",
+                      "pharm_diet_intervention",
+                      "surveillance_predictive",
+                      "biometric_monitoring",
+                      "other"
+                    ]
+                  },
+                  "award_id": { "type": "string" },
+                  "pi_or_contact": { "type": "string" },
+                  "source_ref": { "type": "string" }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "procurement": {
+          "type": "object",
+          "properties": {
+            "vendors": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["vendor_name", "contract_title", "category"],
+                "properties": {
+                  "vendor_name": { "type": "string" },
+                  "contract_title": { "type": "string" },
+                  "start_year": { "type": "integer" },
+                  "end_year": { "type": "integer" },
+                  "category": {
+                    "type": "string",
+                    "enum": [
+                      "edtech_platform",
+                      "biometric_system",
+                      "behavioral_analytics",
+                      "network_surveillance",
+                      "health_research_partner",
+                      "testing_platform",
+                      "other"
+                    ]
+                  },
+                  "notes": { "type": "string" },
+                  "source_ref": { "type": "string" }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "personnel": {
+          "type": "object",
+          "properties": {
+            "links": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["name", "role", "link_type"],
+                "properties": {
+                  "name": { "type": "string" },
+                  "role": { "type": "string" },
+                  "link_type": {
+                    "type": "string",
+                    "enum": [
+                      "university_lab_affiliate",
+                      "contractor_employee",
+                      "grant_PI_or_staff",
+                      "patent_holder",
+                      "publisher_on_minors",
+                      "other"
+                    ]
+                  },
+                  "affiliation": { "type": "string" },
+                  "years_active": { "type": "string" },
+                  "source_ref": { "type": "string" }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "narrative": {
+          "type": "object",
+          "properties": {
+            "pre_shooting_research_mentions": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "post_shooting_coverage_shift": {
+              "type": "string",
+              "enum": ["none_detected", "partial_displacement", "strong_displacement"]
+            },
+            "displacement_evidence_refs": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          },
+          "additionalProperties": false
+        },
+        "comparators": {
+          "type": "object",
+          "properties": {
+            "matched_schools_examined": { "type": "integer", "minimum": 0 },
+            "comparative_findings": { "type": "string" }
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "outputs": {
+      "type": "object",
+      "required": ["risk_score", "risk_flag", "evidence_summary"],
+      "properties": {
+        "risk_score": { "type": "number", "minimum": 0, "maximum": 5 },
+        "risk_flag": { "type": "string", "enum": ["Probable", "Possible", "Unlikely", "Indeterminate"] },
+        "evidence_summary": { "type": "string" },
+        "citations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["label", "url"],
+            "properties": {
+              "label": { "type": "string" },
+              "url": { "type": "string" }
+            },
+            "additionalProperties": false
+          }
+        },
+        "analyst_notes": { "type": "string" }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
+
+Minimal Example Object
+
+{
+  "ingest_metadata": {
+    "schema_version": "1.0.0",
+    "generated_at": "2025-09-02T18:45:00Z",
+    "agent_id": "agent-ml-07",
+    "run_id": "run-20250902-1845"
+  },
+  "school": {
+    "name": "Example High School",
+    "district": "Example USD 123",
+    "nces_id": "1234567890",
+    "city": "Sampletown",
+    "state": "ST",
+    "grades_served": "9-12",
+    "school_type": "public",
+    "geo": { "lat": 40.1234, "lon": -92.5678 },
+    "website": "https://examplehs.edu"
+  },
+  "incident": {
+    "date": "2018-04-12",
+    "fatalities": 2,
+    "injuries": 5,
+    "law_enforcement_case_ids": ["PD-18-0412-77"],
+    "source_refs": [
+      "https://news.example.com/article/incident-2018",
+      "https://state.gov/report/incident-2018"
+    ]
+  },
+  "screening": {
+    "funding": {
+      "grants": [
+        {
+          "funder": "DoD",
+          "program": "STEM Outreach Pilot",
+          "title": "Behavioral Metrics in Classroom Engagement",
+          "year": 2017,
+          "amount": 250000,
+          "category": "behavioral_tracking",
+          "award_id": "DOD-ENG-2017-332",
+          "pi_or_contact": "J. Smith",
+          "source_ref": "https://dod.example/awards/DOD-ENG-2017-332"
+        }
+      ]
+    },
+    "procurement": {
+      "vendors": [
+        {
+          "vendor_name": "EduSense Analytics",
+          "contract_title": "Student Engagement Monitoring Suite",
+          "start_year": 2016,
+          "end_year": 2019,
+          "category": "behavioral_analytics",
+          "notes": "Classroom cameras + affect detection",
+          "source_ref": "https://district.example/contracts/2016-ES-04"
+        }
+      ]
+    },
+    "personnel": {
+      "links": [
+        {
+          "name": "Dr. A. Researcher",
+          "role": "Consultant",
+          "link_type": "university_lab_affiliate",
+          "affiliation": "State Univ. Cognition Lab",
+          "years_active": "2016-2018",
+          "source_ref": "https://lab.example.edu/partners"
+        }
+      ]
+    },
+    "narrative": {
+      "pre_shooting_research_mentions": [
+        "Local paper feature on AI classroom pilot (2017-09-05)"
+      ],
+      "post_shooting_coverage_shift": "strong_displacement",
+      "displacement_evidence_refs": [
+        "https://newsdb.example/search?q=Example%20HS%20AI%20pilot"
+      ]
+    },
+    "comparators": {
+      "matched_schools_examined": 5,
+      "comparative_findings": "Shooting school had 3x more high-risk research ties vs. matched non-shooting schools."
+    }
+  },
+  "outputs": {
+    "risk_score": 4.2,
+    "risk_flag": "Probable",
+    "evidence_summary": "Multiple pre-incident research ties (DoD-funded behavioral tracking, affect analytics vendor, university lab consultant). Post-incident media displaced prior research narrative.",
+    "citations": [
+      { "label": "DoD grant award", "url": "https://dod.example/awards/DOD-ENG-2017-332" },
+      { "label": "Vendor contract", "url": "https://district.example/contracts/2016-ES-04" },
+      { "label": "Local news feature", "url": "https://localnews.example/2017/ai-classroom" }
+    ],
+    "analyst_notes": "Further FOIA to district and university recommended."
+  }
+}
