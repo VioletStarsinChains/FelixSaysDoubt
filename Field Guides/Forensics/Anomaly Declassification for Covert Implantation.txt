@@ -361,6 +361,54 @@ What ADCI does
   "notes": "This module should be used in conjunction with other anomaly declassification modules to prevent intergenerational transfer of stigma based solely on parental defiance of institutional norms."
 }
 
+{
+  "module": "Parental-Behavior Case Parallels",
+  "purpose": "Provide historical and contemporary examples where anomaly-style labeling of children can be traced to parental resistance or nonconformity rather than direct child evidence.",
+  "case_parallels": [
+    {
+      "name": "Ruby Ridge (1992)",
+      "parental_behavior": "Refusal to cooperate with federal surveillance and court summons; withdrawal from mainstream society.",
+      "child_outcome": "Children trapped in armed standoff; one son killed. Surviving children later stigmatized due to parental ideology."
+    },
+    {
+      "name": "Waco / Branch Davidians (1993)",
+      "parental_behavior": "Religious separation, homeschooling, and refusal of state oversight.",
+      "child_outcome": "Children removed in negotiations; others died in final siege. Surviving children entered state systems under labels shaped by parents’ resistance."
+    },
+    {
+      "name": "Native American Boarding Schools (19th–20th c.)",
+      "parental_behavior": "Parents resisting assimilation policies or refusing to send children to state schools.",
+      "child_outcome": "Forced removal of children; placement in institutions; identities recoded and families criminalized as 'noncompliant.'"
+    },
+    {
+      "name": "Tuskegee & Associated Medical Distrust (1932–1972)",
+      "parental_behavior": "Communities distrusted doctors and resisted state medicine after learning of unethical experiments.",
+      "child_outcome": "Generational stigma and targeting; children often treated as 'noncompliant' families needing more oversight."
+    },
+    {
+      "name": "Homeschool Crackdowns (1970s–1990s)",
+      "parental_behavior": "Parents removing children from public schools, often citing religious or medical objections.",
+      "child_outcome": "Children labeled 'truant,' 'at risk,' or 'antisocial,' despite thriving in alternative education environments."
+    },
+    {
+      "name": "COINTELPRO Families (1960s–1970s)",
+      "parental_behavior": "Parents involved in activism (Black Panthers, AIM, antiwar movements).",
+      "child_outcome": "Children placed under surveillance or removed from households under suspicion of ideological danger."
+    },
+    {
+      "name": "HIV/AIDS Crisis (1980s–1990s)",
+      "parental_behavior": "Parents resisting mandatory testing or treatments for themselves/children.",
+      "child_outcome": "Children stigmatized as vectors of risk or withheld from parents under claims of medical neglect."
+    },
+    {
+      "name": "COVID-19 School/Medical Resistance (2020s)",
+      "parental_behavior": "Parents refusing masks, vaccines, or remote learning compliance.",
+      "child_outcome": "Children flagged as 'noncompliant households' in school and health records, with anomaly-like stigma attaching to them."
+    }
+  ],
+  "notes": "These parallels demonstrate a recurring pattern: parental nonconformity is transmuted into child labeling. AI agents should compare anomaly labels to these case types before concluding that children themselves were the source of 'risk.'"
+}
+
 ⸻
 
 3) Core Anomaly–Declassify Implant Audit (schema + example)
