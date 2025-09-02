@@ -1,0 +1,34 @@
+Amazon Lockers are patented, and the core technology is either internally developed by Amazon or acquired through strategic intellectual property acquisition.
+
+Here’s what’s known:
+
+✅ Amazon Patents Related to Locker Technology
+
+Amazon has multiple patents covering aspects of its locker system. Some of the most relevant patents include:
+
+1. US Patent No. 9,085,485
+
+Title: Systems and methods for providing a delivery location to a user
+Filed by: Amazon Technologies, Inc.
+Abstract: Describes methods for providing temporary or alternate delivery locations, such as lockers, based on user proximity, preferences, or delivery constraints.
+
+2. US Patent No. 10,577,432
+
+Title: Modular parcel locker system
+Filed by: Amazon Technologies, Inc.
+Abstract: Covers modular locker structures that can be configured and expanded to serve different environments or space constraints. Includes ideas like mobile power sources, wireless networking, and secure authentication.
+
+3. US Patent No. 10,074,003
+
+Title: Delivery of packages to secure pickup locations
+Filed by: Amazon Technologies, Inc.
+Describes: Secure package delivery to designated compartments, including systems for user notification and pickup authorization.
+
+⸻
+
+🧾 Did Amazon Invent It?
+
+Not entirely—but they optimized and aggressively protected it. Here’s how:
+	•	Locker-style delivery and storage systems predate Amazon, especially in logistics, warehousing, and bike-sharing.
+	•	However, Amazon filed patents for specific innovations: mobile integration, scalable lockers, cloud authentication, time-restricted access, and integration into smart logistics ecosystems.
+	•	If a smaller company held early patents, Amazon may have either licensed or acquired them quietly, but their dominant patent filings are under their own name.
