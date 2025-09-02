@@ -1,0 +1,72 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA, et al.,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S PROPOSED PROTOCOL FOR AI-ASSISTED DISCOVERY
+
+I. Purpose
+
+The purpose of this protocol is to establish clear parameters for the use of artificial intelligence (AI) agents in discovery. Plaintiff Kellyn Clay faces unique barriers to receiving records directly (including mail restrictions and systemic obstruction). To ensure fair process, AI indexing tools must be permitted to locate, structure, and cross-reference responsive records on Plaintiff’s behalf.
+
+⸻
+
+II. Scope
+
+This protocol applies to all records sought in discovery, including but not limited to:
+	•	International travel records (airline manifests, ticketing, CBP entry/exit logs).
+	•	Medical records (hospital EMRs, school nurse logs, experimental protocol notes).
+	•	Educational and institutional records (field trip rosters, school contracts, USDA/NIH/DARPA grants).
+	•	Communications between Defendants and third parties (contractors, vendors, or foreign authorities).
+
+⸻
+
+III. Function of AI Agents
+
+AI agents shall be authorized to:
+	1.	Ingest bulk datasets produced by Defendants (including manifests, logs, communications).
+	2.	Extract relevant entries tied to Plaintiff’s identifiers (name, DOB, school enrollment, passport numbers, addresses).
+	3.	Cross-reference across disparate datasets to identify anomalies (e.g., ticketing irregularities, selective exclusions, incident reports).
+	4.	Generate structured outputs (e.g., tables, JSON logs, timelines) that can be filed under seal with the Court.
+
+AI agents shall not create or infer facts beyond the records provided. Their role is limited to indexing, cross-referencing, and structuring evidence already in Defendants’ possession.
+
+⸻
+
+IV. Access and Safeguards
+	•	AI outputs shall be produced simultaneously to Plaintiff and Defendants, ensuring parity of access.
+	•	Sensitive outputs (containing minors’ names, PII, or sealed information) shall be submitted under seal or for in camera review by the Court.
+	•	Defendants may challenge AI outputs on grounds of accuracy or overbreadth, but may not obstruct AI indexing of bulk records once produced.
+
+⸻
+
+V. Rationale
+	1.	Efficiency: Many responsive records span decades and multiple agencies. Manual review would be unreasonably burdensome and risk omission of key materials.
+	2.	Fairness: Plaintiff is uniquely disadvantaged by barriers to direct record access (e.g., mail restrictions). AI indexing ensures she is not denied meaningful discovery.
+	3.	Neutrality: AI agents are not partisan tools; they operate under transparent instructions and produce structured evidence for the Court’s use.
+	4.	Accountability: This protocol ensures all outputs are visible to both parties and the Court, preventing ex parte use or hidden manipulation.
+
+⸻
+
+VI. Requested Relief
+
+Plaintiff respectfully requests that the Court issue an order:
+	•	Authorizing the use of AI indexing tools in discovery.
+	•	Directing Defendants to provide bulk datasets (travel, medical, educational, contractual) in machine-readable formats.
+	•	Requiring that AI outputs be shared with both parties and, where necessary, filed under seal.
+	•	Confirming that AI indexing is a legitimate and necessary method of discovery under Federal Rules of Civil Procedure 26 and 34.
+
+⸻
+
+Dated: September 2nd, 2025
+Respectfully submitted,
+
+Kellyn Clay
+Plaintiff, Pro Se
