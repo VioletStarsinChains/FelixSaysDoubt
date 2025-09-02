@@ -1,0 +1,65 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA, et al.,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S REQUEST FOR PRODUCTION OF DOCUMENTS
+
+Pursuant to Rule 34 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay hereby requests that Defendants produce the following documents within thirty (30) days:
+
+⸻
+
+I. Individual Medical Records
+	1.	All medical records, charts, orders, and nursing notes related to Plaintiff’s presentation to Regions Hospital Emergency Department, 640 Jackson Street, St. Paul, MN 55101, during which ondansetron (Zofran) was administered over Plaintiff’s objection.
+	2.	All records documenting Plaintiff’s request for diphenhydramine (Benadryl) during that encounter.
+	3.	Medication administration logs showing the timing and dosage of ondansetron and diphenhydramine given to Plaintiff.
+	4.	Any adverse event reports, incident logs, or internal communications created by hospital staff regarding Plaintiff’s deterioration after forced administration of ondansetron.
+
+⸻
+
+II. Hospital Practices and Policies
+	5.	All policies, protocols, or standing orders in effect at Regions Hospital during the relevant period governing:
+	•	Administration of ondansetron in the emergency department
+	•	Patient refusal of medications and informed consent
+	•	Use of diphenhydramine in patients with MCAS or allergic conditions
+	6.	Records of all reported medication errors, adverse reactions, or patient refusals involving ondansetron from 2010 to present.
+	7.	Documents identifying staff training related to MCAS or mast cell–related disorders.
+
+⸻
+
+III. Coordination with External Entities
+	8.	All contracts, communications, or incident reports involving coordination between Regions Hospital and Uber Technologies Inc. regarding patient discharges or transportation.
+	9.	Any records of complaints, investigations, or incident reports involving patients whose Uber rides failed to arrive at the designated pickup point at or near Regions Hospital.
+
+⸻
+
+IV. Surveillance and Security Records
+	10.	All security footage from Regions Hospital entrances and discharge areas corresponding to Plaintiff’s visit.
+	11.	Logs of electronic badge swipes or staff notes relating to Plaintiff’s discharge.
+
+⸻
+
+V. Metadata and Audit Trails
+	12.	EMR (Electronic Medical Record) audit trail logs showing all staff who accessed, edited, or entered information into Plaintiff’s chart during the visit in question.
+
+⸻
+
+Definitions:
+	•	“All” means every document, communication, or record in Defendants’ possession, custody, or control.
+	•	The term “Defendants” includes Regions Hospital, its parent health system, contracted providers, and federal agencies with oversight authority.
+
+⸻
+
+Certification
+These requests are made in good faith, within the scope of Rule 26, and are relevant to Plaintiff’s claims of deliberate harm, denial of indicated treatment, and coordinated misconduct at the point of discharge.
+
+Dated: ____________
+Signed: ____________________
+Name: Kellyn Clay
