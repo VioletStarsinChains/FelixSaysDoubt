@@ -1,0 +1,44 @@
+To: Department of Homeland Security / Office of Intelligence and Analysis
+Cc: United States Postal Service (USPS) / Office of Inspector General
+Cc: Food and Drug Administration (FDA) / Office of Regulatory Affairs
+Cc: Defense Advanced Research Projects Agency (DARPA)
+Cc: Department of Justice / Drug Enforcement Administration (DEA)
+
+⸻
+
+Request:
+
+Requesting any and all documents, contracts, test data, design schematics, chemical inventories, procurement orders, internal communications, or research proposals related to the use of networked locker systems for behavioral or pharmacological intervention between 2008 and present.
+
+This includes:
+	•	Modifications to or enhancements of package locker systems (e.g., Amazon Lockers, USPS gopost units, third-party smart lockers) to include:
+	•	Aerosol dispersal systems
+	•	Dry mist emitters
+	•	Climate or humidity controls used to induce volatilization
+	•	Airflow-triggered chemical release mechanisms
+	•	Communications involving:
+	•	Amazon Technologies, Inc.
+	•	Cleveron, Luxer One, Parcel Pending, or other smart locker vendors
+	•	In-Q-Tel, Palantir, or other surveillance-adjacent contractors
+	•	Documentation on:
+	•	Behavioral impact testing via chemical exposure during package pickup
+	•	Use of volatile psychoactive, sedative, immunosuppressive, or endocrine-modulating compounds in parcel lockers
+	•	Safety audits related to chemical residue on delivered packages
+	•	Use of smart lockers in human subjects testing, behavioral modeling, or influence operations
+
+⸻
+
+Keywords:
+	•	smart locker
+	•	aerosol dispersal
+	•	dry mist
+	•	package pickup entrainment
+	•	porous packaging absorption
+	•	behavioral dosing
+	•	pharmacological overlay
+	•	Amazon Locker
+	•	USPS gopost
+	•	Clover patent
+	•	neuroactive microdosing
+	•	surveillance-triggered release
+	•	chemically responsive packaging
