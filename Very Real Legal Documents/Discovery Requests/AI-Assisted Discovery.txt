@@ -70,3 +70,31 @@ Respectfully submitted,
 
 Kellyn Clay
 Plaintiff, Pro Se
+
+⸻ 
+
+To the Honorable Judge:
+
+I am submitting the enclosed Proposed Protocol for AI-Assisted Discovery. I respectfully ask the Court to consider authorizing this approach for the following reasons:
+	1.	Unique Barriers to Access
+I face systemic barriers that prevent me from reliably receiving records directly (including mail restrictions and obstruction). Without an alternative, I will be effectively denied access to my own discovery.
+	2.	Volume and Complexity of Records
+The records relevant to this case span decades and involve multiple agencies, institutions, and contractors. Even if I were able to receive them directly, the sheer volume would make manual review impractical.
+	3.	AI as a Neutral Indexing Tool
+The AI agents I propose are not being used to generate or speculate about facts. They function only to:
+
+	•	Ingest bulk datasets produced by Defendants,
+	•	Search for my identifiers (name, DOB, school enrollment, travel data),
+	•	Cross-reference across sources, and
+	•	Output structured lists, timelines, and summaries.
+
+This is the same indexing and cross-referencing work that a large legal team would normally perform. The AI simply allows a pro se plaintiff like myself to participate in discovery on a fair footing.
+	4.	Transparency and Safeguards
+All AI outputs would be shared simultaneously with Defendants and, when necessary, filed under seal with the Court. This ensures transparency, prevents ex parte use, and protects sensitive information such as minors’ names or medical details.
+	5.	Fairness
+Without this protocol, I risk being buried under inaccessible or unusable records, which would deny me meaningful discovery. Allowing AI indexing ensures both sides and the Court have the same access to structured, usable evidence.
+
+⸻
+
+Request
+For these reasons, I respectfully request that the Court adopt the Proposed Protocol for AI-Assisted Discovery, authorize Defendants to produce machine-readable datasets, and allow AI indexing to proceed under the safeguards described.
