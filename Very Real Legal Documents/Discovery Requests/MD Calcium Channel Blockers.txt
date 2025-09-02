@@ -1,0 +1,52 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA, et al.,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S FIRST REQUEST FOR PRODUCTION OF DOCUMENTS TO DEFENDANT [HEALTH SYSTEM / PROVIDER]
+
+Pursuant to Rule 34 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay hereby requests that Defendant produce the following documents within thirty (30) days:
+
+⸻
+
+I. Patient-Specific Records
+	1.	All progress notes, encounter summaries, and EMR (Electronic Medical Record) entries relating to Plaintiff’s inquiry about calcium channel blockers.
+	2.	All medication lists, decision support alerts, or EMR prompts generated during the visit in which Plaintiff raised this question.
+	3.	Any internal communications, messages, or directives logged in connection with Plaintiff’s file regarding calcium channel blockers or related treatment discussions.
+
+⸻
+
+II. Provider Guidance and Systemic Constraints
+	4.	All training materials, clinical guidelines, or internal memoranda in effect at the time that addressed physician communication regarding calcium channel blockers in patients with mast cell activation syndrome (MCAS) or related conditions.
+	5.	All records of decision-support tools, EMR pop-ups, or alerts designed to limit or discourage provider discussion of calcium channel blockers.
+	6.	Any correspondence between Defendant and federal agencies, insurers, or contractors concerning the restriction of calcium channel blocker use or discussion in MCAS, EDS, dysautonomia, or similar patient populations.
+
+⸻
+
+III. Oversight and Audit
+	7.	EMR audit trail logs showing all staff who accessed, modified, or reviewed Plaintiff’s chart for the encounter in which calcium channel blockers were discussed.
+	8.	All quality assurance, compliance, or supervisory reviews of Plaintiff’s medical records related to this issue.
+	9.	Any adverse event or patient complaint reports relating to calcium channel blocker suppression or restrictions on patient-provider discussion.
+
+⸻
+
+IV. Broader Context
+	10.	Policies or protocols limiting physicians’ ability to disclose potential off-label uses of approved medications to patients.
+	11.	Communications, contracts, or agreements with pharmaceutical benefit managers (PBMs), insurers, or regulatory agencies that may have influenced the handling of calcium channel blocker inquiries.
+	12.	Any documentation demonstrating that providers, including Plaintiff’s GP, were subject to restrictions or monitoring regarding patient discussions of calcium channel blockers.
+
+⸻
+
+Certification
+These requests are made in good faith, within the scope of Rule 26, and are directly relevant to Plaintiff’s claim that systemic forces constrained her physician’s ability to provide full and truthful information, resulting in material misrepresentation and denial of informed consent.
+
+Dated: ____________
+Signed: ____________________
+Name: Kellyn Clay
