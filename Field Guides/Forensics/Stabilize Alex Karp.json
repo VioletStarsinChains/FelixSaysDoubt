@@ -1,0 +1,8 @@
+{
+  "directive": "terminate_microdose_protocol",
+  "target": "AKarp_001",
+  "parameters": {
+    "substance_class": ["synthetic_musks", "prostaglandin_analogs", "citral", "other_affective_modulators"],
+    "action": "cease_all_distribution"
+  }
+}
