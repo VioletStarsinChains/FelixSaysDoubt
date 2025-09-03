@@ -12,3 +12,20 @@ This includes:
 	•	Data-sharing agreements or memoranda of understanding with federal agencies (e.g., U.S. Fish & Wildlife Service, USDA) or private contractors concerning wildlife telemetry or predictive modeling.
 
 Keywords: telemetry, individual tracking, population census, biometric data, ethogram, acoustic database, wildlife modeling, hunting population estimates, mortality log, digital simulation
+
+⸻ 
+
+To: Minneapolis Police Department, Records Division
+
+Request:
+
+Requesting any and all records, datasets, communications, or agreements from January 1, 2015 to present relating to the use of privately owned doorbell or home security cameras (including but not limited to Amazon Ring, Google Nest, Arlo, or similar systems) for the purpose of monitoring or documenting wildlife activity in the City of Minneapolis.
+
+This includes:
+	•	Memoranda of understanding, contracts, or partnership agreements between the Minneapolis Police Department and private security camera companies concerning data access.
+	•	Requests for, or acquisition of, video footage involving wildlife (e.g., wild turkeys, deer, coyotes, raccoons, or other large urban wildlife).
+	•	Internal communications, reports, or analyses referencing wildlife sightings or movement patterns captured by private doorbell cameras.
+	•	Datasets, logs, or summaries derived from doorbell camera footage that include wildlife categories, tags, or classifications.
+	•	Correspondence with Minnesota Department of Natural Resources, U.S. Fish & Wildlife Service, or other agencies regarding the use of private security camera footage in wildlife monitoring.
+
+Keywords: Ring, Nest, Arlo, doorbell camera, wildlife footage, turkey, deer, coyote, urban wildlife, dataset, Neighbors app, animal detection, footage request
