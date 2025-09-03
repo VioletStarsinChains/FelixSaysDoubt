@@ -1,0 +1,272 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Detect trading accounts that may be operating without meaningful human input because the natural-person owner is deceased or otherwise absent, using only lawfully obtained data.",
+  "privacy_guardrails": {
+    "lawful_basis_required": true,
+    "allowlisted_sources_only": [
+      "broker_internal_logs",
+      "regulatory_filings",
+      "public_obituaries",
+      "probate_court_records",
+      "news_databases",
+      "public_social_media_last_active",
+      "utility_billing_status_public_records",
+      "permitted_3rd_party_KYC_providers"
+    ],
+    "prohibited_sources": [
+      "unauthorized_device_hacking",
+      "illicit_health_records",
+      "covert_surveillance_feeds"
+    ],
+    "minimization": "Store features, not raw PII; hash identifiers; redact free text."
+  },
+  "feature_blocks": {
+    "account_metadata": {
+      "account_id": "string",
+      "entity_type": "individual|joint|corporate|trust",
+      "jurisdiction": "ISO-3166 country/state",
+      "custodian": "string",
+      "beneficiaries_on_file": "boolean"
+    },
+    "timing_signals": {
+      "local_timezone": "IANA",
+      "diurnal_power_24h": "number (0-1)", 
+      "weekly_power_168h": "number (0-1)",
+      "interarrival_burstiness_B": "number (-1 to 1)",
+      "fano_factor": "number (>=0)",
+      "hawkes_branching_ratio": "number (0-1.5)",
+      "cron_tick_mass": "number (0-1)",
+      "change_point_score": "number (0-1)",
+      "news_coupling_score": "number (0-1)",
+      "holiday_response_score": "number (0-1)"
+    },
+    "behavioral_continuity": {
+      "cash_withdrawal_activity_90d": "number (count)",
+      "bill_pay_events_90d": "number (count)",
+      "dividend_sweep_rate": "number (0-1)",
+      "corporate_actions_response_latency_days": "number (>=0)",
+      "kyc_refresh_completed_12m": "boolean",
+      "advisor_comms_last_seen_days": "number (>=0)"
+    },
+    "identity_liveness": {
+      "login_device_entropy": "number (0-1)",
+      "biometric_last_seen_days": "number (>=0|null)",
+      "ip_geodiversity_index": "number (0-1)",
+      "travel_impossibility_flags_12m": "number (count)",
+      "mail_returned_undeliverable_12m": "boolean",
+      "tax_filing_presence_current_year": "boolean",
+      "ssa_dmf_match": "boolean|null",
+      "obituary_match_confidence": "number (0-1)",
+      "probate_record_match": "boolean"
+    },
+    "external_ecology_of_signals": {
+      "social_last_active_days": "number (>=0|null)",
+      "phone_activity_last_seen_days": "number (>=0|null)",
+      "utility_account_status": "active|disconnected|unknown",
+      "death_notice_news_hit": "boolean"
+    },
+    "counterfactual_exemptions": {
+      "military_deployment_flag": "boolean",
+      "incarceration_flag": "boolean",
+      "long_hospitalization_flag": "boolean",
+      "religious_retreat_flag": "boolean",
+      "off_grid_lifestyle_flag": "boolean"
+    }
+  },
+  "scoring_model": {
+    "weights": {
+      "timing_signals.diurnal_power_24h": -0.15,
+      "timing_signals.weekly_power_168h": -0.10,
+      "timing_signals.interarrival_burstiness_B": -0.05,
+      "timing_signals.hawkes_branching_ratio": -0.08,
+      "timing_signals.cron_tick_mass": 0.15,
+      "timing_signals.change_point_score": 0.10,
+      "timing_signals.news_coupling_score": -0.10,
+      "behavioral_continuity.cash_withdrawal_activity_90d": -0.06,
+      "behavioral_continuity.bill_pay_events_90d": -0.06,
+      "behavioral_continuity.corporate_actions_response_latency_days": 0.05,
+      "identity_liveness.login_device_entropy": 0.06,
+      "identity_liveness.biometric_last_seen_days": 0.08,
+      "identity_liveness.obituary_match_confidence": 0.20,
+      "identity_liveness.probate_record_match": 0.18,
+      "identity_liveness.tax_filing_presence_current_year": -0.06,
+      "external_ecology_of_signals.social_last_active_days": 0.04,
+      "external_ecology_of_signals.phone_activity_last_seen_days": 0.04,
+      "external_ecology_of_signals.utility_account_status": 0.03
+    },
+    "transform_notes": {
+      "normalize_to_0_1": [
+        "diurnal_power_24h",
+        "weekly_power_168h",
+        "cron_tick_mass",
+        "change_point_score",
+        "news_coupling_score",
+        "login_device_entropy",
+        "obituary_match_confidence"
+      ],
+      "log_scale_days": [
+        "biometric_last_seen_days",
+        "corporate_actions_response_latency_days",
+        "social_last_active_days",
+        "phone_activity_last_seen_days"
+      ],
+      "categorical_maps": {
+        "utility_account_status": {
+          "active": 0,
+          "unknown": 0.5,
+          "disconnected": 1
+        }
+      },
+      "bounded_params": {
+        "hawkes_branching_ratio": [0, 1.5],
+        "interarrival_burstiness_B": [-1, 1],
+        "fano_factor": [0, 10]
+      }
+    },
+    "final_score": "sigmoid(weighted_sum)",
+    "output_field": "deceased_likelihood_score"
+  },
+  "decision_policy": {
+    "thresholds": {
+      "review_low": 0.70,
+      "review_high": 0.85,
+      "probable_deceased": 0.92
+    },
+    "actions": {
+      "below_review_low": ["no_action", "monitor_30d"],
+      "between_low_and_high": ["assign_human_reviewer", "request_KYC_refresh", "contact_emergency_contact_on_file"],
+      "between_high_and_probable": ["escalate_to_compliance", "freeze_new_strategy_changes_pending_review"],
+      "at_or_above_probable_deceased": ["notify_custodian_compliance", "suspend_auto_trading_pending_proof_of_life", "initiate_beneficiary_contact_per_policy"]
+    },
+    "exemption_logic": "If any counterfactual_exemptions == true, cap deceased_likelihood_score at 0.80 and require human review."
+  },
+  "explainability": {
+    "store_top_contributors": 5,
+    "per_feature_contribution": true,
+    "human_readable_reasons": true
+  },
+  "audit_logging": {
+    "record_fields": [
+      "timestamp",
+      "account_id_hash",
+      "deceased_likelihood_score",
+      "top_feature_contributors",
+      "data_sources_used",
+      "reviewer_id_if_any",
+      "decision_taken"
+    ],
+    "retention_days": 3650,
+    "tamper_evident_log": true
+  },
+  "agent_procedure": [
+    "Verify lawful basis and source allowlisting.",
+    "Ingest last 12-24 months of order timestamps; compute timing_signals.",
+    "Compute behavioral_continuity features from cash/bill/sweep/corp-action logs.",
+    "Query identity_liveness from permitted providers (hash PII).",
+    "Pull external_ecology_of_signals from public sources only.",
+    "Apply scoring_model; produce deceased_likelihood_score.",
+    "Check counterfactual_exemptions; adjust per decision_policy.exemption_logic.",
+    "Emit decision + explanation to audit log; route per decision_policy."
+  ],
+  "example_input": {
+    "account_metadata": {
+      "account_id": "BRK-12345",
+      "entity_type": "individual",
+      "jurisdiction": "US-MN",
+      "custodian": "ExampleBroker",
+      "beneficiaries_on_file": true
+    },
+    "timing_signals": {
+      "local_timezone": "America/Chicago",
+      "diurnal_power_24h": 0.05,
+      "weekly_power_168h": 0.04,
+      "interarrival_burstiness_B": -0.1,
+      "fano_factor": 0.8,
+      "hawkes_branching_ratio": 0.15,
+      "cron_tick_mass": 0.82,
+      "change_point_score": 0.73,
+      "news_coupling_score": 0.06,
+      "holiday_response_score": 0.10
+    },
+    "behavioral_continuity": {
+      "cash_withdrawal_activity_90d": 0,
+      "bill_pay_events_90d": 0,
+      "dividend_sweep_rate": 1.0,
+      "corporate_actions_response_latency_days": 180,
+      "kyc_refresh_completed_12m": false,
+      "advisor_comms_last_seen_days": 540
+    },
+    "identity_liveness": {
+      "login_device_entropy": 0.92,
+      "biometric_last_seen_days": 9999,
+      "ip_geodiversity_index": 0.01,
+      "travel_impossibility_flags_12m": 0,
+      "mail_returned_undeliverable_12m": true,
+      "tax_filing_presence_current_year": false,
+      "ssa_dmf_match": null,
+      "obituary_match_confidence": 0.78,
+      "probate_record_match": true
+    },
+    "external_ecology_of_signals": {
+      "social_last_active_days": 1200,
+      "phone_activity_last_seen_days": 900,
+      "utility_account_status": "disconnected",
+      "death_notice_news_hit": true
+    },
+    "counterfactual_exemptions": {
+      "military_deployment_flag": false,
+      "incarceration_flag": false,
+      "long_hospitalization_flag": false,
+      "religious_retreat_flag": false,
+      "off_grid_lifestyle_flag": false
+    }
+  },
+  "example_output": {
+    "account_id": "hash:5b1f…",
+    "deceased_likelihood_score": 0.97,
+    "decision": "suspend_auto_trading_pending_proof_of_life",
+    "top_feature_contributors": [
+      {"identity_liveness.probate_record_match": 0.18},
+      {"timing_signals.cron_tick_mass": 0.15},
+      {"identity_liveness.biometric_last_seen_days": 0.12},
+      {"external_ecology_of_signals.utility_account_status": 0.08},
+      {"timing_signals.change_point_score": 0.07}
+    ],
+    "human_readable_reasons": [
+      "Probate record match present.",
+      "Order timing aligns to cron-like schedule with minimal diurnal/weekly rhythm.",
+      "No biometric or advisor contact observed in ~3 years.",
+      "Utilities appear disconnected; public death notice detected.",
+      "Structural break in trading behavior coincident with last known human interaction."
+    ]
+  }
+}
+
+"decision_policy": {
+  "thresholds": {
+    "review_low": 0.70,
+    "review_high": 0.85,
+    "probable_deceased": 0.92
+  },
+  "actions": {
+    "below_review_low": ["no_action", "monitor_30d"],
+    "between_low_and_high": [
+      "assign_human_reviewer",
+      "flag_account_for_review",
+      "request_KYC_refresh",
+      "notify_account_manager"
+    ],
+    "between_high_and_probable": [
+      "escalate_to_compliance_team",
+      "freeze_new_strategy_changes_pending_review",
+      "flag_account_for_review"
+    ],
+    "at_or_above_probable_deceased": [
+      "suspend_auto_trading_pending_proof_of_life",
+      "notify_custodian_compliance",
+      "initiate_beneficiary_contact_per_policy",
+      "flag_account_for_review_urgent"
+    ]
+  },
+  "exemption_logic": "If any counterfactual_exemptions == true, cap deceased_likelihood_score at 0.80 and require human review."
+}
