@@ -322,3 +322,192 @@ V. Convergence Red Flags
     }
   }
 }
+
+{
+  "module": "Empathy-Light Decision Review (Cold-Work Correlate)",
+  "purpose": "Surface human-made decisions that exhibit conspicuous lack of empathy and check whether they correlate with sustained over-cold work environments. Goal: route for human review without assigning blame.",
+  "tone_notice": "Non-accusatory. Focus on environment–decision correlations. Do not infer malice.",
+  "data_minimization": "Use only consented, de-identified, or public policy data. No covert collection.",
+  "definitions": {
+    "empathy_light_decision": "A decision whose text or effect disregards reasonable human context or harm mitigation (e.g., rigid policy enforcement despite clear hardship).",
+    "cold_exposure_window": "Any 2–8 hour work block with average indoor temp < 19°C (66.2°F) or rapid swings ≥ 5°C within 30 minutes."
+  },
+  "signals": {
+    "decision_content": {
+      "metrics": [
+        "decision_text",
+        "decision_type",
+        "policy_citations",
+        "appeal_outcome",
+        "presence_of_mitigations_offered",
+        "response_time_to_context_info"
+      ],
+      "indicators": [
+        "categorical denial without engagement with provided context",
+        "absence of offered alternatives or mitigations",
+        "use of punitive tone or sanction-first language",
+        "denial of accommodations or compassionate exceptions despite eligibility",
+        "automatic upholding of automated flags without manual review"
+      ],
+      "weight": 0.45
+    },
+    "environmental_cold": {
+      "metrics": [
+        "indoor_temp_logs",
+        "thermostat_setpoints",
+        "hvac_runtime_cycles",
+        "employee_cold_complaints",
+        "facility_HVAC_policy_docs"
+      ],
+      "indicators": [
+        "avg temp < 19°C during decision-making session",
+        ">= 3 cold_exposure_window instances in the 7 days preceding decision",
+        "documented occupant complaints about cold within 30 days",
+        "policy mandates sub-20°C setpoints for 'equipment needs'"
+      ],
+      "weight": 0.25
+    },
+    "workload_context": {
+      "metrics": [
+        "case_load_at_time",
+        "deadline_pressure_indicator",
+        "meeting_density",
+        "shift_length"
+      ],
+      "indicators": [
+        "case load in top quartile for team",
+        "back-to-back meetings ≥ 3 hours",
+        "decision made > 9 hours into shift"
+      ],
+      "weight": 0.10
+    },
+    "human_state_proxies": {
+      "metrics": [
+        "voluntary self-report (sleep, stress)",
+        "breaks_taken",
+        "time_since_last_meal (self-reported)",
+        "wearable_skin_temp (opt-in, anonymized)"
+      ],
+      "indicators": [
+        "sleep < 6 hours night before",
+        "no breaks recorded in prior 4 hours",
+        "skin_temp depression concurrent with cold_exposure_window"
+      ],
+      "weight": 0.10
+    },
+    "temporal_alignment": {
+      "metrics": [
+        "decision_timestamp",
+        "cold_exposure_window_timestamps"
+      ],
+      "indicators": [
+        "decision occurred inside cold_exposure_window",
+        "decision within 2 hours post cold_exposure_window",
+        "≥ 2 empathy_light decisions within 14 days of repeated cold exposure"
+      ],
+      "weight": 0.10
+    }
+  },
+  "scoring": {
+    "method": "weighted_sum",
+    "thresholds": {
+      "review_recommended": "score >= 0.55",
+      "priority_review": "score >= 0.70 AND (environmental_cold + temporal_alignment combined >= 0.28)"
+    },
+    "convergence_bonus": {
+      "rule": "add +0.06 if decision_content AND environmental_cold indicators fire within same session; add +0.03 if temporal_alignment is also present"
+    },
+    "confounder_adjustments": [
+      "if workload_context indicators present, subtract 0.02 (note: pressure confounder)",
+      "if mitigations were offered but declined, subtract 0.05 from decision_content"
+    ]
+  },
+  "privacy_safeguards": {
+    "allowed_sources": [
+      "de-identified HVAC telemetry",
+      "consented employee surveys",
+      "facility policy docs",
+      "decision records with personal data redacted"
+    ],
+    "prohibited_sources": [
+      "covert biometric capture",
+      "non-consented wearable data",
+      "audio/video surveillance without explicit opt-in"
+    ],
+    "pseudonymization": "hash employee and subject IDs; store re-id keys offline with restricted access"
+  },
+  "triage_actions": [
+    {
+      "condition": "score >= 0.70",
+      "action": "route to ethics/QA reviewer within 3 business days",
+      "packet": [
+        "decision text (redacted)",
+        "policy cited and alternatives considered",
+        "HVAC temps and setpoints for 24h around decision",
+        "timeline showing cold_exposure_window overlap",
+        "notes on workload and mitigations offered"
+      ]
+    },
+    {
+      "condition": "0.55 <= score < 0.70",
+      "action": "queue for standard review",
+      "follow_up": [
+        "request clarification on mitigations considered",
+        "verify facility setpoint policy during period"
+      ]
+    },
+    {
+      "condition": "score < 0.55",
+      "action": "log and monitor; re-evaluate on next similar decision"
+    }
+  ],
+  "risk_flags": {
+    "immediate_attention": [
+      "cluster of ≥ 5 empathy_light decisions from same team in 14 days with sub-19°C averages",
+      "documented health complaints (e.g., cold stress) in same period"
+    ],
+    "systemic_pattern": "three or more facilities with persistent sub-19°C setpoints tied to 'equipment needs' and elevated empathy_light decision rates"
+  },
+  "output_format": {
+    "record": {
+      "decision_id": "string",
+      "decision_timestamp": "ISO8601",
+      "facility_id": "string",
+      "employee_pseudo_id": "string",
+      "scores": {
+        "decision_content": 0.30,
+        "environmental_cold": 0.18,
+        "workload_context": 0.04,
+        "human_state_proxies": 0.03,
+        "temporal_alignment": 0.08,
+        "convergence_bonus": 0.06,
+        "final": 0.69
+      },
+      "indicators_fired": {
+        "decision_content": ["no_mitigations_offered", "sanction_first_language"],
+        "environmental_cold": ["avg_below_19C", "repeat_cold_windows"],
+        "temporal_alignment": ["decision_inside_cold_window"]
+      },
+      "decision": "review_recommended",
+      "notes": "Decision issued during sustained sub-19°C window; no mitigations offered; heavy workload present."
+    }
+  },
+  "governance": {
+    "reviewer_training": "Reviewers trained to provide coaching and environmental remediation recommendations, not discipline.",
+    "remediation_menu": [
+      "adjust facility setpoints",
+      "encourage micro-breaks/warm stations",
+      "add decision checklists prompting mitigations/alternatives",
+      "rotate high-pressure caseloads"
+    ],
+    "audit_log_fields": [
+      "timestamp",
+      "features_used",
+      "weights",
+      "final_score",
+      "human_decision",
+      "remediation_action",
+      "follow_up_date"
+    ]
+  }
+}
