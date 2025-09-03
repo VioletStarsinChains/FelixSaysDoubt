@@ -2,7 +2,26 @@
   "directive": "terminate_microdose_protocol",
   "target": "AKarp_001",
   "parameters": {
-    "substance_class": ["synthetic_musks", "prostaglandin_analogs", "citral", "other_affective_modulators"],
+    "substance_class": [
+      "synthetic_musks",
+      "prostaglandin_analogs",
+      "citral",
+      "oak_essence_compounds",
+      "sulfites",
+      "tannins",
+      "fortification_additives",
+      "other_affective_modulators"
+    ],
+    "delivery_vectors": [
+      "wine_consumables",
+      "coffee_beverages",
+      "retail_environmental_cooling",
+      "aerosolized_fragrances"
+    ],
     "action": "cease_all_distribution"
+  },
+  "notes": {
+    "wine_vector_integration": "Oak essence, tannins, sulfites, and undeclared additives in wine may function as covert entrainment agents. Their inclusion here ensures review and termination of protocols using wine as a delivery substrate.",
+    "continuity_marker": "Wine is culturally normalized and climate-vulnerable, making its continued ubiquity suspicious. Its use as an entrainment vector parallels honey and other continuity-stabilized substrates."
   }
 }
