@@ -1,0 +1,48 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+INTERROGATORIES
+	1.	Identify all officers, directors, or employees of Palantir who, at any time from 2008 to present, were responsible for the design, testing, or oversight of anomaly-classification schemas, including but not limited to designations of “Non-Person Entity” (NPE).
+	2.	Describe in detail all internal discussions or decisions concerning whether transient, externally induced states (including but not limited to environmental, chemical, or narrative exposures) were to be treated as permanent anomaly traits in Palantir’s software platforms (e.g., Gotham, Foundry, Apollo).
+	3.	Identify the individuals or teams responsible for ontology design and data-modeling decisions regarding anomaly classification.
+	4.	State whether any internal testing or evaluation revealed false positives or context-stripped anomaly labels, and if so, identify the employees or contractors who reviewed or approved the continued deployment of those systems.
+	5.	Identify all program managers or liaisons between Palantir and U.S. government agencies (CIA, DoD, DOJ, or other contracting entities) who were aware of anomaly or NPE designations being provided as outputs.
+	6.	Describe the role of Palantir’s legal, compliance, or risk management personnel in reviewing anomaly classification practices, and identify any officers or employees who provided written or oral guidance on civil rights, due process, or benefit-access implications.
+	7.	Identify any Palantir employees or executives who raised concerns regarding anomaly/NPE classification practices, and describe how those concerns were addressed or dismissed.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all documents, communications, or presentations reflecting internal knowledge that externally induced transient states (e.g., chemical exposures, environmental triggers, narrative overlays) were being logged as permanent anomaly traits.
+	2.	Produce all documents identifying the ontology engineers, data scientists, or modeling teams responsible for anomaly/NPE classification schemas.
+	3.	Produce all internal testing reports, error analyses, or quality-control documents referencing false positives, misclassifications, or context-stripped labels.
+	4.	Produce all communications with government clients in which Palantir personnel explained, qualified, or concealed the nature of anomaly/NPE classifications.
+	5.	Produce all internal or external legal, compliance, or ethics reviews concerning anomaly classifications, NPE labels, or deprivation of access to Social Security or other benefits.
+	6.	Produce all documents reflecting internal warnings, objections, or whistleblower reports regarding the misclassification of individuals as anomalies or NPEs.
+
+Respectfully submitted,
+Kellyn Clay, plaintiff, pro se
