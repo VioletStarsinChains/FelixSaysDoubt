@@ -1,0 +1,68 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+JOHN DOE DEFENSE CONTRACTORS,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+Functional Redlining Through Waste-Hauler Continuity and Smart Waste Data Capture
+
+I. Purpose of Exhibit
+This exhibit documents how the continuity of waste-hauler contracts—particularly through national providers such as Waste Management—functions as a covert restriction on housing access while simultaneously centralizing surveillance and behavioral data. The dual effect mirrors traditional redlining in outcome, though it operates through utilities and vendor contracts rather than overtly discriminatory housing policies.
+
+⸻
+
+II. Background
+	•	In most metropolitan regions, multiple trash haulers compete for contracts, with service areas varying by municipality, block, or property manager.
+	•	The subject’s experience demonstrates an unusual continuity: in multiple states, across different properties, every residence was serviced by Waste Management.
+	•	In contrast, while working door-to-door across the Twin Cities, the subject observed numerous haulers serving other properties.
+
+This continuity suggests restricted housing mobility routed through a single vendor.
+
+⸻
+
+III. Mechanism of Functional Redlining
+	1.	Housing Access Constraint
+	•	Properties accessible to the subject are consistently those under Waste Management contracts.
+	•	This restricts housing choice invisibly, creating a de facto redline not visible on paper.
+	2.	Surveillance Continuity
+	•	Waste Management and similar haulers operate RFID-enabled bins, GPS-equipped trucks, and smart sorting facilities.
+	•	These systems generate longitudinal datasets linking discarded materials (food packaging, supplements, pharmaceuticals) to individual households.
+	•	By restricting housing access to Waste Management-serviced properties, the subject’s waste—and thus their behavioral residue—is continuously captured in one corporate dataset.
+	3.	Entrainment Residue Capture
+	•	Waste streams record evidence of silly string (sticky overlay compounds such as musks, menthols, oak essence, aldehydes) and confetti (ephemeral novelty bursts, promotional packaging, flyers).
+	•	When waste collection is funneled through a single provider, these residues are curated into a seamless surveillance archive, exaggerating distortion in the data and reinforcing false anomaly classifications.
+
+⸻
+
+IV. Legal Implications
+	•	Fair Housing Act: Restricting mobility through vendor continuity functions as discriminatory exclusion, even absent explicit categories such as race or disability.
+	•	Civil Rights Protections: Continuity filtering produces the same harms as redlining—segregation, confinement, and denial of choice—by different means.
+	•	Privacy and Data Rights: Smart waste systems turn trash into biometric/behavioral datasets, raising issues of consent, data protection, and misuse.
+	•	Due Process: Using distorted data residues from curated waste streams to justify anomaly classification or intervention violates evidentiary reliability standards.
+
+⸻
+
+V. Affidavit Statement (Protective Safeguard)
+It is my position that continuity of waste-hauler contracts, when paired with smart waste technologies, creates both a covert restriction on housing access and a continuous surveillance pipeline. This practice results in functional redlining, confining individuals to properties under specific vendor control while stripping them of privacy in their discarded materials. By centralizing waste data, the system ensures that transient, externally induced manipulations (silly string and confetti) are permanently recorded and misclassified as intrinsic traits. Any anomaly designation arising from such curated data must be suspended until human review restores context.
+
+⸻
+
+VI. Conclusion
+What appears on paper as “ordinary trash service” in fact functions as a continuity mechanism with dual effects: it covertly restricts housing mobility and consolidates surveillance data. This practice parallels redlining in its discriminatory outcome and raises profound concerns under housing law, civil rights law, and data protection principles. Review is required by HUD, FTC, DOJ, and EPA to determine whether vendor continuity in waste contracts has been deliberately weaponized against individuals or groups.
+
+Respectfully submitted,
+Kellyn Clay, plaintiff, pro se
