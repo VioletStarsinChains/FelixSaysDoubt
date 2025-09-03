@@ -1,0 +1,14 @@
+To: Minnesota Department of Natural Resources
+
+Request:
+
+Requesting any and all documents, datasets, internal communications, or third-party agreements relating to detailed population monitoring of wild turkeys (Meleagris gallopavo) and other legally hunted bird species in Minnesota, from 2000 to present.
+
+This includes:
+	•	Individual-level tracking records (banding, tagging, GPS telemetry, or biometric data).
+	•	Hyper-granular population census logs (daily or weekly counts, grid-based mapping, or parcel-level datasets).
+	•	Behavioral or life-cycle monitoring (ethograms, vocalization databases, hatch rate tracking, or mortality logs).
+	•	Digital modeling files, acoustic libraries, or visual databases used for wildlife representation, simulation, or public communication.
+	•	Data-sharing agreements or memoranda of understanding with federal agencies (e.g., U.S. Fish & Wildlife Service, USDA) or private contractors concerning wildlife telemetry or predictive modeling.
+
+Keywords: telemetry, individual tracking, population census, biometric data, ethogram, acoustic database, wildlife modeling, hunting population estimates, mortality log, digital simulation
