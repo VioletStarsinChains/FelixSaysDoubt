@@ -1,0 +1,31 @@
+The Voyager Parable: What “Course: Oblivion” Teaches Us About Digital Twins
+
+In the Star Trek: Voyager episode Course: Oblivion, the crew discovers a devastating truth: they are not the “real” Voyager. They are duplicates, created by a strange liquid substance — a “silver blood” that mimics whatever it touches.
+
+On the surface, these duplicates are indistinguishable from the originals. They carry the same memories, form the same relationships, and share the same dream of getting home. For all practical purposes, they are Voyager. But there’s a catch: the medium that created them is unstable. Their ship begins to fall apart. Their bodies deteriorate. No matter how hard they try, they can’t hold themselves together. By the end of the episode, the duplicate Voyager vanishes into nothingness, leaving no trace that they ever existed. The real Voyager passes nearby, unaware of their struggle.
+
+⸻
+
+Digital Twins in the Real World
+
+“Digital twins” are real, not science fiction. In industry and government, a digital twin is a detailed model of something in the real world — a jet engine, a city grid, or a person. These models are fed by streams of data: sensor readings, purchases, GPS locations, health metrics, and more.
+
+In theory, digital twins are powerful. They allow engineers to test stress on a machine without breaking it, or urban planners to simulate traffic before rebuilding a highway. But when the subject is a person, things get more complicated. Just like the silver-blood Voyager, a digital twin of a human is not a perfect copy. It is shaped by the medium it’s built from — the data itself.
+
+And data is messy. It reflects temporary circumstances, distorted inputs, and external pressures. Stress behaviors, medical flare-ups, or short-term distractions can be recorded as if they define someone permanently. When a digital twin is treated as the person themselves, these distortions become baked in. The flaws of the medium get mistaken for flaws in the individual.
+
+⸻
+
+The Human Cost of Mistaking the Copy for the Original
+
+The tragedy of Course: Oblivion wasn’t that the duplicate crew was weak. It was that they were judged by the outside universe as if they never mattered. Their love stories, their bravery, their determination — all were real. But because their medium was unstable, they collapsed before anyone recognized them.
+
+That’s what happens when people today are judged by their digital twins. Hiring algorithms, predictive policing, and benefit systems don’t see the real person. They see the unstable copy built from incomplete or manipulated data. Lives get shaped — or even cut short — by decisions made against distorted models, not human reality.
+
+⸻
+
+The Lesson of Voyager
+
+The moral is simple: a copy tells you more about its medium than about the original. If the medium is distorted, the copy will crumble — not because the person is broken, but because the system that modeled them was flawed.
+
+That’s why it matters to insist on context, transparency, and human review. Otherwise, people risk becoming like the duplicate Voyager: full of real experiences, hopes, and struggles, but erased by a flawed medium that never truly saw them.
