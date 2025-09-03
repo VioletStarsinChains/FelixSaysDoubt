@@ -1,0 +1,37 @@
+{
+  "typology": "Sticky vs Scatter Entrainment",
+  "description": "Silly String and Confetti function as complementary metaphors for external manipulation strategies. Silly String represents sticky overlays that cling to identity and risk being misclassified as permanent traits. Confetti represents scatter tactics that fragment attention through brief bursts of distraction. Together, they describe how entrainment systems alternately distort baseline states and overwhelm perception with noise.",
+  "paired_terms": {
+    "silly_string": {
+      "category": "External Entrainment Overlay",
+      "definition": "A metaphor for externally applied manipulations—chemical, energetic, narrative, or otherwise—that create temporary, sticky overlays on cognition and behavior. Like literal silly string, these overlays are sprayed on from the outside, obscure underlying identity, and eventually fall away. The danger arises when systems mistake these transient states for permanent traits, leading to false anomaly labeling and self-reinforcing loops.",
+      "key_properties": [
+        "Exogenous and sticky",
+        "Temporary but misclassified as permanent",
+        "Alters identity perception",
+        "Self-reinforcing if misinterpreted"
+      ],
+      "primary_risk": "False anomaly labeling from misclassified overlays"
+    },
+    "confetti": {
+      "category": "External Entrainment Distraction",
+      "definition": "A metaphor for manipulations that come as brief, colorful bursts of distraction. Confetti scatters awareness and then disappears, fragmenting attention without clinging to baseline identity. Its purpose is to flood perception with noise and mask deeper manipulations.",
+      "key_properties": [
+        "Ephemeral and non-sticky",
+        "Fragmentary, splits attention",
+        "Cumulative noise from repeated bursts",
+        "Masks ongoing deeper manipulations"
+      ],
+      "primary_risk": "Signal degradation and distraction from critical continuity"
+    }
+  },
+  "forensic_tagging": {
+    "tag_pair": "Silly String + Confetti",
+    "cross_reference": [
+      "Cold Entrainment",
+      "Narrative Breadcrumbing",
+      "Behavioral Futures Market Noise",
+      "Anomaly Misclassification"
+    ]
+  }
+}
