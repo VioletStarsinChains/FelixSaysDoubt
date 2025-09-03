@@ -1,0 +1,57 @@
+{
+  "metric": "Distortion Quotient",
+  "abbreviation": "DQ",
+  "definition": "A composite measure of the degree to which an individual’s observed states and behaviors are distorted by external manipulations. Distortion Quotient aggregates sticky overlays (silly string) and transient distractions (confetti). A high DQ indicates that collected data no longer reflects the subject’s natural baseline, and therefore any anomaly classification is invalid until intensive review restores context.",
+  "components": {
+    "silly_string": {
+      "description": "Sticky overlays imposed via chemical, energetic, or narrative entrainment that are misclassified as permanent traits.",
+      "weight": 0.6,
+      "example_indicators": [
+        "persistent mood/affect shift immediately following exposure",
+        "oak essence or mint dosing linked to MCAS flare misread as pathology",
+        "narrative breadcrumb interpreted as personality trait"
+      ]
+    },
+    "confetti": {
+      "description": "Ephemeral, colorful distractions that fragment attention and pollute datasets with noise.",
+      "weight": 0.4,
+      "example_indicators": [
+        "rapid-fire micro-prompts or alerts skewing short-term behavior",
+        "irrelevant but eye-catching data fragments injected into records",
+        "engineered social chaff diverting attention from baseline patterns"
+      ]
+    }
+  },
+  "scoring": {
+    "method": "weighted_sum",
+    "thresholds": {
+      "review_recommended": "DQ >= 0.55",
+      "anomaly_suspension": "DQ >= 0.70 → automatic suspension of anomaly status pending intensive review",
+      "urgent_review": "DQ >= 0.85 → immediate halt to interventions until human review completes"
+    },
+    "contextual_note": "DQ does not penalize natural environmental entrainment (seasonal cycles, weather, social context). It targets synthetic manipulations and distorted data processing that erase context and produce false anomaly labels."
+  },
+  "oversight_actions": [
+    {
+      "condition": "DQ >= 0.70",
+      "action": "Suspend anomaly status. Flag dataset as distorted. Route to human review with contextual data restored."
+    },
+    {
+      "condition": "0.55 <= DQ < 0.70",
+      "action": "Mark label provisional. Require washout period and cross-context checks before reaffirming anomaly classification."
+    },
+    {
+      "condition": "DQ < 0.55",
+      "action": "Allow monitoring with consent, but prohibit escalations based on anomaly status."
+    }
+  ],
+  "forensic_tagging": {
+    "tag": "Distortion Quotient – False Anomaly Protection",
+    "cross_reference": [
+      "Silly String (overlay misclassification)",
+      "Confetti (distraction noise)",
+      "Temporary State Misclassification",
+      "Behavioral Futures Graph Distortion"
+    ]
+  }
+}
