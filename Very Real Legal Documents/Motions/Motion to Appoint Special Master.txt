@@ -1,0 +1,66 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+and affiliated surveillance contractors,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S MOTION TO APPOINT SPECIAL MASTER
+
+For Independent Review of Documents Withheld Under Claims of National Security
+
+Plaintiff Kellyn Clay respectfully moves this Court to appoint a Special Master pursuant to Fed. R. Civ. P. 53, with authority to independently review all documents Defendants seek to withhold under assertions of national security privilege.
+
+⸻
+
+I. Grounds for Motion
+	1.	Pattern of Overreach: Defendants, including Palantir Technologies Inc. and affiliated government agencies, have repeatedly invoked “national security” as a categorical bar to discovery requests in prior litigation and public oversight contexts.
+	2.	Limited Judicial Capacity: While the Court may conduct in camera review, the scope and technical nature of documents at issue (including complex software, data-modeling architectures, and internal communications) warrant appointment of a Special Master with relevant expertise and clearance.
+	3.	Need for Independent Scrutiny: The Protective Order prohibits misuse of national security claims to shield misrepresentation, fraud, or constitutional violations. Enforcement of that Order requires independent technical and legal evaluation beyond government assertions.
+
+⸻
+
+II. Proposed Appointment
+	1.	Qualifications: The Special Master shall be:
+	•	A licensed attorney with demonstrated experience in national security law, privacy law, or complex litigation;
+	•	Eligible to obtain or already in possession of appropriate security clearance;
+	•	Independent of all Defendants and their affiliates.
+	2.	Duties:
+	•	Review all documents withheld under claims of national security privilege;
+	•	Provide the Court with recommendations on whether such claims are valid, overbroad, or pretextual;
+	•	Ensure production of non-privileged materials under seal in compliance with the Protective Order;
+	•	Maintain a privilege log to facilitate appellate review if necessary.
+	3.	Authority: The Special Master shall have full access to documents, databases, and communications produced or logged by Defendants, subject only to the Court’s supervision.
+
+⸻
+
+III. Relief Requested
+
+Plaintiff respectfully requests that this Court:
+	1.	Appoint a Special Master with the qualifications described above;
+	2.	Direct Defendants to cooperate fully with the Special Master’s review;
+	3.	Authorize the Special Master to issue interim reports and recommendations to the Court;
+	4.	Tax reasonable costs of the Special Master to Defendants, given their position as custodians of disputed materials.
+
+⸻
+
+Respectfully submitted,
+
+Dated: ____________
+
+⸻
+
+Kellyn Clay, Plaintiff Pro Se
