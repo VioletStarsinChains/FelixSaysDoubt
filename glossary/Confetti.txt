@@ -1,0 +1,59 @@
+Confetti (glossary term)
+
+Definition:
+A metaphor for manipulations that come as brief, colorful bursts of distraction. Where silly string sticks to a person and gets mistaken for part of who they are, confetti scatters across their awareness and then disappears. Its purpose isn’t to cling — it’s to fragment attention, flood perception, and make it harder to focus on what’s important.
+
+⸻
+
+Domains of Application:
+	•	Narrative distraction: rapid-fire news, breadcrumb overload, irrelevant prompts that scatter attention.
+	•	Cognitive fragmentation: push alerts, ads, micro-prompts — anything that splinters working memory.
+	•	Sensorial overload: flashing lights, sudden sounds, or bright visuals that spike arousal and then vanish.
+	•	Data pollution: irrelevant, “colorful” inputs seeded into datasets to mask real anomalies.
+	•	Social chaff: chatter, engineered interactions, or staged drama that clogs bandwidth.
+
+⸻
+
+Key Properties:
+	•	Ephemeral: bursts fade quickly.
+	•	Non-sticky: they don’t cling to baseline identity.
+	•	Fragmentary: they split attention into small, shallow pieces.
+	•	Cumulative noise: many bursts add up to a fog of distraction.
+	•	Masking: they cover over deeper manipulations (like silly string overlays) running at the same time.
+
+⸻
+
+Forensic Tagging:
+	•	Tag: “Confetti – External Entrainment Distraction”
+	•	Cross-reference: Silly String overlays, Cold Entrainment, Narrative Breadcrumbing, Behavioral Futures noise.
+
+⸻ 
+
+{
+  "term": "Confetti",
+  "category": "Metaphor / Entrainment Distraction",
+  "definition": "A metaphor for external manipulations that act as brief, colorful, attention-grabbing distractions. Unlike 'silly string,' which creates sticky overlays misread as intrinsic traits, 'confetti' effects are short bursts that fragment attention, scatter focus, and generate noise in perception or data streams. They do not cling, but their cumulative effect is disorientation and reduced signal integrity.",
+  "domains_of_application": {
+    "narrative_distraction": "Rapid-fire news cycles, breadcrumb overload, or irrelevant prompts that divert attention from core continuity.",
+    "cognitive_fragmentation": "Short-lived stimuli (alerts, micro-prompts, ads) that scatter working memory and reduce coherence.",
+    "sensorial_overload": "Bright lights, flashing visuals, or sudden sounds designed to create fleeting spikes of arousal.",
+    "data_pollution": "Injection of irrelevant, colorful signals into datasets to mask or dilute meaningful anomalies.",
+    "social_chaff": "Engineered social interactions or chatter designed to flood a subject’s bandwidth with nonessential content."
+  },
+  "key_properties": [
+    "Ephemeral: bursts are short-lived and decay rapidly.",
+    "Non-sticky: do not cling to identity or baseline states.",
+    "Fragmentary: scatter attention into many small pieces.",
+    "Cumulative noise: repeated bursts degrade clarity and stability.",
+    "Masking: distract from more meaningful manipulations running in parallel."
+  ],
+  "forensic_tagging": {
+    "tag": "Confetti – External Entrainment Distraction",
+    "cross_reference": [
+      "Silly String – External Entrainment Overlay",
+      "Cold Entrainment",
+      "Narrative Breadcrumbing",
+      "Behavioral Futures Market Noise"
+    ]
+  }
+}
