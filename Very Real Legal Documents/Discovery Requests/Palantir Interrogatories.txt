@@ -44,5 +44,30 @@ REQUESTS FOR PRODUCTION
 	5.	Produce all internal or external legal, compliance, or ethics reviews concerning anomaly classifications, NPE labels, or deprivation of access to Social Security or other benefits.
 	6.	Produce all documents reflecting internal warnings, objections, or whistleblower reports regarding the misclassification of individuals as anomalies or NPEs.
 
+PLAINTIFF’S SECOND SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all Palantir employees, contractors, or affiliates who died during their employment or within two years of separation from the company, from 2008 to present.
+	2.	State, to the extent known or reasonably available, the cause of death for each individual identified in Interrogatory No. 1, including whether the death was classified as suicide, accident, natural causes, or undetermined.
+	3.	Describe any internal reviews, inquiries, or investigations conducted by Palantir regarding employee suicides, unexplained deaths, or sudden medical events.
+	4.	Identify all departments, officers, or committees within Palantir responsible for employee health, wellness, or workplace safety monitoring, and describe their role in tracking mortality or morbidity among employees.
+	5.	Describe whether Palantir has ever notified government contracting agencies (CIA, DoD, DOJ, or others) about employee suicides, unexplained deaths, or health events potentially linked to stress, burnout, or occupational exposure.
+	6.	Identify all employees or executives who were informed of patterns or clusters of suicides, unexplained deaths, or medical emergencies among Palantir staff.
+	7.	State whether Palantir has ever retained outside consultants, auditors, or law firms to investigate employee suicides, unexplained deaths, or workplace conditions contributing to such outcomes.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all internal reports, memoranda, or communications concerning employee suicides, unexplained deaths, or sudden medical events from 2008 to present.
+	2.	Produce all incident logs, HR records, or occupational safety reports that document employee deaths, including classification of cause (suicide, accidental, medical, undetermined).
+	3.	Produce all communications between Palantir and government contracting agencies that reference employee suicides, unexplained deaths, or workplace stressors.
+	4.	Produce all statistical analyses, tracking spreadsheets, or dashboards maintained by Palantir concerning employee mortality, suicides, or unexplained health events.
+	5.	Produce all communications reflecting concerns, warnings, or complaints raised by employees, managers, or outside auditors regarding suicides, unexplained deaths, or potential workplace contributors to such outcomes.
+	6.	Produce all policies, training materials, or wellness program documents relating to suicide prevention, mental health support, or employee monitoring.
+
+⸻ 
+
 Respectfully submitted,
 Kellyn Clay, plaintiff, pro se
