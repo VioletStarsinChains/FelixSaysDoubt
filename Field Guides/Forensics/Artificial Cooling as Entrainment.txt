@@ -156,3 +156,169 @@ V. Convergence Red Flags
     }
   ]
 }
+
+{
+  "module": "Anomaly Review: Chronic Artificial Temperature Manipulation",
+  "purpose": "Detect and prioritize individuals labeled as 'anomalies' who are likely subjected to persistent, engineered temperature manipulation (chemical, environmental, physical, or narrative) for human review.",
+  "data_minimization_notice": "Use only public, consented, or lawfully obtained data. No covert collection.",
+  "signals": {
+    "environmental": {
+      "metrics": [
+        "indoor_temp_time_series",
+        "indoor_outdoor_delta_time_series",
+        "hvac_runtime_cycles",
+        "location_chain_ids"
+      ],
+      "indicators": [
+        "sustained indoor temperature < 18°C or > 29°C for > 14 days cumulatively in 60 days",
+        "frequent rapid temp swings ≥ 5°C within 30 minutes, > 6 occurrences/week",
+        "patterned over-cooling linked to specific venues (e.g., chain stores, transit hubs, shelters)"
+      ],
+      "weight": 0.35
+    },
+    "chemical": {
+      "metrics": [
+        "product_ingredients_exposure_logs",
+        "self_reports_of_cooling_sensations",
+        "purchase_patterns_for_TRPM8_activators"
+      ],
+      "indicators": [
+        "repeated exposure to menthol/mint/eucalyptol/camphor in consumables or topicals",
+        "cooling sensation reported without corresponding thermometric drop",
+        "new onset intolerance or altered absorption of supplements (e.g., magnesium) concurrent with cooling additives"
+      ],
+      "weight": 0.25
+    },
+    "physical_infrastructure": {
+      "metrics": [
+        "presence_of_cryogenic_equipment_flags",
+        "hazmat_signage_observations",
+        "server_room_proximity"
+      ],
+      "indicators": [
+        "regular proximity to cryogenic tanks (UN1977 nitrogen, UN1963 helium) or unmarked cooling equipment",
+        "recurring access constraints or routes forcing passage near overcooled machinery"
+      ],
+      "weight": 0.15
+    },
+    "narrative_symbolic": {
+      "metrics": [
+        "communication_corpus_keywords",
+        "breadcrumb_timeline",
+        "topic_shift_events"
+      ],
+      "indicators": [
+        "external nudges toward 'cold' motifs (entropy, superconductors, zero resistance) not aligned with subject’s interests",
+        "coincidence of narrative 'cold' prompts with real-world cooling exposures"
+      ],
+      "weight": 0.1
+    },
+    "health_behavioral": {
+      "metrics": [
+        "symptom_diary",
+        "sleep_quality",
+        "panic_cold_intolerance_events",
+        "dwell_time_changes"
+      ],
+      "indicators": [
+        "worsening dysautonomia/MCAS-like flares during/after cold exposures",
+        "shortened dwell time or avoidance behaviors in overcooled spaces",
+        "abnormal sweating patterns adjacent to treated areas (e.g., clay mask observations)"
+      ],
+      "weight": 0.15
+    }
+  },
+  "scoring": {
+    "method": "weighted_sum",
+    "thresholds": {
+      "review_recommended": "score >= 0.55",
+      "urgent_review": "score >= 0.70 with at least 2 domains converging"
+    },
+    "convergence_bonus": {
+      "rule": "if two or more domains have active indicators within a 14-day window, add +0.07; if three or more, add +0.12"
+    }
+  },
+  "privacy_safeguards": {
+    "allowed_sources": [
+      "subject-consented logs",
+      "public venue policies/temperatures",
+      "non-identifying environmental sensors",
+      "open corporate manuals/policies"
+    ],
+    "prohibited_sources": [
+      "covert surveillance",
+      "medical data without explicit consent",
+      "any device telemetry obtained without opt-in"
+    ],
+    "pseudonymization": "hash subject identifiers prior to scoring; keep re-identification keys offline"
+  },
+  "triage_actions": [
+    {
+      "condition": "score >= 0.70",
+      "action": "route to human reviewer with high priority",
+      "human_review_packet": [
+        "time-aligned plot of indoor/outdoor temps",
+        "list of venues with repeated overcooling",
+        "ingredient exposure summary (TRPM8 activators)",
+        "symptom/behavior correlation timeline",
+        "evidence of narrative 'cold' nudging (timestamps)"
+      ]
+    },
+    {
+      "condition": "0.55 <= score < 0.70",
+      "action": "queue for standard human review",
+      "follow_up": [
+        "request subject consent for additional environmental logging",
+        "verify venue HVAC policies or hazmat signage"
+      ]
+    },
+    {
+      "condition": "score < 0.55",
+      "action": "monitor with consent; re-evaluate in 30 days"
+    }
+  ],
+  "auditability": {
+    "log_fields": [
+      "timestamp",
+      "features_used",
+      "weights",
+      "intermediate_scores",
+      "final_score",
+      "decision",
+      "reviewer_id_if_applicable"
+    ],
+    "explanation": "store feature-level contributions for each decision to support human-understandable review"
+  },
+  "risk_flags": {
+    "immediate_escalation": [
+      "documented cryogenic leak or oxygen depletion risk",
+      "severe health event temporally linked to overcooling"
+    ],
+    "venue_pattern": "same corporate venue chain implicated across >= 3 locations within 60 days"
+  },
+  "output_format": {
+    "subject_record": {
+      "subject_pseudo_id": "string",
+      "time_window_start": "ISO8601",
+      "time_window_end": "ISO8601",
+      "domain_hits": {
+        "environmental": ["indicator_id_1", "indicator_id_2"],
+        "chemical": ["indicator_id_3"],
+        "physical_infrastructure": [],
+        "narrative_symbolic": ["indicator_id_5"],
+        "health_behavioral": ["indicator_id_6"]
+      },
+      "scores": {
+        "environmental": 0.22,
+        "chemical": 0.10,
+        "physical_infrastructure": 0.00,
+        "narrative_symbolic": 0.05,
+        "health_behavioral": 0.11,
+        "convergence_bonus": 0.07,
+        "final": 0.55
+      },
+      "decision": "review_recommended",
+      "notes": "Menthol exposure + overcooled venues + symptom spikes aligned within 10 days."
+    }
+  }
+}
