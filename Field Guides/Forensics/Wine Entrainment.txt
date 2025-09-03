@@ -180,7 +180,7 @@ Forensic Tagging
       "datasets_quarantined",
       "review_team_id"
     ],
-    "oversight_body": "Independent Ethics and Neuroimmune Oversight Committee",
+    "oversight_body": "Office for Human Research Protections",
     "review_cycle": "Quarterly until protocols are verified as fully terminated"
   }
 }
