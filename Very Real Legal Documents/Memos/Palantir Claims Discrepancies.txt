@@ -1,0 +1,54 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+and affiliated surveillance contractors,
+  Defendants.
+
+⸻
+
+EXHIBIT U
+
+Discrepancy Between CEO’s Representations and Actual Corporate Practices
+
+Plaintiff Kellyn Clay submits this Exhibit to demonstrate material discrepancies between public representations made by Palantir CEO Alexander Karp and the actual operations of Palantir Technologies Inc., particularly as they relate to anomaly classification, attrition practices, and behavioral futures markets.
+
+⸻
+
+2003–2008: Founding Period
+	•	CEO Representation: Palantir was presented as a civil-liberties–preserving “PayPal for counterterrorism,” designed to catch terrorists while safeguarding democracy.
+	•	Actual Practice: In-Q-Tel funding established Palantir as a surveillance backbone for CIA and DoD fusion centers, providing infrastructure for invasive data-mining.
+
+2009–2012: Law Enforcement & Finance Expansion
+	•	CEO Representation: Palantir tools were framed as assisting banks in fraud detection and law enforcement in fair, efficient policing.
+	•	Actual Practice: Predictive policing platforms (LAPD, NYPD, NOPD) and ICE enforcement deployments enabled systemic surveillance and deportation operations; parallel financial analytics supported hedge fund–driven behavioral futures trading.
+
+2013–2016: Snowden Era
+	•	CEO Representation: Palantir distinguished itself from NSA dragnet programs, claiming its platforms enhanced transparency and civil oversight.
+	•	Actual Practice: Palantir platforms enabled dragnet surveillance to become searchable and deployable at scale; anomaly classification systems were contracted to police and intelligence agencies for population-level control.
+
+2017–2020: Trump Era
+	•	CEO Representation: Palantir refused to work with abusive regimes and portrayed itself as indispensable for defense and pandemic response.
+	•	Actual Practice: Palantir supplied ICE with deportation and family-separation logistics, while embedding itself in pandemic data infrastructure (HHS Protect, Tiberius), consolidating supply-chain and health surveillance systems.
+
+2021–Present: AI Normalization
+	•	CEO Representation: Palantir markets itself as a “mission company” safeguarding democracy in an AI-driven world.
+	•	Actual Practice: Palantir provides the operational nervous system for NATO militaries and UK/US health systems, expanding behavioral futures markets under the guise of “AI platforms.” Anomaly and NPE classifications are normalized as governance infrastructure.
+
+⸻
+
+Summary of Discrepancy:
+Alexander Karp’s academic background in social theory, law, and philosophy—without technical training—has left him reliant on curated internal narratives and demos. This enabled Palantir’s board and engineering leadership to promote an external story of “civil liberties–enhancing analytics” while executing operational practices centered on surveillance, attrition, and monetization of anomaly data.
+
+This discrepancy constitutes evidence of misrepresentation to investors, the public, and potentially to Karp himself, further underscoring the need for judicial intervention.
