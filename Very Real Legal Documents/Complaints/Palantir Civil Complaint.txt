@@ -23,79 +23,86 @@ whose names and identities are presently unknown,
 
 ⸻
 
-CIVIL COMPLAINT FOR FRAUDULENT MISREPRESENTATION, UNJUST ENRICHMENT, AND CIVIL CONSPIRACY
-(RE: FALSE CLAIMS TO PREVENT TERRORISM)
+CIVIL COMPLAINT FOR FRAUDULENT MISREPRESENTATION, UNJUST ENRICHMENT, CIVIL CONSPIRACY, DUE-PROCESS DEPRIVATION, AND FUNCTIONAL REDLINING
+
+(Re: False “Terrorism Prevention” Claims, Distorted Classification Pipelines, and Housing/Data Continuity Filters)
 
 ⸻
 
 INTRODUCTION
 
-Plaintiff Kellyn Clay brings this action against Palantir Technologies Inc. and its federal partners for knowingly and repeatedly misrepresenting the function and effectiveness of its surveillance platforms, particularly in claiming to “prevent terrorism.” Despite vast access to sensitive behavioral data—including search histories, movement logs, purchases, and private communications—Palantir has failed to prevent or meaningfully reduce mass violence in the United States, including domestic terrorism, school shootings, and targeted extremist acts.
+Plaintiff Kellyn Clay brings this action against Palantir Technologies Inc. and its federal partners for knowingly misrepresenting the function and effectiveness of their surveillance/analytics platforms, including claims to “prevent terrorism,” while deploying classification systems that strip context, amplify distortion, and falsely label civilians as anomalies, including “Non-Person Entities” (“NPEs”). These labels—derived from externally manipulated, contaminated data—have been used to deprive individuals of due process and access to federal benefits, including Social Security, creating a system of economic confiscation under color of counterterrorism.
 
-Meanwhile, the company has profited extensively from federal contracts premised on these false claims, enabling the expansion of unconstitutional, unregulated behavioral tracking systems that disproportionately harm vulnerable civilians.
+Concurrently, Defendants have facilitated functional redlining by constraining Plaintiff’s housing access through vendor continuity filters (e.g., a single national trash hauler across multiple residences in different states), thereby centralizing surveillance and “entrainment residue” collection while giving the appearance of ordinary utility contracting. The resulting harms include mass surveillance without lawful justification, deprivation of rights and benefits, and unjust enrichment through federal contracts obtained by false claims.
 
 ⸻
 
 JURISDICTION AND VENUE
 	1.	Jurisdiction is proper under 28 U.S.C. § 1331 (federal question), 28 U.S.C. § 1343 (civil rights), and 28 U.S.C. § 1332 (diversity of citizenship).
-	2.	Venue is proper in this district under 28 U.S.C. § 1391, as the harmful effects of Defendants’ conduct have occurred throughout the United States, including within this judicial district.
+	2.	Venue is proper under 28 U.S.C. § 1391 because substantial parts of the events or omissions giving rise to the claims occurred in this District and throughout the United States, and Defendants transact business nationwide.
 
 ⸻
 
 PARTIES
 	3.	Plaintiff Kellyn Clay is a U.S. citizen residing within the jurisdiction of this Court.
-	4.	Defendant Palantir Technologies Inc. is a private technology company headquartered in Colorado, contracting extensively with U.S. federal agencies.
-	5.	Defendant United States of America is sued through its agencies for oversight failure and participation in civil conspiracy.
-	6.	John Doe Contracting Agencies and Affiliates represent yet-unidentified entities acting in concert with Palantir in the deployment, justification, and concealment of the harmful systems described herein.
+	4.	Defendant Palantir Technologies Inc. is a private technology contractor headquartered in Denver, Colorado, that contracts extensively with U.S. agencies.
+	5.	Defendant United States of America is sued through its agencies for oversight failure and participation in a civil conspiracy.
+	6.	John Doe Contracting Agencies and Affiliates are yet-unidentified entities acting in concert with Palantir in the deployment, justification, and concealment of the systems described herein.
+
+⸻
+
+DEFINITIONS (FOR CLARITY OF PLEADING)
+	7.	Silly String: Externally applied, sticky overlays (chemical/energetic/narrative) that temporarily alter affect/behavior and are often misclassified as permanent traits.
+	8.	Confetti: Brief distraction bursts that fragment attention and pollute data streams with noise.
+	9.	Distortion Quotient (“DQ”): A composite measure of the degree to which observed behavior is distorted by external manipulations, integrating (a) silly string overlays, (b) confetti distractions, and (c) system escalation (compounding effects from interventions based on already-distorted data).
+	•	Safeguard Rule: When DQ crosses a defined threshold (e.g., ≥ 0.70), any anomaly/NPE classification must be automatically suspended pending intensive human review with contextual restoration.
+	10.	Functional Redlining: A continuity mechanism that restricts housing access via “neutral” vendor filters (e.g., a single national trash hauler across all residences), producing exclusionary effects analogous to redlining while consolidating surveillance and “waste-stream” data capture.
 
 ⸻
 
 FACTUAL ALLEGATIONS
-	7.	Palantir has marketed itself as a platform that enables law enforcement and intelligence agencies to “prevent terrorism,” “predict and stop threats before they happen,” and “protect national security.”
-	8.	These representations were made publicly in press releases, investor calls, shareholder letters, and procurement justifications, and privately to agencies and lawmakers responsible for awarding billion-dollar contracts.
-	9.	At all relevant times, Palantir had full access to extensive behavioral, biometric, financial, and geospatial data on millions of U.S. residents.
-	10.	Despite this access, and despite operating in jurisdictions where numerous mass shootings occurred, Palantir’s tools failed to prevent any of the ten deadliest shootings in U.S. history, including incidents in Las Vegas, Parkland, Orlando, El Paso, Sandy Hook, and others.
-	11.	Palantir knew or should have known that its predictive models were not capable of preventing mass violence, yet continued to assert otherwise.
-	12.	Palantir and its partners exploited the emotional and political climate following 9/11, Sandy Hook, and other mass casualty events to secure federal contracts based on false claims of efficacy.
-	13.	The Plaintiff and members of the public were never informed that the outputs of these systems would be used not to prevent terrorism, but to:
+	11.	Palantir marketed itself as enabling agencies to “prevent terrorism,” “predict and stop threats,” and “protect national security,” including in public investor materials and procurement pitches.
+	12.	Palantir had access to extensive behavioral, biometric, financial, and geospatial data yet failed to prevent the deadliest mass shootings and major domestic terror events in the U.S.
+	13.	Palantir knew or should have known that its predictive models could not deliver the advertised “prevention” outcomes, yet continued to secure high-value federal contracts on that claim.
+	14.	Rather than prevent violence, Defendants’ systems were used to:
+• Coerce behavior via nudging and opaque risk scoring;
+• Classify civilians as anomalies or “NPEs” without due process;
+• Deny procedural safeguards through automated suspicion pipelines.
+	15.	Defendants structured pipelines that ignore context and record externally induced states as permanent traits—converting “silly string” and “confetti” into life-long labels.
+	16.	Defendants were, or should have been, aware that such methods would generate widespread false anomaly/NPE labels from contaminated data.
+	17.	The NPE labeling pipeline is economically confiscatory: individuals continue to pay mandatory Social Security contributions while being secretly engineered or funneled into categories that later deny benefits, effectively stripping earned entitlements.
+	18.	Defendants also facilitated functional redlining: Plaintiff’s housing options repeatedly resolved to properties under the same national trash-hauler across multiple states, centralizing waste-stream data (including entrainment residues such as musks, menthols, aldehydes, and oak-derived compounds) and “confetti” bursts (novelty/insert chaff).
+	19.	This vendor continuity created a covert longitudinal dataset and restricted housing mobility while presenting as ordinary utility contracting—a redlining analogue that consolidates surveillance and preserves distorted records.
+	20.	Palantir profited massively from these practices while delivering systems that weaponized manipulated data against civilians and undermined due process, evidentiary reliability, and civil rights.
 
-	•	Coerce behavior through predictive modeling and nudging
-	•	Classify individuals as anomalies or “non-person entities”
-	•	Deny due process through automated suspicion pipelines
+⸻
 
-	14.	This misrepresentation has resulted in:
-
-	•	Mass surveillance without lawful justification
-	•	Psychological and physiological harm to affected civilians
-	•	Erosion of democratic accountability and individual rights
-
-	15.	Palantir has profited massively from this false narrative, despite failing to deliver on its core promise.
+AFFIDAVIT-STYLE SAFEGUARD STATEMENT (INCORPORATED)
+	21.	It is Plaintiff’s position that any anomaly designation arising from manipulated data must be automatically suspended when the Distortion Quotient (DQ) exceeds the defined threshold. DQ measures distortion from silly string (sticky overlays), confetti (fleeting distractions), and system escalation (compounding interventions). Natural environmental entrainment is not wrongful; the harm arises when synthetic manipulations are recorded without context and escalations amplify their effects. In such cases, the data no longer reflects a person’s true baseline state. Continuing to use that data for surveillance, intervention, or sentencing constitutes misclassification and risks condemning innocent individuals. Therefore, when DQ crosses threshold, anomaly status must be suspended by rule and intensive human review required before further action.
 
 ⸻
 
 CAUSES OF ACTION
 
-⸻
-
 Count I – Fraudulent Misrepresentation
-	16.	Defendant knowingly made false claims regarding its ability to prevent terrorism and violent threats.
-	17.	These statements were material, intended to induce reliance by contracting agencies and the public.
-	18.	Plaintiff and the public reasonably relied on these representations, directly or through government action.
-	19.	As a result, Plaintiff and similarly situated individuals suffered direct and indirect harm, including psychological abuse, rights violations, and exposure to experimental surveillance systems.
-
-⸻
+	22.	Palantir knowingly made false, material claims about preventing terrorism to induce reliance by agencies and the public.
+	23.	Contracts and deployments were secured on the basis of these misrepresentations; Plaintiff and the public were harmed through surveillance expansion, coercive nudging, and distorted classifications.
 
 Count II – Unjust Enrichment
-	20.	Palantir received billions in federal funds under the premise that its software prevented terrorism.
-	21.	Those funds were not earned by fulfilling contractual goals, but by exploiting fear and misinformation.
-	22.	Retention of those funds constitutes unjust enrichment at the expense of public safety and constitutional order.
-
-⸻
+	24.	Palantir received billions in federal funds tied to “prevention” deliverables it did not provide; retention of those funds is unjust where systems produced rights deprivations rather than safety.
 
 Count III – Civil Conspiracy
-	23.	Defendants acted in concert to construct and maintain a fraudulent narrative of “terrorism prevention” to justify mass behavioral surveillance.
-	24.	These actions were coordinated, concealed, and materially advanced through public deception and procurement fraud.
-	25.	Each Defendant played a role in enabling the misuse of predictive analytics against the public, with full knowledge of their ineffectiveness and the harm they would cause.
+	25.	Defendants acted in concert to construct and maintain a fraudulent “terrorism prevention” narrative that justified mass behavioral surveillance and context-stripped classifications, concealing the true uses and harms.
+
+Count IV – Deprivation of Rights and Due Process (U.S. Const. amend. V)
+	26.	By adopting and feeding context-free anomaly/NPE labels into decision systems that control access to liberty and benefits, Defendants deprived Plaintiff and similarly situated persons of procedural and substantive due process, including earned Social Security benefits, based on contaminated, manipulated data.
+
+Count V – Fraud and False Claims in Government Contracting (Common-Law Fraud; Fraudulent Inducement)
+	27.	Palantir’s procurement representations and deliverables materially departed from claimed prevention functions; knowing use of distorted data and foreseeable misclassification constitute fraud in inducement and performance of federal contracts.
+	28.	To the extent individual executives were aware and failed to intervene, personal liability is warranted under theories of willful misconduct and reckless disregard.
+
+Count VI – Functional Redlining and Housing Restriction (Fair Housing Act principles)
+	29.	Defendants’ vendor continuity filters (e.g., single national waste-hauler across residences) restricted Plaintiff’s housing mobility and consolidated surveillance datasets, producing exclusionary effects functionally analogous to redlining while evading traditional paper trails.
 
 ⸻
 
@@ -103,52 +110,44 @@ PRAYER FOR RELIEF
 
 WHEREFORE, Plaintiff respectfully requests that this Court:
 
-a. Declare that Palantir Technologies Inc. committed fraudulent misrepresentation;
-b. Order disgorgement of all federal funds received under terrorism-prevention justifications;
-c. Enjoin Palantir from making future claims of terrorism prevention without independently verifiable evidence;
-d. Award compensatory and punitive damages to Plaintiff and similarly situated individuals, in an amount to be determined at trial;
-e. Grant such other and further relief as the Court deems just and proper.
+a. Declare that Palantir committed fraudulent misrepresentation and that Defendants’ context-stripped classification pipelines violate due process;
+b. Order disgorgement of federal funds received under “terrorism prevention” justifications;
+c. Enter an injunction prohibiting Defendants from deploying or marketing classification systems that ignore context, and requiring implementation of the DQ Safeguard Rule (automatic suspension of anomaly/NPE labels when DQ ≥ threshold pending human review);
+d. Order an independent audit and special master to: (i) quarantine or purge datasets contaminated by synthetic manipulations; (ii) identify individuals wrongfully labeled; (iii) restore access to federal benefits wrongfully denied;
+e. Enjoin functional redlining practices via vendor continuity filters and require fair-housing compliant placement procedures;
+f. Award compensatory and punitive damages to Plaintiff and a similarly situated class (if certified), amounts to be determined at trial;
+g. Award fees, costs, and any further relief the Court deems just and proper.
 
 ⸻
 
 Respectfully submitted,
+
 Kellyn Clay, pro se
 Dated: August 30, 2025
 
-⸻ 
+⸻
 
 Notice of Request for Electronic Service
 
 Plaintiff: Kellyn Clay
-Defendant(s): [Starbucks Corporation, et al.]
+Defendant(s): United States of America; Palantir Technologies Inc.; John Doe Contracting Agencies and Affiliates
 Case No.: [to be assigned]
 Court: United States District Court for the District of Minnesota
 
-⸻
-
 Notice
 
-Pursuant to Federal Rule of Civil Procedure 5(b)(2)(E) and the court’s inherent authority to manage service and filings, Plaintiff Kellyn Clay, appearing pro se, respectfully requests that all parties and the Clerk of Court serve all filings, pleadings, discovery requests, discovery responses, and other documents by electronic means rather than by U.S. Mail.
+Pursuant to Fed. R. Civ. P. 5(b)(2)(E) and the Court’s inherent authority, Plaintiff requests electronic service of all filings.
 
 Basis for Request
-	1.	Plaintiff is unable to reliably receive residential mail.
-	2.	Plaintiff has continuous access to electronic communication and requests that all service be made via:
-	•	The court’s CM/ECF electronic filing system (if access is granted to pro se litigants), and/or
-	•	Direct service to Plaintiff’s designated email address: [your email here].
-	3.	Electronic service will ensure prompt receipt of filings, reduce administrative burden, and comply with the Federal Rules of Civil Procedure.
+	1.	Plaintiff cannot reliably receive residential mail.
+	2.	Plaintiff has continuous electronic access and requests service via CM/ECF (if permitted for pro se) and/or email at: keclay@gmail.com.
+	3.	Electronic service ensures prompt receipt and reduces administrative burden.
 
 Relief Requested
-
-Plaintiff respectfully requests that the Court enter an order directing that:
-	•	Service of all documents in this case may be made by electronic means to Plaintiff’s designated email address and/or via CM/ECF;
-	•	Such service will be treated as equivalent to service by mail under Fed. R. Civ. P. 5(b)(2)(C).
+— That service on Plaintiff by electronic means (CM/ECF and/or keclay@gmail.com) be deemed sufficient and equivalent to service by mail under Rule 5(b)(2)(C).
 
 Respectfully submitted,
-
-⸻
-
-Date: [Insert Date]
-
+Date: 09/03/2025
 Signature: ___________________________
 Kellyn Clay
 Pro Se Plaintiff
