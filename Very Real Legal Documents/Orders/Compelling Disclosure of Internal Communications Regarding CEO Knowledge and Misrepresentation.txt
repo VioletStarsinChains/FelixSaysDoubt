@@ -47,3 +47,56 @@ United States District Judge
 
 ⸻
 
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+and affiliated surveillance contractors,
+  Defendants.
+
+⸻
+
+[PROPOSED] PROTECTIVE ORDER
+
+Limiting Improper Invocation of National Security to Withhold Discoverable Evidence
+
+Upon motion of Plaintiff and for good cause shown, the Court finds that Defendants have a demonstrated history of invoking “national security” as a blanket defense to avoid scrutiny into surveillance and data exploitation practices. While legitimate state secrets must be protected, this doctrine cannot be applied to conceal fraud, misrepresentation, or violations of constitutional rights.
+
+Accordingly, it is hereby ORDERED that:
+	1.	Scope of Protection
+	•	Defendants may not invoke national security privilege to categorically withhold communications, memoranda, or reports concerning internal knowledge management and disclosure practices within Palantir Technologies Inc.
+	•	Only materials that would directly reveal classified operational details of ongoing intelligence operations may be redacted, and such redactions must be narrowly tailored.
+	2.	Judicial Review
+	•	Any assertion of national security privilege must be accompanied by a detailed privilege log identifying the document, date, author, recipient, and general subject matter.
+	•	The Court will conduct in camera review of any contested documents to ensure claims of privilege are legitimate and not pretextual.
+	3.	Whistleblower Exception
+	•	Communications, memoranda, or reports that demonstrate intentional misrepresentation to investors, government clients, or the public are not protected by national security privilege.
+	•	Such materials must be disclosed under seal for the purpose of adjudicating claims of fraud and constitutional violations.
+	4.	Protective Custody of Records
+	•	All documents produced under this Protective Order shall be maintained under seal and may only be accessed by the Court, Plaintiff, and counsel of record.
+	•	No further dissemination shall occur without Court approval.
+	5.	Sanctions
+	•	Failure to comply with this Order may result in sanctions, including evidentiary presumptions against Defendants, monetary penalties, or default judgment on relevant claims.
+
+SO ORDERED.
+
+Dated: ____________
+
+⸻
+
+United States District Judge
+
+
+
+
