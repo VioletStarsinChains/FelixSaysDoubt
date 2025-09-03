@@ -12,4 +12,4 @@ This includes:
 	•	Adverse event reports involving unexplained neuropathic pain or inflammatory response in mucosal tissue
 	•	Contracts with private vendors supplying or testing “smart” or “connected” sexual wellness technologies
 
-Keywords: mucosal nanodelivery, vaginal sensors, nanoscale implants, cervical biointerface, DARPA bioelectronics, FDA device regulation, neurotech delivery, sexual wellness devices, nanoparticle absorption, lubricant delivery systems
+Keywords: mucosal nanodelivery, vaginal sensors, nanoscale implants, cervical biointerface, DARPA bioelectronics, FDA device regulation, neurotech delivery, sexual wellness devices, nanoparticle absorption, lubricant delivery systems, astodrimer (SPL7013), dendrimer microbicide, dapivirine ring, mucus-penetrating particles (MPP), PEG-PLGA nanoparticles, intravaginal ring adherence sensors, microbicide gel, BV nanotherapy, carrageenan microbicide, chitosan nanoparticles
