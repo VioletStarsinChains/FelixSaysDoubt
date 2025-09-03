@@ -1,0 +1,15 @@
+To Department of Defense / DARPA / FDA / DHS (Office of Science and Technology)
+
+Request:
+
+Requesting any and all documents, research proposals, internal communications, contractor deliverables, or pilot programs involving the use of consumer-facing applications (e.g., wine rating/recommendation apps) as potential vehicles for biometric surveillance and/or delivery of chemical or environmental interventions, from 2005 to present.
+
+This includes:
+	•	Studies or contracts exploring biometric data capture (facial recognition, optical recognition, geolocation, purchase graphs) via consumer apps.
+	•	Internal reviews of Palantir Technologies or affiliated contractors’ involvement in consumer app development as a testbed for graph-based surveillance.
+	•	Research into pairing consumer preference data with additive interventions (menthol, fortification compounds, synthetic musks, prostaglandin analogs, etc.) for behavioral entrainment.
+	•	Communications regarding closed-loop systems where biometric data informs targeted dosing or environmental conditioning in retail/restaurant contexts.
+	•	Risk assessments on ethical, legal, or safety implications of covert dosing tied to consumer profiling.
+	•	Any incident reports or whistleblower accounts alleging active manipulation of food/drink products based on individual biometric or behavioral profiles.
+
+Keywords: Palantir, Delectable, Alex Fishman, consumer biometric, wine app, optical recognition, SKU database, additive dosing, entrainment, behavioral futures, geolocation retail, chemical assault, social graph
