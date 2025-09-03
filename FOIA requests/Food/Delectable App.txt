@@ -12,4 +12,4 @@ This includes:
 	•	Risk assessments on ethical, legal, or safety implications of covert dosing tied to consumer profiling.
 	•	Any incident reports or whistleblower accounts alleging active manipulation of food/drink products based on individual biometric or behavioral profiles.
 
-Keywords: Palantir, Delectable, Alex Fishman, consumer biometric, wine app, optical recognition, SKU database, additive dosing, entrainment, behavioral futures, geolocation retail, chemical assault, social graph
+Keywords: Palantir, Delectable, consumer biometric, wine app, optical recognition, SKU database, additive dosing, entrainment, behavioral futures, geolocation retail, chemical entrainment, social graph
