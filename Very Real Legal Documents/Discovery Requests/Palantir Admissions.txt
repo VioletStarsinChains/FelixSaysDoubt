@@ -1,0 +1,45 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF REQUESTS FOR ADMISSIONS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir’s anomaly-classification schemas included designations of “Non-Person Entity” (NPE).
+	2.	Admit that Palantir’s anomaly-classification schemas did not distinguish between transient, externally induced states (e.g., environmental, chemical, or narrative exposures) and intrinsic, baseline traits.
+	3.	Admit that Palantir employees, contractors, or agents were aware that externally induced transient states were being treated as permanent anomaly traits.
+	4.	Admit that Palantir’s ontology and data-modeling teams were responsible for defining the parameters of anomaly and NPE classifications.
+	5.	Admit that Palantir conducted internal testing or evaluation that revealed false positives or context-stripped anomaly/NPE labels.
+	6.	Admit that despite awareness of such false positives, Palantir continued to deliver anomaly/NPE classification outputs to U.S. government clients.
+	7.	Admit that Palantir’s program managers or government liaisons were aware that anomaly/NPE classifications were being used operationally by client agencies.
+	8.	Admit that Palantir’s legal, compliance, or risk management personnel reviewed anomaly/NPE classification practices.
+	9.	Admit that Palantir’s legal, compliance, or risk management personnel were made aware of the due-process implications of anomaly/NPE classifications.
+	10.	Admit that Palantir received federal funds under contracts that relied upon anomaly-classification or NPE outputs.
+	11.	Admit that Palantir retained such funds despite knowing that anomaly/NPE classifications were derived from context-stripped or distorted data.
+	12.	Admit that at least one Palantir employee or executive raised internal concerns about anomaly/NPE classification practices.
+	13.	Admit that Palantir did not implement a safeguard or protocol equivalent to the Distortion Quotient (DQ) rule requiring suspension of anomaly/NPE labels when distortion exceeded threshold.
+
+⸻ 
+
+Kellyn Clay, plaintiff, pro se
