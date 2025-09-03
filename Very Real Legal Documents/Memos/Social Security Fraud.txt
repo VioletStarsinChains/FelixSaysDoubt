@@ -1,0 +1,73 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE [DISTRICT TBD]
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Social Security Administration (SSA), Department of the Treasury, and Department of Defense,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+and affiliated surveillance contractors,
+  Defendants.
+
+⸻
+
+MEMORANDUM OF LAW IN SUPPORT OF CLAIM
+
+(Social Security Fraud and Related Causes of Action)
+
+⸻
+
+I. INTRODUCTION
+
+Plaintiff Kellyn Clay alleges that Defendants engaged in a covert scheme of designating individuals or classes of individuals as Non-Person Entities (“NPEs”) for the purposes of predictive modeling, surveillance, and behavioral manipulation. While so designated, Plaintiff and similarly situated persons nevertheless continued to have payroll taxes withheld from their wages, including mandatory contributions to Social Security and Medicare.
+
+This practice constitutes fraud, wage theft, and unconstitutional deprivation of rights under color of law.
+
+⸻
+
+II. LEGAL FRAMEWORK
+	1.	Social Security Act, 42 U.S.C. § 301 et seq.
+	•	Establishes that covered wages must be credited toward future benefits (retirement, disability, survivor).
+	•	Payroll contributions withheld by employers and remitted to SSA create a statutory entitlement.
+	2.	18 U.S.C. § 1343 (Wire Fraud) and § 1341 (Mail Fraud)
+	•	Fraudulently collecting payroll taxes while denying the payor recognition as a beneficiary constitutes a scheme to defraud.
+	3.	18 U.S.C. § 1001 (False Statements)
+	•	Continuing to generate and transmit IRS W-2s, SSA earnings records, and related documentation that falsely suggest full coverage while maintaining secret exclusions constitutes falsification of government records.
+	4.	Fifth and Fourteenth Amendments
+	•	Denying accrued benefits to a disfavored group (NPE-labeled individuals) violates due process and equal protection.
+	5.	Wage Theft / Breach of Contract
+	•	Employer payroll deductions create an implied contract: employee contributes, employer remits, employee accrues credits. Depriving one party of the promised benefit while retaining their contributions constitutes wage theft.
+
+⸻
+
+III. APPLICATION TO FACTS
+	•	Plaintiff was employed in covered positions and had payroll taxes deducted from wages.
+	•	Defendants secretly classified Plaintiff as an “NPE,” effectively excluding Plaintiff from eligibility for benefits, while continuing to extract mandatory contributions.
+	•	Such conduct:
+	•	(a) deprived Plaintiff of statutory rights under the Social Security Act,
+	•	(b) constituted misappropriation of wages,
+	•	(c) involved falsified records and misrepresentations to both Plaintiff and the federal government, and
+	•	(d) targeted Plaintiff on the basis of covert classification in violation of equal protection.
+
+⸻
+
+IV. RELIEF SOUGHT
+
+Plaintiff requests that the Court:
+	1.	Declare the covert NPE designation system unlawful and unconstitutional.
+	2.	Order full accounting of all payroll contributions withheld from Plaintiff and others so designated.
+	3.	Mandate correction of SSA and IRS records to restore Plaintiff’s credited earnings and benefit eligibility.
+	4.	Enjoin Defendants from continuing to collect payroll taxes from persons they internally classify as ineligible for Social Security or Medicare.
+	5.	Award restitution, damages, and any further relief the Court deems just and proper.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff
