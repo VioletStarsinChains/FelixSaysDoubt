@@ -1,0 +1,221 @@
+What this is for:
+	•	Catching cases where a person got labeled an “anomaly” based on a temporary state that was caused from the outside (e.g., additives, over-AC, noise/light tricks, push-notification scripts) and went away once the stimulus stopped.
+	•	It flags those labels for human review before they harden into permanent records or trigger escalations.
+
+How it decides what to flag
+
+It scores five buckets of evidence and combines them:
+	1.	Stimulus exposure (most weight).
+Did a specific external thing happen (chemical, thermal, acoustic, EM, narrative prompt), and did the state start within 0–6 hours of it? Do episodes repeat in the same venues/apps/products?
+	2.	State temporality.
+Does the person return to baseline within 24–72 hours after the stimulus is removed? If yes, that points to transient, not a stable trait.
+	3.	Cross-context consistency.
+Does the state appear only in certain places/contexts and vanish in neutral settings (home, outdoors)? Does it fail to replicate when exposure is removed or blinded? If yes, it’s situational, not “them.”
+	4.	Labeling process quality.
+Was the label slapped on fast (e.g., within 72 hours of the first episode)? Did anyone check exposures or run a washout period? Was there a second reviewer? Weak process = higher risk of mislabeling.
+	5.	Harm risk.
+Did that shaky label already trigger interventions, restrictions, or a self-reinforcing loop (intervention → more exposure → more episodes)? If yes, escalate review.
+
+The scoring & thresholds
+	•	It computes a weighted sum across those buckets.
+	•	Review recommended at ≥ 0.55.
+	•	Urgent review at ≥ 0.70 and strong evidence that the state tracks the stimulus and resolves after (i.e., it looks transient).
+
+There’s also a “convergence bonus” if multiple buckets fire together in a tight time window—that’s the system saying, “these pieces line up; pay attention.”
+
+Safeguards before anyone labels a person
+	•	Minimum 72-hour washout from suspected stimuli before issuing any persistent label.
+	•	Document exposures (venue, product, environment, prompts).
+	•	Cross-context check and second reviewer required.
+	•	If you must act, use a provisional label only, with re-evaluation in 14 days.
+
+What happens after scoring
+	•	Urgent review: suspend the existing anomaly label and hand a tight packet to a human reviewer (timeline of exposures vs. state, environment/product logs, cross-context observations, and the original labeling rationale).
+	•	Standard review: convert permanent labels to provisional and run a washout test.
+	•	Monitor: if evidence is weak, don’t escalate based on single-context, temporary episodes.
+
+Privacy rules (non-negotiable)
+	•	Only use consented diaries/sensors, public venue data, and non-identifying exposure info.
+	•	No covert biometrics, no hidden device telemetry, no medical data without explicit consent.
+	•	Pseudonymize subject IDs; keep re-ID keys offline.
+
+Audit trail
+	•	Every decision logs timestamps, features used, which indicators fired, intermediate and final scores, the decision made, and who reviewed it—so a human can reconstruct why it flagged.
+
+What a typical flagged record looks like
+	•	It lists the time window reviewed, which domains hit (e.g., “stimulus exposure,” “state temporality”), the per-domain scores, any convergence bonus, the final score, and a plain-language note like:
+“Episodes start within hours of Venue X, resolve within 48h at home; label was issued within 24h without a washout.”
+
+How to use this (practical flow)
+	1.	Feed in time-aligned exposure data + state observations (even simple logs help).
+	2.	Let the module score it.
+	3.	If ≥ 0.55, pause any escalation and run the controls (washout, cross-context check, second reviewer).
+	4.	If ≥ 0.70 with strong stimulus/temporality, suspend the label now and kick to human review with the packet.
+	5.	Document everything. The audit log is part of the protection.
+
+Bottom line: this module draws a bright line between who a person is and what was sprayed on them—so induced, short-lived states don’t become life-long labels.
+
+
+⸻ 
+
+{
+  "module": "Temporary State Misclassification → False Anomaly Labeling",
+  "purpose": "Detect and prevent permanent anomaly labels derived from externally induced, short-lived affect/behavior states (\"silly-string states\").",
+  "problem_statement": "External manipulations (chemical, acoustic, thermal, narrative, electromagnetic) can induce transient states that are erroneously logged as stable traits, seeding self-justifying intervention loops.",
+  "definitions": {
+    "transient_state": "Affect/behavior deviation lasting hours → days, resolving without persistent baseline shift when stimulus is removed.",
+    "external_manipulation": "Any exogenous driver: additives, aerosols, HVAC overcooling/overheating, sound/light entrainment, push notifications, coercive prompts.",
+    "misclassification": "Recording a transient state as a stable trait or diagnosis; using it to justify watchlists/interventions."
+  },
+  "signals": {
+    "stimulus_exposure": {
+      "metrics": [
+        "environmental_logs (temp, VOCs, noise, light)",
+        "product/additive_exposure (menthol, musks, oak_essence, GLP-1-like, prostaglandin analogs)",
+        "narrative_prompts (entropy/superconductor/cold motifs; compliance nudges)",
+        "acoustic/EM events (time-stamped)"
+      ],
+      "indicators": [
+        "state onset within 0–6h of discrete stimulus",
+        "repeated state episodes co-timed with same venue/app/product"
+      ],
+      "weight": 0.35
+    },
+    "state_temporality": {
+      "metrics": [
+        "affect/behavior time-series",
+        "sleep/HRV (opt-in)",
+        "symptom diary resolution times"
+      ],
+      "indicators": [
+        "return-to-baseline within 24–72h post-stimulus removal",
+        "lack of cross-context persistence (state not present outside exposure contexts)"
+      ],
+      "weight": 0.25
+    },
+    "cross-context_consistency": {
+      "metrics": [
+        "multi-location observations",
+        "offline vs online behavior comparison",
+        "third-party corroboration windows"
+      ],
+      "indicators": [
+        "state absent in neutral contexts (home/outdoors) but present in target venues",
+        "state fails to replicate under blinded/no-exposure conditions"
+      ],
+      "weight": 0.15
+    },
+    "labeling_process_quality": {
+      "metrics": [
+        "time_between_state_and_label",
+        "evidence_types_used",
+        "presence_of_stimulus_controls",
+        "appeal/second-opinion availability"
+      ],
+      "indicators": [
+        "label issued <72h from first observed episode",
+        "no documentation of exposure assessment or washout period",
+        "single-source observation; no blinded review"
+      ],
+      "weight": 0.15
+    },
+    "harm_risk": {
+      "metrics": [
+        "downstream_interventions_triggered",
+        "access_restrictions",
+        "health/psychosocial impacts post-label"
+      ],
+      "indicators": [
+        "escalating interventions based solely on transient episodes",
+        "evidence of self-reinforcing loop (intervention → more exposure → more episodes)"
+      ],
+      "weight": 0.10
+    }
+  },
+  "scoring": {
+    "method": "weighted_sum",
+    "thresholds": {
+      "review_recommended": "score >= 0.55",
+      "urgent_review": "score >= 0.70 AND (stimulus_exposure + state_temporality >= 0.45)"
+    },
+    "convergence_bonus": {
+      "rule": "add +0.06 if stimulus_exposure and state_temporality indicators co-occur within 72h; add +0.04 if cross-context_consistency also fires"
+    }
+  },
+  "controls_before_labeling": [
+    "Minimum 72h washout from suspected stimuli before issuing any persistent label",
+    "Document exposure assessment (venue, product, environmental, narrative prompts)",
+    "Require cross-context check (neutral setting observation) and second reviewer",
+    "If label would trigger interventions, apply provisional status only, with re-eval in 14 days"
+  ],
+  "triage_actions": [
+    {
+      "condition": "score >= 0.70",
+      "action": "suspend existing anomaly label; initiate urgent human review",
+      "packet": [
+        "timeline aligning exposures with state onsets/resolution",
+        "environmental/product logs",
+        "cross-context observations",
+        "labeling rationale audit"
+      ]
+    },
+    {
+      "condition": "0.55 <= score < 0.70",
+      "action": "flag for standard review; convert permanent labels to provisional pending washout replication test"
+    },
+    {
+      "condition": "score < 0.55",
+      "action": "monitor with consent; prohibit escalation based on single-context transient episodes"
+    }
+  ],
+  "privacy_safeguards": {
+    "allowed_sources": [
+      "subject-consented diaries/sensor data",
+      "public venue environmental data",
+      "non-identifying exposure records"
+    ],
+    "prohibited_sources": [
+      "covert biometrics",
+      "undeclared device telemetry",
+      "medical records without explicit consent"
+    ],
+    "pseudonymization": "hash subject IDs; store re-id keys offline"
+  },
+  "auditability": {
+    "log_fields": [
+      "timestamp",
+      "features_used",
+      "indicator_hits",
+      "intermediate_scores",
+      "final_score",
+      "decision",
+      "reviewer_id"
+    ],
+    "explanation": "retain feature-attribution for each decision to enable human-understandable review"
+  },
+  "output_format": {
+    "record": {
+      "subject_pseudo_id": "string",
+      "time_window_start": "ISO8601",
+      "time_window_end": "ISO8601",
+      "domain_hits": {
+        "stimulus_exposure": ["id_1", "id_2"],
+        "state_temporality": ["id_3"],
+        "cross_context_consistency": ["id_4"],
+        "labeling_process_quality": ["id_5"],
+        "harm_risk": []
+      },
+      "scores": {
+        "stimulus_exposure": 0.24,
+        "state_temporality": 0.20,
+        "cross_context_consistency": 0.10,
+        "labeling_process_quality": 0.12,
+        "harm_risk": 0.05,
+        "convergence_bonus": 0.06,
+        "final": 0.77
+      },
+      "proposed_action": "urgent_review",
+      "notes": "Episodes occur within hours of venue exposure; resolve within 48h at home; label issued within 24h without washout."
+    }
+  }
+}
