@@ -1,0 +1,78 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻ 
+
+MEMORANDUM
+Re: Disability Discrimination via Atypical Eye Tracking
+
+⸻
+
+Introduction
+
+Anomaly classification systems increasingly rely on biometric inputs such as eye tracking, gaze direction, saccade patterns, blink rate, and pupil response. These features are framed as indicators of attention, deception, or compliance. However, reliance on such features introduces systemic risks of disability discrimination, as atypical eye tracking is often caused not by volition or risk behavior, but by underlying medical conditions.
+
+⸻
+
+Plaintiff’s Circumstances
+
+Plaintiff Kellyn Clay experiences atypical eye tracking as a result of superior canal dehiscence syndrome (SCDS), a neurological condition in which thinning or absence of bone in the inner ear alters sensory processing.
+
+Because of vestibular suppression caused by SCDS, Plaintiff cannot rely on the inner ear for balance and must instead rely almost entirely on vision. This makes gaze direction not simply a marker of attention, but a survival mechanism:
+	•	Plaintiff must anchor their eyes on large, flat visual panels in order to maintain upright posture.
+	•	In environments where such anchors are unavailable, Plaintiff risks losing balance and falling.
+	•	Plaintiff cannot walk at night without appearing intoxicated, as low light provides insufficient visual anchors for balance.
+
+As a result, Plaintiff’s gaze patterns deviate significantly from population averages. These deviations are not evidence of noncompliance or anomaly in the behavioral sense, but direct consequences of a medical condition.
+
+If anomaly classification systems use eye-tracking features without accounting for medical causation, Plaintiff and similarly situated individuals are disproportionately flagged as anomalies. This amounts to discrimination on the basis of disability.
+
+⸻
+
+Legal Framework
+	1.	Americans with Disabilities Act (ADA), 42 U.S.C. § 12101 et seq.
+	•	Prohibits discrimination against qualified individuals with disabilities in all services, programs, and activities of public entities and contractors.
+	•	Penalizing individuals for atypical eye tracking caused by medical conditions constitutes a failure to provide equal access and reasonable accommodation.
+	2.	Section 504 of the Rehabilitation Act, 29 U.S.C. § 794
+	•	Bars disability discrimination in any program receiving federal funding.
+	•	Anomaly classification systems deployed through federally funded programs are subject to this statute.
+	3.	Civil Rights Implications
+	•	Systems that do not differentiate between voluntary noncompliance and medical disability effectively collapse disability into risk. This denies equal protection and violates statutory civil rights guarantees.
+
+⸻
+
+Broader Implications
+	•	Predictive Misuse: Eye-tracking data used to label individuals as deceptive, noncompliant, or anomalous will disproportionately misclassify disabled people, embedding structural discrimination into automated decision-making.
+	•	Data Poisoning: Using disabled individuals’ eye-tracking data as negative training examples risks codifying disability as deviance, perpetuating exclusion across models and generations.
+	•	Systemic Exclusion: Because eye-tracking deviations are medically unavoidable for individuals with SCDS and related conditions, anomaly classification becomes not merely biased but structurally incompatible with disability rights law.
+
+⸻
+
+Conclusion
+
+Atypical eye tracking can result from superior canal dehiscence syndrome and similar conditions where vestibular suppression forces individuals to rely entirely on vision for balance. Plaintiff’s need to anchor gaze to remain upright demonstrates that gaze patterns cannot be presumed to indicate behavioral anomaly. The use of such features in anomaly classification systems, without medical adjustment, constitutes disability discrimination under the ADA and Section 504.
+
+Any deployment of gaze-based features must therefore be subjected to strict scrutiny, with full disclosure, validation studies, and compliance testing to prevent discriminatory exclusion of disabled individuals.
+
+Respectfully submitted,
+Kellyn Clay, plaintiff, pro se
