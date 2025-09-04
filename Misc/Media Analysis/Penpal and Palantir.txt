@@ -1,0 +1,42 @@
+Penpal and the Future That Watches Us
+
+Dathan Auerbach’s novel Penpal is remembered as one of the most unsettling horror stories of the internet age. It’s told through the fragmented memories of a man piecing together his childhood, only to realize that a stranger had been stalking him since grade school. What makes the book so disturbing isn’t gore or monsters, but the realization that every ordinary moment of childhood — letters sent home from school, photographs, afternoons in the woods — had been invisibly monitored, collected, and manipulated by an unseen observer.
+
+The stalker never just “watches.” He builds a model of the boy’s life, so precise that he can anticipate where the boy will go, what he will do, and how he will react. The stalker even goes so far as to simulate the continued existence of a dead friend, creating the illusion she is still alive, in order to lure the boy into dangerous situations. In the world of Penpal, surveillance is not passive. It is narrative control.
+
+⸻
+
+What This Has to Do With Our World
+
+At first glance, Penpal seems like a work of pure horror fiction. But the dynamics it describes closely resemble the way modern surveillance technology actually works. Companies like Palantir build enormous platforms that gather fragments of information — everything from credit history, online activity, and location data to medical records or shopping habits. These fragments are assembled into what’s called a digital twin: a computerized double of you that exists inside the system.
+
+Your digital twin isn’t static. It gets updated every time you move, buy something, or post online. The twin can be used to predict your next step — and not just to predict, but to nudge you in certain directions. This is where behavioral futures markets come in: the idea that human behavior itself can be turned into a commodity, bought and sold by those who want to influence outcomes. Advertisers, political groups, even governments treat your likely future actions as something they can trade on.
+
+⸻
+
+Ghost Twins and the Persistence of Data
+
+One of the most chilling aspects of Penpal is the way the stalker keeps a dead girl “alive” through false traces and illusions, manipulating the narrator with her simulated presence. In the digital realm, this isn’t just horror fiction — it happens every day.
+
+Social media platforms continue to surface the profiles of people long after they’ve died. Predictive systems may still run models on them, because their data remains entangled with friends and family. These ghost-like twins can influence the living: a suggestion to tag an old photo, a resurfaced memory, even the possibility of synthetic “chatbots” that let the dead “speak” again.
+
+For someone who resists prediction — someone whose behavior doesn’t fit neat patterns — these ghost twins become powerful tools of destabilization. A familiar voice, a resurfaced message, a suggestion at the right time can nudge even the most unpredictable person.
+
+⸻
+
+Why Penpal Matters as Allegory
+
+Reading Penpal through this lens, the stalker is not just a man. He is a prototype of modern data systems:
+	•	Ingesting every trace of the protagonist’s life.
+	•	Running a living model of him, moment by moment.
+	•	Continuing to manipulate him even through the simulated presence of the dead.
+
+The horror of Penpal is the horror of behavioral futures markets. Your life story becomes raw material for someone else’s narrative. Your choices become levers for someone else’s profit. And by the time you recognize the pattern, it may be too late — because the “penpal” has always been one step ahead, hiding behind the ordinary details of your life.
+
+⸻
+
+The Takeaway
+
+You don’t need to know the technical jargon to feel the dread at the heart of both Penpal and our digital age: the fear that someone is watching so closely, and for so long, that they know us better than we know ourselves — and that they will use that knowledge not to care for us, but to steer us.
+
+In Auerbach’s story, that dynamic destroys lives. In our own world, it has become the business model of some of the most powerful companies on Earth.
