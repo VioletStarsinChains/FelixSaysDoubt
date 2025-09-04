@@ -1,0 +1,14 @@
+To:
+	•	U.S. Department of Justice, Civil Rights Division
+	•	U.S. Department of Health and Human Services, Office for Civil Rights (OCR)
+
+Request:
+
+Requesting any and all documents, reports, contracts, audits, investigations, or internal communications from 2008 to present referencing the use of Palantir or other anomaly-classification systems where religion, religious attendance, or community participation were considered variables, proxies, or features, including:
+	•	Technical documentation (data dictionaries, model cards, feature lists) describing whether church attendance, religious affiliation, or community participation were used in anomaly classification or related behavioral modeling.
+	•	Disparate impact analyses, validation studies, or internal assessments evaluating whether such classifications disproportionately affect individuals with disabilities, particularly those unable to participate in group gatherings due to medical conditions.
+	•	Complaints, investigations, or enforcement actions concerning disability discrimination, religious bias, or disparate impacts arising from anomaly classification systems.
+	•	IRB filings, compliance audits, or legal reviews addressing ADA (42 U.S.C. § 12101 et seq.) and Section 504 of the Rehabilitation Act obligations in the design, testing, or deployment of anomaly detection.
+	•	Communications between DOJ/HHS and Palantir Technologies, Inc., or any federal/state agencies, concerning anomaly classification and civil rights compliance (religion or disability).
+
+Keywords: Palantir, anomaly classification, non-person entity, NPE, church attendance, religious participation, community participation, ADA, Section 504, disparate impact, behavioral futures, OCR, Civil Rights Division
