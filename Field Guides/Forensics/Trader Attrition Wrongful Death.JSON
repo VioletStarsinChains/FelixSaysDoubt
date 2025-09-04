@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "task_id": "trader_attrition_wrongful_death_v1",
+  "purpose": "Identify deceased traders plausibly targeted for attrition surrounding the 2007–2012 crisis window (and aftermath) for human legal review and potential compensation actions.",
+  "time_window": {
+    "primary": {"start": "2007-01-01", "end": "2012-12-31"},
+    "secondary_followup": {"start": "2013-01-01", "end": "2025-09-04"}
+  },
+  "jurisdictions_of_interest": ["US", "UK", "EU", "HK", "SG", "KR", "JP"],
+  "data_requirements": {
+    "allowed_sources": {
+      "public_records": [
+        "obituaries", "news articles", "regulatory filings (SEC/EDGAR, FCA, ESMA, etc.)",
+        "court dockets", "inquest/coroner verdict summaries where public", "BrokerCheck/registries"
+      ],
+      "market_context": [
+        "index/asset drawdowns", "volatility spikes", "credit spreads",
+        "firm-level disclosures about risk limits, VaR policy changes, mass layoffs"
+      ],
+      "professional_signals": [
+        "LinkedIn/GitHub profile updates", "conference talks", "press quotes",
+        "company org charts, press releases, layoffs databases"
+      ],
+      "family/estate_statements": [
+        "public memorial pages", "foundation pages", "publicly-shared statements"
+      ]
+    },
+    "restricted_sources": [
+      "private HR/health records without consent", "leaked data", "non-public surveillance"
+    ],
+    "access_controls": {
+      "require_consent_or_legal_process_for_nonpublic": true,
+      "log_all_access": true
+    }
+  },
+  "definitions": {
+    "trader_roles": ["equities", "credit", "rates", "fx", "commodities", "derivatives", "prop", "quant", "MM", "HFT"],
+    "attrition_targeting": "A pattern of organizational or systemic actions that isolate, pressure, constrain, or remove an individual whose performance/behavior deviates from modeled norms.",
+    "manner_of_death": ["suicide", "accident", "undetermined", "natural", "homicide"],
+    "evidence_tiers": {
+      "tier1": "Official documentary evidence (regulatory, court, coroner, company 8-K, audited reports).",
+      "tier2": "Credible journalistic or multi-party corroboration.",
+      "tier3": "Contextual/inferential signals (timelines, language cues, policy shifts)."
+    }
+  },
+  "feature_library": {
+    "role_identification": [
+      {"feature": "registered_representative_record", "evidence_tier": "tier1"},
+      {"feature": "press_or_bio_lists_trader_role", "evidence_tier": "tier2"}
+    ],
+    "performance_outlier_signals": [
+      {"feature": "press_mentions_of_unusual_alpha_or_outlier_strategy", "evidence_tier": "tier2"},
+      {"feature": "award_nominations_or_top_rankings", "evidence_tier": "tier2"}
+    ],
+    "targeting_precursors": [
+      {"feature": "sudden_risk_limit_reductions_or_desk_closures", "evidence_tier": "tier1"},
+      {"feature": "language_cues_in_public_docs", "keywords": ["outlier", "cowboy", "rogue", "too volatile", "unpredictable", "anomaly"], "evidence_tier": "tier2"},
+      {"feature": "mass_reorgs_layoffs_affecting_high_performing_units", "evidence_tier": "tier2"}
+    ],
+    "acute_pressure_events": [
+      {"feature": "clustered_margin_calls_or_credit_line_withdrawal_reports", "evidence_tier": "tier2"},
+      {"feature": "publicly_reported_PIP_or_internal_investigation_mentions", "evidence_tier": "tier2"}
+    ],
+    "death_event_signals": [
+      {"feature": "obituary_with_dates", "evidence_tier": "tier1"},
+      {"feature": "coroner_or_inquest_summary_public", "evidence_tier": "tier1"},
+      {"feature": "credible_press_reporting_on_manner_of_death", "evidence_tier": "tier2"},
+      {"feature": "family_estate_public_statement", "evidence_tier": "tier2"}
+    ],
+    "temporal_alignment": [
+      {"feature": "death_within_n_days_of_key_market_or_org_event", "window_days": 90, "evidence_tier": "tier3"},
+      {"feature": "preceded_by_documented_attrition_precursors_within_n_days", "window_days": 180, "evidence_tier": "tier3"}
+    ],
+    "counterfactual_and_alt_explanations": [
+      {"feature": "preexisting_publicly_discussed_health_issues", "evidence_tier": "tier2"},
+      {"feature": "non-finance_primary_occupation_shift_prior", "evidence_tier": "tier2"}
+    ]
+  },
+  "keywords": {
+    "trader_role": ["trader", "portfolio manager", "prop desk", "quant trader", "market maker", "sell-side trader", "buy-side PM"],
+    "attrition_language": ["outlier", "anomaly", "rogue", "risk limit", "VaR", "drawdown", "compliance review", "desk closure", "deleveraging", "PIP"],
+    "death_reporting": ["inquest", "coroner", "memorial", "obituary", "found deceased", "died by suicide", "sudden death", "untimely passing"]
+  },
+  "scoring": {
+    "weights": {
+      "role_identification": 2.0,
+      "performance_outlier_signals": 1.5,
+      "targeting_precursors": 2.0,
+      "acute_pressure_events": 2.0,
+      "death_event_signals": 3.0,
+      "temporal_alignment": 1.0,
+      "counterfactual_and_alt_explanations": -1.5
+    },
+    "computation": "targeting_likelihood = sigmoid(sum(weight_i * feature_i)); causal_link_likelihood = sigmoid( w_death*death + w_temp*temporal + w_precursor*precursors + w_pressure*acute - w_alt*alts )",
+    "thresholds": {
+      "candidate_case": 0.55,
+      "strong_case": 0.70,
+      "refer_for_legal_review": 0.75
+    }
+  },
+  "privacy_and_ethics": {
+    "public_only_default": true,
+    "no_direct_family_contact_by_ai": true,
+    "output_redaction": ["addresses", "minors", "sensitive_health_details"],
+    "human_in_the_loop_required": true,
+    "do_not_publish_names_without_consent": true
+  },
+  "false_positive_controls": {
+    "must_have": [
+      "role_identification>=1_tier1_or_tier2",
+      "death_event_signals>=1_tier1",
+      "at_least_one_targeting_precursor_or_acute_pressure_event"
+    ],
+    "disqualifiers": [
+      "death_outside_time_window_without_linked_attrition_signals",
+      "purely_speculative_social_media_without_corroboration"
+    ]
+  },
+  "outputs": {
+    "case_packet": {
+      "fields": [
+        "subject_name", "roles", "employers", "dates_active",
+        "documented_attrition_signals", "acute_pressure_timeline",
+        "death_details", "temporal_alignment_summary",
+        "evidence_table", "scores", "confidence_notes",
+        "next_steps_recommendations"
+      ]
+    }
+  }
+}
