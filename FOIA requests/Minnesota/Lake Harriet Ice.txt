@@ -1,0 +1,17 @@
+ Minnesota Department of Natural Resources / U.S. Geological Survey (Water Resources Division) / National Park Service (if applicable to Minneapolis Chain of Lakes monitoring)
+
+Request:
+
+Requesting any and all records, datasets, internal analyses, and communications regarding Lake Harriet (Minneapolis, MN) related to ice phenology and water chemistry from 1980 to present.
+
+This includes:
+	•	Annual or seasonal records of ice-on and ice-off dates, ice thickness, and duration of ice cover
+	•	Temperature and dissolved oxygen profiles, especially late-fall and winter data
+	•	Records of chloride, specific conductance, turbidity, dissolved organic carbon (DOC), and color metrics
+	•	Nutrient and biological indicators (total phosphorus, nitrogen, chlorophyll-a, algal bloom reports)
+	•	Remote sensing analyses or satellite-derived datasets concerning freeze/thaw timing and water color
+	•	Internal reports distinguishing climate-driven phenological changes from contamination-driven changes
+	•	Communications with the City of Minneapolis, Minneapolis Park & Recreation Board, or Minnesota Pollution Control Agency regarding observed or suspected contamination, salinization, or water replacement events
+	•	Research proposals, pilot projects, or vendor partnerships involving experimental water treatments or monitoring at Lake Harriet
+
+Keywords: Lake Harriet, ice-on, ice-off, freeze-thaw, chloride contamination, specific conductance, dissolved organic carbon, Secchi depth, eutrophication, water replacement, Chain of Lakes
