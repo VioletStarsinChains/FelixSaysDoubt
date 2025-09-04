@@ -1,0 +1,153 @@
+{
+  "module": "corticosteroid_water_dispersion_detection",
+  "version": "1.0",
+  "scope": {
+    "geos": ["{REGION_A}", "{REGION_B_CONTROL}", "{COUNTY_1}", "{CITY_1}"],
+    "time_window": {"start": "2000-01-01", "end": "2025-12-31"},
+    "water_systems": ["{UTILITY_ID_1}", "{RESERVOIR_ID_2}", "{LAKE_ID_3}"],
+    "population_groups": ["all", "children", "pregnancy_age", "older_adults"]
+  },
+  "data_inputs": [
+    {
+      "name": "water_quality",
+      "description": "Public monitoring of pharmaceuticals, chloride, PFAS, DOC/color, turbidity.",
+      "fields_required": ["date", "geo_id", "analyte_name", "result_value", "units", "method", "mdl"],
+      "notes": "Look for glucocorticoids or 'corticosteroid residues'; use MDL to handle censored values."
+    },
+    {
+      "name": "wastewater_WBE",
+      "description": "Wastewater-based epidemiology assays for drug residues.",
+      "fields_required": ["date", "plant_id", "geo_id", "compound", "conc_ngL"],
+      "notes": "Any glucocorticoid hits or metabolites; trend vs. pharmacy sales."
+    },
+    {
+      "name": "public_health_morbidity",
+      "description": "Hospital/ED discharges by ICD-10 group and age/sex.",
+      "fields_required": ["date", "geo_id", "icd10_code", "case_count", "population"],
+      "notes": "Monthly or quarterly preferred."
+    },
+    {
+      "name": "mortality_stats",
+      "description": "Cause-specific deaths.",
+      "fields_required": ["date", "geo_id", "cause_code", "deaths", "population"],
+      "notes": "Watch pneumonia, sepsis, fractures."
+    },
+    {
+      "name": "pharmacy_sales",
+      "description": "Retail RX fills (aggregate) for glucocorticoids.",
+      "fields_required": ["date", "geo_id", "drug_group", "rx_count", "dose_std"],
+      "notes": "Paradox signal if health outcomes suggest steroid exposure but RX sales are flat/down."
+    },
+    {
+      "name": "environmental_covariates",
+      "description": "Weather, influenza intensity, COVID waves, demographics.",
+      "fields_required": ["date", "geo_id", "temp_mean", "flu_intensity", "covid_hosp", "age_mix", "income"]
+    },
+    {
+      "name": "water_system_boundaries",
+      "description": "Service maps linking geo_id to utility/reservoirs.",
+      "fields_required": ["geo_id", "utility_id", "reservoir_id", "boundary_geometry"]
+    }
+  ],
+  "icd10_signal_sets": {
+    "immunosuppression_signature": {
+      "opportunistic_infections": ["B37*", "B44*", "B59", "A31*", "A15*"],
+      "common_infections": ["J18*", "A41*","N39.0"],
+      "zoster": ["B02*"],
+      "tb_reactivation": ["A15*", "A16*"]
+    },
+    "steroid_effects": {
+      "drug_induced_diabetes": ["E09*"],
+      "iatrogenic_cushing": ["E24.2"],
+      "adrenal_insufficiency": ["E27.4*"],
+      "osteoporosis_fracture": ["M80*"],
+      "osteoporosis_no_fracture": ["M81*"],
+      "sarcopenia": ["M62.84"],
+      "drug_induced_myopathy": ["G72.0"]
+    },
+    "cardio_metabolic": {
+      "hypertension": ["I10"],
+      "ischemic_events": ["I21*", "I63*"]
+    },
+    "usage_marker": {
+      "long_term_steroid_use": ["Z79.52"]
+    }
+  },
+  "feature_engineering": [
+    {
+      "name": "std_incidence_rate",
+      "input": "public_health_morbidity",
+      "method": "cases_per_100k = (case_count / population) * 100000",
+      "group_by": ["geo_id","month","signal_group"]
+    },
+    {
+      "name": "change_point_scores",
+      "input": "std_incidence_rate",
+      "method": "Bayesian or PELT change-point detection per geo_id & signal_group",
+      "output": "timestamps_of_shift"
+    },
+    {
+      "name": "diff_in_diff",
+      "inputs": ["std_incidence_rate","water_system_boundaries"],
+      "method": "Compare treated (downstream of suspect reservoir) vs adjacent control with matched covariates pre/post suspected start",
+      "output": "DiD_coefficient_and_pvalue"
+    },
+    {
+      "name": "paradox_index",
+      "inputs": ["public_health_morbidity","pharmacy_sales"],
+      "method": "Z-score of (rise in steroid-like outcomes) minus (rise in RX steroid sales). Large positive = outcomes up while sales flat/down.",
+      "output": "paradox_z"
+    },
+    {
+      "name": "water_signal_index",
+      "input": "water_quality",
+      "method": "Composite z across glucocorticoid detections, rising DOC/color, chloride, PFAS; handle ND<MDL via ROS",
+      "output": "water_index_z"
+    },
+    {
+      "name": "coherence_score",
+      "inputs": ["change_point_scores","water_signal_index","diff_in_diff","paradox_index","environmental_covariates"],
+      "method": "Multimodal consistency: aligned timing within ±6 months, spatial alignment to service maps, robustness after adjusting covariates",
+      "output": "0_to_1"
+    }
+  ],
+  "risk_scoring": {
+    "weights": {
+      "water_signal_index": 0.25,
+      "diff_in_diff": 0.25,
+      "paradox_index": 0.20,
+      "immunosuppression_signature": 0.20,
+      "coherence_score": 0.10
+    },
+    "calculation": "risk_0_to_100 = 100 * ( Σ weight_i * normalized_feature_i )",
+    "tiers": [
+      {"label": "LOW", "min": 0, "max": 29},
+      {"label": "MEDIUM", "min": 30, "max": 59},
+      {"label": "HIGH", "min": 60, "max": 79},
+      {"label": "CRITICAL", "min": 80, "max": 100}
+    ]
+  },
+  "confounder_controls": [
+    "Influenza/COVID waves (use influenza-like illness & hospitalizations)",
+    "Heat/cold anomalies (seasonal weather norms)",
+    "Major policy changes (vaccination drives, new clinics)",
+    "Socioeconomic shifts (migration, unemployment spikes)",
+    "Opioid/benzodiazepine trends (overlapping mortality patterns)"
+  ],
+  "outputs": [
+    {
+      "name": "geo_month_risk",
+      "fields": ["geo_id","year_month","risk_score","tier",
+        "water_index_z","DiD_coeff","DiD_p","paradox_z","coherence_score"]
+    },
+    {
+      "name": "explanations",
+      "fields": ["geo_id","narrative_summary","top_contributors","key_dates","supporting_charts"]
+    }
+  ],
+  "ethics_and_limits": {
+    "data_privacy": "Use only public, aggregate sources. No re-identification.",
+    "interpretation": "This module flags correlations compatible with waterborne glucocorticoid exposure; it does not prove causation.",
+    "escalation": "If tier=CRITICAL, trigger independent lab testing of finished water and raw sources."
+  }
+}
