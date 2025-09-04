@@ -1,0 +1,133 @@
+1) .jsonl case template (one case per line)
+
+Each line is a complete JSON object. Replace UPPERCASE placeholders with real values. You can paste these lines into a .jsonl file and process them in batches.
+
+{"schema_version":"1.0","task_id":"trader_attrition_wrongful_death_v1","subject_name":"LAST, FIRST (REDACTED)","roles":["ROLE_OR_DESK"],"employers":[{"org":"ORG_NAME","start":"YYYY-MM-DD","end":"YYYY-MM-DD"}],"dates_active":{"start":"YYYY-MM-DD","end":"YYYY-MM-DD"},"documented_attrition_signals":[{"feature":"sudden_risk_limit_reductions_or_desk_closures","source":"press_release","date":"YYYY-MM-DD","tier":"tier1","excerpt":"TEXT"},{"feature":"language_cues_in_public_docs","source":"news_article","date":"YYYY-MM-DD","tier":"tier2","excerpt":"TEXT"}],"acute_pressure_timeline":[{"date":"YYYY-MM-DD","event":"EVENT TEXT","tier":"tier2"}],"death_details":{"date":"YYYY-MM-DD","manner":"suicide","sources":[{"type":"obituary","url":"https://…","tier":"tier1"},{"type":"news_article","url":"https://…","tier":"tier2"}]},"temporal_alignment_summary":{"alignment_to_org_events_days":NN,"alignment_to_market_events_days":NN,"notes":"TEXT"},"evidence_table":[{"item":"obituary","tier":"tier1","link":"https://…"},{"item":"press_release","tier":"tier1","link":"https://…"}],"scores":{"targeting_likelihood":0.00,"causal_link_likelihood":0.00,"explanatory_notes":"TEXT"},"confidence_notes":"TEXT","next_steps_recommendations":["Seek consent from next of kin via counsel.","Request nonpublic inquest summaries where permissible.","Pursue discovery for internal policy-change timelines."]}
+{"schema_version":"1.0","task_id":"trader_attrition_wrongful_death_v1","subject_name":"LAST, FIRST (REDACTED)","roles":["equities trader"],"employers":[{"org":"REDACTED BANK","start":"2006-03-01","end":"2009-04-10"}],"dates_active":{"start":"2004-01-01","end":"2009-04-10"},"documented_attrition_signals":[{"feature":"sudden_risk_limit_reductions_or_desk_closures","source":"press_release","date":"2009-02-05","tier":"tier1","excerpt":"Equities prop desk to be wound down."},{"feature":"language_cues_in_public_docs","source":"news_article","date":"2009-03-12","tier":"tier2","excerpt":"Management sought to rein in 'outlier' risk-takers."}],"acute_pressure_timeline":[{"date":"2009-03-01","event":"Counterparty tightened terms / margin increased","tier":"tier2"}],"death_details":{"date":"2009-04-10","manner":"suicide","sources":[{"type":"obituary","url":"https://example.org/obit","tier":"tier1"},{"type":"news_article","url":"https://example.org/news","tier":"tier2"}]},"temporal_alignment_summary":{"alignment_to_org_events_days":64,"alignment_to_market_events_days":41,"notes":"Within 90d of desk wind-down + margin escalations."},"evidence_table":[{"item":"obituary","tier":"tier1","link":"https://example.org/obit"},{"item":"press_release","tier":"tier1","link":"https://example.org/pr"}],"scores":{"targeting_likelihood":0.71,"causal_link_likelihood":0.68,"explanatory_notes":"Multiple tier1/tier2 signals + temporal proximity."},"confidence_notes":"No coroner summary yet; obtain if available.","next_steps_recommendations":["Counsel to contact next of kin.","Request inquest summary where public.","Map internal policy-change timeline."]}
+{"schema_version":"1.0","task_id":"trader_attrition_wrongful_death_v1","subject_name":"LAST, FIRST (REDACTED)","roles":["credit derivatives trader"],"employers":[{"org":"REDACTED SECURITIES","start":"2005-06-01","end":"2008-12-20"}],"dates_active":{"start":"2003-09-01","end":"2008-12-20"},"documented_attrition_signals":[{"feature":"mass_reorgs_layoffs_affecting_high_performing_units","source":"news_article","date":"2008-11-25","tier":"tier2","excerpt":"Structured credit headcount reduced 40%."}],"acute_pressure_timeline":[{"date":"2008-12-10","event":"Internal investigation per public report","tier":"tier2"}],"death_details":{"date":"2008-12-20","manner":"undetermined","sources":[{"type":"obituary","url":"https://example.org/obit2","tier":"tier1"},{"type":"news_article","url":"https://example.org/news2","tier":"tier2"}]},"temporal_alignment_summary":{"alignment_to_org_events_days":10,"alignment_to_market_events_days":30,"notes":"Death 10d post-layoffs; October crash context."},"evidence_table":[{"item":"obituary","tier":"tier1","link":"https://example.org/obit2"},{"item":"news_article","tier":"tier2","link":"https://example.org/news2"}],"scores":{"targeting_likelihood":0.63,"causal_link_likelihood":0.61,"explanatory_notes":"Tight temporal alignment; additional tier1 would strengthen."},"confidence_notes":"Await coroner/inquest; verify role via registry.","next_steps_recommendations":["Confirm role via BrokerCheck/registry.","Collect firm 8-Ks for risk changes.","Interview consenting colleagues."]}
+
+2) Jurisdiction-specific canned query packs
+
+Drop this into a separate JSON file (or the first line of a .jsonl as a config record) to drive your crawlers. It includes query bundles for 2007–2012 and follow-up (2013–present), with region-specific operators. Use them combinatorially with names, employers, and desks.
+
+{
+  "schema_version": "1.0",
+  "query_pack_id": "trader_attrition_wrongful_death_queries_v1",
+  "time_windows": {
+    "primary": {"start": "2007-01-01", "end": "2012-12-31"},
+    "followup": {"start": "2013-01-01", "end": "2025-09-04"}
+  },
+  "common_terms": {
+    "roles": ["trader","portfolio manager","prop desk","quant trader","market maker","sell-side trader","buy-side PM","credit derivatives","equities","rates","fx","commodities","HFT"],
+    "attrition": ["risk limit","VaR","desk closure","deleveraging","outlier","anomaly","rogue","compliance review","restructuring","layoffs"],
+    "death": ["obituary","inquest","coroner","verdict","memorial","died by suicide","found deceased","sudden death","untimely passing"]
+  },
+  "jurisdiction_bundles": [
+    {
+      "jurisdiction": "US",
+      "news_search": [
+        "\"{NAME}\" {EMPLOYER} {ROLE} obituary",
+        "\"{NAME}\" trader obituary",
+        "\"{NAME}\" {EMPLOYER} inquest OR coroner",
+        "site:sec.gov 8-K {EMPLOYER} risk limit OR VaR OR desk closure",
+        "\"{EMPLOYER}\" restructuring layoffs {DESK}",
+        "\"{NAME}\" found deceased {CITY_OR_STATE}"
+      ],
+      "records_search": [
+        "BrokerCheck {NAME} {EMPLOYER}",
+        "\"{EMPLOYER}\" site:investor.{EMPLOYER_DOMAIN} 8-K risk",
+        "\"{EMPLOYER}\" press release desk closure {YEAR}"
+      ]
+    },
+    {
+      "jurisdiction": "UK",
+      "news_search": [
+        "\"{NAME}\" trader obituary site:ft.com OR site:bloomberg.com OR site:reuters.com",
+        "\"{NAME}\" inquest verdict {CITY} site:gov.uk",
+        "\"{EMPLOYER}\" \"desk closure\" OR \"risk limit\" site:ft.com",
+        "\"{NAME}\" coroner {COUNTY}"
+      ],
+      "records_search": [
+        "\"{EMPLOYER}\" site:investegate.co.uk  \"Risk\" OR \"Restructure\"",
+        "\"{NAME}\" FCA register"
+      ]
+    },
+    {
+      "jurisdiction": "EU",
+      "news_search": [
+        "\"{NAME}\" trader obituary {LANG_ALT} site:reuters.com OR site:bloomberg.com",
+        "\"{EMPLOYER}\" restructure layoffs {DESK} site:eur-lex.europa.eu",
+        "\"{NAME}\" coroner OR inquest {COUNTRY}"
+      ],
+      "records_search": [
+        "\"{EMPLOYER}\" ESMA disclosure risk",
+        "\"{NAME}\" business registry {COUNTRY}"
+      ]
+    },
+    {
+      "jurisdiction": "HK",
+      "news_search": [
+        "\"{NAME}\" trader obituary site:scmp.com OR site:bloomberg.com",
+        "\"{EMPLOYER}\" desk closure risk limit site:hkex.com.hk",
+        "\"{NAME}\" inquest {YEAR} site:judiciary.hk"
+      ],
+      "records_search": [
+        "\"{EMPLOYER}\" announcements site:hkexnews.hk",
+        "\"{NAME}\" SFC register"
+      ]
+    },
+    {
+      "jurisdiction": "SG",
+      "news_search": [
+        "\"{NAME}\" trader obituary site:straitstimes.com OR site:businesstimes.com.sg",
+        "\"{EMPLOYER}\" desk closure risk limit site:sgx.com",
+        "\"{NAME}\" coroner {YEAR} site:judiciary.gov.sg"
+      ],
+      "records_search": [
+        "\"{NAME}\" MAS register",
+        "\"{EMPLOYER}\" announcements site:sgx.com"
+      ]
+    },
+    {
+      "jurisdiction": "KR",
+      "news_search": [
+        "\"{NAME}\" 트레이더 부고",
+        "\"{EMPLOYER}\" 데스크 폐쇄 리스크 한도",
+        "\"{NAME}\" 검시 OR 사인 규명 {YEAR}"
+      ],
+      "records_search": [
+        "\"{EMPLOYER}\" 공시 site:dart.fss.or.kr",
+        "\"{NAME}\" 금융투자협회 등록"
+      ]
+    },
+    {
+      "jurisdiction": "JP",
+      "news_search": [
+        "\"{NAME}\" トレーダー 訃報",
+        "\"{EMPLOYER}\" デスク 閉鎖 リスク限度",
+        "\"{NAME}\" 検死 OR 監察 {YEAR}"
+      ],
+      "records_search": [
+        "\"{EMPLOYER}\" 開示 site:disclosure.edinet-fsa.go.jp",
+        "\"{NAME}\" 登録 金融庁"
+      ]
+    }
+  ],
+  "combinators": {
+    "name_variants": ["{FIRST} {LAST}","{LAST}, {FIRST}","{FIRST} {MIDDLE} {LAST}","\"{NICKNAME}\" {LAST}"],
+    "date_filters": ["after:2007-01-01 before:2013-01-01","after:2013-01-01"],
+    "role_bindings": ["{ROLE}","{DESK}","{ASSET_CLASS}"],
+    "market_context_addons": [
+      "\"VaR\" OR \"risk limit\"",
+      "\"desk closure\" OR \"prop desk\"",
+      "\"margin call\" OR \"tightened terms\""
+    ]
+  }
+}
+
+How to use
+	•	Generate {NAME}, {EMPLOYER}, {ROLE}, {DESK}, {YEAR}, etc., from your case objects and expand name_variants.
+	•	Run primary window (2007–2012) queries first; then the follow-up window.
+	•	Map hits back into the .jsonl case lines, promoting sources to tier1 (official filings/inquests) or tier2 (credible reporting) as defined earlier.
+	•	Keep everything public/consented; never scrape or store sensitive nonpublic data.
+
