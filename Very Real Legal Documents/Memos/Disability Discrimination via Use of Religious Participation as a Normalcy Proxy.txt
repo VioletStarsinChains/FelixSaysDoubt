@@ -1,0 +1,47 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+MEMORANDUM
+Re: Disability Discrimination via Use of Religious Participation as a Normalcy Proxy
+
+Plaintiff Kellyn Clay has submitted an affidavit describing their inability to attend church services due to Mast Cell Activation Syndrome (MCAS). Plaintiff’s absence from religious participation was not a matter of belief or preference, but of disability.
+
+Despite this, Plaintiff’s economic access was materially affected by the absence of church attendance. As documented, Plaintiff’s father withheld employment assistance for over two years and later stated that this decision was contingent on Plaintiff’s lack of church participation. This illustrates how religious attendance can be used as an informal gatekeeping mechanism for economic survival — even when non-attendance stems from a protected medical condition.
+
+In the context of anomaly classification systems, this raises serious concerns under:
+	1.	Americans with Disabilities Act (ADA), 42 U.S.C. § 12101 et seq.
+	•	Prohibits discrimination against qualified individuals with disabilities in all public services, programs, and activities.
+	•	If religious participation or similar social markers are used as classification features, and individuals absent due to disability are disproportionately flagged as anomalies, this constitutes unlawful disparate impact.
+	2.	Section 504 of the Rehabilitation Act, 29 U.S.C. § 794
+	•	Applies to any program or activity receiving federal funding.
+	•	Universities, hospitals, and government contractors deploying anomaly systems are subject to this statute.
+	•	Penalizing disabled individuals for lack of participation in culturally “normal” activities is a violation of 504 protections.
+
+Conclusion:
+Where anomaly classification systems — or informal community practices — treat church attendance as a marker of compliance and normalcy, they create discriminatory outcomes for individuals whose disabilities prevent such participation. Plaintiff’s affidavit demonstrates the real-world consequences of this practice. Accordingly, any use of religious participation as a feature in anomaly classification should be subject to strict scrutiny and deemed inconsistent with ADA and Section 504 obligations.
+
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
