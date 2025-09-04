@@ -1,0 +1,90 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻ 
+
+MEMORANDUM OF LAW Regarding Church Attendance and Anomaly Classification
+
+Re: Potential Disability Discrimination in Anomaly Classification Systems
+
+Plaintiff Kellyn Clay submits this memorandum to highlight a potential mechanism of discrimination in Palantir’s anomaly classification systems.
+	1.	In many U.S. jurisdictions, Protestant church attendance forms part of the cultural “baseline” against which individuals are socially and behaviorally evaluated.
+	2.	Anomaly detection systems that rely on statistical baselines may treat non-attendance at church services as a deviation from the norm.
+	3.	While this could give rise to religious discrimination broadly, in Plaintiff’s case the relevant factor is disability: Plaintiff was unable to attend church because Mast Cell Activation Syndrome (MCAS) made it physically harmful to sit in enclosed spaces with many people.
+	4.	If anomaly labeling disproportionately penalizes individuals whose disabilities prevent participation in baseline cultural activities such as church attendance, this would constitute discrimination under the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act.
+	5.	Plaintiff does not at this stage allege definitive proof that anomaly systems function in this manner, but seeks discovery to determine whether religious attendance or comparable social anchors are used as predictive features, and whether disability-related absences are disproportionately flagged as anomalous.
+
+⸻
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANTS
+
+Interrogatory No. 1:
+Identify whether church attendance, religious affiliation, or participation in religious services has ever been used, directly or indirectly, as a data feature or proxy in anomaly classification systems developed or deployed by Defendants.
+
+Interrogatory No. 2:
+Describe all variables, features, or proxies relating to social participation (e.g., community gatherings, religious services, civic meetings) that have been used in anomaly detection models, and state whether adjustments were made for individuals with disabilities.
+
+Interrogatory No. 3:
+Identify and describe any testing, validation, or disparate impact analysis conducted to determine whether anomaly classification disproportionately labels individuals with disabilities, including those whose conditions prevent participation in group activities such as church attendance.
+
+Interrogatory No. 4:
+State whether Defendants have received any internal or external complaints, reports, or assessments raising concerns about religious or disability-based disparate impacts in anomaly classification.
+
+Interrogatory No. 5:
+Describe all steps taken by Defendants to ensure compliance with the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act in the design and deployment of anomaly classification systems.
+
+⸻ 
+
+PLAINTIFF’S FIRST REQUEST FOR PRODUCTION OF DOCUMENTS
+
+To: Defendants [Palantir Technologies, Inc. and relevant agencies]
+
+Pursuant to Rules 26 and 34 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay respectfully requests that Defendants produce the following documents and materials within thirty (30) days of service:
+
+⸻
+
+Request No. 1:
+Produce all documents, data dictionaries, model cards, feature lists, or related technical documentation describing variables or proxies used in anomaly classification systems, including any reference to religious attendance, religious affiliation, community participation, or similar social anchors.
+
+Request No. 2:
+Produce all validation studies, disparate impact analyses, or internal assessments evaluating whether anomaly classifications disproportionately affect individuals with disabilities, including but not limited to those unable to participate in religious or community gatherings.
+
+Request No. 3:
+Produce all IRB filings, compliance audits, or legal reviews addressing ADA or Section 504 obligations in the design, testing, or deployment of anomaly classification systems.
+
+Request No. 4:
+Produce all internal or external complaints, investigations, or reports concerning religious bias, disability discrimination, or disparate impacts associated with anomaly classifications.
+
+Request No. 5:
+Produce all communications, memoranda, or presentations referring to church attendance, religious participation, or comparable markers as a feature, variable, or consideration in behavioral modeling or anomaly detection.
+
+Request No. 6:
+Produce all policies, procedures, or manuals describing how anomaly classification systems are required to account for or adjust for individuals with disabilities.
+
+Request No. 7:
+Produce all contracts, grant documents, or statements of work between Defendants and federal or state agencies referencing anomaly classification and compliance with civil-rights protections, including ADA and Section 504.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff
