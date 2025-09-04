@@ -1,0 +1,47 @@
+To HHS / SAMHSA / CDC / CMS
+
+Request:
+
+Requesting any and all documents, contracts, data-sharing agreements, dashboards, internal communications, IRB filings/exemptions, and evaluation reports referencing the use or evaluation of Palantir platforms (including Foundry, Gotham, or HHS Protect) in connection with behavioral or mental-health data, from 2008 to present.
+
+This includes:
+• Procurement records and MOUs referencing Palantir in behavioral-health or population-health initiatives
+• Dashboards/queries linking mental-health diagnoses, ED visits, or Rx utilization to Palantir-hosted analytics
+• Policy memos or model cards describing risk scoring, “anomaly”/threat flags, or triage logic touching behavioral health
+• Pilot/evaluation reports measuring outcome changes (diagnoses, holds, utilization) after Palantir deployments
+• IRB submissions/exemptions for secondary analysis of behavioral-health datasets within Palantir environments
+
+Keywords: Palantir, Foundry, Gotham, HHS Protect, behavioral health, mental health diagnoses, risk scoring, anomaly classification, triage, CMS, SAMHSA
+
+—
+
+To DOJ / DHS / FBI / ICE
+
+Request:
+
+Requesting any and all documents, contracts, deployment briefs, model descriptions, and interagency communications from 2008 to present referencing Palantir platforms in programs that intersect with behavioral health (e.g., threat assessment, crisis response, community policing, detention/monitoring), and any analyses of mental-health impacts associated with those programs.
+
+This includes:
+• Statements of work and deployment plans naming Palantir and describing behavioral/mental-health data use
+• Model documentation involving “anomaly,” “NPE,” or behavioral-risk flags with mental-health components
+• After-action or impact assessments tracking mental-health-related outcomes in jurisdictions post-deployment
+• Data-sharing agreements with state/local partners that include behavioral-health fields or proxies
+• Legal/policy reviews addressing disparate impact or civil-rights risk tied to mental-health classifications
+
+Keywords: Palantir, Foundry, Gotham, anomaly, NPE, behavioral threat assessment, crisis response, mental health, disparate impact, predictive analytics
+
+—
+
+To SSA / Treasury (IRS) / OPM
+
+Request:
+
+Requesting any and all documents, contracts, risk-model descriptions, and communications from 2008 to present referencing use or consideration of Palantir platforms in disability adjudication, antifraud analytics, or benefits triage where mental-health conditions or behavioral markers were variables or outputs.
+
+This includes:
+• Contracts/MOUs referencing Palantir for SSA/benefits analytics
+• Model specs and validation reports where mental-health diagnoses/claims are inputs or outcomes
+• Policy/legal analyses of civil-rights or disparate-impact risks related to behavioral/mental-health modeling
+• Any cross-agency data-sharing with HHS/CDC/SAMHSA involving mental-health data in Palantir environments
+
+Keywords: Palantir, Foundry, Gotham, disability adjudication, mental disorders, anomaly, benefits triage, antifraud analytics, SSA, OPM
