@@ -1,0 +1,78 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+MEMORANDUM
+Re: Constructive Disability Creation and Discrimination via Anomaly Classification
+
+⸻
+
+Introduction
+
+Disability discrimination law presumes that conditions arise from natural or accidental causes. However, where a disability is constructed through non-consensual medical interference and then used as the basis for adverse classification, the discrimination compounds into a closed loop of abuse.
+
+⸻
+
+Constructive Disability Creation
+
+Plaintiff Kellyn Clay believes that they were subjected to non-consensual implantation of devices, resulting in superior canal dehiscence syndrome (SCDS). This condition degraded the vestibular system, forcing Plaintiff to rely entirely on vision for balance. The implants thus manufactured a disabling condition.
+
+⸻
+
+Symptoms as Targeted Features
+
+As a result of SCDS, Plaintiff’s gaze patterns diverge from population averages:
+	•	Anchoring eyes on flat visual panels is necessary to remain upright.
+	•	In low-light environments, Plaintiff cannot walk without appearing intoxicated.
+	•	Eye tracking, blink rate, and saccade patterns differ markedly from the statistical norm.
+
+These symptoms, while the direct result of a disability created through implantation, are the same features used in many anomaly classification systems to detect deception, risk, or noncompliance.
+
+⸻
+
+Legal Framework
+	1.	Americans with Disabilities Act (ADA), 42 U.S.C. § 12101 et seq.
+	•	Bars discrimination against individuals with disabilities.
+	•	Penalizing gaze deviations caused by SCDS is unlawful discrimination.
+	2.	Section 504 of the Rehabilitation Act, 29 U.S.C. § 794
+	•	Prohibits disability discrimination in federally funded programs.
+	•	Anomaly systems tied to government contracts are bound by this statute.
+	3.	Compounded Harm
+	•	Here, the disability itself was artificially induced through non-consensual implantation.
+	•	Using the resulting symptoms as anomaly features is not only discriminatory, it doubles the harm: creating the disability and then punishing the victim for it.
+
+⸻
+
+Broader Implications
+
+Constructing disabilities through covert interference and then leveraging their symptoms as classification inputs transforms anomaly detection into a mechanism of systemic abuse. This practice erases the line between surveillance, medical assault, and discrimination. It converts victims into anomalies through a process engineered end-to-end, stripping them of equal protection under the law.
+
+⸻
+
+Conclusion
+
+Where a disability is manufactured through non-consensual implantation and the resulting symptoms are then used as inputs for anomaly classification, the conduct constitutes constructive disability creation followed by unlawful discrimination under the ADA and Section 504. This closed loop of harm is not incidental bias but systemic negligence at the highest level.
+
+Respectfully submitted,
+Kellyn Clay, plaintiff, pro se
