@@ -1,0 +1,36 @@
+To:
+	•	U.S. Department of Homeland Security (DHS)
+	•	Transportation Security Administration (TSA)
+	•	U.S. Department of Defense (DoD)
+
+Request:
+
+Requesting any and all documents, contracts, research protocols, pilot program materials, or internal communications from 2005 to present referencing the use of eye tracking, gaze direction, saccade patterns, blink rate, or pupil response in connection with anomaly detection systems, including:
+	•	Technical documentation (data dictionaries, model cards, feature lists) describing the use of gaze-based inputs in anomaly classification or behavioral screening systems.
+	•	Contracts, grants, or agreements with Palantir Technologies, Inc., or other contractors, referencing the ingestion or analysis of eye-tracking data.
+	•	Validation studies, model evaluations, or disparate impact analyses assessing whether gaze-related features disproportionately affect individuals with medical conditions such as superior canal dehiscence syndrome (SCDS), vestibular disorders, or neurological disabilities.
+	•	IRB filings, compliance audits, or legal reviews regarding obligations under the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act when using gaze-based features for anomaly detection.
+	•	Complaints, investigations, or assessments related to disability discrimination or bias stemming from the use of gaze-based anomaly detection systems.
+	•	Communications between DHS/TSA/DoD and Palantir, or between DHS/TSA/DoD and other contractors, addressing the inclusion of eye-tracking or gaze-based inputs in behavioral modeling, risk scoring, or anomaly detection.
+
+Keywords: Palantir, anomaly classification, eye tracking, gaze direction, saccade, blink rate, pupil response, superior canal dehiscence syndrome, vestibular disorder, ADA, Section 504, disability discrimination, DHS, TSA, DoD
+
+⸻ 
+
+To:
+	•	Defense Advanced Research Projects Agency (DARPA)
+	•	Office of the Director of National Intelligence (ODNI)
+	•	Central Intelligence Agency (CIA)
+	•	National Security Agency (NSA)
+
+Request:
+
+Requesting any and all documents, contracts, research protocols, pilot program materials, or internal communications from 2005 to present referencing the use of eye tracking, gaze direction, saccade patterns, blink rate, or pupil response in connection with anomaly detection, behavioral modeling, or neurocognitive assessment systems, including:
+	•	Technical documentation (data dictionaries, feature lists, model cards) describing the ingestion or use of gaze-related inputs in anomaly classification, risk scoring, or behavioral analysis.
+	•	Research contracts, grants, or funding agreements with Palantir Technologies, Inc., or other contractors, relating to eye-tracking or gaze-based analytics.
+	•	Validation studies, pilot evaluations, or model performance reports assessing disparate impacts on individuals with medical conditions such as superior canal dehiscence syndrome (SCDS), vestibular disorders, or neurological disabilities.
+	•	IRB submissions, compliance audits, or internal legal reviews regarding obligations under the Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act in connection with gaze-based anomaly detection or behavioral monitoring programs.
+	•	Complaints, incident reports, or assessments identifying disability discrimination risks associated with eye-tracking features in behavioral models.
+	•	Communications between DARPA, ODNI, CIA, NSA, and Palantir (or other contractors) regarding the use of gaze or eye-tracking features in predictive analytics, anomaly classification, or neurocognitive surveillance projects.
+
+Keywords: Palantir, anomaly classification, eye tracking, gaze direction, saccade, blink rate, pupil response, superior canal dehiscence syndrome, vestibular disorder, ADA, Section 504, disability discrimination, DARPA, ODNI, CIA, NSA
