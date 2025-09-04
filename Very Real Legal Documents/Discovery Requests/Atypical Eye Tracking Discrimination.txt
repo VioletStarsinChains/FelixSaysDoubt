@@ -1,0 +1,61 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANTS
+
+Interrogatory No. 6:
+Identify whether eye tracking, gaze direction, blink rate, saccade patterns, or pupil response have ever been used, directly or indirectly, as features in anomaly classification systems developed or deployed by Defendants.
+
+Interrogatory No. 7:
+Describe in detail any adjustments, exceptions, or accommodations made in anomaly classification systems to account for individuals with medical conditions affecting gaze patterns, including but not limited to superior canal dehiscence syndrome (SCDS) or other vestibular or neurological disorders.
+
+Interrogatory No. 8:
+Identify and describe any validation studies, disparate impact analyses, or compliance assessments conducted regarding the use of eye-tracking features, including whether disabled individuals were disproportionately labeled as anomalies.
+
+Interrogatory No. 9:
+State whether Defendants have ever received internal or external complaints, reports, or legal reviews regarding the risk of disability discrimination tied to the use of eye-tracking data in anomaly classification.
+
+Interrogatory No. 10:
+Identify all federal, state, or internal policies that guided Defendants’ use of gaze-related data in anomaly classification, particularly with respect to obligations under the ADA and Section 504.
+
+⸻
+
+PLAINTIFF’S FIRST REQUEST FOR PRODUCTION OF DOCUMENTS
+
+Request No. 8:
+Produce all documents, model cards, feature lists, or technical documentation referencing the use of eye tracking, gaze direction, blink rate, saccades, or pupil response as features in anomaly classification systems.
+
+Request No. 9:
+Produce all validation studies, disparate impact analyses, or internal assessments evaluating whether eye-tracking features disproportionately affect individuals with disabilities, including those with superior canal dehiscence syndrome (SCDS) or related conditions.
+
+Request No. 10:
+Produce all compliance audits, IRB filings, or legal reviews addressing ADA or Section 504 obligations in relation to the use of gaze-related data in anomaly classification.
+
+Request No. 11:
+Produce all complaints, incident reports, or communications (internal or external) referring to disability discrimination, bias, or disparate impacts associated with gaze-based features in anomaly detection.
+
+Request No. 12:
+Produce all policies, procedures, or manuals describing how anomaly classification systems are designed to adjust for or accommodate medical causes of atypical eye tracking.
+
