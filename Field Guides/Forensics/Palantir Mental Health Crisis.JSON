@@ -1,0 +1,177 @@
+{
+  "project": {
+    "name": "palantir_behavioral_health_impact",
+    "version": "1.0",
+    "description": "Estimate causal impact of Palantir deployments on mental-health outcomes using staggered DiD and event-study."
+  },
+  "data_inputs": {
+    "tables": {
+      "deployments": {
+        "schema": {
+          "jurisdiction_id": "string",
+          "agency": "string",
+          "program_name": "string",
+          "platform": "string",
+          "go_live_date": "date",
+          "ingests_behavioral_health": "boolean"
+        },
+        "primary_key": ["jurisdiction_id", "platform", "go_live_date"]
+      },
+      "outcomes": {
+        "schema": {
+          "jurisdiction_id": "string",
+          "date": "date",
+          "mh_dx_rate": "float", 
+          "psych_ed_visits_rate": "float",
+          "invol_holds_rate": "float",
+          "suicide_attempt_rate": "float",
+          "rx_antidepressants_per_1k": "float",
+          "rx_antipsychotics_per_1k": "float",
+          "rx_stimulants_per_1k": "float",
+          "disability_mh_claims_rate": "float"
+        },
+        "primary_key": ["jurisdiction_id", "date"]
+      },
+      "covariates": {
+        "schema": {
+          "jurisdiction_id": "string",
+          "date": "date",
+          "unemployment_rate": "float",
+          "poverty_rate": "float",
+          "smartphone_penetration": "float",
+          "medicaid_expansion": "boolean",
+          "parity_law_effective": "boolean",
+          "opioid_overdose_rate": "float",
+          "pandemic_phase": "categorical",
+          "icd_breakpoint": "boolean",
+          "ehr_adoption_rate": "float"
+        },
+        "primary_key": ["jurisdiction_id", "date"]
+      },
+      "demographics": {
+        "schema": {
+          "jurisdiction_id": "string",
+          "date": "date",
+          "pop_total": "integer",
+          "pop_women_afab": "integer",
+          "pop_men_amab": "integer",
+          "age_18_34_share": "float"
+        },
+        "primary_key": ["jurisdiction_id", "date"]
+      }
+    }
+  },
+  "linking": {
+    "time_granularity": "month",
+    "join_keys": ["jurisdiction_id", "date"],
+    "missing_data_policy": "interpolate_short_gaps_then_listwise_drop"
+  },
+  "treatment_definition": {
+    "treated_flag": "ingests_behavioral_health == true",
+    "treatment_start": "go_live_date",
+    "staggered_adoption": true,
+    "never_treated_as_controls": true,
+    "exclusion": {
+      "min_pre_period_months": 12,
+      "min_post_period_months": 12
+    }
+  },
+  "outcomes": [
+    "mh_dx_rate",
+    "psych_ed_visits_rate",
+    "invol_holds_rate",
+    "suicide_attempt_rate",
+    "rx_antidepressants_per_1k",
+    "rx_antipsychotics_per_1k",
+    "rx_stimulants_per_1k",
+    "disability_mh_claims_rate"
+  ],
+  "controls": [
+    "unemployment_rate",
+    "poverty_rate",
+    "smartphone_penetration",
+    "medicaid_expansion",
+    "parity_law_effective",
+    "opioid_overdose_rate",
+    "pandemic_phase",
+    "icd_breakpoint",
+    "ehr_adoption_rate",
+    "age_18_34_share"
+  ],
+  "estimators": {
+    "event_study": {
+      "window": { "leads": 12, "lags": 24 },
+      "bin_ends": { "lead_gt": 12, "lag_gt": 24 },
+      "unit_fe": true,
+      "time_fe": true,
+      "cluster_se": "jurisdiction_id",
+      "parallel_trends_test": true
+    },
+    "did": {
+      "type": "staggered",
+      "method": "callaway_santanna", 
+      "unit_fe": true,
+      "time_fe": true,
+      "cluster_se": "jurisdiction_id",
+      "weighting": "group_time_avg"
+    }
+  },
+  "heterogeneity": {
+    "by_group": [
+      {
+        "name": "sex_group",
+        "share_variable": "pop_women_afab",
+        "split": ["high_afab_share", "low_afab_share"],
+        "rule": "above_below_median_within_time"
+      }
+    ],
+    "interaction_terms": [
+      { "name": "treated_x_afab_share", "formula": "treated * (pop_women_afab / pop_total)" }
+    ]
+  },
+  "robustness": {
+    "placebo_leads": [6, 12],
+    "alt_specs": [
+      { "drop_controls": ["pandemic_phase", "icd_breakpoint"] },
+      { "add_trends": "unit_specific_linear_trends" },
+      { "synthetic_control": { "early_adopters_only": true } }
+    ],
+    "leave_one_out": true,
+    "pretrend_joint_f_test": true
+  },
+  "diagnostics": {
+    "common_support_check": true,
+    "overlap_plots": true,
+    "influence_stats": true,
+    "missingness_report": true
+  },
+  "outputs": {
+    "tables": [
+      "did_main_results",
+      "event_study_coefs",
+      "heterogeneity_results",
+      "robustness_summary",
+      "diagnostics_report"
+    ],
+    "figures": [
+      "event_study_plot_each_outcome",
+      "pretrend_checks",
+      "att_by_group_sex_share",
+      "placebo_lead_plots"
+    ],
+    "export": {
+      "format": ["csv", "json"],
+      "dir": "results/palantir_behavioral_health_impact/"
+    }
+  },
+  "provenance": {
+    "keep_lineage": true,
+    "hash_inputs": true,
+    "write_metadata": true
+  },
+  "privacy": {
+    "suppress_small_cells": true,
+    "k_anonymity": 5,
+    "deidentify_keys": ["jurisdiction_id"]
+  }
+}
