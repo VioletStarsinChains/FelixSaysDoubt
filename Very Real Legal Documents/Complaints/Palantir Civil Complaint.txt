@@ -104,6 +104,21 @@ Count V – Fraud and False Claims in Government Contracting (Common-Law Fraud; 
 Count VI – Functional Redlining and Housing Restriction (Fair Housing Act principles)
 	29.	Defendants’ vendor continuity filters (e.g., single national waste-hauler across residences) restricted Plaintiff’s housing mobility and consolidated surveillance datasets, producing exclusionary effects functionally analogous to redlining while evading traditional paper trails.
 
+COUNT VII
+
+SEX DISCRIMINATION – DISPARATE IMPACT OF ANOMALY CLASSIFICATION
+(Title VII, Title IX, Equal Protection, 42 U.S.C. § 1983, ECOA, FCRA, State Law Analogues)
+	30.	Plaintiff Kellyn Clay alleges that Defendants, through the design and deployment of Palantir’s “anomaly” classification systems, created and applied criteria that disproportionately labeled women and other AFAB individuals as anomalies.
+	31.	These classifications were not merely academic or theoretical. They directly impacted affected individuals’ access to employment, education, housing, credit, medical care, and other essential economic and civil rights.
+	32.	Even if not deliberately designed to target women/AFAB people, the application of anomaly classification resulted in a disparate impact on a protected class, in violation of:
+	•	Title VII of the Civil Rights Act of 1964 (employment discrimination);
+	•	Title IX of the Education Amendments of 1972 (education discrimination);
+	•	The Equal Protection Clause of the Fourteenth Amendment, as enforced through 42 U.S.C. § 1983 (government use of discriminatory classifications);
+	•	The Fair Credit Reporting Act (FCRA) and Equal Credit Opportunity Act (ECOA) (economic exclusion via opaque scoring and denial of credit opportunities);
+	•	Parallel state anti-discrimination statutes.
+	33.	By disproportionately excluding women/AFAB people from opportunity, access, and recognition as “persons,” Defendants perpetuated systemic discrimination, denying equal protection and equal economic participation under the law.
+	34.	As a direct and proximate result, Plaintiff and similarly situated individuals suffered economic loss, denial of statutory benefits, reputational harm, and violations of constitutional and civil rights.
+
 ⸻
 
 PRAYER FOR RELIEF
@@ -115,8 +130,11 @@ b. Order disgorgement of federal funds received under “terrorism prevention”
 c. Enter an injunction prohibiting Defendants from deploying or marketing classification systems that ignore context, and requiring implementation of the DQ Safeguard Rule (automatic suspension of anomaly/NPE labels when DQ ≥ threshold pending human review);
 d. Order an independent audit and special master to: (i) quarantine or purge datasets contaminated by synthetic manipulations; (ii) identify individuals wrongfully labeled; (iii) restore access to federal benefits wrongfully denied;
 e. Enjoin functional redlining practices via vendor continuity filters and require fair-housing compliant placement procedures;
-f. Award compensatory and punitive damages to Plaintiff and a similarly situated class (if certified), amounts to be determined at trial;
-g. Award fees, costs, and any further relief the Court deems just and proper.
+f. Declare Defendants’ anomaly classification system discriminatory and unlawful;
+g. Enjoin further use of anomaly classifications that produce sex-based disparate impacts;
+h. Order full restoration of access, benefits, and opportunities denied to those wrongfully classified as anomalies;
+i. Award compensatory and punitive damages to Plaintiff and a similarly situated class (if certified), amounts to be determined at trial;
+j. Award fees, costs, and any further relief the Court deems just and proper.
 
 ⸻
 
