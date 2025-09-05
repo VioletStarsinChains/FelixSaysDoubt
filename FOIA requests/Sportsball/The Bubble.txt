@@ -67,3 +67,22 @@ This includes:
 	•	Documentation of contracts or collaborations with universities or private labs studying behavior in isolation, confinement, or high-performance teams
 
 Keywords: NBA Bubble, DARPA, DoD, digital twin, athlete monitoring, human performance, behavioral modeling, Palantir, resilience, predictive analytics, containment systems
+
+⸻ 
+
+To Federal Trade Commission (FTC) / Department of Justice (DOJ) Antitrust Division
+
+Request:
+
+Requesting any and all documents, internal communications, or investigations referencing the commercial use, sale, or market implications of biometric and behavioral data collected during the NBA “Bubble” (2020–2022).
+
+This includes:
+	•	Communications regarding partnerships between the NBA, Disney/ESPN, wearable device companies (e.g., Oura Ring), and third-party data firms (Palantir, Deloitte, Accenture, Booz Allen, etc.)
+	•	Analyses of whether biometric/behavioral data from athletes was used in betting markets, predictive analytics, or other commercial products
+	•	Investigations into potential antitrust, data privacy, or insider trading concerns linked to Bubble-derived data
+	•	Reports on data sharing between sports leagues, health surveillance vendors, and financial/market forecasting entities
+	•	Contracts or memoranda of understanding involving the resale or licensing of Bubble biometric data to private sector firms
+	•	Documentation on market concentration, competitive harms, or consumer deception related to sports biometric datasets
+
+Keywords: NBA Bubble, Oura Ring, biometric data, insider trading, predictive analytics, Palantir, behavioral futures, betting markets, antitrust, data resale
+
