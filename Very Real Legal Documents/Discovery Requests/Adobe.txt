@@ -33,6 +33,19 @@ Pursuant to Federal Rule of Civil Procedure 34, Plaintiff requests that Defendan
 	5.	All reports or proposals describing how Adobe user data could be applied to behavioral futures markets, predictive analytics, or surveillance systems.
 	6.	All internal risk assessments or memoranda acknowledging the potential harms to neurodivergent, disabled, transgender, or nonbinary users from Adobe’s telemetry or provenance technologies.
 	7.	All documents referencing Plaintiff by name, student account, Creative Cloud account, or any anonymized identifier traceable to Plaintiff’s academic use of Photoshop or other Adobe products.
+	8.	All documents referencing the collection or use of stylus-based handwriting or signature data, including but not limited to:
+	•	Pressure sensitivity logs
+	•	Tilt and acceleration data
+	•	Stroke order, speed, and rhythm
+	•	Reconstructed handwriting datasets
+	9.	All documents referencing Adobe’s provision of biometric data capture or handwriting recognition capabilities to third parties, including government entities and private contractors.
+	10.	All risk assessments, privacy disclosures, or internal memoranda addressing the potential use of stylus-drawn signatures for identity theft, forgery, or biometric surveillance.
+	11.	All documents referencing the collection, derivation, or use of gaze, attention, or eye-tracking data from Adobe products, including:
+	•	Cursor movement, zoom/pan sequences, and brush targeting used as proxies for gaze direction
+	•	Hardware integrations with devices capable of true eye tracking (e.g., VR headsets, AR glasses, Microsoft Surface, Apple Pencil, Oculus, Tobii)
+	•	Any partnerships, pilots, or contracts where eye-tracking data was provided to government or private contractors
+
+	12.	All internal memoranda or risk assessments acknowledging that Adobe product telemetry could function as eye-tracking or attention-mapping, whether directly via hardware or indirectly via behavioral proxies.
 
 ⸻
 
@@ -40,6 +53,8 @@ Definitions:
 	•	“Telemetry” includes but is not limited to tool usage frequency, order of operations, cursor movement, keystroke timing, brush pressure, autosave logs, crash reports, and cloud-sync data.
 	•	“Metadata” includes embedded information in files (PSD, PDF, AI, etc.), such as layer structures, adjustment histories, file paths, and device identifiers.
 	•	“Anomaly classification” and “digital twin” shall be construed broadly to include any predictive modeling, behavior analysis, or categorization of individuals based on creative or computational signals.
+
+⸻ 
 
 Respectfully submitted,
 Kellyn Clay, Plaintiff, pro se
