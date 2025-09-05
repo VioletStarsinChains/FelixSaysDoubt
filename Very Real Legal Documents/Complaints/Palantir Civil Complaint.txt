@@ -156,6 +156,18 @@ COUNT X: ALGORITHMIC DEFAMATION AND FAILURE TO CONTEXTUALIZE
 	51.	Palantir and its partners had a duty to integrate contextualizing data already in their possession when generating anomaly scores. Their failure to do so reflects either gross negligence in system design or deliberate misclassification for purposes of control, manipulation, or behavioral futures trading.
 	52.	Plaintiff reserves the right to expand this claim to include additional examples of algorithmic defamation, where benign or necessary conduct was misclassified as anomalous despite available contextual data to the contrary.
 
+Disparate Impact on Transgender Individuals
+	53.	Plaintiff further alleges that anomaly-classification systems, when applied in retail environments such as Target, disproportionately harm transgender and nonbinary individuals.
+	54.	Many transgender individuals purchase clothing in the children’s section for reasons that are both benign and affirming, including:
+	•	Anthropometric fit, where adult clothing does not accommodate body size or proportion;
+	•	Economic necessity, as children’s clothing is typically lower in cost; and
+	•	Psychological healing or gender affirmation, including the reclamation of childhood experiences denied to them due to discrimination or suppression.
+
+	55.	Despite these legitimate and explainable motivations, retail surveillance systems have flagged transgender shoppers in children’s sections as anomalous or suspicious. Such classification falsely implies predatory behavior, amounting to algorithmic defamation and perpetuating dangerous stereotypes.
+	56.	Target and its surveillance partners had, or should have had, knowledge of these legitimate motivations, as such information is widely documented in both consumer behavior research and transgender community testimony.
+	57.	Plaintiff alleges that by failing to account for this context, Defendants have facilitated a disparate impact against transgender individuals, subjecting them to heightened risk scores, suspicion, or stigmatization.
+	58.	Plaintiff reserves the right to amend this complaint to include class allegations on behalf of transgender and nonbinary individuals similarly harmed by Defendants’ negligent or intentional misclassification practices.
+
 ⸻
 
 PRAYER FOR RELIEF
