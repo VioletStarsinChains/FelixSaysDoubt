@@ -1,0 +1,43 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES TO ADOBE INC.
+
+Pursuant to Federal Rule of Civil Procedure 33, Plaintiff submits the following interrogatories, to be answered fully and under oath within thirty (30) days of service:
+	1.	Identify all categories of user telemetry collected by Adobe products (including Photoshop, Illustrator, Acrobat, and Creative Cloud applications), and state whether such telemetry includes keystroke timing, cursor movement, tool usage frequency, zoom/pan sequences, or stylus data.
+	2.	State whether Adobe has ever collected, stored, or analyzed stylus-based handwriting or signature data (including stroke order, speed, pressure sensitivity, tilt, or rhythm) from Photoshop or other Creative Cloud applications.
+	3.	State whether Adobe has ever shared or licensed signature or handwriting telemetry to any third parties, including government agencies or private contractors.
+	4.	State whether Adobe is aware that its stylus-based telemetry can be used to reconstruct user signatures with sufficient fidelity for biometric identification or forgery.
+	5.	State whether Adobe products directly collect or indirectly derive gaze, attention, or eye-tracking data from users, including but not limited to:
+	•	Cursor movement, brush targeting, zoom/pan behavior
+	•	Hardware integrations with devices capable of eye tracking (including VR/AR headsets, Microsoft Surface, Apple Pencil, Oculus, or Tobii devices).
+	6.	Identify all contracts, collaborations, or communications between Adobe and federal agencies (including DoD, DHS, FBI, HHS) or private contractors (including Palantir, Deloitte, Booz Allen, or Accenture) involving the use of Adobe telemetry for predictive modeling, anomaly detection, digital twin construction, or behavioral analytics.
+	7.	State whether Adobe participated in the Content Authenticity Initiative (CAI) or Coalition for Content Provenance and Authenticity (C2PA) with the understanding that user telemetry, gaze data, or signature data could be applied to surveillance or anomaly classification.
+	8.	Identify all internal risk assessments or memoranda in which Adobe acknowledged the potential harms to neurodivergent, disabled, transgender, or nonbinary users from telemetry-based profiling.
+	9.	State whether Adobe has ever notified users that handwritten signatures drawn in its products could be captured as biometric data and used outside the context of their creative work.
+	10.	Identify all persons most knowledgeable within Adobe about the collection or use of user signature data and eye-tracking/gaze telemetry.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
