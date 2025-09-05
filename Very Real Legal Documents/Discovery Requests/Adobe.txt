@@ -1,0 +1,45 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S FIRST SET OF REQUESTS FOR PRODUCTION TO ADOBE INC.
+
+Pursuant to Federal Rule of Civil Procedure 34, Plaintiff requests that Defendant produce the following documents within thirty (30) days of service:
+	1.	All documents, contracts, or communications referencing the collection of user telemetry from Photoshop, Illustrator, Acrobat, or other Creative Cloud applications, including tool usage patterns, keystroke logs, stylus data, editing history, and metadata.
+	2.	All documents describing how Creative Cloud telemetry and file metadata are processed, stored, or shared with third parties, including government agencies and contractors.
+	3.	All communications or contracts between Adobe and federal agencies (including DoD, DHS, HHS, or FBI) or private contractors (including Palantir, Booz Allen, Deloitte, Accenture, etc.) regarding the use of Adobe data streams for predictive modeling, anomaly detection, or digital twin construction.
+	4.	All documents referencing Adobe’s role in the Content Authenticity Initiative (CAI) or Coalition for Content Provenance and Authenticity (C2PA) as they relate to government or defense use cases, including anomaly classification and continuity-of-theater overlays.
+	5.	All reports or proposals describing how Adobe user data could be applied to behavioral futures markets, predictive analytics, or surveillance systems.
+	6.	All internal risk assessments or memoranda acknowledging the potential harms to neurodivergent, disabled, transgender, or nonbinary users from Adobe’s telemetry or provenance technologies.
+	7.	All documents referencing Plaintiff by name, student account, Creative Cloud account, or any anonymized identifier traceable to Plaintiff’s academic use of Photoshop or other Adobe products.
+
+⸻
+
+Definitions:
+	•	“Telemetry” includes but is not limited to tool usage frequency, order of operations, cursor movement, keystroke timing, brush pressure, autosave logs, crash reports, and cloud-sync data.
+	•	“Metadata” includes embedded information in files (PSD, PDF, AI, etc.), such as layer structures, adjustment histories, file paths, and device identifiers.
+	•	“Anomaly classification” and “digital twin” shall be construed broadly to include any predictive modeling, behavior analysis, or categorization of individuals based on creative or computational signals.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
