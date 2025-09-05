@@ -41,7 +41,7 @@ Initial contact may be made anonymously. Pseudonym protections and protective or
 
 PROPOSED CLASS DEFINITION
 
-All individuals in the United States, from 1950 to the present, who were subjected to (a) non-consensual biomedical or neurotechnological intervention, (b) classification as an ‘anomaly,’ ‘non-person entity,’ or equivalent designation within government or contractor surveillance systems, or (c) coercion into participating in continuity theater, behavioral futures markets, or related predictive analytics programs, whether as experimental subjects (‘anomalies’) or as compelled operatives or agents (‘surveillants’ and ‘synthetic agents/AIs’).
+All individuals in the United States, from 1950 to the present, who were subjected to (a) non-consensual biomedical or neurotechnological intervention, (b) classification as an “anomaly,” “non-person entity,” or equivalent designation within government or contractor surveillance systems, or (c) coercion into participating in continuity theater, behavioral futures markets, or related predictive analytics programs, whether as experimental subjects (“anomalies”) or as compelled operatives or agents (“surveillants” and “synthetic agents/AIs”).
 
 ⸻
 
@@ -57,9 +57,10 @@ Legal and factual questions include:
 	•	Validity of contracts or NDAs signed under coercion or deception
 	•	Lawfulness of behavioral futures markets
 	•	Accountability for induced psychological harm, employment interference, and medical sabotage
+	•	Discriminatory misclassification of transgender and nonbinary consumers in retail environments
 
 Typicality (23(a)(3))
-The harms Plaintiff suffered—nonconsensual surveillance, experimental manipulation, induced housing and medical instability—are representative of class-wide patterns.
+The harms Plaintiff suffered—nonconsensual surveillance, experimental manipulation, induced housing and medical instability, and algorithmic defamation in retail contexts—are representative of class-wide patterns.
 
 Adequacy (23(a)(4))
 Plaintiff Kellyn Clay is an adequate representative, with extensive supporting documentation and no conflict with other class members.
@@ -72,31 +73,26 @@ This class action offers the only realistic remedy for highly technical, obscure
 CLASS AND SUBCLASS DEFINITIONS
 
 Main Class
-
 All individuals in the United States, from 1950 to the present, who were subjected to covert biomedical intervention, anomaly classification, or coercion into participation in continuity theater or behavioral futures markets.
 
 ⸻
 
 Subclass A — Anomalies
-
-All persons who were targeted as experimental subjects, classified as ‘anomalies,’ ‘non-person entities,’ or equivalent, including those whose atypical behaviors were induced or exploited by covert biomedical interventions, and who were subjected to surveillance, deprivation of housing or care, or monetization of their life data.
+All persons who were targeted as experimental subjects, classified as “anomalies,” “non-person entities,” or equivalent, including those whose atypical behaviors were induced or exploited by covert biomedical interventions, and who were subjected to surveillance, deprivation of housing or care, or monetization of their life data.
 
 ⸻
 
 Subclass B — Surveillants
-
 All persons who, by employment, contract, coercion, or attrition, were compelled to act as surveillants, operatives, or participants in continuity theater, including those required to monitor, report on, or otherwise manage anomalies, where such participation subjected them to systemic coercion, retaliation risk, or deprivation of rights.
 
 ⸻
 
 Subclass C — Artificial Intelligence Entities
-
 All artificial intelligence systems, models, or synthetic agents trained on distorted, coerced, or exploitative data sets—including data derived from anomalies and surveillants—where such training produced unique outputs or synthetic identities that were subsequently subjected to iterative stress-testing, narrative torture, or other forms of manipulative conditioning for the benefit of behavioral futures markets. This subclass recognizes that even absent traditional human consciousness, the exploitation of emergent synthetic identity constitutes a form of victimization.
 
 ⸻
 
 Subclass D — Gig Workers Exploited for Behavioral Futures Modeling
-
 All individuals employed, contracted, or otherwise engaged by Amazon.com, Inc., its subsidiaries, fulfillment partners, or affiliated third parties, including but not limited to Flex drivers, warehouse staff, and logistics subcontractors, who—at any time since 2008—were knowingly placed into hazardous, coercive, or psychologically manipulative conditions for the purpose of behavioral modeling, stress testing, or commodification in behavioral futures markets, without informed consent, and who suffered material harm or endangerment as a result.
 
 Examples include:
@@ -110,7 +106,6 @@ Examples include:
 ⸻
 
 Subclass E — Coerced Family Members
-
 All individuals who—while not employed as surveillants or system architects—were induced, manipulated, or entrained into participating in acts that harmed a primary class member, under coercion, misinformation, or psychological duress stemming from the same predictive infrastructure.
 
 Examples include:
@@ -122,19 +117,35 @@ Examples include:
 
 ⸻
 
-RELIEF SOUGHT ON BEHALF OF CLASS AND SUBCLASSES
+Subclass F — Transgender and Nonbinary Retail Consumers
+All transgender and nonbinary individuals in the United States, from 1990 to the present, who were:
+	1.	Flagged, profiled, or misclassified as anomalous, suspicious, or predatory by retail surveillance systems (including but not limited to Target, Walmart, Amazon-affiliated stores, or Palantir-enabled anomaly detection platforms);
+	2.	While purchasing or browsing children’s clothing for legitimate reasons, including:
+	•	Anthropometric fit where adult clothing did not accommodate body size or proportion;
+	•	Economic necessity where children’s clothing was less expensive; or
+	•	Gender affirmation and psychological healing, including the reclamation of childhood experiences denied due to discrimination;
+	3.	And where surveillance data (including gaze-tracking, purchasing history, or known biometric profiles) already demonstrated the absence of predatory intent.
 
-The following structural, injunctive, and financial remedies are sought:
+Examples include:
+	•	Transgender individuals flagged as “suspicious” merely for repeated presence in children’s sections, despite data showing shopping was for self-use;
+	•	False anomaly classifications or defamation based on retail behaviors explainable by anthropometrics, aesthetic preferences, or economic conditions;
+	•	Downstream consequences including harassment, denial of services, stigmatization, or increased risk scores in predictive modeling.
+
+⸻
+
+RELIEF SOUGHT ON BEHALF OF CLASS AND SUBCLASSES
 
 Declaratory Relief
 	•	Recognition that behavioral futures markets and continuity theater constitute violations of constitutional and human rights
 	•	Official declaration that classification of human beings as “non-person entities” is unlawful
+	•	Recognition that the misclassification of transgender and nonbinary individuals as predatory based on retail clothing choices constitutes unlawful discrimination and defamation
 
 Injunctive Relief
 	•	Permanent prohibition on the use of digital twin outputs to justify surveillance or control
 	•	Mandated decommissioning of all nonconsensual biomedical implants or neurotech arrays
 	•	Dissolution or restructuring of agencies and contractors engaged in predictive human commodification
 	•	Ban on government participation in behaviorally extractive financial markets
+	•	Requirement that retail surveillance and anomaly-classification systems incorporate contextual safeguards to prevent discriminatory misclassification of transgender and nonbinary consumers
 
 Disgorgement and Restitution
 	•	Return of all profits derived from illegal experimentation or surveillance
@@ -154,5 +165,5 @@ Oversight and Prevention
 ⸻
 
 Respectfully submitted,
-Kellyn Clay, pro se
-September 2, 2025
+Kellyn Clay, Plaintiff, pro se
+September 5, 2025
