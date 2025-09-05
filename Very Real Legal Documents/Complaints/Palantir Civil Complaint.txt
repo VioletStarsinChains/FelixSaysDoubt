@@ -19,6 +19,13 @@ and
 
 JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
 whose names and identities are presently unknown,
+
+and
+
+William Alton Clay,
+
+and
+
   Defendants.
 
 ⸻
@@ -167,6 +174,17 @@ Disparate Impact on Transgender Individuals
 	56.	Target and its surveillance partners had, or should have had, knowledge of these legitimate motivations, as such information is widely documented in both consumer behavior research and transgender community testimony.
 	57.	Plaintiff alleges that by failing to account for this context, Defendants have facilitated a disparate impact against transgender individuals, subjecting them to heightened risk scores, suspicion, or stigmatization.
 	58.	Plaintiff reserves the right to amend this complaint to include class allegations on behalf of transgender and nonbinary individuals similarly harmed by Defendants’ negligent or intentional misclassification practices.
+
+Reservation of Rights Concerning Election Manipulation
+	59.	Plaintiff has executed an affidavit affirming that she did not cast a ballot in the November 2024 general election or in any other federal, state, or local election during the year 2024.
+	60.	Plaintiff is aware that Defendants and their affiliates, including Adobe and Palantir, have the technical capacity to reproduce biometric signatures and to override motor functions through nonconsensual neurotechnological arrays.
+	61.	Plaintiff alleges that these capabilities render individuals classified as “anomalies” or “non-person entities (NPEs)” uniquely vulnerable to identity exploitation. Specifically, Defendants had the ability and opportunity to:
+
+	•	(a) induce or override physical motor actions in voting contexts, compelling individuals to select candidates against their conscious intention; and
+	•	(b) generate or process fraudulent ballots under the names of persons designated as anomalies or NPEs, using forged biometric signatures and misappropriated identity data.
+
+	62.	Plaintiff does not at this time assert independent causes of action regarding the outcome of the 2024 election.
+	63.	However, Plaintiff expressly reserves the right to amend this complaint should discovery reveal that fraudulent ballots were cast under her name or under the names of other persons designated as anomalies or NPEs, or that neurotechnological override was deployed in election contexts.
 
 ⸻
 
