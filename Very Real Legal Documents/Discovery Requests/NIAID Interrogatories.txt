@@ -1,0 +1,42 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANT NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES (NIAID)
+
+TO: Defendant National Institute of Allergy and Infectious Diseases (NIAID), by and through its counsel of record.
+
+FROM: Plaintiff, Kellyn Clay.
+
+Pursuant to Federal Rule of Civil Procedure 33, Plaintiff submits the following interrogatories, to be answered fully and under oath within thirty (30) days of service:
+	1.	Identify all research programs funded, sponsored, or conducted by NIAID since 1980 involving the use of implanted biomedical devices (including microimplants, nanosensors, or nonsurgical delivery systems) for monitoring immune function, allergy, or inflammatory response.
+	2.	State whether NIAID has ever received reports, complaints, or findings that implantable devices (micro/nano or otherwise) can trigger or exacerbate mast cell activation syndrome (MCAS) or related histamine disorders.
+	3.	Describe in detail any collaborations between NIAID and other federal agencies (including DoD, DARPA, DHS, CDC, or HHS) or private contractors (including Palantir, Deloitte, Booz Allen, Accenture, Oura Health, etc.) involving the use of implant data for predictive modeling, digital twin construction, or behavioral analysis.
+	4.	Identify all ethics reviews, Institutional Review Board (IRB) proceedings, or advisory committee discussions convened by NIAID regarding the use of implants in pediatric or neonatal populations.
+	5.	State whether NIAID has conducted or is aware of any studies linking implant-derived data to applications in financial prediction, behavioral futures markets, or betting/market simulations.
+	6.	Explain NIAID’s position, as of today, on whether biomedical implants can cause long-term immune dysregulation or contribute to conditions such as MCAS, idiopathic anaphylaxis, or histamine intolerance.
+	7.	Identify all persons most knowledgeable within NIAID about implant-related immune consequences, including name, title, and department.
+
+Respectfully submitted,
+Kellyn Clay, plaintiff, pro se
