@@ -143,6 +143,19 @@ COUNT IX: STATE-LEVEL DATA INPUTS AND GENDER MARKER INDUCEMENT
 	45.	The effect of this policy is inducement without disclosure: the state creates the condition (availability of an “X” marker) that directly feeds into anomaly classification systems, then fails to warn affected individuals that the choice will expose them to increased scrutiny, risk scoring, or denial of opportunities.
 	46.	Plaintiff does not at this time assert independent causes of action against the State of Minnesota or other states. However, Plaintiff expressly reserves the right to amend this complaint to add state defendants if discovery demonstrates that state officials had knowledge of, or actively collaborated in, the use of “X” marker data for anomaly classification, digital twin modeling, or behavioral control.
 
+COUNT X: ALGORITHMIC DEFAMATION AND FAILURE TO CONTEXTUALIZE 
+
+	47.	Plaintiff alleges that Palantir’s anomaly-classification systems deliberately or negligently mischaracterized routine consumer behavior as suspicious or high-risk.
+	48.	By way of example, Plaintiff frequently shops in the children’s clothing section at Target. This conduct is entirely consistent with facts already available to the system, including:
+	•	Plaintiff’s anthropometric measurements (5’3” and approximately 100 pounds), which make adult clothing ill-fitting;
+	•	Plaintiff’s longstanding aesthetic preference for bright colors, which are more commonly available in children’s clothing;
+	•	Plaintiff’s economic circumstances, which make children’s clothing more cost-effective than adult clothing; and
+	•	Plaintiff’s gaze-tracking data, which confirm that Plaintiff consistently directed attention to clothing racks and avoided eye contact with children, except when necessary to avoid physical collision.
+	49.	Despite this contextual information, anomaly-classification systems ingested the raw observation (“adult in children’s clothing section”) and produced a misleading risk signal, falsely implying that Plaintiff’s presence was suspicious or predatory.
+	50.	This constitutes algorithmic defamation: a defamatory label or implication created not through human judgment, but through the negligent or intentional design of predictive systems.
+	51.	Palantir and its partners had a duty to integrate contextualizing data already in their possession when generating anomaly scores. Their failure to do so reflects either gross negligence in system design or deliberate misclassification for purposes of control, manipulation, or behavioral futures trading.
+	52.	Plaintiff reserves the right to expand this claim to include additional examples of algorithmic defamation, where benign or necessary conduct was misclassified as anomalous despite available contextual data to the contrary.
+
 ⸻
 
 PRAYER FOR RELIEF
