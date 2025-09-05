@@ -1,0 +1,45 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S FIRST SET OF REQUESTS FOR PRODUCTION TO DEFENDANT NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES (NIAID)
+
+TO: Defendant National Institute of Allergy and Infectious Diseases (NIAID), by and through its counsel of record.
+
+FROM: Plaintiff, Kellyn Clay.
+
+Pursuant to Federal Rule of Civil Procedure 34, Plaintiff requests that Defendant produce the following documents within thirty (30) days of service:
+	1.	All documents, reports, or communications in NIAID’s possession, custody, or control referencing the use of implanted biomedical devices, microimplants, or nanosensors for allergy, immune, or inflammatory disease research, including but not limited to mast cell activation syndrome (MCAS).
+	2.	All studies, internal proposals, or contracts funded or overseen by NIAID relating to the use of invasive or nonsurgical implantable devices in human subjects, with particular focus on neonatal, infant, or pediatric populations.
+	3.	Documents referencing any correlation between implants and the onset, worsening, or triggering of mast cell activation syndrome, histamine disorders, or idiopathic anaphylaxis.
+	4.	Communications between NIAID and other federal agencies (including DoD, DARPA, HHS, DHS, CDC) or private contractors (including Palantir, Deloitte, Accenture, Booz Allen, or Oura Health) regarding implant-based monitoring, containment environments, or predictive modeling tied to immunological or allergic conditions.
+	5.	All records concerning the use of implant-derived data in predictive analytics, digital twin development, or behavioral futures markets.
+	6.	Any adverse event reports, ethical reviews, or internal memoranda acknowledging or discussing harms associated with biomedical implants and subsequent immune dysregulation in human subjects.
+
+Definitions:
+	•	“Implants” shall be construed broadly to include surgical, nonsurgical, micro/nano, biometric, neuroprosthetic, or sensor-based devices placed inside the human body.
+	•	“MCAS” includes mast cell activation syndrome, systemic mastocytosis, histamine intolerance, and related immunological conditions.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
