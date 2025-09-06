@@ -1,0 +1,73 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+ADOBE INC.,
+a multinational software company headquartered in San Jose, California,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANTS Palantir Technologies Inc. and Subcontractors
+
+Plaintiff Kellyn Clay propounds the following interrogatories to be answered fully, under oath, by Defendant Palantir Technologies Inc. and any subcontractors or affiliates within the time provided by the Federal Rules of Civil Procedure.
+
+⸻
+
+Definitions
+	1.	“Digital twin” means any digital, algorithmic, biometric, or model-based representation of an individual used for prediction, simulation, behavioral modification, or decision-making.
+	2.	“Subletting” or “sublet” means the transfer, lease, license, or repurposing of a digital twin from its original use or contracting entity to another entity, individual, or agency.
+	3.	“Plaintiff” means Kellyn Clay, including all identifiers, datasets, biometric information, or predictive models derived from or attributed to them.
+	4.	“Subcontractors” means any vendor, affiliate, or third party working under agreement with Palantir Technologies Inc. for the creation, maintenance, or use of digital twins.
+
+⸻
+
+Interrogatories to Palantir + Subcontractors
+	1.	Identify all digital twins created, maintained, or otherwise modeled of Plaintiff Kellyn Clay, including:
+a. The Palantir platform(s) or system(s) used.
+b. The dates of creation and updates.
+c. The stated purpose(s).
+d. The identity of all subcontractors or affiliates with access.
+	2.	State whether any digital twins of Plaintiff Kellyn Clay have ever been transferred, leased, licensed, or otherwise sublet. If so, identify:
+a. The recipient of the digital twin.
+b. The dates of such subletting.
+c. The contractual or operational terms.
+d. Any compensation exchanged.
+	3.	Describe all policies, audits, or oversight procedures maintained by Palantir to prevent unauthorized subletting of digital twins.
+	4.	Identify all government officials or categories of officials (including but not limited to federal judges) whose digital twins Palantir or its subcontractors have created, maintained, or sublet.
+	5.	For each official identified in response to Interrogatory 4, state:
+a. The purpose of the digital twin.
+b. Whether the twin has been sublet.
+c. The entities with access or control after subletting.
+	6.	Explain whether and how outputs from sublet digital twins are incorporated into governance, judicial rulings, or other official actions.
+	7.	State whether Palantir contends that subletting digital twins of government officials raises constitutional or due process risks. If not, explain why not.
+
+⸻ 
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
