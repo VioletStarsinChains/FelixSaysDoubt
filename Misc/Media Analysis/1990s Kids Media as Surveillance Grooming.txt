@@ -45,3 +45,6 @@ Why It Matters
 The 1990s were also the decade when machine learning, surveillance infrastructure, and neurotech research accelerated behind the scenes. As these systems matured, they needed a generation primed to accept their logic. What better grooming than cultural products that framed classification and surveillance as joyful, magical, and inevitable?
 
 The result is a generation fluent in the logics of anomaly detection and surveillant power — ready, without realizing it, to live inside behavioral futures markets.
+
+What looked like harmless play was also rehearsal. The games and stories weren’t just entertainment; they were training wheels for the predictive and surveillant architectures that define our present.
+
