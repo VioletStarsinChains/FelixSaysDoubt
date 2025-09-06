@@ -1,0 +1,19 @@
+To: CIA / DoD / DOJ / DARPA / IARPA / Palantir Technologies Inc. (contractor records as applicable)
+
+Request:
+
+Requesting any and all documents, communications, technical manuals, datasets, proposals, contractor deliverables, and oversight reports related to the use of cross-species cognitive modeling and narrowing feedback loops in anomaly or “Non-Person Entity” (NPE) classification systems, from 1990 to present.
+
+This includes:
+	•	Records referencing “theriomorphological modeling,” “cross-species cognitive modeling,” “parapolitical classification,” or “animal proxies” used in human behavioral analysis or predictive modeling.
+	•	Guidelines, training materials, or definitions regarding animal-based cognitive baselines for classifying humans as “anomalies,” “out-of-distribution subjects,” or NPEs.
+	•	Risk assessments, policy memoranda, or oversight reports addressing the use of animal analogues in human experimentation, surveillance, or classification.
+	•	Contractor invoices, deliverables, or internal communications referencing “enchiridion” or “handbook”-style manuals related to animal cognition applied to anomaly modeling.
+	•	Communications between federal agencies and Palantir Technologies Inc. (or other contractors) regarding integration of cross-species datasets into anomaly detection or behavioral futures markets.
+	•	Documents, datasets, model specifications, validation studies, or update protocols reflecting the progressive narrowing of “typical” behavioral baselines in anomaly/NPE systems, including:
+• Successive model updates redefining “typical”;
+• Exclusion criteria or justifications for removing previously included individuals;
+• Analyses acknowledging feedback loops, circular reasoning, or self-reinforcing exclusion;
+• Oversight audits or reviews recognizing that such narrowing increases the pool of humans flagged as anomalies or NPEs.
+
+Keywords: theriomorphological modeling, cross-species cognition, parapolitical classification, animal proxies, Non-Person Entity, anomaly detection, out-of-distribution, predictive modeling, feedback loop, narrowing baseline, behavioral futures.
