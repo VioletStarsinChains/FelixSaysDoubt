@@ -1,0 +1,66 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+ADOBE INC.,
+a multinational software company headquartered in San Jose, California,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Interrogatory No. 1:
+Identify and describe any systems, algorithms, training datasets, contractor deliverables, or client-facing products that utilize mythological or fictional animal archetypes (including but not limited to unicorns, tanuki, gnomes, dragons, or similar figures) in connection with human behavioral analysis, anomaly detection, or Non-Person Entity (NPE) classification.
+
+Interrogatory No. 2:
+State whether Palantir has ever applied fictional animal archetypes to classify, analyze, or interpret the behavior of specific human subjects, and if so:
+	•	identify the archetype(s) applied;
+	•	the criteria used for such assignment;
+	•	the purposes for which such classifications were used;
+	•	and all clients or agencies that received or accessed the resulting data.
+
+Interrogatory No. 3:
+Describe the internal decision-making process or rationale by which mythological archetypes (such as unicorns or gnomes) were selected for use in Palantir’s cognitive modeling or anomaly detection pipelines, including whether the choice was:
+	•	symbolic or narrative;
+	•	technical or empirical;
+	•	or client-directed.
+
+Interrogatory No. 4:
+Identify all employees, contractors, or partner agencies involved in the design, implementation, or oversight of Palantir systems that incorporate fictional or mythological animal models into human data analysis.
+
+Interrogatory No. 5:
+Explain whether Palantir has ever conducted or received risk assessments, ethical reviews, or oversight audits concerning the use of mythological animal archetypes in anomaly detection or predictive modeling, and if so, identify the reviewers and provide the results.
+
+Interrogatory No. 6:
+Describe any commercial, symbolic, or narrative purpose for which Palantir has used or marketed the application of mythological archetypes (e.g., unicorns as rarity/scarcity, gnomes as trickster/underminer) in behavioral futures markets or predictive modeling contexts.
+
+⸻ 
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
