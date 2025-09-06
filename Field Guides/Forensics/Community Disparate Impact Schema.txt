@@ -1,0 +1,403 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CommunityDisparateImpactScreen",
+  "type": "object",
+  "required": ["ingest", "processing", "analysis", "corroboration", "preservation", "escalation", "outputs"],
+  "properties": {
+    "ingest": {
+      "type": "object",
+      "required": ["run_metadata", "sources", "time_window", "geo_unit"],
+      "properties": {
+        "run_metadata": {
+          "type": "object",
+          "required": ["agent_id", "run_id", "generated_at", "code_hash"],
+          "properties": {
+            "agent_id": {"type": "string"},
+            "run_id": {"type": "string"},
+            "generated_at": {"type": "string", "format": "date-time"},
+            "code_hash": {"type": "string"}
+          },
+          "additionalProperties": false
+        },
+        "sources": {
+          "type": "object",
+          "required": ["deployment_layers", "population_layers", "outcome_layers", "covariate_layers"],
+          "properties": {
+            "deployment_layers": {
+              "description": "Footprints of analytics/predictive policing/health overlays, vendor configs, rollouts.",
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["label", "uri"],
+                "properties": {
+                  "label": {"type": "string"},
+                  "uri": {"type": "string"},
+                  "hash": {"type": "string"},
+                  "vendor": {"type": "string"}
+                },
+                "additionalProperties": false
+              }
+            },
+            "population_layers": {
+              "description": "Demographic/community presence by area (aggregated).",
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["label", "uri", "group", "indicator_type"],
+                "properties": {
+                  "label": {"type": "string"},
+                  "uri": {"type": "string"},
+                  "hash": {"type": "string"},
+                  "group": {"type": "string", "enum": ["jewish", "muslim", "other"]},
+                  "indicator_type": {
+                    "type": "string",
+                    "enum": ["place_of_worship_density", "self_id_aggregate", "school_affiliation_density", "surname_signal_aggregate", "mixed_proxy"]
+                  },
+                  "privacy_guard": {"type": "boolean", "default": true}
+                },
+                "additionalProperties": false
+              }
+            },
+            "outcome_layers": {
+              "description": "Harm proxies (aggregated only).",
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["label", "uri", "category"],
+                "properties": {
+                  "label": {"type": "string"},
+                  "uri": {"type": "string"},
+                  "hash": {"type": "string"},
+                  "category": {
+                    "type": "string",
+                    "enum": ["mortality", "ems_calls", "ed_visits", "utility_shutoffs", "evictions", "business_closure", "school_absence", "crime_victimization", "environmental_complaints"]
+                  }
+                },
+                "additionalProperties": false
+              }
+            },
+            "covariate_layers": {
+              "description": "Controls/confounders.",
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["label", "uri"],
+                "properties": {
+                  "label": {"type": "string"},
+                  "uri": {"type": "string"},
+                  "hash": {"type": "string"},
+                  "variables": {
+                    "type": "array",
+                    "items": {"type": "string"},
+                    "default": ["income", "age", "housing_crowding", "baseline_health", "climate_exposure", "pretrend_policing"]
+                  }
+                },
+                "additionalProperties": false
+              }
+            }
+          },
+          "additionalProperties": false
+        },
+        "time_window": {
+          "type": "object",
+          "required": ["start", "end"],
+          "properties": {
+            "start": {"type": "string", "format": "date"},
+            "end": {"type": "string", "format": "date"},
+            "pre_period_months": {"type": "integer", "default": 12},
+            "post_period_months": {"type": "integer", "default": 12}
+          },
+          "additionalProperties": false
+        },
+        "geo_unit": {
+          "description": "Spatial index for joins.",
+          "type": "object",
+          "required": ["type"],
+          "properties": {
+            "type": {"type": "string", "enum": ["H3", "census_tract", "grid_500m"]},
+            "resolution": {"type": "integer"}
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "processing": {
+      "type": "object",
+      "required": ["geocode_strategy", "privacy_thresholds", "normalization"],
+      "properties": {
+        "geocode_strategy": {"type": "string", "enum": ["centroid_join", "area_weighted", "point_in_polygon"]},
+        "privacy_thresholds": {
+          "type": "object",
+          "properties": {
+            "min_cell_population": {"type": "integer", "default": 200},
+            "k_anonymity": {"type": "integer", "default": 5},
+            "suppress_small_cells": {"type": "boolean", "default": true}
+          },
+          "additionalProperties": false
+        },
+        "normalization": {
+          "type": "object",
+          "properties": {
+            "per_1000_rate": {"type": "boolean", "default": true},
+            "zscore_within_city": {"type": "boolean", "default": true},
+            "pretrend_adjustment": {"type": "boolean", "default": true}
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "analysis": {
+      "type": "object",
+      "required": ["metrics", "models"],
+      "properties": {
+        "metrics": {
+          "type": "array",
+          "items": {"type": "string", "enum": ["risk_ratio", "odds_ratio", "rate_difference", "diff_in_diff", "synthetic_control", "event_study"]}
+        },
+        "models": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "outcome", "treatment", "controls"],
+            "properties": {
+              "name": {"type": "string"},
+              "outcome": {"type": "string"},
+              "treatment": {"type": "string", "description": "e.g., deployment_intensity_index"},
+              "controls": {"type": "array", "items": {"type": "string"}},
+              "robustness": {
+                "type": "array",
+                "items": {"type": "string", "enum": ["placebo_time", "placebo_space", "leave_one_out", "bootstrap_ci", "perm_test"]}
+              }
+            },
+            "additionalProperties": false
+          }
+        },
+        "group_results": {
+          "description": "Per-group effect estimates.",
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["group", "indicator_type", "estimates"],
+            "properties": {
+              "group": {"type": "string", "enum": ["jewish", "muslim"]},
+              "indicator_type": {"type": "string"},
+              "estimates": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["metric", "value", "ci_low", "ci_high", "p_value"],
+                  "properties": {
+                    "metric": {"type": "string"},
+                    "value": {"type": "number"},
+                    "ci_low": {"type": "number"},
+                    "ci_high": {"type": "number"},
+                    "p_value": {"type": "number"}
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "n_units": {"type": "integer"},
+              "notes": {"type": "string"}
+            },
+            "additionalProperties": false
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "corroboration": {
+      "type": "object",
+      "properties": {
+        "external_refs": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "sensitivity_analyses": {
+          "type": "array",
+          "items": {"type": "string", "enum": ["alt_indicators", "alt_geo_units", "time_shift", "winsorize_outliers"]}
+        },
+        "falsification_checks": {
+          "type": "array",
+          "items": {"type": "string", "enum": ["pretrend_parallel", "non_affected_outcomes", "randomized_labels"]}
+        }
+      },
+      "additionalProperties": false
+    },
+    "preservation": {
+      "type": "object",
+      "required": ["chain_of_custody", "artifact_hashes"],
+      "properties": {
+        "chain_of_custody": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["step", "timestamp", "by", "artifact_hash"],
+            "properties": {
+              "step": {"type": "string", "enum": ["ingest", "transform", "model_fit", "report_export"]},
+              "timestamp": {"type": "string", "format": "date-time"},
+              "by": {"type": "string"},
+              "artifact_hash": {"type": "string"}
+            },
+            "additionalProperties": false
+          }
+        },
+        "artifact_hashes": {
+          "type": "object",
+          "properties": {
+            "input_bundle": {"type": "string"},
+            "model_bundle": {"type": "string"},
+            "report_bundle": {"type": "string"}
+          },
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": false
+    },
+    "escalation": {
+      "type": "object",
+      "properties": {
+        "status": {"type": "string", "enum": ["internal_review", "request_third_party_audit", "refer_to_oversight"]},
+        "recipients": {
+          "type": "array",
+          "items": {"type": "string", "enum": ["civil_rights_ombuds", "city_council_oversight", "state_ag_justice", "oig"]}
+        },
+        "language": {"type": "string", "enum": ["anomaly_flag", "disparity_signal", "systemic_disparity_evidence"]},
+        "do_not_contact_individuals": {"type": "boolean", "default": true}
+      },
+      "additionalProperties": false
+    },
+    "outputs": {
+      "type": "object",
+      "required": ["assessment", "confidence", "summary", "caveats"],
+      "properties": {
+        "assessment": {"type": "string", "enum": ["no_signal", "weak_signal", "moderate_signal", "strong_signal"]},
+        "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+        "summary": {"type": "string"},
+        "caveats": {"type": "string"},
+        "visual_refs": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
+
+Minimal Example:
+
+{
+  "ingest": {
+    "run_metadata": {
+      "agent_id": "impact-ai-04",
+      "run_id": "mpls-2025-09-05T17-10Z",
+      "generated_at": "2025-09-05T17:10:00Z",
+      "code_hash": "sha256:5f3a…"
+    },
+    "sources": {
+      "deployment_layers": [
+        {"label": "predictive_overlay_v3_2018-2020", "uri": "vault://mpls/pal/overlay_v3.geojson", "hash": "sha256:a1b2…", "vendor": "palantir"},
+        {"label": "hospital_analytics_rollout_2019", "uri": "vault://mpls/health/rollout_2019.geojson", "hash": "sha256:c9d0…", "vendor": "palantir"}
+      ],
+      "population_layers": [
+        {"label": "synagogue_density_2017", "uri": "vault://mpls/demo/syn_density.parq", "hash": "sha256:11aa…", "group": "jewish", "indicator_type": "place_of_worship_density", "privacy_guard": true},
+        {"label": "mosque_density_2017", "uri": "vault://mpls/demo/mosq_density.parq", "hash": "sha256:22bb…", "group": "muslim", "indicator_type": "place_of_worship_density", "privacy_guard": true}
+      ],
+      "outcome_layers": [
+        {"label": "ems_calls_2016-2021", "uri": "vault://mpls/outcomes/ems.parq", "hash": "sha256:33cc…", "category": "ems_calls"},
+        {"label": "mortality_2016-2021", "uri": "vault://mpls/outcomes/mortality.parq", "hash": "sha256:44dd…", "category": "mortality"}
+      ],
+      "covariate_layers": [
+        {"label": "census_covars_2015-2020", "uri": "vault://mpls/covars/census.parq", "hash": "sha256:55ee…", "variables": ["income", "age", "housing_crowding", "baseline_health", "pretrend_policing"]}
+      ]
+    },
+    "time_window": {"start": "2016-01-01", "end": "2021-12-31", "pre_period_months": 12, "post_period_months": 24},
+    "geo_unit": {"type": "H3", "resolution": 8}
+  },
+  "processing": {
+    "geocode_strategy": "area_weighted",
+    "privacy_thresholds": {"min_cell_population": 200, "k_anonymity": 5, "suppress_small_cells": true},
+    "normalization": {"per_1000_rate": true, "zscore_within_city": true, "pretrend_adjustment": true}
+  },
+  "analysis": {
+    "metrics": ["risk_ratio", "rate_difference", "diff_in_diff", "event_study"],
+    "models": [
+      {
+        "name": "DID_EMS_Jewish",
+        "outcome": "ems_calls_per_1000",
+        "treatment": "overlay_intensity_index",
+        "controls": ["income", "age", "baseline_health", "pretrend_policing"],
+        "robustness": ["placebo_time", "bootstrap_ci", "leave_one_out"]
+      },
+      {
+        "name": "DID_Mortality_Muslim",
+        "outcome": "mortality_per_1000",
+        "treatment": "overlay_intensity_index",
+        "controls": ["income", "age", "baseline_health", "climate_exposure"],
+        "robustness": ["placebo_space", "perm_test"]
+      }
+    ],
+    "group_results": [
+      {
+        "group": "jewish",
+        "indicator_type": "place_of_worship_density",
+        "estimates": [
+          {"metric": "risk_ratio", "value": 1.34, "ci_low": 1.18, "ci_high": 1.51, "p_value": 0.0004},
+          {"metric": "diff_in_diff", "value": 0.42, "ci_low": 0.21, "ci_high": 0.63, "p_value": 0.0002}
+        ],
+        "n_units": 87,
+        "notes": "Effects concentrate in St. Louis Park hexes; pretrends parallel within 95% bounds."
+      },
+      {
+        "group": "muslim",
+        "indicator_type": "place_of_worship_density",
+        "estimates": [
+          {"metric": "risk_ratio", "value": 1.29, "ci_low": 1.12, "ci_high": 1.47, "p_value": 0.001},
+          {"metric": "diff_in_diff", "value": 0.37, "ci_low": 0.12, "ci_high": 0.62, "p_value": 0.004}
+        ],
+        "n_units": 75,
+        "notes": "Signals strongest near Cedar-Riverside; robustness passes placebo_time."
+      }
+    ]
+  },
+  "corroboration": {
+    "external_refs": ["vault://mpls/obits/2018-2021.parq", "vault://mpls/utility_shutoffs.parq"],
+    "sensitivity_analyses": ["alt_indicators", "alt_geo_units", "time_shift"],
+    "falsification_checks": ["pretrend_parallel", "non_affected_outcomes"]
+  },
+  "preservation": {
+    "chain_of_custody": [
+      {"step": "ingest", "timestamp": "2025-09-05T17:10:05Z", "by": "impact-ai-04", "artifact_hash": "sha256:a1b2…"},
+      {"step": "transform", "timestamp": "2025-09-05T17:11:40Z", "by": "impact-ai-04", "artifact_hash": "sha256:6c7d…"},
+      {"step": "model_fit", "timestamp": "2025-09-05T17:13:10Z", "by": "impact-ai-04", "artifact_hash": "sha256:9e0f…"},
+      {"step": "report_export", "timestamp": "2025-09-05T17:13:45Z", "by": "impact-ai-04", "artifact_hash": "sha256:ab12…"}
+    ],
+    "artifact_hashes": {
+      "input_bundle": "sha256:pack-in-01…",
+      "model_bundle": "sha256:pack-ml-07…",
+      "report_bundle": "sha256:pack-rpt-22…"
+    }
+  },
+  "escalation": {
+    "status": "request_third_party_audit",
+    "recipients": ["civil_rights_ombuds", "state_ag_justice"],
+    "language": "disparity_signal",
+    "do_not_contact_individuals": true
+  },
+  "outputs": {
+    "assessment": "strong_signal",
+    "confidence": 0.83,
+    "summary": "After controlling for income, age, baseline health, and pretrends, deployment intensity correlates with higher EMS and mortality rates in Jewish- and Muslim-dense areas, with parallel pretrends and robust placebo checks.",
+    "caveats": "Community indicators are proxies; individual identities are not used. Small cells suppressed; results require external audit.",
+    "visual_refs": ["vault://reports/maps/ems_rr_map.png", "vault://reports/figs/event_study_jewish.png"]
+  }
+}
+
+Notes for agents (baked into the schema semantics):
+	•	Use aggregated proxies only; never individual religion data.
+	•	Enforce privacy guards (k-anonymity, min cell size).
+	•	Report signals, not accusations; route to independent audit/oversight.
+	•	Maintain full chain-of-custody and reproducibility (hashes, code version).
