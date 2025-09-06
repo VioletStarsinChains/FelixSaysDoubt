@@ -1,0 +1,25 @@
+Two Applications of Cross-Species Cognitive Modeling
+
+	1.	Inductive Modeling (Induced Alignment):
+	•	Definition: The deliberate application of external inputs (chemical, electromagnetic, sensory, environmental, etc.) to cause a human subject to exhibit behaviors more consistent with an animal model.
+	•	Analogy: Like giving a drug to a lab rat to induce symptoms of Parkinson’s, except here the human is the rat, and the “desired state” is one pre-defined by an animal template.
+	•	Key Legal Hook: This is essentially experimentation / manipulation — changing the subject’s state to make them fit a model.
+	2.	Deductive Modeling (Analytical Comparison):
+	•	Definition: The use of animal models as interpretive baselines for analyzing human behavioral data. The human’s raw behavior is not altered, but the analysis treats them as if they were, for example, a rabbit, crow, or octopus.
+	•	Analogy: Like comparing a human chess player’s moves to a computer simulation of chimpanzee pattern-recognition — it doesn’t change the human, but it reframes the data through a nonhuman lens.
+	•	Key Legal Hook: This is essentially classification / discrimination — interpreting the subject as less-than-human in order to justify exclusion.
+
+⸻
+
+Suggested Terminology
+	•	Inductive Alignment (input-based): forcing the human into animal-like states.
+	•	Deductive Comparison (analysis-based): interpreting the human as if they were an animal.
+
+Or, if you want simpler courtroom phrasing:
+	•	“Induction” vs. “Interpretation.”
+	•	“Behavioral shaping” vs. “Behavioral reading.”
+	•	“Manipulation” vs. “Classification.”
+
+⸻
+
+The first is active manipulation (experiment), the second is biased interpretation (discrimination).
