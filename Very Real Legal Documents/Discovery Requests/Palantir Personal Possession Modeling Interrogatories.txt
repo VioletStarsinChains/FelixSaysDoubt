@@ -74,6 +74,15 @@ Pursuant to Rule 33 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Cl
 	•	State whether Palantir is aware of, authorizes, or condones any practice in which individuals engaged in surveillance, modeling, or anomaly detection (“surveillants”) come into personal possession of physical artifacts belonging to the persons they surveil (“anomalies”), whether through confiscation, appropriation, theft, forced relinquishment (such as eviction or storage loss), or other means.
 	•	For any such practice, identify the purpose of retaining these artifacts, the policies governing their handling, and whether they are ever used as training data, reference material, or trophies within Palantir systems or affiliated programs.
 
+12. Seeded Objects and Employee Tracking
+	•	State whether Palantir, its employees, or its contractors have ever used location-tracking applications or route-management software to monitor the real-time movements of individuals engaged in door-to-door employment or canvassing activities.
+	•	Further state whether such tracking data has ever been combined with the placement of objects (including but not limited to toys, stuffed animals, or household items) along those routes, with the purpose of testing, monitoring, or influencing the targeted individual.
+	•	For any such program or pilot project, identify:
+(a) the time frame and geographic location;
+(b) the contractors, subcontractors, or affiliates involved;
+(c) the categories of objects used; and
+(d) the intended behavioral, physiological, or anomaly-detection outcomes.
+
 ⸻ 
 
 Respectfully submitted,
