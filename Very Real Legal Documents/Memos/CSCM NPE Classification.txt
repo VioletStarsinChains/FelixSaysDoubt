@@ -1,0 +1,81 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+ADOBE INC.,
+a multinational software company headquartered in San Jose, California,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻ 
+
+MEMORANDUM OF LAW
+Re: Circular Reasoning and Unlawful Exclusion in Anomaly / NPE Classification Systems
+
+I. Introduction
+This memorandum addresses the structural defect inherent in anomaly and “Non-Person Entity” (NPE) classification systems operated or contracted by the United States and affiliated private entities. Specifically, it identifies how the reliance on artificially restricted models of “typical” behavior, coupled with the exclusion of individuals who diverge from those models, creates a circular feedback loop that is scientifically invalid, discriminatory, and legally actionable.
+
+⸻
+
+II. The Circular Reasoning Problem
+	1.	The system defines a baseline of “typical” behavior using predictive models.
+	2.	Any individual who diverges from this artificially restricted baseline is flagged as “anomaly” or NPE.
+	3.	Those flagged individuals are then excluded from the predictive dataset and treated as “parapolitical” (beyond politics, beyond citizenship).
+	4.	The exclusion narrows the model still further, ensuring that more individuals will subsequently be flagged as anomalous.
+
+This is circular reasoning: the system generates exclusionary results not because of any objective scientific necessity, but because of its own self-reinforcing design.
+
+⸻
+
+III. Legal Implications
+
+A. Civil Rights Violations
+	•	By systematically redefining “typical” in a manner that disenfranchises non-conforming individuals, the system effectively strips protected persons of their rights under the Constitution and federal law.
+	•	This constitutes discrimination on the basis of disability, neurological variance, or other protected characteristics in violation of the Americans with Disabilities Act (ADA), Section 504 of the Rehabilitation Act, and the Equal Protection Clause.
+
+B. Fraud and Misrepresentation
+	•	Representing these systems as neutral or scientifically valid while knowingly operating on circular reasoning constitutes material misrepresentation.
+	•	Government contractors who profit from such systems may be liable under the False Claims Act (31 U.S.C. §§ 3729–3733).
+
+C. Negligence and Gross Negligence
+	•	Designing a system that predictably produces discriminatory outcomes through narrowing feedback loops is a breach of the duty of care owed to individuals affected.
+
+D. Intentional Infliction of Emotional Distress (Tort of Outrage)
+	•	Covertly classifying individuals as “non-persons” and subjecting them to differential treatment causes severe emotional and dignitary harms.
+
+E. Criminal Liability
+	•	Deprivation of rights under color of law (18 U.S.C. § 242).
+	•	Human subjects research violations under the Common Rule and Belmont Report principles.
+	•	Potential racketeering (RICO) exposure if multiple entities coordinate in furtherance of systemic exclusion.
+
+⸻
+
+IV. Conclusion
+The reliance on self-reinforcing exclusionary logic renders anomaly/NPE classification systems not only scientifically invalid but also legally indefensible. The circularity ensures predictable, discriminatory harm to an expanding class of individuals. Courts should scrutinize such systems under heightened standards, compel discovery of all related records, and hold defendants liable for the tortious and unconstitutional exclusion of protected persons from the political and civic domain.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
