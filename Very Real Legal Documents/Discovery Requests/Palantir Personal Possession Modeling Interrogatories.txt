@@ -1,0 +1,80 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+ADOBE INC.,
+a multinational software company headquartered in San Jose, California,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Pursuant to Rule 33 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay hereby propounds the following interrogatories to be answered fully, under oath, by Defendant Palantir Technologies Inc. within the time prescribed by the Rules:
+
+	1.	Possessions as Data Inputs
+	•	Identify all Palantir products, modules, or analytic frameworks that incorporate an individual’s personal possessions (including but not limited to household belongings, discarded items, confiscated property, or seized evidence) as variables in anomaly detection or behavioral modeling.
+
+	2.	Data Sources
+	•	Describe all categories of data sources from which Palantir has obtained or ingested information about personal property, including but not limited to waste management contractors, law enforcement agencies, eviction services, housing authorities, estate cleanouts, or donation centers.
+
+	3.	Feature Extraction
+	•	Explain in detail how Palantir systems transform records of personal possessions into analytic features, categories, or risk indicators. Include whether belongings are used to infer socioeconomic status, psychological profile, health status, political affiliation, or anomaly classification.
+
+	4.	Chain of Custody
+	•	Identify and describe all contractual or data-sharing relationships Palantir has maintained with private-sector or governmental entities that collect, transport, or dispose of personal property following eviction, death, incarceration, or hospitalization.
+
+	5.	Predictive Use
+	•	State whether Palantir has ever used data on personal possessions to:
+(a) predict attrition risk, including likelihood of death, disappearance, or homelessness;
+(b) generate anomaly labels or anomaly risk scores;
+(c) target individuals for surveillance, containment, or exclusion.
+
+	6.	Internal Guidance
+	•	Produce or describe any internal guidance documents, policy memoranda, or training materials discussing the evidentiary value or analytic application of personal property in anomaly detection.
+
+	7.	Testing and Validation
+	•	Identify all validation studies, pilot projects, or research collaborations in which Palantir evaluated the use of personal possessions as predictive indicators. For each, provide the sponsoring agency, time frame, and outcome measures.
+
+	8.	Privacy and Consent
+	•	State whether Palantir has implemented any procedures to ensure that individuals are notified or asked for consent when their personal belongings are ingested into Palantir systems for analytic purposes. If no such procedures exist, explain why.
+
+	9.	Retention and Disposal
+	•	Describe Palantir’s policies regarding the retention, anonymization, or disposal of data derived from personal possessions.
+
+	10.	Specific Knowledge of Plaintiff’s Property
+	•	State whether Palantir has ever received, ingested, or processed any information related to the personal belongings of Plaintiff Kellyn Clay, including items discarded from the Clay family residence in Arkansas between 2010–2016.
+
+11. Surveillant Possession of Artifacts
+	•	State whether Palantir is aware of, authorizes, or condones any practice in which individuals engaged in surveillance, modeling, or anomaly detection (“surveillants”) come into personal possession of physical artifacts belonging to the persons they surveil (“anomalies”), whether through confiscation, appropriation, theft, forced relinquishment (such as eviction or storage loss), or other means.
+	•	For any such practice, identify the purpose of retaining these artifacts, the policies governing their handling, and whether they are ever used as training data, reference material, or trophies within Palantir systems or affiliated programs.
+
+⸻ 
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
