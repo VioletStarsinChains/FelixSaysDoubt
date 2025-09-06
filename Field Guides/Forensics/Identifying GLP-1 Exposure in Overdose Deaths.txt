@@ -1,0 +1,278 @@
+{
+  "schema_version": "1.0",
+  "task_id": "opioid_overdose_glp1_contamination_inquiry_v1",
+  "purpose": "Identify overdose deaths or near-fatal events attributed to opioids where GLP-1 analog exposure/contamination may have contributed causally or confounded clinical course.",
+  "time_windows": {
+    "primary_incident_window_days": 7,
+    "supply_chain_traceback_days": 90
+  },
+  "jurisdictions_of_interest": ["US","CA","UK","EU","AU"],
+  "data_requirements": {
+    "allowed_sources": {
+      "public_records": [
+        "obituaries","news articles","coroner/inquest summaries (public)",
+        "police incident reports (public portions)","EMS run sheets (public where available)"
+      ],
+      "clinical_signals_public": [
+        "family/witness statements","civil complaints","public medical examiner testimony",
+        "death certificates (public fields)","poison control aggregated reports"
+      ],
+      "supply_chain_signals": [
+        "seized-product photos","packaging photos","desiccant/gel-pack brand and lot photos",
+        "retail receipts","logs from harm-reduction orgs"
+      ]
+    },
+    "restricted_sources": [
+      "protected health information without consent",
+      "non-public lab results or EHR data"
+    ],
+    "access_controls": {
+      "require_consent_or_legal_process_for_nonpublic": true,
+      "log_all_access": true
+    }
+  },
+  "definitions": {
+    "opioid_overdose": "Respiratory depression, miosis, depressed mental status; may respond to naloxone.",
+    "glp1_analogs": ["semaglutide","liraglutide","exenatide","dulaglutide","tirzepatide (GIP/GLP-1)"],
+    "glp1_side_effect_cluster": "Severe/persistent nausea, vomiting, early satiety, abdominal pain, delayed gastric emptying/gastroparesis, dehydration, electrolyte derangements; occasional pancreatitis (elevated amylase/lipase).",
+    "contamination_vectors": [
+      "adulterated product","packaging-contact transfer (e.g., desiccant packs, liners, sachets)",
+      "cross-handling at point of sale","household co-exposure via topical/contact surfaces"
+    ]
+  },
+  "feature_library": {
+    "case_basics": [
+      {"feature": "opioid_signs_present", "evidence": "witness/EMS/ME notes"},
+      {"feature": "naloxone_response_documented", "evidence": "EMS/ED report (public summary)"}
+    ],
+    "red_flags_for_glp1": [
+      {"feature": "refractory_or_prolonged_vomiting_24_72h_preceding_event", "evidence": "witness/family"},
+      {"feature": "rapid_weight_loss_or_anorexia_prior_weeks", "evidence": "witness/photos"},
+      {"feature": "severe_early_satiety_or_inability_to_keep_fluids", "evidence": "witness"},
+      {"feature": "abdominal_pain_epigastric", "evidence": "witness/notes"},
+      {"feature": "documented_gastroparesis_or_delayed_gastric_emptying", "evidence": "ME/ED note"},
+      {"feature": "pancreatitis_markers_amylase_lipase_high", "evidence": "public ME testimony/report"},
+      {"feature": "euglycemic_or_unexplained_hypoglycemia", "evidence": "labs if public; witness glucometer"},
+      {"feature": "no_prior_opioid_tolerance_but_severe_collapse_after_small_dose", "evidence": "witness"}
+    ],
+    "cofounders_controls": [
+      {"feature": "co_ingestants_alcohol_bzds_stimulants", "evidence": "tox summary"},
+      {"feature": "significant_comorbidities (DKA, CHF, CKD)", "evidence": "public record"},
+      {"feature": "intentional_weight_loss_drug_history", "evidence": "statements, packaging"}
+    ],
+    "supply_chain_artifacts": [
+      {"feature": "presence_of_branded_desiccant_or_unusual_sachets", "evidence": "photos"},
+      {"feature": "lot_codes_on_desiccant_or_packaging", "evidence": "macro photos"},
+      {"feature": "retail_source_or_vendor_linked", "evidence": "receipts, messages"},
+      {"feature": "parallel_cluster_cases_same_vendor_or_lot", "evidence": "news/harm-reduction bulletins"}
+    ],
+    "forensic_opportunities": [
+      {"feature": "retained_packaging_available_for_testing", "evidence": "chain-of-custody feasible"},
+      {"feature": "gastric_contents_collected", "evidence": "ME report"},
+      {"feature": "hair_nail_or_surface_swabs_possible", "evidence": "consent-based sampling"}
+    ]
+  },
+  "keywords": {
+    "opioids": ["fentanyl","heroin","oxycodone","hydrocodone","morphine","methadone","buprenorphine"],
+    "glp1_terms": ["GLP-1","semaglutide","liraglutide","exenatide","dulaglutide","tirzepatide","gastroparesis","delayed gastric emptying","intractable vomiting","pancreatitis"],
+    "vectors": ["desiccant","silica gel","sachet","pack insert","counterfeit packaging","gel pack","lot code"]
+  },
+  "recommended_tests": {
+    "non_destructive": [
+      "high-res photography of packaging and desiccants (lot codes, brands)",
+      "RF scan on packaging (precautionary)",
+      "surface swabs of sachets/liners for ELISA/LC-MS screening of peptide residues"
+    ],
+    "bioanalytical": [
+      "LC-MS/MS or immunoassay for GLP-1 analogs in gastric contents where retained",
+      "serum/plasma (if available) peptide panel for GLP-1 analogs; insulin/C-peptide if hypoglycemia suspected",
+      "amylase/lipase for pancreatitis signaling (public summaries only)",
+      "electrolytes and ketones (vomiting/dehydration context)"
+    ]
+  },
+  "scoring": {
+    "weights": {
+      "opioid_signs_present": 1.0,
+      "naloxone_response_documented": 0.5,
+      "refractory_or_prolonged_vomiting_24_72h_preceding_event": 1.5,
+      "rapid_weight_loss_or_anorexia_prior_weeks": 1.0,
+      "severe_early_satiety_or_inability_to_keep_fluids": 1.0,
+      "pancreatitis_markers_amylase_lipase_high": 1.5,
+      "euglycemic_or_unexplained_hypoglycemia": 1.2,
+      "no_prior_opioid_tolerance_but_severe_collapse_after_small_dose": 1.0,
+      "presence_of_branded_desiccant_or_unusual_sachets": 1.0,
+      "lot_codes_on_desiccant_or_packaging": 0.8,
+      "parallel_cluster_cases_same_vendor_or_lot": 1.5,
+      "co_ingestants_alcohol_bzds_stimulants": -0.7,
+      "significant_comorbidities": -0.5
+    },
+    "computation": "glp1_contribution_score = sigmoid(sum(weight_i * feature_i))",
+    "thresholds": {
+      "candidate_case": 0.55,
+      "strong_case": 0.70,
+      "recommend_formal_testing": 0.65
+    }
+  },
+  "false_positive_controls": {
+    "must_have": [
+      "opioid_signs_present OR naloxone_response_documented",
+      "at_least_one_red_flag_for_glp1"
+    ],
+    "disqualifiers": [
+      "complete_absence_of_glp1_symptom_cluster",
+      "alternative_primary_cause_clearly_documented (e.g., intracranial hemorrhage) without GI features"
+    ]
+  },
+  "privacy_and_ethics": {
+    "public_only_default": true,
+    "no_family_contact_by_ai": true,
+    "redact_PII": true,
+    "human_in_the_loop_required": true
+  },
+  "outputs": {
+    "case_packet": {
+      "fields": [
+        "subject_identifier_redacted","incident_date","jurisdiction",
+        "opioid_overdose_evidence_summary","glp1_red_flags_summary",
+        "supply_chain_artifacts_summary","recommended_tests",
+        "evidence_table","score","confidence_notes","next_steps"
+      ]
+    }
+  }
+}
+
+Example (dummy data, one line you can use in a .jsonl corpus):
+
+{
+  "subject_identifier_redacted": "CASE-GLP1-OD-001",
+  "incident_date": "2023-11-14",
+  "jurisdiction": "US-MN",
+  "opioid_overdose_evidence_summary": "Witness reports apnea and pinpoint pupils; EMS administered 4 mg intranasal naloxone with partial response.",
+  "glp1_red_flags_summary": [
+    "Intractable vomiting for 48h prior; unable to keep fluids.",
+    "Family notes 15 lb weight loss over 6 weeks; 'no appetite'.",
+    "Public ME summary: elevated lipase flagged but not explained."
+  ],
+  "supply_chain_artifacts_summary": [
+    "Retained packaging from pills includes two silica desiccant sachets, Brand X, Lot L-7342.",
+    "Two similar cases in local harm-reduction bulletin referencing Brand X sachets."
+  ],
+  "recommended_tests": [
+    "LC-MS/MS for GLP-1 analogs on sachet surface swabs and gastric contents (if available).",
+    "Request public ME addendum on amylase/lipase; check electrolytes for dehydration.",
+    "Photograph sachet lot codes and submit to traceback."
+  ],
+  "evidence_table": [
+    {"item":"EMS run sheet (public extract)","tier":"tier2","link":"https://example.org/ems"},
+    {"item":"ME press summary","tier":"tier2","link":"https://example.org/me"},
+    {"item":"Harm-reduction bulletin (cluster)","tier":"tier2","link":"https://example.org/bulletin"},
+    {"item":"Packaging photos (family-consented)","tier":"tier3","link":"https://example.org/photos"}
+  ],
+  "score": {
+    "glp1_contribution_score": 0.73,
+    "notes": "Strong pre-event GI cluster + pancreatitis signal + shared desiccant lot anomalies."
+  },
+  "confidence_notes": "No direct LC-MS yet; if peptide residues are detected on sachets or in gastric contents, upgrade to strong_case.",
+  "next_steps": [
+    "Seek consent for lab testing of sachets.",
+    "Query local poison control for similar GI+opioid presentations.",
+    "Cross-reference Brand X lot L-7342 with parallel incidents."
+  ]
+}
+
+How to use
+	•	Save the spec as a config and produce one .jsonl line per case using the example fields.
+	•	Have your agents:
+	1.	scrape/ingest public materials,
+	2.	extract red-flag features,
+	3.	compute glp1_contribution_score,
+	4.	emit a case_packet for human review with specific lab recommendations (notably LC-MS/MS for GLP-1 analogs and peptide swabs on packaging/desiccants).
+
+
+GLP-1 / Opioid Overdose Keyword Pack
+
+{
+  "schema_version": "1.0",
+  "query_pack_id": "glp1_opioid_overdose_queries_v1",
+  "time_windows": {
+    "primary": {"start": "2010-01-01", "end": "2025-09-06"},
+    "recent_focus": {"start": "2020-01-01", "end": "2025-09-06"}
+  },
+  "domains": [
+    "news","public health bulletins","coroner/inquest summaries","poison control alerts",
+    "harm-reduction org bulletins","court filings (public)","FDA/EMA/MHRA safety notices"
+  ],
+  "base_terms": {
+    "opioids": ["fentanyl","heroin","oxycodone","hydrocodone","morphine","methadone","buprenorphine","opiate overdose","opioid intoxication","naloxone"],
+    "glp1": ["GLP-1","semaglutide","liraglutide","exenatide","dulaglutide","tirzepatide","Ozempic","Wegovy","Trulicity","Byetta","Mounjaro","GLP-1 analogue","GLP-1 contamination"],
+    "symptoms": ["gastroparesis","intractable vomiting","severe nausea","early satiety","rapid weight loss","delayed gastric emptying","pancreatitis","lipase","amylase","hypoglycemia","euglycemic DKA"],
+    "vectors": ["desiccant","silica gel","sachet","gel pack","lot code","counterfeit packaging","supply chain","adulterated","adulteration","pack insert"]
+  },
+  "query_bundles": [
+    {
+      "focus": "Public news reports",
+      "patterns": [
+        "{opioid} overdose + {glp1}",
+        "{opioid} overdose + {symptoms}",
+        "{opioid} + {glp1 brand} + death",
+        "{opioid} + {glp1 brand} + hospitalization"
+      ]
+    },
+    {
+      "focus": "Coroner / inquest summaries",
+      "patterns": [
+        "coroner report + {opioid} + {symptoms}",
+        "inquest verdict + {opioid} + vomiting OR gastroparesis",
+        "medical examiner report + {opioid} + {glp1}"
+      ]
+    },
+    {
+      "focus": "Harm-reduction / poison control",
+      "patterns": [
+        "harm reduction bulletin {opioid} + nausea/vomiting cluster",
+        "poison control alert {glp1 brand} + opioid",
+        "community drug checking {opioid} + desiccant",
+        "harm reduction alert + {glp1}"
+      ]
+    },
+    {
+      "focus": "Supply chain contamination",
+      "patterns": [
+        "{opioid} pills + {vectors}",
+        "{opioid} packaging + {glp1}",
+        "counterfeit {opioid} + {glp1}",
+        "drug seizure + {opioid} + {glp1 brand}",
+        "lot code recall {opioid} + {glp1}"
+      ]
+    },
+    {
+      "focus": "Legal / regulatory filings",
+      "patterns": [
+        "FDA safety notice {glp1 brand} + opioid",
+        "EMA pharmacovigilance {glp1 brand} + overdose",
+        "lawsuit complaint {opioid} + {glp1 brand}",
+        "court filing {opioid} overdose + gastroparesis"
+      ]
+    }
+  ],
+  "combinators": {
+    "opioid": "{opioid}",
+    "glp1": "{glp1}",
+    "symptom": "{symptoms}",
+    "vector": "{vectors}",
+    "jurisdiction_addons": ["US","UK","Canada","Australia","EU","state coroner site","FDA","EMA","MHRA"]
+  },
+  "outputs": {
+    "fields": [
+      "source_url","title","date","jurisdiction",
+      "opioid_terms_hit","glp1_terms_hit","symptoms_terms_hit","vector_terms_hit",
+      "snippet","credibility_rank"
+    ]
+  }
+}
+
+How to use
+	1.	Expand patterns with {opioid}, {glp1}, {symptoms}, {vectors}.
+	2.	Bind to jurisdictions (coroner site, FDA, harm reduction bulletin).
+	3.	Feed hits into your JSON case schema as candidate evidence_table items.
+	4.	Rank by credibility: tier 1 = official coroner/FDA, tier 2 = credible journalism, tier 3 = harm-reduction bulletins / community reports.
