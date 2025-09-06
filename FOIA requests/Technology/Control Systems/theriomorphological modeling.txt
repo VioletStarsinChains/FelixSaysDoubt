@@ -1,0 +1,22 @@
+To: CIA / DoD / DARPA / IARPA / Office of Naval Research / Department of Justice
+
+Request:
+
+Requesting any and all contracts, memoranda of understanding, research collaborations, data-sharing agreements, grant proposals, reports, or communications between the United States Government (and its contractors) and the following institutions from 2005 to present, relating to anomaly detection, out-of-distribution modeling, cross-species cognition, or Non-Person Entity (NPE) classification:
+	•	Helmholtz Center, Institute for Human-Centered AI (Munich, Germany)
+	•	Max Planck Institute for Biological Cybernetics (Tübingen, Germany)
+	•	Max Planck Institute for Human Development (Berlin, Germany)
+	•	Max Planck School of Cognition (Leipzig, Germany)
+	•	University of Tübingen, Cluster of Excellence / Cyber Valley initiative
+	•	German Research Center for Artificial Intelligence (DFKI)
+	•	Fraunhofer Society, IAIS (Intelligent Analysis and Information Systems)
+
+This includes:
+	•	Contracts, agreements, or joint projects concerning anomaly detection, out-of-distribution recognition, or behavioral prediction systems.
+	•	Technical manuals, datasets, or training materials exchanged between U.S. agencies/contractors and the above institutions.
+	•	Records of workshops, conferences, or consortia in which anomaly/NPE classification was discussed in collaboration with these institutions.
+	•	Communications referencing the application of cross-species cognitive models or mythological archetypes (e.g., unicorn, gnome, tanuki) in the context of anomaly detection.
+	•	Oversight reports or risk assessments acknowledging ethical or legal concerns regarding such collaborations.
+
+Keywords: anomaly detection, out-of-distribution, Non-Person Entity, NPE classification, Helmholtz AI, Max Planck, Tübingen, Cyber Valley, cross-species cognition, theriomorphological modeling, behavioral futures, technophrenology.
+
