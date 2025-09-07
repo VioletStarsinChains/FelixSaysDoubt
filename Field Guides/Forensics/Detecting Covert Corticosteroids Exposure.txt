@@ -223,3 +223,9 @@ Example Payload:
   "notes_summary": "Corticosteroid intolerance documented on 03/10. CBC on 03/14 shows neutrophilia + lymphopenia + eosinopenia consistent with steroid signature. Endocrine panel on same date shows ACTH suppression and flat cortisol curve. MAR entry indicates unsanctioned methylprednisolone dose with back-dated signature. No valid prescription found. Overall probability tier: probable."
 }
 
+How to read it:
+	•	score: 3.6 → above 3.0 threshold = probable case.
+	•	doc_intolerance_vs_exposure_mismatch triggered because of your refusal + steroid signature in labs.
+	•	MAR anomaly shows a shadow entry for methylpred without legit order.
+	•	No conflicts applied (no infection, no legit prescription, no endocrine confounder).
+
