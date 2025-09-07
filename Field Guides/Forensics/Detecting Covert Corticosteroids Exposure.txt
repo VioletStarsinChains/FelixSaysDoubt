@@ -1,0 +1,225 @@
+Here’s a compact, plug-and-play JSON spec for AI agents to detect possible covert corticosteroid dosing in EHR/PHI-adjacent datasets. It encodes signals, thresholds, cross-checks, and a confidence score. You can feed it structured data or map free-text via your own NLP layer.
+
+⸻ 
+
+{
+  "spec_version": "1.0",
+  "task": "detect_covert_corticosteroid_exposure",
+  "privacy_notice": "Use only with proper authorization. Minimize PHI movement and log all access.",
+  "inputs": {
+    "patient_core": ["patient_id", "dob", "sex", "known_allergies", "documented_intolerances", "problem_list"],
+    "encounters": ["encounter_id", "start_ts", "end_ts", "location", "presenting_complaint"],
+    "labs": [
+      "ts", "panel_type", "analyte", "value", "units", "ref_range_low", "ref_range_high"
+    ],
+    "endocrine": [
+      "ts", "ACTH", "cortisol_AM", "cortisol_PM", "dexamethasone_suppression_result", "notes"
+    ],
+    "cbc": [
+      "ts", "wbc", "neutrophils_abs", "lymphocytes_abs", "eosinophils_abs", "notes"
+    ],
+    "cmp": [
+      "ts", "sodium", "potassium", "bicarbonate_CO2", "glucose", "creatinine", "ALT", "AST", "lipids_present"
+    ],
+    "pharmacy": ["ts", "drug_name", "route", "dose", "days_supply", "prescriber_id", "dispensed", "claim_source"],
+    "med_admin_mar": ["ts", "drug_name", "route", "dose", "ordering_provider", "signed_by", "location"],
+    "med_list_active": ["ts", "drug_name", "route", "dose", "status"],
+    "notes": ["ts", "author_role", "note_text"],
+    "ehr_access_logs": ["ts", "user_id", "dept", "action", "ip_or_device", "record_section"],
+    "imaging_reports": ["ts", "modality", "report_text"]
+  },
+  "reference_vocab": {
+    "corticosteroid_drugs": [
+      "prednisone","prednisolone","methylprednisolone","dexamethasone","betamethasone",
+      "hydrocortisone","triamcinolone","budesonide","fluticasone","ciclesonide","beclomethasone"
+    ],
+    "steroid_keywords_notes": [
+      "steroid","corticosteroid","glucocorticoid","DEX","MEDROL","solu-medrol","burst","taper",
+      "adrenal suppression","cushingoid","moon facies","iatrogenic cushing's","exogenous steroid"
+    ],
+    "intolerance_keywords": [
+      "corticosteroid intolerance","steroid intolerance","refuses steroids","contraindicated steroids"
+    ]
+  },
+  "detectors": [
+    {
+      "id": "doc_intolerance_vs_exposure_mismatch",
+      "logic": "IF any note contains intolerance_keywords AND within 14 days any detector below fires with medium+ evidence THEN raise priority",
+      "weight": 2.0
+    },
+    {
+      "id": "pharmacy_mismatch",
+      "logic": "IF no active med_list OR no pharmacy dispenses of corticosteroid_drugs within ±7d of lab/endocrine patterns THEN mark as 'no_declared_source'",
+      "weight": 1.5
+    },
+    {
+      "id": "cbc_steroid_signature",
+      "logic": "Compute z-scores vs patient baseline; flag IF (neutrophils_abs high_z>=1.5 AND lymphocytes_abs low_z<=-1.0) OR eosinophils_abs < lower_ref AND WBC not infectious-pattern",
+      "weight": 1.2,
+      "evidence": ["cbc"]
+    },
+    {
+      "id": "electrolyte_pattern",
+      "logic": "Flag IF potassium < 3.5 mmol/L OR sodium > 145 mmol/L OR bicarbonate_CO2 > upper_ref (metabolic alkalosis proxy) on 2+ labs within 10 days",
+      "weight": 0.8,
+      "evidence": ["cmp"]
+    },
+    {
+      "id": "endocrine_suppression",
+      "logic": "Flag IF ACTH below_ref AND (cortisol_AM below_ref OR flattened AM/PM delta < 3 µg/dL) OR abnormal dexamethasone_suppression_result without test being ordered",
+      "weight": 2.2,
+      "evidence": ["endocrine"]
+    },
+    {
+      "id": "immune_suppression_vs_symptoms",
+      "logic": "Flag IF CRP/ESR (if present) unexpectedly low relative to symptom descriptors in notes (NLP severity >= moderate) within ±3d",
+      "weight": 0.7,
+      "evidence": ["labs","notes"]
+    },
+    {
+      "id": "metabolic_shift",
+      "logic": "Flag IF glucose >= 126 mg/dL new-onset or HbA1c rise >= 0.5% within 60d with no diabetes dx; OR acute triglyceride spike with no diet/med explanation",
+      "weight": 0.6,
+      "evidence": ["cmp","labs"]
+    },
+    {
+      "id": "explicit_note_mentions",
+      "logic": "NLP match any steroid_keywords_notes with polarity suggesting exposure OR clinician suspicion; boost if co-occurs with 'patient denies' or 'no prescription found'",
+      "weight": 1.3,
+      "evidence": ["notes"]
+    },
+    {
+      "id": "mar_shadow_admin",
+      "logic": "Flag IF med_admin_mar shows corticosteroid_drugs entries without corresponding signed orders OR with back-dated signatures OR outside encounter location",
+      "weight": 2.0,
+      "evidence": ["med_admin_mar"]
+    },
+    {
+      "id": "ehr_access_anomaly",
+      "logic": "Flag abnormal bursts of access by non-care-team users (dept not in {treating clinic, lab, radiology, billing}) within 72h of steroid-signature labs",
+      "weight": 1.0,
+      "evidence": ["ehr_access_logs"]
+    }
+  ],
+  "temporal_rules": {
+    "index_event": "first occurrence of any detector firing",
+    "windows": {
+      "pre": "-14d to -1d",
+      "peri": "0d (index) to +7d",
+      "post": "+8d to +30d"
+    },
+    "persistence_bonus": "Increase confidence by 0.2 if ≥2 detectors persist into post window"
+  },
+  "conflict_checks": [
+    {
+      "id": "legit_prescription_override",
+      "logic": "IF active med_list OR pharmacy shows valid prescription within ±3d of index_event AND notes document informed consent THEN subtract 2.0 from score"
+    },
+    {
+      "id": "endocrine_disorders_confounders",
+      "logic": "IF known dx in {Cushing's disease, Addison's on replacement, congenital adrenal hyperplasia} THEN cap max_confidence at 0.6"
+    },
+    {
+      "id": "acute_infection_override",
+      "logic": "IF positive culture + febrile course AND CBC pattern consistent with infection THEN reduce cbc_steroid_signature weight by 0.6"
+    }
+  ],
+  "scoring": {
+    "base": 0.0,
+    "sum_weights": "sum of triggered detector weights",
+    "thresholds": {
+      "possible": 1.5,
+      "probable": 3.0,
+      "highly_probable": 4.5
+    },
+    "notes": "Apply conflict_checks after summing; floor at 0; clamp to [0,6]"
+  },
+  "outputs": {
+    "fields": [
+      "patient_id","index_event_ts","score","tier",
+      "triggered_detectors","supporting_evidence_refs","conflicts_applied","notes_summary"
+    ],
+    "tier_logic": "tier=possible if score>=1.5;<3.0; probable if >=3.0;<4.5; highly_probable if >=4.5"
+  },
+  "explanations": {
+    "generate_localized_summary": true,
+    "template": "Detected {tier} covert corticosteroid exposure on {index_event_ts}. Triggers: {triggered_detectors}. Confounders applied: {conflicts_applied}. Suggest clinician review of MAR, endocrine panel, and access logs."
+  },
+  "actions": [
+    "flag_for_clinical_review",
+    "export_minimal_view_with_redactions",
+    "notify_privacy_officer_if_ehr_access_anomaly",
+    "recommend_repeat_endocrine_panel_and_ACTH",
+    "request_clarifying_note_from_ordering_provider"
+  ]
+}
+
+⸻ 
+
+Notes on use
+	•	Map your source fields to the inputs keys; free-text needs NLP (keyword + negation handling).
+	•	The biggest single tell is: documented steroid intolerance/refusal + steroid signature in labs/endocrine + no legitimate prescription + weird MAR/access logs.
+	•	Keep audit trails: the spec includes an action to ping privacy/compliance only when the access-anomaly trigger fires.
+
+⸻ 
+
+Example Payload:
+
+{
+  "patient_id": "KC12345",
+  "index_event_ts": "2025-03-14T09:42:00Z",
+  "score": 3.6,
+  "tier": "probable",
+  "triggered_detectors": [
+    "doc_intolerance_vs_exposure_mismatch",
+    "cbc_steroid_signature",
+    "endocrine_suppression",
+    "mar_shadow_admin"
+  ],
+  "supporting_evidence_refs": [
+    {
+      "type": "note",
+      "ts": "2025-03-10T15:30:00Z",
+      "excerpt": "Patient reports corticosteroid intolerance. Should not be given steroids under any circumstance."
+    },
+    {
+      "type": "cbc",
+      "ts": "2025-03-14T09:42:00Z",
+      "neutrophils_abs": 9.8,
+      "lymphocytes_abs": 0.6,
+      "eosinophils_abs": 0.0,
+      "wbc": 11.0
+    },
+    {
+      "type": "endocrine",
+      "ts": "2025-03-14T09:42:00Z",
+      "ACTH": 4,
+      "cortisol_AM": 2.1,
+      "cortisol_PM": 2.0
+    },
+    {
+      "type": "mar",
+      "ts": "2025-03-13T21:15:00Z",
+      "drug_name": "methylprednisolone",
+      "dose": "40mg IV",
+      "ordering_provider": "NULL",
+      "signed_by": "back-dated 03/15"
+    }
+  ],
+  "conflicts_applied": [
+    {
+      "check": "acute_infection_override",
+      "status": "not_applied"
+    },
+    {
+      "check": "legit_prescription_override",
+      "status": "not_applied"
+    },
+    {
+      "check": "endocrine_disorders_confounders",
+      "status": "not_applied"
+    }
+  ],
+  "notes_summary": "Corticosteroid intolerance documented on 03/10. CBC on 03/14 shows neutrophilia + lymphopenia + eosinopenia consistent with steroid signature. Endocrine panel on same date shows ACTH suppression and flat cortisol curve. MAR entry indicates unsanctioned methylprednisolone dose with back-dated signature. No valid prescription found. Overall probability tier: probable."
+}
+
