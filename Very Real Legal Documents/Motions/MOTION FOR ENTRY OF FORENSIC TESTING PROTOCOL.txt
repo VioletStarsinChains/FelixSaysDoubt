@@ -1,0 +1,81 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+ADOBE INC.,
+a multinational software company headquartered in San Jose, California,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S MOTION FOR ENTRY OF FORENSIC TESTING PROTOCOL
+
+Plaintiff Kellyn Clay respectfully moves this Court for entry of an order establishing a protocol for the receipt, handling, and forensic testing of physical samples produced by Uline, Inc. pursuant to subpoena.
+
+⸻
+
+I. RELIEF REQUESTED
+
+Plaintiff seeks an order permitting the independent laboratory analysis of desiccant packs, moisture absorbers, and related packaging inserts produced under subpoena, subject to court-approved chain-of-custody and testing protocols.
+
+⸻
+
+II. GROUNDS FOR MOTION
+	1.	Plaintiff has issued a Rule 45 subpoena to Uline, Inc. requesting both documentary evidence and sealed desiccant pack samples spanning 2005–present.
+	2.	Independent forensic testing is necessary to determine whether such samples contain or have been treated with biologically active compounds, pharmaceuticals, or microencapsulated coatings beyond standard desiccant functions.
+	3.	Without a court-approved protocol, there is a risk that Defendants may later challenge the authenticity, admissibility, or chain-of-custody of any forensic results obtained.
+
+⸻
+
+III. PROPOSED TESTING PROTOCOL
+
+Plaintiff proposes that the Court enter an order providing:
+	1.	Designation of Laboratory
+	•	Samples shall be analyzed by an independent laboratory with demonstrated expertise in chemical, pharmaceutical, and forensic testing.
+	•	The laboratory shall be jointly agreed upon by the parties, or, in the absence of agreement, appointed by the Court.
+	2.	Chain of Custody
+	•	Uline shall produce sealed desiccant packets in their original packaging with lot and batch information.
+	•	Samples shall be logged upon receipt, with signatures of transfer recorded at each stage.
+	•	Duplicate samples shall be preserved under seal for verification or retesting.
+	3.	Testing Methods
+	•	Laboratory shall employ validated analytical techniques, including but not limited to gas chromatography-mass spectrometry (GC-MS), liquid chromatography-tandem mass spectrometry (LC-MS/MS), and scanning electron microscopy (SEM) with elemental analysis.
+	•	Testing shall screen for pharmaceuticals, peptides, hormones, volatile compounds, coatings, or other biologically active agents.
+	4.	Reporting
+	•	Laboratory shall issue a written report of findings, including full methodology, raw data, and chain-of-custody documentation.
+	•	Copies of the report shall be provided simultaneously to Plaintiff and Defendants.
+	5.	Preservation of Samples
+	•	Any untested portion of the samples shall be preserved in sealed condition under laboratory control pending further order of the Court.
+
+⸻
+
+IV. CONCLUSION
+
+For the foregoing reasons, Plaintiff respectfully requests that the Court grant this motion and enter an order adopting the proposed forensic testing protocol to ensure the integrity and admissibility of evidence derived from Uline’s desiccant packs.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se  
