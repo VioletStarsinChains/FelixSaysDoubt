@@ -42,6 +42,7 @@ DEFINITIONS
 	2.	“Subletting” or “sublet” means the transfer, lease, license, or repurposing of a digital twin from its original use or contracting entity to another entity, individual, or agency.
 	3.	“Plaintiff” means Kellyn Clay, including all identifiers, datasets, biometric information, or predictive models derived from or attributed to them.
 	4.	“Subcontractors” means any vendor, affiliate, or third party working under agreement with Palantir Technologies Inc. for the creation, maintenance, or use of digital twins.
+	5.	“Executive leadership” means Palantir’s officers, directors, or other public-facing representatives whose roles materially impact corporate governance, investor confidence, or stock valuation, including but not limited to Alexander C. Karp.
 
 ⸻
 
@@ -76,6 +77,9 @@ All documents, reports, or analyses referencing or assessing the risk of data po
 
 RFP No. 10
 All records of internal audits, compliance reviews, or risk assessments conducted by or for Palantir regarding repeated transfer, sublicensing, or modification of digital twins.
+
+RFP No. 11 — [NEW: Executive Leadership]
+All documents, internal communications, or disclosures concerning the creation, maintenance, or use of digital twins of Palantir executive leadership, including but not limited to Alexander C. Karp, and any assessments of the impact on investor confidence, stock valuation, or corporate governance.
 
 ⸻
 
@@ -142,6 +146,9 @@ Explain whether Palantir has conducted internal assessments or external audits t
 
 Interrogatory No. 17
 Identify all government agencies with which Palantir has discussed or shared the concept of digital twin poisoning, model corruption, or subletting of behavioral representations, and describe the substance of those discussions.
+
+Interrogatory No. 18 — [NEW: Executive Leadership]
+Identify whether Palantir has created, maintained, or operationalized digital twins of its executive leadership, including Alexander C. Karp, and state whether such twins have been used in corporate governance, investor communications, or public representations regarding leadership.
 
 ⸻
 
