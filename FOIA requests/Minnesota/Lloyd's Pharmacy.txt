@@ -12,3 +12,21 @@ This includes:
 	•	Market activity data, risk assessments, or analyses connecting the destruction of Lloyd’s Pharmacy to behavioral futures transactions.
 
 Keywords: Lloyd’s Pharmacy, Midway St. Paul, George Floyd protests, pharmacy destruction, behavioral futures, supply chain disruption, medication substitution, unrest modeling, predictive analytics, Palantir
+
+⸻ 
+
+To Minnesota Board of Pharmacy / Minnesota Department of Health
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act, Minn. Stat. Ch. 13, I am requesting access to and copies of any and all records, reports, communications, or datasets related to the destruction of Lloyd’s Pharmacy in the Midway neighborhood of St. Paul, Minnesota during the protests following the death of George Floyd (May–June 2020).
+
+This includes:
+	•	Incident reports, loss reports, or notifications filed by Lloyd’s Pharmacy or its corporate representatives.
+	•	Records of controlled substance inventories, shortages, or substitutions associated with the loss of Lloyd’s Pharmacy.
+	•	Communications within the Minnesota Board of Pharmacy or Department of Health regarding pharmacy supply chain disruptions linked to this event.
+	•	Correspondence between state agencies and federal agencies (DHS, DOJ, HHS) concerning the destruction of Lloyd’s Pharmacy.
+	•	Any analyses, modeling efforts, or contractor reports (including Palantir Technologies Inc. or affiliates) referencing the destruction of Lloyd’s Pharmacy as a data point in predictive modeling, population behavior forecasts, or unrest analysis.
+
+Keywords: Lloyd’s Pharmacy, Midway St. Paul, George Floyd protests, pharmacy destruction, controlled substances, supply chain disruption, medication substitution, unrest modeling, predictive analytics, Palantir
+
