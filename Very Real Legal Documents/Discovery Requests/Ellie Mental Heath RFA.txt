@@ -1,0 +1,78 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+ADOBE INC.,
+a multinational software company headquartered in San Jose, California,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+Case No. [to be assigned]
+
+⸻
+
+PLAINTIFF’S FIRST REQUESTS FOR ADMISSION TO THIRD PARTY
+
+Ellie Mental Health, f/k/a Ellie Family Services
+
+Pursuant to Fed. R. Civ. P. 36, Plaintiff Kellyn Clay requests that Ellie Mental Health respond to the following Requests for Admission within the time required by law.
+
+⸻
+
+DEFINITIONS
+	1.	“Ellie Mental Health” means Ellie Mental Health, including all prior iterations, registrations, or brand names, including but not limited to Ellie Family Services.
+	2.	“Data-sharing” means any disclosure, transfer, licensing, or provision of access to patient data, whether identified, de-identified, or aggregated, to third parties.
+	3.	“Predictive analytics” means any system, model, or tool used to forecast behavior, outcomes, or classifications based on patient data, including but not limited to anomaly detection, behavioral modeling, or outcomes scoring.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+RFA No. 1: Admit that Ellie Mental Health has operated under the name Ellie Family Services.
+
+RFA No. 2: Admit that Ellie Mental Health has entered into data-sharing agreements with insurers, electronic health record providers, or third-party vendors.
+
+RFA No. 3: Admit that patient records were disclosed, licensed, or made accessible to third-party vendors for purposes beyond direct clinical care.
+
+RFA No. 4: Admit that Ellie Mental Health has participated in programs described as “quality improvement,” “outcomes measurement,” or “research collaborations” involving patient data.
+
+RFA No. 5: Admit that patient data from Ellie Mental Health has been used in predictive analytics systems.
+
+RFA No. 6: Admit that third parties used data originating from Ellie Mental Health to train, validate, or test behavioral models or classification systems.
+
+RFA No. 7: Admit that Ellie Mental Health received financial or in-kind compensation in exchange for participation in research, outcomes reporting, or predictive analytics programs.
+
+RFA No. 8: Admit that Ellie Mental Health did not disclose all data-sharing or predictive analytics arrangements to patients at the time of treatment.
+
+RFA No. 9: Admit that data originating from Ellie Mental Health has been accessible, directly or indirectly, to federal contractors, including Palantir Technologies Inc. or Adobe Inc.
+
+RFA No. 10: Admit that Ellie Mental Health maintains, or has maintained, contracts or business relationships with vendors engaged in predictive analytics or anomaly classification.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Pro Se Plaintiff
