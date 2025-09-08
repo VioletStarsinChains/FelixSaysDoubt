@@ -1,4 +1,4 @@
-IN THE UNITED STATES DISTRICT COURT
+UNITED STATES DISTRICT COURT
 
 KELLYN CLAY,
   Plaintiff,
@@ -6,9 +6,7 @@ KELLYN CLAY,
 v.
 
 UNITED STATES OF AMERICA,
-by and through its agencies including but not limited to
-the Central Intelligence Agency (CIA), Department of Defense (DoD),
-and Department of Justice (DOJ),
+by and through its agencies including but not limited to the Central Intelligence Agency (CIA), Department of Defense (DoD), and Department of Justice (DOJ),
 
 and
 
@@ -31,15 +29,15 @@ WILLIAM ALTON CLAY,
 individually and in his capacity as executor of the Estate of Eugenia Clay Head,
   Defendants.
 
-⸻ 
+⸻
 
-PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANTS Palantir Technologies Inc. and Subcontractors
+PLAINTIFF’S FIRST COMBINED DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC. AND SUBCONTRACTORS
 
-Plaintiff Kellyn Clay propounds the following interrogatories to be answered fully, under oath, by Defendant Palantir Technologies Inc. and any subcontractors or affiliates within the time provided by the Federal Rules of Civil Procedure.
+Plaintiff Kellyn Clay, proceeding pro se, hereby serves the following First Requests for Production of Documents and First Set of Interrogatories upon Defendant Palantir Technologies Inc., including any subcontractors, affiliates, or vendors operating under its direction or agreement, pursuant to the Federal Rules of Civil Procedure.
 
 ⸻
 
-Definitions
+DEFINITIONS
 	1.	“Digital twin” means any digital, algorithmic, biometric, or model-based representation of an individual used for prediction, simulation, behavioral modification, or decision-making.
 	2.	“Subletting” or “sublet” means the transfer, lease, license, or repurposing of a digital twin from its original use or contracting entity to another entity, individual, or agency.
 	3.	“Plaintiff” means Kellyn Clay, including all identifiers, datasets, biometric information, or predictive models derived from or attributed to them.
@@ -47,27 +45,106 @@ Definitions
 
 ⸻
 
-Interrogatories to Palantir + Subcontractors
-	1.	Identify all digital twins created, maintained, or otherwise modeled of Plaintiff Kellyn Clay, including:
+REQUESTS FOR PRODUCTION
+
+RFP No. 1
+All documents, contracts, communications, or technical specifications relating to the creation or maintenance of any digital twin of Plaintiff Kellyn Clay.
+
+RFP No. 2
+All documents reflecting transfers, leases, licenses, or other subletting of Plaintiff’s digital twin, including contracts, memoranda of understanding, invoices, or payment records.
+
+RFP No. 3
+All internal audits, oversight reports, or compliance documents addressing the prevention or regulation of subletting digital twins.
+
+RFP No. 4
+All documents identifying or describing digital twins of government officials created, maintained, or sublet by Palantir or its subcontractors.
+
+RFP No. 5
+All contracts, agreements, or communications between Palantir (or its subcontractors) and any government agency concerning the creation, use, or subletting of digital twins of officials, including members of the judiciary.
+
+RFP No. 6
+All logs, access records, or data trails showing which entities or individuals accessed or operated digital twins after they were sublet.
+
+RFP No. 7
+All training materials, policies, or guidance documents provided to Palantir employees, contractors, or subcontractors regarding digital twin subletting and consent requirements.
+
+RFP No. 8
+Any legal opinions, risk assessments, or correspondence analyzing constitutional, due process, or separation-of-powers implications of subletting digital twins of government officials.
+
+RFP No. 9
+All documents, reports, or analyses referencing or assessing the risk of data poisoning, adversarial corruption, or model drift within digital twins or behavioral models.
+
+RFP No. 10
+All records of internal audits, compliance reviews, or risk assessments conducted by or for Palantir regarding repeated transfer, sublicensing, or modification of digital twins.
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1
+Identify all digital twins created, maintained, or otherwise modeled of Plaintiff Kellyn Clay, including:
 a. The Palantir platform(s) or system(s) used.
 b. The dates of creation and updates.
 c. The stated purpose(s).
 d. The identity of all subcontractors or affiliates with access.
-	2.	State whether any digital twins of Plaintiff Kellyn Clay have ever been transferred, leased, licensed, or otherwise sublet. If so, identify:
+
+Interrogatory No. 2
+State whether any digital twins of Plaintiff Kellyn Clay have ever been transferred, leased, licensed, or otherwise sublet. If so, identify:
 a. The recipient of the digital twin.
 b. The dates of such subletting.
 c. The contractual or operational terms.
 d. Any compensation exchanged.
-	3.	Describe all policies, audits, or oversight procedures maintained by Palantir to prevent unauthorized subletting of digital twins.
-	4.	Identify all government officials or categories of officials (including but not limited to federal judges) whose digital twins Palantir or its subcontractors have created, maintained, or sublet.
-	5.	For each official identified in response to Interrogatory 4, state:
+
+Interrogatory No. 3
+Identify and describe in detail all systems, databases, or registries maintained by Palantir that store, manage, or process digital twins, personas, behavioral models, or any analogous constructs representing individual human beings.
+
+Interrogatory No. 4
+State the locations (including cloud service providers, physical data centers, or government contractor facilities) where digital twins or behavioral models of U.S. persons are stored, replicated, or processed, and identify all third parties with access to those locations.
+
+Interrogatory No. 5
+Describe all processes by which Palantir licenses, sublicenses, or otherwise transfers access to digital twins, behavioral models, or related derivative works to government agencies, contractors, or private entities. Include whether Palantir retains audit logs of such transfers.
+
+Interrogatory No. 6
+Explain whether Palantir is aware of any instance in which digital twins or behavioral models have been modified, reconditioned, or sublet by third parties without Palantir’s direct oversight or quality assurance review.
+
+Interrogatory No. 7
+Describe all policies, audits, or oversight procedures maintained by Palantir to prevent unauthorized subletting of digital twins.
+
+Interrogatory No. 8
+Identify all government officials or categories of officials (including but not limited to federal judges) whose digital twins Palantir or its subcontractors have created, maintained, or sublet.
+
+Interrogatory No. 9
+For each official identified in response to Interrogatory No. 8, state:
 a. The purpose of the digital twin.
 b. Whether the twin has been sublet.
 c. The entities with access or control after subletting.
-	6.	Explain whether and how outputs from sublet digital twins are incorporated into governance, judicial rulings, or other official actions.
-	7.	State whether Palantir contends that subletting digital twins of government officials raises constitutional or due process risks. If not, explain why not.
 
-⸻ 
+Interrogatory No. 10
+Explain whether and how outputs from sublet digital twins are incorporated into governance, judicial rulings, or other official actions.
+
+Interrogatory No. 11
+State whether Palantir contends that subletting digital twins of government officials raises constitutional or due process risks. If not, explain why not.
+
+Interrogatory No. 12
+Identify the safeguards Palantir employs to prevent data poisoning (i.e., intentional insertion of misleading or adversarial inputs) into digital twins or behavioral models, including monitoring for model drift, adversarial attacks, or unexplained anomalies.
+
+Interrogatory No. 13
+For each safeguard identified in Interrogatory No. 12, describe the effectiveness testing performed, the results of that testing, and whether such safeguards have ever failed in operational environments.
+
+Interrogatory No. 14
+Describe Palantir’s policies for maintaining version control of digital twins, including whether users or client agencies are permitted to fork, clone, or alter models without Palantir’s centralized review or approval.
+
+Interrogatory No. 15
+Identify all individuals or entities outside of Palantir that have ever been granted the ability to directly modify digital twins of U.S. persons, and state the contractual or legal authority under which such modifications were permitted.
+
+Interrogatory No. 16
+Explain whether Palantir has conducted internal assessments or external audits to determine whether repeated subletting of digital twins has introduced systemic bias, degradation, or adversarial corruption into judicial, law enforcement, or intelligence decision-making.
+
+Interrogatory No. 17
+Identify all government agencies with which Palantir has discussed or shared the concept of digital twin poisoning, model corruption, or subletting of behavioral representations, and describe the substance of those discussions.
+
+⸻
 
 Respectfully submitted,
-Kellyn Clay, Plaintiff, pro se 
+Kellyn Clay
+Plaintiff, pro se
