@@ -40,11 +40,11 @@ SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
 TO: Uline, Inc.
 12575 Uline Dr, Pleasant Prairie, WI 53158
 
-Pursuant to Federal Rule of Civil Procedure 45, YOU ARE COMMANDED to produce the following documents and records for inspection and copying at the offices of Plaintiff’s counsel (or at another mutually agreed location) by October 8th, 2025:
+Pursuant to Federal Rule of Civil Procedure 45, YOU ARE COMMANDED to produce the following documents and physical objects for inspection, copying, and testing at the offices of Plaintiff’s counsel (or another mutually agreed location) by [date]:
 
 ⸻
 
-DOCUMENT REQUESTS
+SECTION A: DOCUMENT REQUESTS
 	1.	Procurement Records
 All purchase orders, invoices, contracts, or other procurement records from 2005–present relating to the acquisition of chemicals, pharmaceuticals, biologically active compounds, or treated coatings intended for use in desiccant packs, moisture absorbers, or packaging inserts.
 	2.	Supplier & Subcontractor Communications
@@ -62,10 +62,21 @@ All consumer complaints, incident reports, or internal investigations concerning
 
 ⸻
 
-Definitions:
-	•	“Desiccant packs” and “moisture absorbers” include silica gel packets, clay-based packets, molecular sieves, or other packaging inserts intended for moisture control.
-	•	“Biologically active compounds” include but are not limited to peptides, hormones, pharmaceuticals, or other agents capable of affecting human physiology.
-	•	The term “documents” includes electronic communications, emails, drafts, handwritten notes, and metadata.
+SECTION B: PHYSICAL OBJECT REQUESTS
+	1.	Representative Samples
+Provide sealed, unused desiccant packs, moisture absorbers, and packaging inserts (including silica gel, clay-based, molecular sieves, or other variants) manufactured, packaged, or distributed by Uline, from each year 2005 to present, with accompanying lot numbers and batch records.
+	2.	Government Contract Fulfillment Samples
+Provide sealed, unused desiccant packs supplied under federal contracts (including but not limited to GSA, DoD, DHS, FDA, or intelligence agencies).
+	3.	Returned or Recalled Products
+Provide sealed or partially used desiccant packs that were returned, recalled, or subject to consumer complaint investigations concerning odors, residues, or adverse effects.
+	4.	R&D and Pilot Program Samples
+Provide any experimental or pilot desiccant packs produced internally or with subcontractors that involved coatings, microencapsulation, or active compound treatments.
+
+⸻
+
+INSPECTION AND TESTING CONDITIONS
+	•	Plaintiff reserves the right to conduct independent laboratory analysis of samples for chemical composition, including testing for pharmaceuticals, biologically active compounds, and microencapsulation coatings.
+	•	Samples must be produced in their original sealed packaging, with chain-of-custody documentation sufficient to confirm authenticity.
 
 ⸻
 
