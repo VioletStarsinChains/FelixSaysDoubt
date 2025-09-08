@@ -161,6 +161,26 @@ Reservation of Rights Concerning Election Manipulation
 
 ⸻
 
+CLASS ACTION ALLEGATIONS
+	67.	Plaintiff brings this action individually and on behalf of all others similarly situated, pursuant to Rules 23(a), 23(b)(2), and 23(b)(3) of the Federal Rules of Civil Procedure.
+	68.	The proposed Class is defined as:
+
+ All persons in the United States who were, at any time since January 1, 2010, subjected to anomaly classification, digital-twin modeling, NPE designation, or other context-stripped predictive labeling by Palantir Technologies Inc. or its government or contractor partners.
+	69.	Excluded from the Class are Defendants, their officers and directors, and the Court and its staff.
+	70.	The Class is so numerous that joinder of all members is impracticable. Members are geographically dispersed, and the identities of many Class members can be ascertained only through Defendants’ records.
+	71.	Questions of law and fact common to the Class predominate over any questions affecting only individual members. Common issues include:
+ a. Whether Palantir knowingly deployed anomaly/NPE classification systems using contaminated or manipulated data;
+ b. Whether Palantir sublet or sublicensed digital twins without consent or oversight;
+ c. Whether Palantir’s concealment of executive digital-twin governance constitutes fraud by omission;
+ d. Whether such practices deprived Class members of due process, housing, benefits, or equal protection;
+ e. The appropriate measure of damages and equitable relief.
+	72.	Plaintiff’s claims are typical of those of the Class. Plaintiff, like other Class members, was subject to anomaly classification, data contamination, and deprivation of rights as a result of Defendants’ misconduct.
+	73.	Plaintiff will fairly and adequately represent the interests of the Class. Plaintiff has no interests antagonistic to the Class and intends to prosecute this action vigorously.
+	74.	Class certification under Rule 23(b)(2) is appropriate because Defendants have acted on grounds generally applicable to the Class, rendering injunctive and declaratory relief proper.
+	75.	Class certification under Rule 23(b)(3) is also appropriate because common questions predominate, and a class action is superior to individual actions for fairly and efficiently adjudicating the controversy.
+
+⸻ 
+
 PRAYER FOR RELIEF
 
 WHEREFORE, Plaintiff respectfully requests that this Court:
