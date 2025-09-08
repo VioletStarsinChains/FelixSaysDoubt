@@ -73,7 +73,26 @@ Plaintiff proposes that the Court enter an order providing:
 
 ⸻
 
-IV. CONCLUSION
+IV. Laboratory Selection Criteria
+
+To ensure integrity and neutrality of results, Plaintiff proposes that the laboratory conducting the forensic analysis meet the following conditions:
+	1.	Accreditation
+	•	Laboratory must hold ISO/IEC 17025 accreditation or equivalent certification for analytical chemistry or forensic testing.
+	•	Accreditation shall be verified through publicly available records.
+	2.	Independence
+	•	Laboratory shall not be directly affiliated with any Defendant or with any federal agency named in this litigation.
+	•	Laboratory may be an independent forensic laboratory, university core facility, environmental/consumer product testing lab, or accredited contract research organization.
+	3.	Transparency
+	•	Laboratory shall provide full methodology, raw data, and chromatograms/spectra along with its written report.
+	•	Laboratory shall preserve sufficient sample material for retesting by either party.
+	4.	Selection Process
+	•	Plaintiff shall nominate one or more candidate laboratories meeting the above criteria.
+	•	Defendants shall have 14 days to object or propose alternatives.
+	•	In the event of disagreement, the Court shall appoint a neutral laboratory from the list of proposed candidates.
+
+⸻ 
+
+V. CONCLUSION
 
 For the foregoing reasons, Plaintiff respectfully requests that the Court grant this motion and enter an order adopting the proposed forensic testing protocol to ensure the integrity and admissibility of evidence derived from Uline’s desiccant packs.
 
