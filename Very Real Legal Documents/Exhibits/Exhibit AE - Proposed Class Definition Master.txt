@@ -131,6 +131,29 @@ Examples include:
 	•	False anomaly classifications or defamation based on retail behaviors explainable by anthropometrics, aesthetic preferences, or economic conditions;
 	•	Downstream consequences including harassment, denial of services, stigmatization, or increased risk scores in predictive modeling.
 
+Subclass G — Women and AFAB Individuals Disproportionately Targeted
+
+All women and AFAB (assigned female at birth) individuals in the United States, from 1950 to the present, who were disproportionately labeled as anomalies, NPEs, or otherwise classified in ways that excluded them from employment, education, housing, medical care, or credit, whether through:
+	•	Algorithmic disparate impact;
+	•	Functional redlining via continuity filters;
+	•	Targeted deprivation of reproductive autonomy or caregiving roles.
+
+Examples include:
+	•	AFAB individuals flagged as anomalous for inflammatory, hormonal, or neuroimmune responses distinct from male baselines.
+	•	Systemic denial of benefits or entitlements tied to sex-based misclassification.
+	•	Generational harm where AFAB reproductive and caregiving continuity was suppressed through anomaly designation.
+
+⸻
+
+Subclass H — Investors and Shareholders Misled by Executive Digital-Twin Omission
+
+All persons who purchased or held securities in Palantir Technologies Inc. at any time since its IPO in 2020, who were harmed by the company’s failure to disclose the existence, maintenance, or operational use of digital twins of its executive leadership, including but not limited to Alexander C. Karp.
+
+Examples include:
+	•	Material omissions about corporate governance where investors were led to believe human leadership was exercising sole decision-making authority.
+	•	Artificial inflation of Palantir’s stock value through reliance on Karp’s public persona and purported direct oversight.
+	•	Fraud by omission depriving investors of the ability to assess governance risk and corporate liability.
+
 ⸻
 
 RELIEF SOUGHT ON BEHALF OF CLASS AND SUBCLASSES
