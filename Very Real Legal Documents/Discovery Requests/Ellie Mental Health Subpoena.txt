@@ -1,0 +1,73 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+ADOBE INC.,
+a multinational software company headquartered in San Jose, California,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+Case No. [to be assigned]
+
+⸻
+
+SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
+
+Fed. R. Civ. P. 45
+
+TO: Ellie Mental Health/Ellie Family Services, including all current and former business registrations, at 1150 Montreal Ave # 107, St Paul, MN 55116.
+
+⸻
+
+YOU ARE COMMANDED to produce the following documents and records for inspection and copying at the offices of Plaintiff (pro se) or as otherwise agreed by the parties:
+	1.	Patient Records of Plaintiff
+ All intake forms, treatment notes, billing records, consent forms, and communications regarding Plaintiff Kellyn Clay during the period of treatment, including any records showing disclosures of data to third parties.
+	2.	Data-Sharing Agreements
+ All contracts, memoranda of understanding, or communications with insurers, electronic health record (EHR) providers, analytics vendors, or government contractors concerning the sharing, licensing, or secondary use of patient data from 2000 to present.
+	3.	Predictive Analytics / Research Use
+ All documents referring to the use of patient data in predictive modeling, “quality improvement,” “outcomes measurement,” research collaborations, or behavioral analytics projects, whether internal or with third parties.
+	4.	Third-Party Vendors and Contractors
+ A complete list of all third-party vendors, contractors, or affiliates with whom patient records were shared, licensed, or made accessible, including IT providers, data storage services, and behavioral analytics platforms.
+	5.	Regulatory Disclosures
+ All communications with state or federal regulators (including but not limited to HIPAA/HITECH compliance audits) concerning data sharing, predictive analytics, or research use of patient records.
+	6.	Corporate Continuity
+ All documents reflecting name changes, corporate registrations, mergers, or rebrandings of [Therapy Office/Clinic Name] from 2000 to present, including records filed with state licensing boards.
+
+⸻
+
+YOU ARE FURTHER COMMANDED to provide written answers to the following:
+	1.	Identify all names, aliases, or business registrations under which Ellie Mental Health/Ellie Family Services has operated since 2000.
+	2.	State whether Ellie Mental Health/Ellie Family has ever shared patient records for purposes of predictive analytics, behavioral modeling, or classification, and identify the recipients.
+	3.	State whether Ellie Mental Health/Ellie Family has received financial or in-kind compensation for data sharing, research participation, or outcomes reporting involving patient records.
+	4.	State whether any federal contractors (including Palantir Technologies Inc., Adobe Inc., or affiliated subcontractors) have had access to data originating from Ellie Mental Health/Ellie Family Services.
+
+⸻
+
+Issued this 8th day of September, 2025.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
