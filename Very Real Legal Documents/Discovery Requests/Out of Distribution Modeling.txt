@@ -55,9 +55,6 @@ Request No. 4:
 Produce all records of workshops, conferences, symposia, or consortia in which Palantir staff or contractors engaged with the above institutions on topics relating to out-of-distribution data, anomaly detection, or predictive modeling of human cognition.
 
 Request No. 5:
-Produce any communications, project notes, or deliverables referencing the use of cross-species cognitive models or mythological archetypes (including but not limited to unicorns, gnomes, tanuki) in collaboration with the above institutions.
-
-Request No. 6:
 Produce any oversight reports, ethical reviews, or risk assessments prepared internally or externally regarding Palantir’s collaborations with the above institutions, specifically in relation to anomaly/NPE classification.
 
 ⸻ 
