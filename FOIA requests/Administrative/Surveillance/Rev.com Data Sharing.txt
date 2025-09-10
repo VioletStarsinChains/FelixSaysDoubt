@@ -1,0 +1,15 @@
+To DOJ / DHS / ODNI / GSA
+
+Request:
+
+Requesting any and all contracts, data-sharing agreements, memoranda of understanding, correspondence, or communications involving Rev.com, Inc. (and any affiliates) in connection with federal agencies or defense contractors, including but not limited to Palantir Technologies Inc., from 2008 to present.
+
+This includes:
+	•	Executed agreements or contracts governing the transfer or sharing of transcription, captioning, or related metadata between Rev.com and any federal agency.
+	•	Records of any agreements in which Rev.com data were accessed by or provided to Palantir Technologies Inc., or in which Palantir served as a subcontractor with access to Rev.com data.
+	•	Technical specifications, data dictionaries, or ingestion schemas describing how Rev.com datasets were integrated into federal systems or contractor platforms.
+	•	Internal or contractor analyses of the risks or compliance issues associated with use of Rev.com data, including ADA, civil rights, or occupational bias considerations.
+	•	Communications referencing Rev.com in the context of anomaly classification, NPE designations, predictive modeling, or behavioral futures markets.
+	•	Invoices, billing records, or procurement documents reflecting federal payments to Rev.com for data access, transcription, or captioning services.
+
+Keywords: Rev.com, Palantir, data-sharing agreement, transcription data, captioning metadata, anomaly classification, Non-Person Entity, NPE, behavioral futures, ADA compliance, occupational bias
