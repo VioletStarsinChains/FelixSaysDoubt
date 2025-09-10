@@ -1,0 +1,53 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S THIRD SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all criteria used in the creation, maintenance, or application of “anomaly” or “Non-Person Entity (NPE)” classifications within Palantir platforms, including but not limited to Gotham, Foundry, or Apollo.
+	2.	State whether communication patterns — including frequent questioning of authority figures, repeated requests for clarification, or apparent conversational noncompliance — were used as indicators of anomaly or NPE classification.
+	3.	State whether cognitive impairments, memory problems, or adaptive communication strategies for coping with such impairments were factored into anomaly or NPE classification.
+	4.	Identify all internal policies, guidelines, or criteria addressing whether disability-related behaviors (including adaptive questioning to compensate for brain fog or memory impairment) are to be distinguished from subversive or oppositional behaviors in anomaly or NPE classification.
+	5.	State whether Palantir or its government clients conducted any audits, analyses, or reviews to determine whether anomaly or NPE classification criteria disparately impacted individuals with neurological, psychiatric, or cognitive disabilities.
+	6.	Identify all Palantir employees, contractors, or affiliates responsible for determining whether questioning behavior or cognitive impairment indicators would be treated as grounds for anomaly or NPE classification.
+	7.	Describe how Palantir distinguishes between disability-related questioning behaviors (e.g., adaptive strategies for memory retention) and intentional subversive behaviors in anomaly or NPE classification processes.
+	8.	State whether Palantir contends that misinterpreting disability-related adaptive strategies as subversion is consistent with the Americans with Disabilities Act (ADA). If so, explain in detail.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all documents, communications, or presentations reflecting the use of communication patterns (including questioning frequency, conversational compliance, or clarification requests) as indicators of anomaly or NPE classification.
+	2.	Produce all documents identifying criteria, schemas, or algorithms referencing cognitive impairments, memory deficits, or disability-related adaptive strategies in anomaly or NPE classification.
+	3.	Produce all policies, guidelines, or training materials addressing how Palantir employees or subcontractors are to distinguish between disability-related behaviors and subversive conduct.
+	4.	Produce all internal testing reports, error analyses, or audits concerning the impact of anomaly or NPE classification criteria on individuals with neurological, psychiatric, or cognitive disabilities.
+	5.	Produce all communications with government clients in which Palantir personnel discussed, explained, or justified the treatment of questioning behavior or cognitive impairment as indicators of anomaly or NPE classification.
+	6.	Produce all legal, compliance, or ethics reviews addressing whether anomaly or NPE classification practices comport with the requirements of the Americans with Disabilities Act (ADA).
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
