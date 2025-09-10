@@ -1,0 +1,15 @@
+Minnesota Government Data Practices Act Request
+
+To Minnesota Department of Human Rights / Minnesota IT Services (MNIT) / Minnesota Department of Administration
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act, Minn. Stat. Ch. 13, requesting access to and copies of any records, audits, correspondence, or compliance reviews relating to ADA and civil rights compliance in anomaly or “Non-Person Entity (NPE)” classification systems, especially where such systems were procured or used by the State of Minnesota or its contractors.
+
+This includes:
+	•	Contracts, RFPs, or oversight documents referencing ADA or disability rights considerations in classification or predictive modeling.
+	•	Communications with federal contractors (including Palantir Technologies Inc.) concerning anomaly/NPE classification and disability discrimination safeguards.
+	•	Records of any complaints, investigations, or inquiries by individuals alleging disability discrimination arising from anomaly or NPE classification.
+	•	Guidance, training, or policy documents addressing how to distinguish disability-related behaviors from subversive or oppositional conduct.
+
+Keywords: anomaly classification, NPE, ADA compliance, disability rights, civil rights review, communication patterns, memory impairment, Palantir, Minnesota
