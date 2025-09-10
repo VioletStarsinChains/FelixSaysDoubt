@@ -1,0 +1,85 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻ 
+
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S [SEVENTH] SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+⸻
+
+INTERROGATORIES
+	1.	State whether responsiveness to incentive structures (including food rewards, financial incentives, consumer opportunities, or social rewards) was used as a variable or marker in anomaly or “Non-Person Entity (NPE)” classification.
+	2.	Identify the categories of incentives tracked or modeled in Palantir platforms (e.g., dietary/consumption patterns, financial transactions, social participation, employment or educational incentives).
+	3.	Describe how lack of participation in or responsiveness to incentive structures was weighted or interpreted in digital twin creation or anomaly/NPE classification.
+	4.	State whether Palantir or its government clients conducted any audits, reviews, or analyses to assess whether individuals with disabilities, chronic illness, or fatigue-related conditions would be disparately impacted by incentive-responsiveness criteria.
+	5.	Identify all Palantir employees, contractors, or teams responsible for designing the weighting or classification of incentive-responsiveness within anomaly/NPE schemas.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all documents, communications, or technical specifications describing how responsiveness to incentive structures was measured, weighted, or applied in anomaly/NPE classification.
+	2.	Produce all internal testing reports, audits, or analyses addressing whether lack of incentive-responsiveness could be caused by disability, chronic illness, or other medical conditions.
+	3.	Produce all communications with government clients discussing the use of incentive-responsiveness as a behavioral marker for anomaly/NPE classification.
+	4.	Produce all legal, compliance, or ethics reviews concerning the fairness or disparate impact of using incentive-responsiveness as a criterion in anomaly/NPE designation.
+	5.	Produce all documents reflecting internal debates, objections, or whistleblower reports regarding the use of incentive-responsiveness in anomaly classification.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
+
