@@ -1,0 +1,49 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S [EIGHTH] SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+⸻
+
+INTERROGATORIES
+	1.	State whether Palantir’s anomaly/NPE classification systems ingested or processed student disciplinary records, behavioral incident reports, or teacher communications originating from Eastside Christian School, 2450 Lower Roswell Rd, Marietta, GA 30068, between 1995–2005.
+	2.	State whether Palantir or its government clients maintained agreements, partnerships, or data-sharing arrangements that allowed private schools (including religious schools) to transmit student behavioral or disciplinary data into federal or contractor databases.
+	3.	State whether Palantir or its government clients tracked or analyzed incidents of forced or compelled speech (including speech produced under implant manipulation, duress, or altered states) as inputs for anomaly/NPE classification.
+	4.	Identify all Palantir employees, contractors, or affiliates responsible for determining how school-based records or speech-related incidents would be weighted in anomaly/NPE classification.
+	5.	State whether Palantir or its government clients conducted any reviews, audits, or analyses to distinguish between voluntary student speech and coerced/implant-influenced speech when using educational records in anomaly/NPE classification.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all contracts, agreements, or memoranda of understanding between Palantir (or its affiliates) and any entity that provided student data from Eastside Christian School or other private schools to anomaly/NPE systems.
+	2.	Produce all technical specifications, ingestion schemas, or data dictionaries describing how school disciplinary or behavioral data were incorporated into anomaly/NPE classification.
+	3.	Produce all internal testing reports, audits, or analyses addressing the risk that coerced speech or implant-influenced statements could be misclassified as voluntary behavior in anomaly/NPE modeling.
+	4.	Produce all communications with government clients discussing the use of school-based records — including disciplinary incidents or behavioral flags — as anomaly/NPE indicators.
+	5.	Produce all legal, compliance, or ethics reviews concerning the use of student speech or school records in anomaly/NPE classification, particularly in contexts where forced or manipulated speech was possible.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
