@@ -1,0 +1,55 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANT AMAZON
+
+Preamble (Relevance Statement)
+Plaintiff Kellyn Clay alleges that Defendants, including Amazon, engaged in retaliatory medical sabotage designed to impair Plaintiff’s ability to speak out loud. Amazon’s roles in supplement distribution, cloud-based health surveillance, and contractual relationships with government agencies make it a relevant party. These interrogatories seek information regarding Amazon’s knowledge of, or participation in, supplement adulteration, speech-impairing medical protocols, and coordination with federal and state entities.
+
+⸻
+
+Interrogatories
+	1.	Supplement Distribution Oversight
+Identify all Amazon programs, partnerships, or compliance systems since 2000 designed to monitor or regulate the distribution of dietary supplements, including vitamin D3, testosterone, or related compounds, and describe whether known risks to vocal capacity were documented.
+	2.	Speech-Related Health Data
+State whether Amazon Web Services or affiliated cloud services have stored, processed, or analyzed health or biometric data related to Plaintiff’s vocal capacity, speech impairments, or anaphylactic reactions, and identify all government or contractor clients with access to that data.
+	3.	Retaliatory Targeting
+Describe whether Plaintiff’s expressive activities (speech, writing, online posting, whistleblowing) were ever flagged, reported, or analyzed within Amazon systems, and whether such analysis informed or coincided with medical or supplement interventions.
+	4.	Coordination with Government and Contractors
+Identify all communications, contracts, or collaborations between Amazon and Palantir Technologies, the Minnesota Department of Health, or federal agencies that involved supplement distribution, biometric surveillance, or speech suppression initiatives.
+	5.	Knowledge of Adverse Effects
+State whether Amazon possessed knowledge that combined or high-dose administration of vitamin D3, testosterone, or similar products could contribute to vocal cord calcification, muscle mineralization, or other impairments to speech, and describe how that knowledge was applied to product warnings or distribution.
+	6.	Narrative Management
+Identify whether Amazon communications, policies, or public messaging addressed speech-related side effects of supplements or pharmaceuticals, and describe whether such messaging was influenced by coordination with government or private contractors.
