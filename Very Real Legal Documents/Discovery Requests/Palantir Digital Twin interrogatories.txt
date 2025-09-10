@@ -85,70 +85,66 @@ All documents, internal communications, or disclosures concerning the creation, 
 
 INTERROGATORIES
 
-Interrogatory No. 1
-Identify all digital twins created, maintained, or otherwise modeled of Plaintiff Kellyn Clay, including:
+    1. Identify all digital twins created, maintained, or otherwise modeled of Plaintiff Kellyn Clay, including:
 a. The Palantir platform(s) or system(s) used.
 b. The dates of creation and updates.
 c. The stated purpose(s).
 d. The identity of all subcontractors or affiliates with access.
 
-Interrogatory No. 2
-State whether any digital twins of Plaintiff Kellyn Clay have ever been transferred, leased, licensed, or otherwise sublet. If so, identify:
+    2.  State whether any digital twins of Plaintiff Kellyn Clay have ever been transferred, leased, licensed, or otherwise sublet. If so, identify:
 a. The recipient of the digital twin.
 b. The dates of such subletting.
 c. The contractual or operational terms.
 d. Any compensation exchanged.
 
-Interrogatory No. 3
-Identify and describe in detail all systems, databases, or registries maintained by Palantir that store, manage, or process digital twins, personas, behavioral models, or any analogous constructs representing individual human beings.
+    3.  Identify and describe in detail all systems, databases, or registries maintained by Palantir that store, manage, or process digital twins, personas, behavioral models, or any analogous constructs representing individual human beings.
 
-Interrogatory No. 4
-State the locations (including cloud service providers, physical data centers, or government contractor facilities) where digital twins or behavioral models of U.S. persons are stored, replicated, or processed, and identify all third parties with access to those locations.
+    4.  State the locations (including cloud service providers, physical data centers, or government contractor facilities) where digital twins or behavioral models of U.S. persons are stored, replicated, or processed, and identify all third parties with access to those locations.
 
-Interrogatory No. 5
-Describe all processes by which Palantir licenses, sublicenses, or otherwise transfers access to digital twins, behavioral models, or related derivative works to government agencies, contractors, or private entities. Include whether Palantir retains audit logs of such transfers.
+    5.  Describe all processes by which Palantir licenses, sublicenses, or otherwise transfers access to digital twins, behavioral models, or related derivative works to government agencies, contractors, or private entities. Include whether Palantir retains audit logs of such transfers.
 
-Interrogatory No. 6
-Explain whether Palantir is aware of any instance in which digital twins or behavioral models have been modified, reconditioned, or sublet by third parties without Palantir’s direct oversight or quality assurance review.
+    6.  Explain whether Palantir is aware of any instance in which digital twins or behavioral models have been modified, reconditioned, or sublet by third parties without Palantir’s direct oversight or quality assurance review.
+    7.  Describe all policies, audits, or oversight procedures maintained by Palantir to prevent unauthorized subletting of digital twins.
 
-Interrogatory No. 7
-Describe all policies, audits, or oversight procedures maintained by Palantir to prevent unauthorized subletting of digital twins.
+8.  Identify all government officials or categories of officials (including but not limited to federal judges) whose digital twins Palantir or its subcontractors have created, maintained, or sublet.
 
-Interrogatory No. 8
-Identify all government officials or categories of officials (including but not limited to federal judges) whose digital twins Palantir or its subcontractors have created, maintained, or sublet.
-
-Interrogatory No. 9
-For each official identified in response to Interrogatory No. 8, state:
+    9.  For each official identified in response to Interrogatory No. 8, state:
 a. The purpose of the digital twin.
 b. Whether the twin has been sublet.
 c. The entities with access or control after subletting.
 
-Interrogatory No. 10
-Explain whether and how outputs from sublet digital twins are incorporated into governance, judicial rulings, or other official actions.
+    10.  Explain whether and how outputs from sublet digital twins are incorporated into governance, judicial rulings, or other official actions.
 
-Interrogatory No. 11
-State whether Palantir contends that subletting digital twins of government officials raises constitutional or due process risks. If not, explain why not.
+    11.  State whether Palantir contends that subletting digital twins of government officials raises constitutional or due process risks. If not, explain why not.
 
-Interrogatory No. 12
-Identify the safeguards Palantir employs to prevent data poisoning (i.e., intentional insertion of misleading or adversarial inputs) into digital twins or behavioral models, including monitoring for model drift, adversarial attacks, or unexplained anomalies.
+    12.  Identify the safeguards Palantir employs to prevent data poisoning (i.e., intentional insertion of misleading or adversarial inputs) into digital twins or behavioral models, including monitoring for model drift, adversarial attacks, or unexplained anomalies.
 
-Interrogatory No. 13
-For each safeguard identified in Interrogatory No. 12, describe the effectiveness testing performed, the results of that testing, and whether such safeguards have ever failed in operational environments.
+    13.  For each safeguard identified in Interrogatory No. 12, describe the effectiveness testing performed, the results of that testing, and whether such safeguards have ever failed in operational environments.
 
-Interrogatory No. 14
-Describe Palantir’s policies for maintaining version control of digital twins, including whether users or client agencies are permitted to fork, clone, or alter models without Palantir’s centralized review or approval.
+    14.  Describe Palantir’s policies for maintaining version control of digital twins, including whether users or client agencies are permitted to fork, clone, or alter models without Palantir’s centralized review or approval.
 
-Interrogatory No. 15
-Identify all individuals or entities outside of Palantir that have ever been granted the ability to directly modify digital twins of U.S. persons, and state the contractual or legal authority under which such modifications were permitted.
+    15.  Identify all individuals or entities outside of Palantir that have ever been granted the ability to directly modify digital twins of U.S. persons, and state the contractual or legal authority under which such modifications were permitted.
 
-Interrogatory No. 16
-Explain whether Palantir has conducted internal assessments or external audits to determine whether repeated subletting of digital twins has introduced systemic bias, degradation, or adversarial corruption into judicial, law enforcement, or intelligence decision-making.
+    16.  Explain whether Palantir has conducted internal assessments or external audits to determine whether repeated subletting of digital twins has introduced systemic bias, degradation, or adversarial corruption into judicial, law enforcement, or intelligence decision-making.
 
-Interrogatory No. 17
-Identify all government agencies with which Palantir has discussed or shared the concept of digital twin poisoning, model corruption, or subletting of behavioral representations, and describe the substance of those discussions.
+    17.  Identify all government agencies with which Palantir has discussed or shared the concept of digital twin poisoning, model corruption, or subletting of behavioral representations, and describe the substance of those discussions.
 
-Interrogatory No. 18 — [NEW: Executive Leadership]
-Identify whether Palantir has created, maintained, or operationalized digital twins of its executive leadership, including Alexander C. Karp, and state whether such twins have been used in corporate governance, investor communications, or public representations regarding leadership.
+    18.  Identify whether Palantir has created, maintained, or operationalized digital twins of its executive leadership, including Alexander C. Karp, and state whether such twins have been used in corporate governance, investor communications, or public representations regarding leadership.
+
+    19.  State whether internet browsing history, search queries, or web traffic metadata were included as data sources in digital twin creation or refinement.
+	
+    20.	Describe the relative weighting assigned to internet history compared to other categories of data (e.g., medical records, employment data, consumer purchases, biometrics).
+
+    21.	Identify whether patterns of internet use (including frequency, timing, or content of searches) were treated as indicators of anomaly or NPE classification.
+	
+    22.	State whether Palantir or its government clients conducted any audits or reviews to determine whether atypical internet use — arising from disability, occupational research, or lack of housing — was misclassified as subversive behavior.
+
+REQUESTS FOR PRODUCTION 
+	1.	Produce all documents, communications, or technical specifications describing the ingestion and weighting of internet browsing history, search queries, or web traffic metadata in digital twin creation or refinement.
+	
+    2.	Produce all internal testing reports, audits, or analyses concerning the use of internet history as a factor in anomaly/NPE classification.
+	
+    3.	Produce all communications with government clients discussing the role of internet history in predictive modeling or digital twin construction.
 
 ⸻
 
