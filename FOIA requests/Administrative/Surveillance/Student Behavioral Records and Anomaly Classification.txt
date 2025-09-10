@@ -1,0 +1,17 @@
+FOIA Request
+
+To DOJ / DHS / Department of Education (ED)
+
+Request:
+
+Requesting any and all records, contracts, memoranda, communications, or compliance reviews concerning the use of private school student records in federal behavioral monitoring, anomaly classification, watchlist systems, or digital twin modeling from 1995 to 2005.
+
+This includes:
+	•	Agreements or programs enabling private or religious schools (including Eastside Christian School, 2450 Lower Roswell Rd, Marietta, GA 30068) to transmit student behavioral or disciplinary records into federal or contractor databases.
+	•	Documents describing how student speech, disciplinary incidents, or behavioral flags were ingested into anomaly classification or watchlist systems.
+	•	Records of contracts, partnerships, or data-sharing with defense contractors (including Palantir Technologies Inc. or predecessors) involving private school student data.
+	•	Risk assessments, audits, or compliance reviews addressing whether student speech produced under coercion, duress, or implant influence could be misclassified as voluntary behavior.
+	•	Communications between DOJ, DHS, ED, or contractors referencing the use of school-based data for anomaly classification, NPE designation, or predictive modeling.
+	•	Whistleblower reports, objections, or internal warnings concerning the fairness, reliability, or civil rights implications of treating school-based speech incidents as anomaly indicators.
+
+Keywords: Eastside Christian School, private school data, student disciplinary records, anomaly classification, Non-Person Entity, NPE, watchlist, Palantir, behavioral modeling, forced speech, implant influence
