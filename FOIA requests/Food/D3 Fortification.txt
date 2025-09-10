@@ -31,3 +31,42 @@ This includes:
 	•	Internal discussions on labeling accuracy, tolerable upper intake levels, and risks of cumulative exposure from multiple fortified sources
 
 Keywords: vitamin D3, calcium, food fortification, cholecalciferol, hypercalcemia, co-fortification, soft tissue mineralization, dietary signaling, CFSAN, FDA
+
+⸻ 
+
+FOIA 3: Vitamin D3 Fortification (USDA)
+
+To: U.S. Department of Agriculture / Food and Nutrition Service (FNS)
+
+Request:
+
+Requesting any and all documents, program guidelines, research studies, internal communications, or vendor partnerships referencing the fortification of food or beverages with vitamin D3 from 1990 to present, particularly in federally supported nutrition programs.
+
+This includes:
+	•	USDA policy documents regarding vitamin D3 fortification standards for dairy, grains, or other food groups
+	•	Contracts or agreements with private vendors supplying vitamin D3 for fortified products in WIC, SNAP, or school meal programs
+	•	Internal safety reviews of vitamin D3’s role in soft tissue calcification and potential impacts on laryngeal, respiratory, or vocal structures
+	•	Reports or memoranda concerning risks of cumulative dosing from multiple fortified products
+	•	Evaluations of vitamin D2 versus vitamin D3 for use in fortification initiatives
+
+Keywords: vitamin D3, cholecalciferol, USDA fortification, WIC, SNAP, school meals, food fortification, supplement mislabeling, calcification, vocal cords, dietary guidelines
+
+⸻
+
+FOIA 4: Vitamin D3 + Calcium Fortification (USDA)
+
+To: U.S. Department of Agriculture / Food and Nutrition Service (FNS)
+
+Request:
+
+Requesting any and all documents, program guidelines, research studies, internal communications, or vendor partnerships referencing combined fortification of foods or beverages with vitamin D3 and calcium from 1990 to present.
+
+This includes:
+	•	Risk-benefit analyses conducted by USDA regarding co-fortification with vitamin D3 and calcium
+	•	Communications concerning expansion of D3 + calcium fortification into school meal programs, WIC packages, or SNAP-related vendor requirements
+	•	Contracts with private vendors for supplying fortified food products containing both vitamin D3 and calcium
+	•	Reports or case studies documenting adverse outcomes, such as soft tissue mineralization, hypercalcemia, or speech/respiratory impairments, in populations exposed to co-fortified foods
+	•	Internal discussions about labeling accuracy, tolerable upper intake levels, and risks of cumulative exposure from co-fortified products
+
+Keywords: vitamin D3, calcium, USDA fortification, WIC, SNAP, school meals, co-fortification, hypercalcemia, soft tissue mineralization, cholecalciferol, dietary guidelines
+
