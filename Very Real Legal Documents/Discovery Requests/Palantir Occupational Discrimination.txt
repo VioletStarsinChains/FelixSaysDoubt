@@ -1,0 +1,60 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S THIRD COMBINED DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC. AND SUBCONTRACTORS
+
+Interrogatories
+	1.	State whether Palantir’s anomaly or NPE classification systems incorporated consumer purchase history, media consumption, or hobby/interest shifts as classification criteria.
+	2.	Identify whether occupational factors — including exposure to abnormally high volumes of information (e.g., professional closed captioning) — were analyzed or flagged as anomalous behaviors.
+	3.	State whether Palantir or its government clients ever assessed the risk of occupational bias in anomaly classification, particularly where employment itself requires atypical information exposure or consumer patterns.
+	4.	Identify whether Palantir Technologies Inc., or any of its subcontractors or affiliates, entered into a data-sharing agreement, partnership, or contract with Rev.com, Inc. or its affiliates, at any time from 2008 to present.
+	5.	If such an agreement existed, describe in detail:
+a. The scope of data shared (e.g., transcripts, captions, metadata, worker performance data, consumer purchase or interest data).
+b. The purposes for which the data were used.
+c. The Palantir platforms (e.g., Gotham, Foundry, Apollo) that ingested or processed such data.
+d. Whether data from captioners or transcriptionists (including Plaintiff) were analyzed or modeled.
+	6.	Identify all Palantir employees, contractors, or program managers who negotiated, executed, or oversaw any data-sharing agreement with Rev.com.
+	7.	State whether anomaly or NPE classification schemas incorporated data originating from Rev.com, including worker behavioral data, occupational performance patterns, or transcript-derived metadata.
+	8.	State whether Palantir or its government clients evaluated the risk that data from Rev.com could introduce occupational bias into anomaly/NPE classification, particularly affecting closed captioners or transcriptionists.
+
+Requests for Production
+	1.	Produce all documents, models, or schemas referencing purchase history, interest changes, or hobby shifts as indicators of anomaly/NPE status.
+	2.	Produce any audits, testing reports, or analyses addressing the disparate impact of anomaly classification on individuals in occupations involving unusually high information exposure (e.g., captioners, journalists, researchers).
+	3.	Produce all communications with government clients regarding the use of consumer purchase history, media consumption, or hobby shifts in anomaly/NPE classification.
+  4.	Produce all agreements, contracts, memoranda of understanding, or data-sharing agreements between Palantir Technologies Inc. (or its affiliates) and Rev.com, Inc.
+	5.	Produce all internal or external communications discussing the scope, purpose, or implementation of data-sharing between Palantir and Rev.com.
+	6.	Produce all technical specifications, data dictionaries, or ingestion schemas describing how Rev.com data were incorporated into Palantir platforms.
+	7.	Produce all testing reports, audits, or analyses addressing the use of Rev.com data in anomaly/NPE classification or other predictive modeling.
+	8.	Produce all communications with government clients referencing Rev.com data, including explanations of how such data were used in anomaly/NPE outputs.
