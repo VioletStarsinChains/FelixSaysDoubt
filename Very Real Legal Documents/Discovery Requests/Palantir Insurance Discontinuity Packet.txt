@@ -1,0 +1,81 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S INSURANCE DISCONTINUITY DISCOVERY PACKET
+
+(to Defendant Palantir Technologies Inc.)
+
+Preamble (Relevance Statement)
+Plaintiff Kellyn Clay alleges that Palantir Technologies aggregated Plaintiff’s health insurance data across multiple carriers, thereby possessing longitudinal continuity that no individual physician or insurer maintained. Plaintiff further alleges that this integration was used to identify and exploit vulnerabilities, including forced discontinuity of care and subsequent medical retaliation. These discovery requests seek to establish Palantir’s role as the enterprise’s continuity node, despite Plaintiff being denied continuity at the provider level.
+
+⸻
+
+Interrogatories
+	1.	Data Accumulation
+Identify all health insurance enrollment, claims, or provider assignment records concerning Plaintiff that Palantir systems received, stored, or processed from 1990 to present, including the source of each data stream.
+	2.	Integration Purpose
+Describe the methods by which Palantir integrated Plaintiff’s insurance and medical data across multiple carriers, and state the purposes for which such integration was used.
+	3.	Continuity Analysis
+State whether Palantir generated or received any analysis identifying Plaintiff’s lack of provider continuity (annual changes of insurers, repeated provider turnover) as a pattern, risk factor, vulnerability, or anomaly.
+	4.	Surveillance/Flagging
+Identify whether Plaintiff’s insurance discontinuity was ever flagged in Palantir systems for anomaly detection, behavioral modeling, or classification purposes.
+	5.	External Sharing
+State whether Plaintiff’s aggregated insurance data was shared with government agencies, contractors, or private vendors, and identify each such entity.
+
+⸻
+
+Requests for Production
+	1.	Enrollment and Claims Records
+Produce all records in Palantir’s possession reflecting Plaintiff’s health insurance enrollment, termination, claims, and provider assignments during Plaintiff’s dependent coverage years.
+	2.	Continuity Reports
+Produce all analyses, reports, or internal communications concerning Plaintiff’s provider discontinuity, frequent insurer changes, or fragmented medical history.
+	3.	Contracts and MOUs
+Produce all contracts, memoranda, or communications between Palantir and insurance carriers that held Plaintiff’s data regarding aggregation, integration, or anomaly detection.
+	4.	Surveillance Outputs
+Produce all outputs, dashboards, or analytic products in which Plaintiff’s insurance or provider discontinuity was represented, whether as a risk flag, anomaly, or behavioral feature.
+	5.	Communication with Government Entities
+Produce all communications between Palantir and government agencies (including but not limited to MDH, HHS, CMS, or DoD) referencing Plaintiff’s insurance history, continuity of care, or anomaly classification.
+
+⸻
+
+Requests for Admission
+	1.	Admit that Palantir aggregated Plaintiff’s health insurance data across multiple carriers.
+	2.	Admit that Palantir identified Plaintiff as having unusually frequent provider turnover or insurance discontinuity compared to typical dependent coverage.
+	3.	Admit that Palantir shared Plaintiff’s aggregated insurance data with one or more government agencies.
+	4.	Admit that Palantir used Plaintiff’s discontinuous medical history for anomaly detection, surveillance, or behavioral modeling.
+	5.	Admit that Palantir possessed longitudinal continuity of Plaintiff’s medical data that no individual physician or insurer maintained.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
