@@ -17,18 +17,13 @@ a private defense contractor headquartered in Denver, Colorado,
 
 and
 
-AMAZON.COM, INC.,
-a multinational e-commerce corporation headquartered in Seattle, Washington,
-
-and
-
 JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
 whose names and identities are presently unknown,
 
 and
 
-WILLIAM ALTON CLAY,
-individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
   Defendants.
 
 ⸻
@@ -48,6 +43,16 @@ d. Whether data from captioners or transcriptionists (including Plaintiff) were 
 	6.	Identify all Palantir employees, contractors, or program managers who negotiated, executed, or oversaw any data-sharing agreement with Rev.com.
 	7.	State whether anomaly or NPE classification schemas incorporated data originating from Rev.com, including worker behavioral data, occupational performance patterns, or transcript-derived metadata.
 	8.	State whether Palantir or its government clients evaluated the risk that data from Rev.com could introduce occupational bias into anomaly/NPE classification, particularly affecting closed captioners or transcriptionists.
+    9.  Identify whether Rev.com has, at any time from 2008 to present, entered into a data-sharing agreement, partnership, or contract with Palantir Technologies Inc. or any U.S. government agency.
+	10.	If such agreements existed, describe in detail:
+a. The scope of data shared (transcripts, captions, metadata, worker performance data, keystroke or biometric logs).
+b. The purposes for which the data were shared.
+c. The platforms or systems (including Palantir Gotham, Foundry, Apollo) in which such data were used.
+	11.	Identify all Rev.com employees, officers, or program managers who negotiated, executed, or oversaw any data-sharing agreement with Palantir Technologies Inc. or government agencies.
+	12.	State whether Rev.com collects or analyzes keystroke biometrics, typing cadence, or typing speed distributions from captioners, transcriptionists, or editors.
+	13.	State whether worker typing speed, keystroke dynamics, or other behavioral metadata were provided to Palantir Technologies Inc. or to government clients.
+	14.	Identify any Rev.com policies, compliance reviews, or risk assessments concerning the treatment of outlier typing speeds (e.g., speeds exceeding 120 WPM) in relation to anomaly detection, security vetting, or behavioral analysis.
+	15.	State whether Rev.com is aware of any audits, analyses, or government reports referencing worker typing speed, keystroke biometrics, or captioner behavioral data in connection with anomaly or NPE classification.
 
 Requests for Production
 	1.	Produce all documents, models, or schemas referencing purchase history, interest changes, or hobby shifts as indicators of anomaly/NPE status.
@@ -58,3 +63,11 @@ Requests for Production
 	6.	Produce all technical specifications, data dictionaries, or ingestion schemas describing how Rev.com data were incorporated into Palantir platforms.
 	7.	Produce all testing reports, audits, or analyses addressing the use of Rev.com data in anomaly/NPE classification or other predictive modeling.
 	8.	Produce all communications with government clients referencing Rev.com data, including explanations of how such data were used in anomaly/NPE outputs.
+    9.  Produce all contracts, agreements, or memoranda of understanding between Rev.com and Palantir Technologies Inc., or between Rev.com and any U.S. government agency, from 2008 to present.
+	10.	Produce all internal communications within Rev.com discussing data-sharing with Palantir Technologies Inc. or government agencies, including transcripts, captioning data, metadata, or worker performance data.
+	11.	Produce all invoices, billing records, or procurement documents reflecting payments by Palantir Technologies Inc. or government agencies for access to Rev.com data.
+	12.	Produce all technical specifications, ingestion schemas, or data dictionaries describing the capture and transfer of keystroke biometrics, typing cadence, or typing speed data from Rev.com workers.
+	13.	Produce all testing reports, audits, or analyses addressing the use of worker typing speed, keystroke dynamics, or captioner metadata in anomaly classification, NPE designations, or other predictive modeling.
+	14.	Produce all communications with Palantir Technologies Inc. or government clients referencing worker typing speed, keystroke biometrics, or captioning performance metrics.
+	15.	Produce all legal, compliance, or ethics reviews addressing whether data-sharing involving Rev.com workers’ typing speed or keystroke biometrics complied with civil rights law, privacy protections, or the Americans with Disabilities Act (ADA).
+
