@@ -1,0 +1,16 @@
+FOIA Request
+
+To DOJ / DHS / ODNI
+
+Request:
+
+Requesting any and all documents, reports, audits, compliance reviews, communications, or contractor records concerning the use of incentive-responsiveness as a variable or marker in behavioral modeling, anomaly classification, digital twin construction, or “Non-Person Entity (NPE)” designation, from 2008 to present.
+
+This includes:
+	•	Internal or contractor analyses describing how responsiveness to food rewards, financial incentives, consumer opportunities, or social rewards was measured or weighted in classification systems.
+	•	Records evaluating whether lack of incentive-responsiveness could result from disability, chronic illness, or fatigue-related conditions.
+	•	Communications with Palantir Technologies Inc. or other contractors discussing incentive-responsiveness as a factor in anomaly or NPE classification.
+	•	Risk assessments, disparate impact analyses, or civil rights/ADA compliance reviews addressing the fairness of incentive-responsiveness as a behavioral marker.
+	•	Documents reflecting concerns, objections, or whistleblower reports regarding the use of incentive-responsiveness in predictive models.
+
+Keywords: incentive-responsiveness, anomaly classification, Non-Person Entity, NPE, behavioral modeling, digital twin, Palantir, ADA compliance, chronic illness, disability discrimination
