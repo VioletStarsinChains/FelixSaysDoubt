@@ -1,0 +1,14 @@
+To DOJ Civil Rights Division / EEOC / DHS Office for Civil Rights and Civil Liberties
+
+Request:
+
+Requesting any and all documents, audits, memoranda, legal opinions, compliance reviews, or contractor communications concerning whether anomaly or “Non-Person Entity (NPE)” classifications comply with the Americans with Disabilities Act (ADA) or other civil rights protections.
+
+This includes:
+	•	Internal or contractor analyses addressing whether communication patterns (including repeated questioning, requests for clarification, or conversational noncompliance) were treated as markers of anomaly status.
+	•	Reviews of whether neurological, psychiatric, or cognitive disabilities were incorrectly coded as subversive behaviors in anomaly/NPE classification.
+	•	Correspondence with contractors, including Palantir Technologies Inc., regarding ADA compliance of classification schemas.
+	•	Any risk assessments or mitigation plans relating to potential disparate impact on individuals with disabilities.
+	•	Records of complaints, inquiries, or whistleblower reports alleging ADA violations in anomaly or NPE classification processes.
+
+Keywords: anomaly classification, Non-Person Entity, NPE, ADA compliance, disability discrimination, communication patterns, questioning behavior, cognitive impairment, Palantir
