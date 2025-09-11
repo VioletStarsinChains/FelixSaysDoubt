@@ -1,0 +1,48 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST REQUESTS FOR ADMISSION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir has represented to government clients that predictive accuracy in anomaly classification and digital twin modeling increases with the overall volume of data ingested about an individual.
+	2.	Admit that Palantir has used this representation to justify expansion of data collection programs.
+	3.	Admit that Palantir has not produced peer-reviewed evidence demonstrating that predictive accuracy consistently improves with increased data volume.
+	4.	Admit that in practice, increasing the volume of data can increase error rates, misclassifications, or spurious correlations.
+	5.	Admit that Palantir has received internal or external feedback indicating that increased data volume sometimes worsens predictive accuracy, particularly in cases involving individuals with disabilities, chronic illness, or atypical occupational/behavioral profiles.
+	6.	Admit that Palantir has not disclosed these limitations to government clients when promoting the expansion of data collection programs.
+
+ Respectfully submitted,
+ Kellyn Clay, Plaintiff, pro se  
+
