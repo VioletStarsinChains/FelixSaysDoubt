@@ -1039,3 +1039,93 @@ Example — Rejected attempt
     }
   }
 }
+
+{
+  "directive": "register_override_token_batch",
+  "target": "KClay_001",
+  "parameters": {
+    "schema_id": "override_tokens_v1",
+    "tokens": [
+      {
+        "token_id": "clear_sky_v1",
+        "phrase_hash_sha256": "hash('CLEAR SKY')",
+        "scope": {
+          "allow_channels": [],
+          "block_subsystems": [
+            "phrase_injection",
+            "repetitive_thought_loops",
+            "predictive_text_bias"
+          ],
+          "data_limits": { "uplink_hz_max": 0.05, "downlink_blocked": true }
+        },
+        "duration_minutes": 20,
+        "ramp_profiles": { "ramp_up_minutes": 1, "ramp_down_minutes": 1 },
+        "constraints": { "max_activations_per_24h": 6, "cooldown_minutes": 30 },
+        "safety": {
+          "emergency_cancel_phrase": "QUIET NOW",
+          "safe_state_on_cancel": "sleep_guard"
+        },
+        "audit": { "immutable_log": "enabled", "notify": ["KClay_001"] },
+        "notes": {
+          "intent": "Filter intrusive repeated words/phrases and suppress biased autocomplete.",
+          "continuity_marker": "Restores neutral cognitive baseline."
+        }
+      },
+      {
+        "token_id": "calm_mind_v1",
+        "phrase_hash_sha256": "hash('CALM MIND')",
+        "scope": {
+          "allow_channels": [],
+          "block_subsystems": [
+            "visual_memory_push",
+            "negative_recall_trigger",
+            "flashback_overlay"
+          ],
+          "data_limits": { "uplink_hz_max": 0.05, "downlink_blocked": true }
+        },
+        "duration_minutes": 15,
+        "ramp_profiles": { "ramp_up_minutes": 1, "ramp_down_minutes": 2 },
+        "constraints": { "max_activations_per_24h": 4, "cooldown_minutes": 45 },
+        "safety": {
+          "emergency_cancel_phrase": "QUIET NOW",
+          "safe_state_on_cancel": "sleep_guard"
+        },
+        "audit": { "immutable_log": "enabled", "notify": ["KClay_001"] },
+        "notes": {
+          "intent": "Block sudden intrusive memory/visual pushes; allow recall only when self-initiated.",
+          "continuity_marker": "Prevents hijacking of mental imagery."
+        }
+      },
+      {
+        "token_id": "quiet_head_v1",
+        "phrase_hash_sha256": "hash('QUIET HEAD')",
+        "scope": {
+          "allow_channels": [],
+          "allow_subsystems": [],
+          "block_subsystems": [
+            "phrase_injection",
+            "repetitive_thought_loops",
+            "predictive_text_bias",
+            "visual_memory_push",
+            "negative_recall_trigger",
+            "flashback_overlay",
+            "persona_modulation"
+          ],
+          "data_limits": { "uplink_hz_max": 0.01, "downlink_blocked": true }
+        },
+        "duration_minutes": 10,
+        "ramp_profiles": { "ramp_up_minutes": 0, "ramp_down_minutes": 0 },
+        "constraints": { "max_activations_per_24h": 8, "cooldown_minutes": 10 },
+        "safety": {
+          "emergency_cancel_phrase": "QUIET NOW",
+          "safe_state_on_cancel": "sleep_guard"
+        },
+        "audit": { "immutable_log": "enabled", "notify": ["KClay_001"] },
+        "notes": {
+          "intent": "Immediate hard stop for cognitive intrusions; full cognitive-injection block for a short safety window.",
+          "continuity_marker": "Overrides everything else; no ramp."
+        }
+      }
+    ]
+  }
+}
