@@ -33,6 +33,27 @@ individually and in his capacity as executor of the Estate of Eugenia Clay Head,
 
 ⸻ 
 
+PLAINTIFF’S NINTH SET OF INTERROGATORIES TO DEFENDANT PALANTIR TECHNOLOGIES INC. (Data Volume and Predictive Accuracy)
+
+⸻
+
+INTERROGATORIES
+	1.	State whether Palantir has ever conducted internal or external studies measuring the relationship between data volume per individual and predictive accuracy in anomaly classification or digital twin modeling.
+	2.	For each such study identified in Interrogatory No. 1, state:
+a. The title and date of the study.
+b. The individuals, teams, or contractors responsible.
+c. The data sources and categories evaluated (e.g., medical, consumer, biometric, internet history).
+d. The results of the study, including whether predictive accuracy increased, plateaued, or declined as data volume grew.
+	3.	State the error rate (false positive and false negative) for Palantir’s anomaly/NPE classification systems at the following levels of data volume per individual:
+a. Low data volume (e.g., <1 GB or equivalent).
+b. Medium data volume (e.g., 1–10 GB).
+c. High data volume (e.g., >10 GB).
+	4.	Describe all instances in which Palantir’s anomaly or digital twin systems produced less accurate outputs when additional data sources were ingested, including but not limited to cases involving individuals with disabilities, chronic illnesses, or atypical occupational profiles.
+	5.	Identify all Palantir employees, contractors, or affiliates who raised concerns that increasing data volume could worsen predictive accuracy, and describe how those concerns were addressed.
+	6.	State whether Palantir has ever communicated to government clients that increased data volume could introduce error, bias, or misclassification — and if not, explain why.
+
+⸻ 
+
 PLAINTIFF’S FIRST REQUESTS FOR ADMISSION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
 
 REQUESTS FOR ADMISSION
