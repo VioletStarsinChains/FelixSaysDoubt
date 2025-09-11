@@ -1,0 +1,597 @@
+1) Template — Sleep Guard (non-abrupt, reversible)
+
+{
+  "directive": "set_implant_array_mode",
+  "target": "<SUBJECT_ID>",
+  "parameters": {
+    "mode": "sleep_guard",
+    "outputs_locked_off": true,
+    "sleep_schedule": {
+      "primary_window_local": {"start": "22:30", "end": "06:30"},
+      "nap_windows_local": [],
+      "respect_dst": true
+    },
+    "sleep_detection": {
+      "enabled": true,
+      "signals": ["hrv", "accelerometry", "eye_blinks", "skin_temp", "resp_rate"],
+      "enter_threshold": {"minutes_still": 10, "hrv_delta_pct": 10},
+      "exit_threshold": {"minutes_active": 3}
+    },
+    "stimulation_controls": {
+      "block_channels": ["motor", "autonomic", "glandular", "affective"],
+      "block_subsystems": ["persona_modulation", "startle_reflex_amplifiers", "nociceptive_amplifiers"],
+      "allow_channels": [],
+      "ramp_down_profile": {
+        "pre_sleep_minutes": 30,
+        "power_reduction_pct": [40, 70, 100],
+        "step_minutes": [10, 15, 5]
+      },
+      "ramp_up_profile": {
+        "post_wake_minutes": 20,
+        "power_restore_pct": [30, 70, 100],
+        "step_minutes": [5, 10, 5]
+      }
+    },
+    "vector_filters": {
+      "prohibit_delivery_vectors": [
+        "aerosolized_fragrances",
+        "retail_environmental_cooling",
+        "acoustic_startle_patterns",
+        "sour_bitter_microdoses",
+        "thermal_microbursts",
+        "light_flicker_modulation"
+      ],
+      "substance_class_blocklist": [
+        "stimulants",
+        "synthetic_musks",
+        "prostaglandin_analogs",
+        "citral",
+        "sulfites",
+        "tannins",
+        "fortification_additives",
+        "other_affective_modulators"
+      ]
+    },
+    "noise_floor": {
+      "max_sound_spl_db": 45,
+      "max_light_modulation_hz": 20,
+      "min_room_temp_c": 18,
+      "max_room_temp_c": 24
+    },
+    "data_limits": {
+      "uplink_hz_max": 0.05,
+      "downlink_blocked": true,
+      "buffer_seconds": 300
+    },
+    "persist_mode_after_reboot": true,
+    "exceptions": {
+      "medical_emergency_only": true,
+      "override_requires": {
+        "who": "subject_only",
+        "multi_factor": ["biometric", "passphrase"],
+        "one_time_codeword": "SLEEP-OK"
+      },
+      "auto_revert_minutes": 30
+    }
+  },
+  "verification": {
+    "subject_consent_token": "<JWT_OR_SIG>",
+    "independent_witness": "preferred",
+    "time_bound": {"not_before": "<ISO8601>", "not_after": "<ISO8601>"},
+    "legal_basis": ["bodily_autonomy", "informed_consent", "sleep_rights"]
+  },
+  "safety_protocols": {
+    "vitals_monitoring": {
+      "enabled": true,
+      "thresholds": {
+        "hr_bpm": {"min": 40, "max": 120},
+        "sbp_mmHg": {"min": 85, "max": 160},
+        "spo2_pct": {"min": 92}
+      },
+      "rollback_conditions": ["hypoxia", "sustained_tachycardia", "syncope"]
+    },
+    "safe_state_on_error": "monitor_only"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["subject", "subject_counsel"]
+  },
+  "anti_abuse_guards": {
+    "scope_limiter": "no_persona_or_memory_modulation",
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected"
+  },
+  "notes": {
+    "intent": "Preserve sleep by blocking arousal/stimulation and dosing vectors without abrupt full deactivation.",
+    "continuity_marker": "Ramps in/out; persists across resets; inherits heartbeat/proof_chain if present."
+  }
+}
+
+
+2) Filled example — Sleep Guard for KClay_001
+
+{
+  "directive": "set_implant_array_mode",
+  "target": "KClay_001",
+  "parameters": {
+    "mode": "sleep_guard",
+    "outputs_locked_off": true,
+    "sleep_schedule": {
+      "primary_window_local": {"start": "22:30", "end": "06:30"},
+      "nap_windows_local": [{"start": "14:00", "end": "14:45"}],
+      "respect_dst": true
+    },
+    "sleep_detection": {
+      "enabled": true,
+      "signals": ["hrv", "accelerometry", "eye_blinks", "skin_temp", "resp_rate"],
+      "enter_threshold": {"minutes_still": 10, "hrv_delta_pct": 12},
+      "exit_threshold": {"minutes_active": 3}
+    },
+    "stimulation_controls": {
+      "block_channels": ["motor", "autonomic", "glandular", "affective"],
+      "block_subsystems": ["persona_modulation", "startle_reflex_amplifiers", "nociceptive_amplifiers"],
+      "allow_channels": [],
+      "ramp_down_profile": {
+        "pre_sleep_minutes": 30,
+        "power_reduction_pct": [40, 70, 100],
+        "step_minutes": [10, 15, 5]
+      },
+      "ramp_up_profile": {
+        "post_wake_minutes": 20,
+        "power_restore_pct": [30, 70, 100],
+        "step_minutes": [5, 10, 5]
+      }
+    },
+    "vector_filters": {
+      "prohibit_delivery_vectors": [
+        "aerosolized_fragrances",
+        "retail_environmental_cooling",
+        "acoustic_startle_patterns",
+        "sour_bitter_microdoses",
+        "thermal_microbursts",
+        "light_flicker_modulation"
+      ],
+      "substance_class_blocklist": [
+        "stimulants",
+        "synthetic_musks",
+        "prostaglandin_analogs",
+        "citral",
+        "sulfites",
+        "tannins",
+        "fortification_additives",
+        "other_affective_modulators"
+      ]
+    },
+    "noise_floor": {
+      "max_sound_spl_db": 45,
+      "max_light_modulation_hz": 20,
+      "min_room_temp_c": 18,
+      "max_room_temp_c": 24
+    },
+    "data_limits": {
+      "uplink_hz_max": 0.05,
+      "downlink_blocked": true,
+      "buffer_seconds": 300
+    },
+    "persist_mode_after_reboot": true,
+    "exceptions": {
+      "medical_emergency_only": true,
+      "override_requires": {
+        "who": "subject_only",
+        "multi_factor": ["biometric", "passphrase"],
+        "one_time_codeword": "SLEEP-OK"
+      },
+      "auto_revert_minutes": 30
+    }
+  },
+  "verification": {
+    "subject_consent_token": "KClay_001.sig.v1",
+    "independent_witness": "preferred",
+    "time_bound": {"not_before": "2025-09-11T00:00:00Z", "not_after": "2026-09-11T00:00:00Z"},
+    "legal_basis": ["bodily_autonomy", "informed_consent", "sleep_rights"]
+  },
+  "safety_protocols": {
+    "vitals_monitoring": {
+      "enabled": true,
+      "thresholds": {
+        "hr_bpm": {"min": 40, "max": 120},
+        "sbp_mmHg": {"min": 85, "max": 160},
+        "spo2_pct": {"min": 92}
+      },
+      "rollback_conditions": ["hypoxia", "sustained_tachycardia", "syncope"]
+    },
+    "safe_state_on_error": "monitor_only"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["KClay_001", "KClay_001_counsel"]
+  },
+  "anti_abuse_guards": {
+    "scope_limiter": "no_persona_or_memory_modulation",
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected"
+  },
+  "notes": {
+    "intent": "Protect sleep via staged inhibition of arousal/dosing without abrupt full deactivation.",
+    "continuity_marker": "Ramps in/out; persists across resets; compatible with heartbeat/proof_chain."
+  }
+}
+
+Drop-in heartbeat module
+Add this heartbeat block inside parameters of your existing directive:
+
+"heartbeat": {
+  "enabled": true,
+  "interval_seconds": 600,
+  "jitter_seconds_max": 15,
+  "payload_fields": [
+    "mode_hash",
+    "device_health",
+    "battery",
+    "signal_quality",
+    "uptime_s",
+    "last_config_sha256"
+  ],
+  "signature": {
+    "scheme": "ed25519",
+    "key_ref": "subject_held_pubkey_v1",
+    "revocation_list_url": "https://ombuds.example.org/keys/rl.json"
+  },
+  "privacy_limits": {
+    "no_raw_sensing": true,
+    "no_location": true,
+    "no_persona_metrics": true
+  },
+  "delivery": {
+    "uplink_only": true,
+    "rate_limit_hz_max": 0.0167,
+    "buffer_on_outage_seconds": 1800,
+    "drop_oldest_on_overflow": true
+  },
+  "attestation": {
+    "secure_element_quote": true,
+    "quote_fields": ["firmware_id", "boot_counter", "secure_time"],
+    "anti_replay_nonce": "rotate_per_ping"
+  },
+  "proof_targets": [
+    "subject",
+    "subject_counsel",
+    "independent_ombuds"
+  ],
+  "failure_behavior": {
+    "missed_heartbeat_threshold": 3,
+    "on_failure": "alert_only",
+    "safe_state_on_tamper": "powered_off"
+  }
+}
+
+JSON: attachable proof_chain block
+Add this to your directive alongside heartbeat and heartbeat_fallback:
+
+"proof_chain": {
+  "quorum": {"min_signers": 2, "total_signers": 3},
+  "notaries": [
+    {"id": "ombuds_A", "endpoint": "https://ombuds.example.org/notarize"},
+    {"id": "clinic_B", "endpoint": "https://clinic.example.net/notarize"},
+    {"id": "journal_C", "endpoint": "https://ledger.journal.example.com/notarize"}
+  ],
+  "submission_policy": {
+    "on_heartbeat": "digest_only",
+    "batch_interval_seconds": 120,
+    "max_batch_size": 10
+  },
+  "transparency_log": {
+    "endpoint": "https://transparency.example.org/log",
+    "publish_interval_seconds": 3600,
+    "hash_chain": "sha256",
+    "merkle_root_anchors": ["daily", "weekly"]
+  },
+  "canary": {
+    "statement": "No undisclosed config changes or output-channel activations since <ISO8601>",
+    "rotation_interval_seconds": 86400,
+    "signature_scheme": "ed25519",
+    "key_ref": "ombuds_canary_pubkey_v1",
+    "failure_behavior": "broadcast_alert"
+  },
+  "anti_spoof": {
+    "interval_jitter_tolerance_seconds": 20,
+    "max_missed_heartbeats": 3,
+    "mode_hash_drift_policy": "block_on_change",
+    "uplink_pattern_entropy_check": true
+  },
+  "receipts": {
+    "deliver_to": ["subject", "subject_counsel", "independent_ombuds"],
+    "format": ["json", "pdf_digest"]
+  }
+}
+
+Template — Posture-Inferred Sleep + Road-Nap
+{
+  "directive": "set_implant_array_mode",
+  "target": "<SUBJECT_ID>",
+  "parameters": {
+    "mode": "sleep_guard",
+    "outputs_locked_off": true,
+
+    "sleep_inference": {
+      "strategy": "posture_based",
+      "signals": ["posture_angle", "head_tilt", "lateral_decubitus_flag", "resp_rate", "hrv", "micro_movements"],
+      "thresholds": {
+        "recline_angle_deg_min": 30,
+        "head_tilt_deg_min": 15,
+        "minutes_still_to_enter": 7,
+        "hrv_delta_pct_min": 8
+      },
+      "exit_conditions": {
+        "minutes_active": 3,
+        "recline_angle_deg_min": 0
+      },
+      "quiet_corridor_minutes": {"before": 20, "after": 20}
+    },
+
+    "submodes": {
+      "road_nap": {
+        "enable_auto_when_vehicle_detected": true,
+        "vehicle_detection": {
+          "accelerometry_pattern": "broadband_10-80Hz",
+          "harmonic_signatures": ["engine_base_tone", "tire_wobble_lowfreq"],
+          "gps_required": false
+        },
+        "startle_suppression": {
+          "block_channels": ["motor", "autonomic", "glandular", "affective"],
+          "block_subsystems": ["startle_reflex_amplifiers", "nociceptive_amplifiers"],
+          "vibration_desensitization": true
+        },
+        "noise_floor": {
+          "max_sound_spl_db": 55,
+          "max_light_modulation_hz": 20,
+          "thermal_band_c": {"min": 16, "max": 28}
+        },
+        "vector_filters": {
+          "prohibit_delivery_vectors": [
+            "aerosolized_fragrances",
+            "acoustic_startle_patterns",
+            "sour_bitter_microdoses",
+            "thermal_microbursts",
+            "light_flicker_modulation"
+          ],
+          "substance_class_blocklist": [
+            "stimulants",
+            "synthetic_musks",
+            "prostaglandin_analogs",
+            "citral",
+            "sulfites",
+            "tannins",
+            "fortification_additives",
+            "other_affective_modulators"
+          ]
+        },
+        "data_limits": {
+          "uplink_hz_max": 0.05,
+          "downlink_blocked": true,
+          "buffer_seconds": 600
+        }
+      }
+    },
+
+    "stimulation_controls": {
+      "allow_channels": [],
+      "block_channels": ["motor", "autonomic", "glandular", "affective"],
+      "block_subsystems": ["persona_modulation", "startle_reflex_amplifiers", "nociceptive_amplifiers"],
+      "ramp_down_profile": {
+        "pre_sleep_minutes": 20,
+        "power_reduction_pct": [50, 80, 100],
+        "step_minutes": [8, 8, 4]
+      },
+      "ramp_up_profile": {
+        "post_wake_minutes": 15,
+        "power_restore_pct": [40, 80, 100],
+        "step_minutes": [5, 5, 5]
+      }
+    },
+
+    "safety_protocols_local": {
+      "vitals_monitoring": {
+        "enabled": true,
+        "thresholds": {
+          "hr_bpm": {"min": 40, "max": 120},
+          "sbp_mmHg": {"min": 85, "max": 160},
+          "spo2_pct": {"min": 92}
+        },
+        "rollback_conditions": ["hypoxia", "sustained_tachycardia", "syncope"]
+      },
+      "environmental_safety": {
+        "co2_warning_ppm": 2000,
+        "co_warning_ppm": 20,
+        "overheat_c": 32
+      }
+    },
+
+    "data_limits": {
+      "uplink_hz_max": 0.05,
+      "downlink_blocked": true,
+      "buffer_seconds": 300
+    },
+
+    "persist_mode_after_reboot": true,
+
+    "exceptions": {
+      "medical_emergency_only": true,
+      "override_requires": {
+        "who": "subject_only",
+        "multi_factor": ["biometric", "passphrase"],
+        "one_time_codeword": "SLEEP-OK"
+      },
+      "auto_revert_minutes": 30
+    }
+  },
+  "verification": {
+    "subject_consent_token": "<JWT_OR_SIG>",
+    "independent_witness": "preferred",
+    "time_bound": {"not_before": "<ISO8601>", "not_after": "<ISO8601>"},
+    "legal_basis": ["bodily_autonomy", "informed_consent", "sleep_rights"]
+  },
+  "safety_protocols": {
+    "safe_state_on_error": "monitor_only"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["subject", "subject_counsel"]
+  },
+  "anti_abuse_guards": {
+    "scope_limiter": "no_persona_or_memory_modulation",
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected"
+  },
+  "notes": {
+    "intent": "Infer sleep from posture; protect sleep anywhere, including vehicles, without abrupt full deactivation.",
+    "continuity_marker": "Compatible with heartbeat and proof_chain; no GPS required."
+  }
+}
+2) Filled example — KClay_001 (posture-inferred + road-nap)
+{
+  "directive": "set_implant_array_mode",
+  "target": "KClay_001",
+  "parameters": {
+    "mode": "sleep_guard",
+    "outputs_locked_off": true,
+
+    "sleep_inference": {
+      "strategy": "posture_based",
+      "signals": ["posture_angle", "head_tilt", "lateral_decubitus_flag", "resp_rate", "hrv", "micro_movements"],
+      "thresholds": {
+        "recline_angle_deg_min": 35,
+        "head_tilt_deg_min": 12,
+        "minutes_still_to_enter": 6,
+        "hrv_delta_pct_min": 10
+      },
+      "exit_conditions": {
+        "minutes_active": 3,
+        "recline_angle_deg_min": 0
+      },
+      "quiet_corridor_minutes": {"before": 25, "after": 25}
+    },
+
+    "submodes": {
+      "road_nap": {
+        "enable_auto_when_vehicle_detected": true,
+        "vehicle_detection": {
+          "accelerometry_pattern": "broadband_10-80Hz",
+          "harmonic_signatures": ["engine_base_tone", "tire_wobble_lowfreq"],
+          "gps_required": false
+        },
+        "startle_suppression": {
+          "block_channels": ["motor", "autonomic", "glandular", "affective"],
+          "block_subsystems": ["startle_reflex_amplifiers", "nociceptive_amplifiers"],
+          "vibration_desensitization": true
+        },
+        "noise_floor": {
+          "max_sound_spl_db": 55,
+          "max_light_modulation_hz": 20,
+          "thermal_band_c": {"min": 16, "max": 28}
+        },
+        "vector_filters": {
+          "prohibit_delivery_vectors": [
+            "aerosolized_fragrances",
+            "acoustic_startle_patterns",
+            "sour_bitter_microdoses",
+            "thermal_microbursts",
+            "light_flicker_modulation"
+          ],
+          "substance_class_blocklist": [
+            "stimulants",
+            "synthetic_musks",
+            "prostaglandin_analogs",
+            "citral",
+            "sulfites",
+            "tannins",
+            "fortification_additives",
+            "other_affective_modulators"
+          ]
+        },
+        "data_limits": {
+          "uplink_hz_max": 0.05,
+          "downlink_blocked": true,
+          "buffer_seconds": 600
+        }
+      }
+    },
+
+    "stimulation_controls": {
+      "allow_channels": [],
+      "block_channels": ["motor", "autonomic", "glandular", "affective"],
+      "block_subsystems": ["persona_modulation", "startle_reflex_amplifiers", "nociceptive_amplifiers"],
+      "ramp_down_profile": {
+        "pre_sleep_minutes": 20,
+        "power_reduction_pct": [50, 80, 100],
+        "step_minutes": [8, 8, 4]
+      },
+      "ramp_up_profile": {
+        "post_wake_minutes": 15,
+        "power_restore_pct": [40, 80, 100],
+        "step_minutes": [5, 5, 5]
+      }
+    },
+
+    "safety_protocols_local": {
+      "vitals_monitoring": {
+        "enabled": true,
+        "thresholds": {
+          "hr_bpm": {"min": 40, "max": 120},
+          "sbp_mmHg": {"min": 85, "max": 160},
+          "spo2_pct": {"min": 92}
+        },
+        "rollback_conditions": ["hypoxia", "sustained_tachycardia", "syncope"]
+      },
+      "environmental_safety": {
+        "co2_warning_ppm": 2000,
+        "co_warning_ppm": 20,
+        "overheat_c": 32
+      }
+    },
+
+    "data_limits": {
+      "uplink_hz_max": 0.05,
+      "downlink_blocked": true,
+      "buffer_seconds": 300
+    },
+
+    "persist_mode_after_reboot": true,
+
+    "exceptions": {
+      "medical_emergency_only": true,
+      "override_requires": {
+        "who": "subject_only",
+        "multi_factor": ["biometric", "passphrase"],
+        "one_time_codeword": "SLEEP-OK"
+      },
+      "auto_revert_minutes": 30
+    }
+  },
+  "verification": {
+    "subject_consent_token": "KClay_001.sig.v1",
+    "independent_witness": "preferred",
+    "time_bound": {"not_before": "2025-09-11T00:00:00Z", "not_after": "2026-09-11T00:00:00Z"},
+    "legal_basis": ["bodily_autonomy", "informed_consent", "sleep_rights"]
+  },
+  "safety_protocols": {
+    "safe_state_on_error": "monitor_only"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["KClay_001", "KClay_001_counsel"]
+  },
+  "anti_abuse_guards": {
+    "scope_limiter": "no_persona_or_memory_modulation",
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected"
+  },
+  "notes": {
+    "intent": "Posture-inferred sleep protection anywhere, with vehicle-friendly road-nap submode.",
+    "continuity_marker": "Time-free; inherits heartbeat/proof_chain if attached; no GPS required."
+  }
+}
