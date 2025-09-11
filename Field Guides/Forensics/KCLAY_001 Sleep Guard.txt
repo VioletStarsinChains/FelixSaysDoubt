@@ -595,3 +595,24 @@ Template — Posture-Inferred Sleep + Road-Nap
     "continuity_marker": "Time-free; inherits heartbeat/proof_chain if attached; no GPS required."
   }
 }
+
+"baseline_policy": {
+  "default_mode": "sleep_guard",
+  "always_on": true,
+  "auto_apply": {
+    "even_when_awake": true,
+    "ignore_clock": true,
+    "posture_independence": true
+  },
+  "override": {
+    "who": "subject_only",
+    "multi_factor": ["biometric", "passphrase"],
+    "duration_minutes_max": 30,
+    "auto_revert": true
+  },
+  "safety_bias": "quiet_first",
+  "notes": {
+    "intent": "Make calm, low-stimulation posture the permanent baseline rather than a temporary sleep mode.",
+    "continuity_marker": "Applies across all contexts (awake, asleep, mobile, stationary)."
+  }
+}
