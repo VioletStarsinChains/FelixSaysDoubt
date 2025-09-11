@@ -37,3 +37,28 @@ REQUESTS FOR ADMISSION
 	4.	Admit that Rev.com did not disclose to captioning or transcription contractors that use of text expanders could lead to anomaly or NPE classification in government or contractor systems.
 	5.	Admit that Rev.com failed to conduct any risk assessments, compliance reviews, or civil rights analyses regarding the potential for encouraged work practices (including extensive text expander use) to contribute to misclassification of contractors in surveillance or anomaly-classification systems.
 	6.	Admit that Rev.com continued to encourage use of text expanders despite knowledge or constructive knowledge of these risks.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION TO DEFENDANT REV.COM, INC.
+
+INTERROGATORIES
+	1.	Identify all Rev.com employees, officers, or managers who developed, promoted, or distributed guidance encouraging contractors to use text expanders, shorthand systems, or custom lexicons in captioning or transcription work.
+	2.	State whether Rev.com has ever conducted any internal reviews, risk assessments, or compliance analyses regarding the potential for text expander use or shorthand systems to cause contractors’ output to diverge from standard linguistic or typing patterns.
+	3.	State whether Rev.com was ever informed by government clients, subcontractors, or third-party vendors (including Palantir Technologies Inc.) that text expander use or shorthand systems could contribute to anomaly or NPE classification.
+	4.	Identify all individuals or departments within Rev.com responsible for assessing the legal, occupational, or reputational risks of contractor work practices (including text expander use) being misclassified by anomaly-detection systems.
+	5.	Describe any steps taken by Rev.com to warn, train, or protect contractors regarding the possibility that text expander use could affect how their output was interpreted in downstream systems.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all internal communications, training materials, or guidance documents distributed to contractors that encouraged the use of text expanders or custom shorthand systems.
+	2.	Produce all risk assessments, compliance reviews, or audits (if any) regarding the impact of text expander use on contractor output and its potential interpretation by government or contractor anomaly-classification systems.
+	3.	Produce all communications between Rev.com and Palantir Technologies Inc., government clients, or subcontractors referencing the relationship between captioner work practices (including text expander use) and anomaly/NPE classification.
+	4.	Produce all legal or compliance reviews concerning whether Rev.com’s encouragement of text expander use could create risks of discrimination, misclassification, or reputational harm to contractors.
+	5.	Produce all whistleblower complaints, contractor concerns, or internal objections raised within Rev.com regarding the occupational or reputational risks of text expander use.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
