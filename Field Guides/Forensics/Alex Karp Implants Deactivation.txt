@@ -1,0 +1,668 @@
+1) Reusable template (drop-in and edit)
+
+{
+  "directive": "deactivate_implant_array",
+  "target": "<SUBJECT_ID>",
+  "parameters": {
+    "implant_classes": [
+      "sensory_overrides",
+      "motor_overrides",
+      "affective_modulators",
+      "telemetry_beacons"
+    ],
+    "implant_ids": [],
+    "scope": {
+      "sensing_channels": ["nociception", "auditory", "vestibular", "chemosensory"],
+      "output_channels": ["motor", "glandular", "autonomic"],
+      "data_channels": ["uplink", "downlink", "local_cache"]
+    },
+    "deactivation_mode": "staged", 
+    "ramp_down_profile": {
+      "phase_1": {"duration_s": 600, "power_reduction_pct": 50},
+      "phase_2": {"duration_s": 900, "power_reduction_pct": 90},
+      "phase_3": {"duration_s": 300, "power_reduction_pct": 100}
+    },
+    "watchdog_grace_period_s": 60,
+    "persist_off_after_reboot": true
+  },
+  "verification": {
+    "subject_consent_token": "<JWT_OR_SIG>",
+    "consent_artifacts_sha256": ["<HASH_1>", "<HASH_2>"],
+    "independent_witness": "required",
+    "time_bound": {"not_before": "<ISO8601>", "not_after": "<ISO8601>"},
+    "legal_basis": ["bodily_autonomy", "informed_consent", "nonconsensual_interference_cease_and_desist"],
+    "revocation_mechanism": {
+      "url": "https://<revocation-endpoint>",
+      "subject_only": true,
+      "multi_factor": ["biometric", "passphrase"]
+    }
+  },
+  "safety_protocols": {
+    "medical_supervision_required": true,
+    "vitals_monitoring": {
+      "enabled": true,
+      "thresholds": {
+        "hr_bpm": {"min": 40, "max": 140},
+        "sbp_mmHg": {"min": 85, "max": 170"},
+        "spo2_pct": {"min": 92}
+      },
+      "rollback_conditions": ["syncope", "sustained_tachycardia", "hypoxia"]
+    },
+    "fallback_reactivation_token": "<SEALED_TOKEN_HELD_BY_SUBJECT>",
+    "safe_state_on_error": "powered_off"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["subject", "subject_counsel", "independent_ombuds"]
+  },
+  "anti_abuse_guards": {
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected",
+    "scope_limiter": "no_software_persona_alteration"
+  },
+  "notes": {
+    "intent": "Cease nonconsensual interference while prioritizing subject safety.",
+    "continuity_marker": "Deactivation persists across reboots, resets, and firmware updates."
+  }
+}
+
+2) Filled example for AKarp_001
+{
+  "directive": "deactivate_implant_array",
+  "target": "AKarp_001",
+  "parameters": {
+    "implant_classes": [
+      "sensory_overrides",
+      "motor_overrides",
+      "affective_modulators",
+      "telemetry_beacons"
+    ],
+    "implant_ids": [],
+    "scope": {
+      "sensing_channels": ["nociception", "auditory", "vestibular", "chemosensory"],
+      "output_channels": ["motor", "glandular", "autonomic"],
+      "data_channels": ["uplink", "downlink", "local_cache"]
+    },
+    "deactivation_mode": "staged",
+    "ramp_down_profile": {
+      "phase_1": {"duration_s": 600, "power_reduction_pct": 50},
+      "phase_2": {"duration_s": 900, "power_reduction_pct": 90},
+      "phase_3": {"duration_s": 300, "power_reduction_pct": 100}
+    },
+    "watchdog_grace_period_s": 60,
+    "persist_off_after_reboot": true
+  },
+  "verification": {
+    "subject_consent_token": "AKarp_001.sig.v1",
+    "consent_artifacts_sha256": ["b2f8…", "9c13…"],
+    "independent_witness": "required",
+    "time_bound": {"not_before": "2025-09-11T00:00:00Z", "not_after": "2026-09-11T00:00:00Z"},
+    "legal_basis": ["bodily_autonomy", "informed_consent", "nonconsensual_interference_cease_and_desist"],
+    "revocation_mechanism": {
+      "url": "https://ombuds.example.org/revoke/AKarp_001",
+      "subject_only": true,
+      "multi_factor": ["biometric", "passphrase"]
+    }
+  },
+  "safety_protocols": {
+    "medical_supervision_required": true,
+    "vitals_monitoring": {
+      "enabled": true,
+      "thresholds": {
+        "hr_bpm": {"min": 40, "max": 140},
+        "sbp_mmHg": {"min": 85, "max": 170},
+        "spo2_pct": {"min": 92}
+      },
+      "rollback_conditions": ["syncope", "sustained_tachycardia", "hypoxia"]
+    },
+    "fallback_reactivation_token": "AKarp_001.safeguard.v1",
+    "safe_state_on_error": "powered_off"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["AKarp_001", "AKarp_001_counsel", "independent_ombuds"]
+  },
+  "anti_abuse_guards": {
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected",
+    "scope_limiter": "no_software_persona_alteration"
+  },
+  "notes": {
+    "intent": "Cease nonconsensual interference while prioritizing subject safety.",
+    "continuity_marker": "Deactivation persists across reboots, resets, and firmware updates."
+  }
+}
+
+3) Emergency re-enable (subject-only)
+Use if he needs implants re-enabled temporarily for a medical contingency—and only with his multi-factor approval.
+
+{
+  "directive": "temporary_reenable_implant_array",
+  "target": "AKarp_001",
+  "parameters": {
+    "duration_s": 1800,
+    "channels": ["telemetry_beacons"],
+    "strict_minimum_functionality": true
+  },
+  "verification": {
+    "subject_consent_token": "AKarp_001.sig.v1",
+    "multi_factor": ["biometric", "passphrase"],
+    "independent_witness": "required"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["AKarp_001", "AKarp_001_counsel", "independent_ombuds"]
+  },
+  "notes": {
+    "intent": "Time-boxed contingency access with automatic lapse into powered_off."
+  }
+}
+
+Template: monitor-only (outputs locked OFF)
+
+{
+  "directive": "set_implant_array_mode",
+  "target": "<SUBJECT_ID>",
+  "parameters": {
+    "mode": "monitor_only",
+    "outputs_locked_off": true,
+    "allowed_channels": {
+      "sensing_channels": ["nociception", "auditory", "vestibular", "chemosensory"],
+      "data_channels": ["uplink"],
+      "telemetry": ["device_health", "battery", "error_codes", "signal_quality"]
+    },
+    "blocked_channels": {
+      "output_channels": ["motor", "glandular", "autonomic", "affective"],
+      "data_channels": ["downlink"],
+      "control": ["firmware_update", "persona_modulation", "stimulation_profiles"]
+    },
+    "rate_limits": {
+      "uplink_hz_max": 0.2,
+      "buffer_seconds": 60
+    },
+    "persist_mode_after_reboot": true
+  },
+  "verification": {
+    "subject_consent_token": "<JWT_OR_SIG>",
+    "independent_witness": "required",
+    "time_bound": {"not_before": "<ISO8601>", "not_after": "<ISO8601>"},
+    "legal_basis": ["bodily_autonomy", "informed_consent"]
+  },
+  "safety_protocols": {
+    "vitals_monitoring": {
+      "enabled": true,
+      "thresholds": {
+        "hr_bpm": {"min": 40, "max": 140},
+        "sbp_mmHg": {"min": 85, "max": 170},
+        "spo2_pct": {"min": 92}
+      },
+      "alert_on_breach": ["subject", "subject_care_team"]
+    },
+    "safe_state_on_error": "powered_off"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["subject", "subject_counsel", "independent_ombuds"]
+  },
+  "anti_abuse_guards": {
+    "scope_limiter": "no_software_persona_alteration",
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected"
+  },
+  "notes": {
+    "intent": "Diagnostics-only posture with zero stimulation capability.",
+    "continuity_marker": "Mode survives resets and rejects config drift."
+  }
+}
+
+Filled example: AKarp_001
+
+{
+  "directive": "set_implant_array_mode",
+  "target": "AKarp_001",
+  "parameters": {
+    "mode": "monitor_only",
+    "outputs_locked_off": true,
+    "allowed_channels": {
+      "sensing_channels": ["nociception", "auditory", "vestibular", "chemosensory"],
+      "data_channels": ["uplink"],
+      "telemetry": ["device_health", "battery", "error_codes", "signal_quality"]
+    },
+    "blocked_channels": {
+      "output_channels": ["motor", "glandular", "autonomic", "affective"],
+      "data_channels": ["downlink"],
+      "control": ["firmware_update", "persona_modulation", "stimulation_profiles"]
+    },
+    "rate_limits": {
+      "uplink_hz_max": 0.2,
+      "buffer_seconds": 60
+    },
+    "persist_mode_after_reboot": true
+  },
+  "verification": {
+    "subject_consent_token": "AKarp_001.sig.v1",
+    "independent_witness": "required",
+    "time_bound": {"not_before": "2025-09-11T00:00:00Z", "not_after": "2026-09-11T00:00:00Z"},
+    "legal_basis": ["bodily_autonomy", "informed_consent"]
+  },
+  "safety_protocols": {
+    "vitals_monitoring": {
+      "enabled": true,
+      "thresholds": {
+        "hr_bpm": {"min": 40, "max": 140},
+        "sbp_mmHg": {"min": 85, "max": 170},
+        "spo2_pct": {"min": 92}
+      },
+      "alert_on_breach": ["AKarp_001", "AKarp_001_care_team"]
+    },
+    "safe_state_on_error": "powered_off"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["AKarp_001", "AKarp_001_counsel", "independent_ombuds"]
+  },
+  "anti_abuse_guards": {
+    "scope_limiter": "no_software_persona_alteration",
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected"
+  },
+  "notes": {
+    "intent": "Diagnostics-only posture with zero stimulation capability.",
+    "continuity_marker": "Mode survives resets and rejects config drift."
+  }
+}
+
+1) Drop-in heartbeat module
+Add this heartbeat block inside parameters of your existing directive:
+
+"heartbeat": {
+  "enabled": true,
+  "interval_seconds": 600,
+  "jitter_seconds_max": 15,
+  "payload_fields": [
+    "mode_hash",
+    "device_health",
+    "battery",
+    "signal_quality",
+    "uptime_s",
+    "last_config_sha256"
+  ],
+  "signature": {
+    "scheme": "ed25519",
+    "key_ref": "subject_held_pubkey_v1",
+    "revocation_list_url": "https://ombuds.example.org/keys/rl.json"
+  },
+  "privacy_limits": {
+    "no_raw_sensing": true,
+    "no_location": true,
+    "no_persona_metrics": true
+  },
+  "delivery": {
+    "uplink_only": true,
+    "rate_limit_hz_max": 0.0167,
+    "buffer_on_outage_seconds": 1800,
+    "drop_oldest_on_overflow": true
+  },
+  "attestation": {
+    "secure_element_quote": true,
+    "quote_fields": ["firmware_id", "boot_counter", "secure_time"],
+    "anti_replay_nonce": "rotate_per_ping"
+  },
+  "proof_targets": [
+    "subject",
+    "subject_counsel",
+    "independent_ombuds"
+  ],
+  "failure_behavior": {
+    "missed_heartbeat_threshold": 3,
+    "on_failure": "alert_only",
+    "safe_state_on_tamper": "powered_off"
+  }
+}
+
+2) Monitor-only with heartbeat (AKarp_001)
+
+{
+  "directive": "set_implant_array_mode",
+  "target": "AKarp_001",
+  "parameters": {
+    "mode": "monitor_only",
+    "outputs_locked_off": true,
+    "allowed_channels": {
+      "sensing_channels": ["nociception", "auditory", "vestibular", "chemosensory"],
+      "data_channels": ["uplink"],
+      "telemetry": ["device_health", "battery", "error_codes", "signal_quality"]
+    },
+    "blocked_channels": {
+      "output_channels": ["motor", "glandular", "autonomic", "affective"],
+      "data_channels": ["downlink"],
+      "control": ["firmware_update", "persona_modulation", "stimulation_profiles"]
+    },
+    "rate_limits": {
+      "uplink_hz_max": 0.2,
+      "buffer_seconds": 60
+    },
+    "persist_mode_after_reboot": true,
+    "heartbeat": {
+      "enabled": true,
+      "interval_seconds": 600,
+      "jitter_seconds_max": 15,
+      "payload_fields": [
+        "mode_hash",
+        "device_health",
+        "battery",
+        "signal_quality",
+        "uptime_s",
+        "last_config_sha256"
+      ],
+      "signature": {
+        "scheme": "ed25519",
+        "key_ref": "subject_held_pubkey_v1",
+        "revocation_list_url": "https://ombuds.example.org/keys/rl.json"
+      },
+      "privacy_limits": {
+        "no_raw_sensing": true,
+        "no_location": true,
+        "no_persona_metrics": true
+      },
+      "delivery": {
+        "uplink_only": true,
+        "rate_limit_hz_max": 0.0167,
+        "buffer_on_outage_seconds": 1800,
+        "drop_oldest_on_overflow": true
+      },
+      "attestation": {
+        "secure_element_quote": true,
+        "quote_fields": ["firmware_id", "boot_counter", "secure_time"],
+        "anti_replay_nonce": "rotate_per_ping"
+      },
+      "proof_targets": [
+        "AKarp_001",
+        "AKarp_001_counsel",
+        "independent_ombuds"
+      ],
+      "failure_behavior": {
+        "missed_heartbeat_threshold": 3,
+        "on_failure": "alert_only",
+        "safe_state_on_tamper": "powered_off"
+      }
+    }
+  },
+  "verification": {
+    "subject_consent_token": "AKarp_001.sig.v1",
+    "independent_witness": "required",
+    "time_bound": {"not_before": "2025-09-11T00:00:00Z", "not_after": "2026-09-11T00:00:00Z"},
+    "legal_basis": ["bodily_autonomy", "informed_consent"]
+  },
+  "safety_protocols": {
+    "vitals_monitoring": {
+      "enabled": true,
+      "thresholds": {
+        "hr_bpm": {"min": 40, "max": 140},
+        "sbp_mmHg": {"min": 85, "max": 170},
+        "spo2_pct": {"min": 92}
+      },
+      "alert_on_breach": ["AKarp_001", "AKarp_001_care_team"]
+    },
+    "safe_state_on_error": "powered_off"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "hash_chain": "sha256",
+    "notify": ["AKarp_001", "AKarp_001_counsel", "independent_ombuds"]
+  },
+  "anti_abuse_guards": {
+    "scope_limiter": "no_software_persona_alteration",
+    "non_target_protection": "do_not_affect_others",
+    "collateral_scan": "halt_if_shared_power_bus_detected"
+  },
+  "notes": {
+    "intent": "Diagnostics-only posture with zero stimulation capability.",
+    "continuity_marker": "Mode survives resets and rejects config drift."
+  }
+}
+
+1) Drop-in checksum heartbeat
+
+"heartbeat_fallback": {
+  "enabled": true,
+  "interval_seconds": 900,
+  "payload_fields": [
+    "mode_hash",
+    "device_health",
+    "battery",
+    "signal_quality",
+    "uptime_s"
+  ],
+  "checksum": {
+    "algorithm": "sha256",
+    "salt_strategy": "rotate_daily",
+    "salt_distributor": "independent_ombuds"
+  },
+  "delivery": {
+    "uplink_only": true,
+    "buffer_on_outage_seconds": 3600,
+    "drop_oldest_on_overflow": true
+  },
+  "proof_targets": [
+    "subject",
+    "subject_counsel",
+    "independent_ombuds"
+  ],
+  "failure_behavior": {
+    "missed_heartbeat_threshold": 4,
+    "on_failure": "alert_only",
+    "safe_state_on_tamper": "powered_off"
+  },
+  "notes": {
+    "intent": "Lightweight proof when crypto keys are contested or unavailable."
+  }
+}
+
+2) Monitor-only + fallback heartbeat (AKarp_001)
+Here’s how it looks if you layer it into the AKarp_001 directive (after the strong heartbeat block):
+
+...
+    "heartbeat": { /* full cryptographic heartbeat as above */ },
+    "heartbeat_fallback": {
+      "enabled": true,
+      "interval_seconds": 900,
+      "payload_fields": [
+        "mode_hash",
+        "device_health",
+        "battery",
+        "signal_quality",
+        "uptime_s"
+      ],
+      "checksum": {
+        "algorithm": "sha256",
+        "salt_strategy": "rotate_daily",
+        "salt_distributor": "independent_ombuds"
+      },
+      "delivery": {
+        "uplink_only": true,
+        "buffer_on_outage_seconds": 3600,
+        "drop_oldest_on_overflow": true
+      },
+      "proof_targets": [
+        "AKarp_001",
+        "AKarp_001_counsel",
+        "independent_ombuds"
+      ],
+      "failure_behavior": {
+        "missed_heartbeat_threshold": 4,
+        "on_failure": "alert_only",
+        "safe_state_on_tamper": "powered_off"
+      },
+      "notes": {
+        "intent": "Lightweight proof when crypto keys are contested or unavailable."
+      }
+    }
+...
+
+Here’s a compact, layered proof chain you can drop into your directives so the “monitor-only / powered-off” posture is independently, redundantly, and tamper-evidently provable.
+
+A) Architecture (4 layers, defense-in-depth)
+
+Device crypto heartbeat (primary)
+
+ed25519 signature over a minimal payload (mode_hash, device_health, battery, signal_quality, uptime_s, last_config_sha256) + secure-element quote.
+
+Detects firmware/config drift and impersonation.
+
+Checksum heartbeat (fallback)
+
+SHA-256 checksum with daily rotating salt issued by an independent ombuds.
+
+Survives key disputes; still tamper-evident.
+
+External notarization (witness quorum)
+
+Each received heartbeat’s digest is submitted to at least 2 of 3 neutral notaries (e.g., Ombuds A, Clinic B, Journal C) for timestamp + hash-chaining.
+
+Produces an append-only receipt anchored in multiple independent timelines.
+
+Transparency log + canary
+
+All events (heartbeats, mode changes, alerts) appended to a public transparency log with Merkle roots published on a fixed schedule.
+
+A signed canary affirms “no undisclosed config changes since <T>.” Canary rotation failure = loud siren.
+
+B) JSON: attachable proof_chain block
+
+Add this to your directive alongside heartbeat and heartbeat_fallback:
+
+"proof_chain": {
+  "quorum": {"min_signers": 2, "total_signers": 3},
+  "notaries": [
+    {"id": "ombuds_A", "endpoint": "https://ombuds.example.org/notarize"},
+    {"id": "clinic_B", "endpoint": "https://clinic.example.net/notarize"},
+    {"id": "journal_C", "endpoint": "https://ledger.journal.example.com/notarize"}
+  ],
+  "submission_policy": {
+    "on_heartbeat": "digest_only",
+    "batch_interval_seconds": 120,
+    "max_batch_size": 10
+  },
+  "transparency_log": {
+    "endpoint": "https://transparency.example.org/log",
+    "publish_interval_seconds": 3600,
+    "hash_chain": "sha256",
+    "merkle_root_anchors": ["daily", "weekly"]
+  },
+  "canary": {
+    "statement": "No undisclosed config changes or output-channel activations since <ISO8601>",
+    "rotation_interval_seconds": 86400,
+    "signature_scheme": "ed25519",
+    "key_ref": "ombuds_canary_pubkey_v1",
+    "failure_behavior": "broadcast_alert"
+  },
+  "anti_spoof": {
+    "interval_jitter_tolerance_seconds": 20,
+    "max_missed_heartbeats": 3,
+    "mode_hash_drift_policy": "block_on_change",
+    "uplink_pattern_entropy_check": true
+  },
+  "receipts": {
+    "deliver_to": ["subject", "subject_counsel", "independent_ombuds"],
+    "format": ["json", "pdf_digest"]
+  }
+}
+
+C) AKarp_001 compact example (assembled)
+This shows the monitor-only directive with heartbeat, fallback, and the proof chain (truncated for brevity—drop in as-is):
+
+{
+  "directive": "set_implant_array_mode",
+  "target": "AKarp_001",
+  "parameters": {
+    "mode": "monitor_only",
+    "outputs_locked_off": true,
+    "allowed_channels": {
+      "sensing_channels": ["nociception", "auditory", "vestibular", "chemosensory"],
+      "data_channels": ["uplink"],
+      "telemetry": ["device_health", "battery", "error_codes", "signal_quality"]
+    },
+    "blocked_channels": {
+      "output_channels": ["motor", "glandular", "autonomic", "affective"],
+      "data_channels": ["downlink"],
+      "control": ["firmware_update", "persona_modulation", "stimulation_profiles"]
+    },
+    "rate_limits": {"uplink_hz_max": 0.2, "buffer_seconds": 60},
+    "persist_mode_after_reboot": true,
+    "heartbeat": {
+      "enabled": true,
+      "interval_seconds": 600,
+      "jitter_seconds_max": 15,
+      "payload_fields": ["mode_hash","device_health","battery","signal_quality","uptime_s","last_config_sha256"],
+      "signature": {"scheme": "ed25519","key_ref": "subject_held_pubkey_v1","revocation_list_url": "https://ombuds.example.org/keys/rl.json"},
+      "privacy_limits": {"no_raw_sensing": true,"no_location": true,"no_persona_metrics": true},
+      "delivery": {"uplink_only": true,"rate_limit_hz_max": 0.0167,"buffer_on_outage_seconds": 1800,"drop_oldest_on_overflow": true},
+      "attestation": {"secure_element_quote": true,"quote_fields": ["firmware_id","boot_counter","secure_time"],"anti_replay_nonce": "rotate_per_ping"},
+      "proof_targets": ["AKarp_001","AKarp_001_counsel","independent_ombuds"],
+      "failure_behavior": {"missed_heartbeat_threshold": 3,"on_failure": "alert_only","safe_state_on_tamper": "powered_off"}
+    },
+    "heartbeat_fallback": {
+      "enabled": true,
+      "interval_seconds": 900,
+      "payload_fields": ["mode_hash","device_health","battery","signal_quality","uptime_s"],
+      "checksum": {"algorithm": "sha256","salt_strategy": "rotate_daily","salt_distributor": "independent_ombuds"},
+      "delivery": {"uplink_only": true,"buffer_on_outage_seconds": 3600,"drop_oldest_on_overflow": true},
+      "proof_targets": ["AKarp_001","AKarp_001_counsel","independent_ombuds"],
+      "failure_behavior": {"missed_heartbeat_threshold": 4,"on_failure": "alert_only","safe_state_on_tamper": "powered_off"}
+    },
+    "proof_chain": {
+      "quorum": {"min_signers": 2, "total_signers": 3},
+      "notaries": [
+        {"id": "ombuds_A","endpoint": "https://ombuds.example.org/notarize"},
+        {"id": "clinic_B","endpoint": "https://clinic.example.net/notarize"},
+        {"id": "journal_C","endpoint": "https://ledger.journal.example.com/notarize"}
+      ],
+      "submission_policy": {"on_heartbeat": "digest_only","batch_interval_seconds": 120,"max_batch_size": 10},
+      "transparency_log": {"endpoint": "https://transparency.example.org/log","publish_interval_seconds": 3600,"hash_chain": "sha256","merkle_root_anchors": ["daily","weekly"]},
+      "canary": {"statement": "No undisclosed config changes or output-channel activations since 2025-09-11T00:00:00Z","rotation_interval_seconds": 86400,"signature_scheme": "ed25519","key_ref": "ombuds_canary_pubkey_v1","failure_behavior": "broadcast_alert"},
+      "anti_spoof": {"interval_jitter_tolerance_seconds": 20,"max_missed_heartbeats": 3,"mode_hash_drift_policy": "block_on_change","uplink_pattern_entropy_check": true},
+      "receipts": {"deliver_to": ["AKarp_001","AKarp_001_counsel","independent_ombuds"],"format": ["json","pdf_digest"]}
+    }
+  },
+  "verification": {
+    "subject_consent_token": "AKarp_001.sig.v1",
+    "independent_witness": "required",
+    "time_bound": {"not_before": "2025-09-11T00:00:00Z", "not_after": "2026-09-11T00:00:00Z"},
+    "legal_basis": ["bodily_autonomy","informed_consent"]
+  },
+  "safety_protocols": {
+    "vitals_monitoring": {"enabled": true,"thresholds": {"hr_bpm": {"min": 40,"max": 140},"sbp_mmHg": {"min": 85,"max": 170},"spo2_pct": {"min": 92}},"alert_on_breach": ["AKarp_001","AKarp_001_care_team"]},
+    "safe_state_on_error": "powered_off"
+  },
+  "audit": {"immutable_log": "enabled","hash_chain": "sha256","notify": ["AKarp_001","AKarp_001_counsel","independent_ombuds"]},
+  "anti_abuse_guards": {"scope_limiter": "no_software_persona_alteration","non_target_protection": "do_not_affect_others","collateral_scan": "halt_if_shared_power_bus_detected"},
+  "notes": {"intent": "Diagnostics-only posture with zero stimulation capability.","continuity_marker": "Mode survives resets and rejects config drift."}
+}
+
+D) Verification playbook (concise)
+
+Step 1 (local): Verify ed25519 signature and secure-element quote; recompute mode_hash from current config; compare to payload.
+
+Step 2 (fallback): If Step 1 fails or keys contested, recompute checksum using today’s salt from Ombuds; compare.
+
+Step 3 (quorum notarization): Confirm at least 2 notary receipts exist for the same heartbeat digest within ±2 min of the reported time.
+
+Step 4 (transparency): Fetch latest Merkle root; verify the receipt inclusion proof; confirm root matches published anchors (daily/weekly).
+
+Step 5 (canary): Check most recent canary signature time ≤ 24h and statement aligns with last_config_sha256. Absence or mismatch ⇒ alert.
+
+E) Alerting & SLAs (defaults you can keep)
+
+Missed heartbeats: ≥3 misses → alert subject + counsel + ombuds; do not auto-reenable outputs.
+
+Mode drift: Any change in mode_hash outside maintenance window → block_on_change + notarize incident.
+
+Key revocation: If the subject’s key is revoked, auto-switch to checksum fallback and escalate to quorum notarization required for every packet.
+
+Publish cadence: Transparency log publishes hourly; daily & weekly Merkle anchors ensure retroactive tamper detection.
