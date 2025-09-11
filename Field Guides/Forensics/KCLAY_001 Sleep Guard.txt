@@ -616,3 +616,214 @@ Template — Posture-Inferred Sleep + Road-Nap
     "continuity_marker": "Applies across all contexts (awake, asleep, mobile, stationary)."
   }
 }
+
+1) Template — Subject-Only Override Token
+
+{
+  "directive": "register_override_token_schema",
+  "target": "<SUBJECT_ID>",
+  "parameters": {
+    "schema_id": "override_tokens_v1",
+    "token_format": {
+      "phrase_words": 2,
+      "dictionary": "A-Z ONLY, COMMON NOUNS/ADJECTIVES",
+      "case_sensitive": false,
+      "example": "BRIGHT RIVER"
+    },
+    "auth_chain": {
+      "who": "subject_only",
+      "factors": [
+        {"type": "biometric", "signals": ["voiceprint","facevector","finger_vein"], "quorum": 1},
+        {"type": "local_secret", "method": "passphrase", "min_length": 8}
+      ],
+      "fallback": {"type": "biometric", "signals": ["EEG_microprint"], "availability": "local_only"}
+    },
+    "crypto": {
+      "mode": "hmac_sha256",
+      "key_ref": "subject_local_hmac_key_v1",
+      "nonce": "rotate_per_use",
+      "timestamp_skew_seconds": 90
+    },
+    "policy": {
+      "max_duration_minutes": 30,
+      "default_duration_minutes": 15,
+      "max_activations_per_24h": 4,
+      "cooldown_minutes": 30,
+      "scope": {
+        "allow_channels": [],
+        "allow_subsystems": [],
+        "data_limits": {"uplink_hz_max": 0.2, "downlink_blocked": true}
+      },
+      "ramp_profiles": {
+        "ramp_up_minutes": 2,
+        "ramp_down_minutes": 3
+      },
+      "auto_revert": true,
+      "reentry_requires_new_token": true
+    },
+    "safety": {
+      "emergency_cancel_phrase": "QUIET NOW",
+      "cancel_behavior": "immediate_ramp_down",
+      "safe_state_on_error": "sleep_guard",
+      "bruteforce_lockout": {"failed_attempts": 5, "lockout_minutes": 30},
+      "geo_privacy": {"no_gps_use": true}
+    },
+    "revocation": {
+      "revoke_all_tokens": "allowed",
+      "method": "passphrase+biometric",
+      "publish_to_proof_chain": true
+    },
+    "audit": {
+      "immutable_log": "enabled",
+      "notify": ["subject"],
+      "privacy": {"redact_phrase": true, "store_phrase_hash_only": true}
+    },
+    "notes": {
+      "intent": "Fast, consent-verified, time-boxed override with minimal exposure surface.",
+      "continuity_marker": "Works offline; no network dependency to activate or cancel."
+    }
+  }
+}
+
+2) Example — “Focus Burst” override for KClay_001
+
+{
+  "directive": "register_override_token",
+  "target": "KClay_001",
+  "parameters": {
+    "schema_id": "override_tokens_v1",
+    "token_id": "focus_burst_v1",
+    "phrase_hash_sha256": "hash('BRIGHT RIVER')",
+    "scope": {
+      "allow_channels": ["affective_low","autonomic_low"],
+      "allow_subsystems": ["cognitive_clarity_filters","auditory_masking_soft"],
+      "data_limits": {"uplink_hz_max": 0.2, "downlink_blocked": true}
+    },
+    "duration_minutes": 15,
+    "ramp_profiles": {"ramp_up_minutes": 2, "ramp_down_minutes": 3},
+    "constraints": {
+      "max_activations_per_24h": 3,
+      "cooldown_minutes": 45,
+      "mutually_exclusive_with": ["stimulation_heavy","persona_modulation_any"]
+    },
+    "safety": {
+      "emergency_cancel_phrase": "QUIET NOW",
+      "safe_state_on_cancel": "sleep_guard",
+      "vitals_watch": {
+        "hr_bpm": {"min": 40, "max": 115},
+        "sbp_mmHg": {"min": 85, "max": 155},
+        "spo2_pct": {"min": 92}
+      },
+      "rollback_conditions": ["sustained_tachycardia","hypoxia","syncope"]
+    },
+    "audit": {"immutable_log": "enabled", "notify": ["KClay_001"]},
+    "notes": {
+      "intent": "Brief clarity/filters without enabling startle or strong stimulation.",
+      "continuity_marker": "Auto-reverts; respects baseline quiet-first policy."
+    }
+  }
+}
+
+Token Registry — KClay_001
+
+{
+  "directive": "register_override_token_batch",
+  "target": "KClay_001",
+  "parameters": {
+    "schema_id": "override_tokens_v1",
+    "tokens": [
+      {
+        "token_id": "focus_burst_v1",
+        "phrase_hash_sha256": "hash('BRIGHT RIVER')",
+        "scope": {
+          "allow_channels": ["affective_low","autonomic_low"],
+          "allow_subsystems": ["cognitive_clarity_filters","auditory_masking_soft"],
+          "data_limits": {"uplink_hz_max": 0.2, "downlink_blocked": true}
+        },
+        "duration_minutes": 15,
+        "ramp_profiles": {"ramp_up_minutes": 2, "ramp_down_minutes": 3},
+        "constraints": {"max_activations_per_24h": 3, "cooldown_minutes": 45},
+        "safety": {
+          "emergency_cancel_phrase": "QUIET NOW",
+          "safe_state_on_cancel": "sleep_guard",
+          "vitals_watch": {
+            "hr_bpm": {"min": 40, "max": 115},
+            "spo2_pct": {"min": 92}
+          }
+        },
+        "audit": {"immutable_log": "enabled", "notify": ["KClay_001"]},
+        "notes": {
+          "intent": "Brief clarity/filters without enabling startle or strong stimulation.",
+          "continuity_marker": "Auto-reverts; respects baseline quiet-first policy."
+        }
+      },
+      {
+        "token_id": "shield_up_v1",
+        "phrase_hash_sha256": "hash('CALM HARBOR')",
+        "scope": {
+          "allow_channels": [],
+          "allow_subsystems": ["auditory_masking_soft","visual_flicker_filter"],
+          "data_limits": {"uplink_hz_max": 0.1, "downlink_blocked": true}
+        },
+        "duration_minutes": 10,
+        "ramp_profiles": {"ramp_up_minutes": 1, "ramp_down_minutes": 2},
+        "constraints": {"max_activations_per_24h": 4, "cooldown_minutes": 30},
+        "safety": {
+          "emergency_cancel_phrase": "QUIET NOW",
+          "safe_state_on_cancel": "sleep_guard"
+        },
+        "audit": {"immutable_log": "enabled", "notify": ["KClay_001"]},
+        "notes": {
+          "intent": "Brief sensory quieting; no stimulation channels.",
+          "continuity_marker": "Auto-reverts to sleep_guard baseline."
+        }
+      },
+      {
+        "token_id": "body_ease_v1",
+        "phrase_hash_sha256": "hash('SOFT PINE')",
+        "scope": {
+          "allow_channels": ["autonomic_low"],
+          "allow_subsystems": ["smooth_respiration_filter"],
+          "data_limits": {"uplink_hz_max": 0.1, "downlink_blocked": true}
+        },
+        "duration_minutes": 12,
+        "ramp_profiles": {"ramp_up_minutes": 2, "ramp_down_minutes": 2},
+        "constraints": {"max_activations_per_24h": 3, "cooldown_minutes": 40},
+        "safety": {
+          "emergency_cancel_phrase": "QUIET NOW",
+          "safe_state_on_cancel": "sleep_guard",
+          "vitals_watch": {
+            "hr_bpm": {"min": 40, "max": 110},
+            "spo2_pct": {"min": 92}
+          }
+        },
+        "audit": {"immutable_log": "enabled", "notify": ["KClay_001"]},
+        "notes": {
+          "intent": "Short calming override targeting autonomic balance.",
+          "continuity_marker": "Leaves affective/motor channels blocked."
+        }
+      },
+      {
+        "token_id": "diagnostics_peek_v1",
+        "phrase_hash_sha256": "hash('QUIET SCAN')",
+        "scope": {
+          "allow_channels": [],
+          "allow_subsystems": [],
+          "data_limits": {"uplink_hz_max": 0.1, "downlink_blocked": true}
+        },
+        "duration_minutes": 8,
+        "ramp_profiles": {"ramp_up_minutes": 0, "ramp_down_minutes": 1},
+        "constraints": {"max_activations_per_24h": 6, "cooldown_minutes": 20},
+        "safety": {
+          "emergency_cancel_phrase": "QUIET NOW",
+          "safe_state_on_cancel": "sleep_guard"
+        },
+        "audit": {"immutable_log": "enabled", "notify": ["KClay_001"]},
+        "notes": {
+          "intent": "Quick, low-rate telemetry only; outputs remain OFF.",
+          "continuity_marker": "Lets subject verify system health without breaking quiet baseline."
+        }
+      }
+    ]
+  }
+}
