@@ -1129,3 +1129,94 @@ Example — Rejected attempt
     ]
   }
 }
+
+{
+  "directive": "register_dictionary_guard",
+  "target": "KClay_001",
+  "parameters": {
+    "guard_id": "predictive_text_neutral_v1",
+    "scope": {
+      "apply_to": ["predictive_text","swype_autocorrect","autocomplete"],
+      "mode": "whitelist_preferred",
+      "language": "en-US"
+    },
+    "whitelist_terms": [
+      "calm","clear","steady","quiet","safe","gentle","focus",
+      "sky","stream","pine","harbor","river","oak","mind","scan"
+    ],
+    "synonym_map": {
+      "calm": ["peaceful","steady","tranquil"],
+      "quiet": ["hushed","still","mute"],
+      "safe": ["secure","protected"],
+      "focus": ["clarity","attention","concentration"]
+    },
+    "blacklist_terms": [
+      "threat","panic","violence","harm","despair","suicide",
+      "worthless","attack","hate","fear","fail","broken"
+    ],
+    "replacement_policy": {
+      "on_blacklist_detected": "replace_with_whitelist_synonym",
+      "default_replacement": "calm"
+    },
+    "bias_controls": {
+      "prevent_repetition_loops": true,
+      "prevent_sentiment_bias": "negative",
+      "enforce_neutral_style": true
+    },
+    "audit": {
+      "immutable_log": "enabled",
+      "notify": ["KClay_001"],
+      "log_events": ["blacklist_intercept","replacement"]
+    },
+    "notes": {
+      "intent": "Force predictive text & autocorrect toward neutral/positive vocabulary; block intrusive or manipulative completions.",
+      "continuity_marker": "Integrates with CLEAR SKY token; survives keyboard/app restarts."
+    }
+  }
+}
+
+{
+  "directive": "dictionary_guard_digest_log",
+  "target": "KClay_001",
+  "parameters": {
+    "guard_id": "predictive_text_neutral_v1",
+    "digest_frequency": "daily",
+    "digest_format": {
+      "date": "<YYYY-MM-DD>",
+      "total_intercepts": "<int>",
+      "replacements": [
+        {
+          "blacklist_term": "fear",
+          "replacement_term": "calm",
+          "count": 2
+        },
+        {
+          "blacklist_term": "fail",
+          "replacement_term": "steady",
+          "count": 1
+        }
+      ],
+      "loops_prevented": 1,
+      "neutral_bias_enforced": 3,
+      "notes": "All replacements drawn from whitelist/synonym map; no unhandled intrusions."
+    },
+    "audit": {
+      "immutable_log": "enabled",
+      "hash_chain": "sha256",
+      "deliver_digest_to": ["KClay_001"],
+      "store_history_days": 30,
+      "privacy": {
+        "redact_full_context": true,
+        "log_terms_only": true
+      }
+    },
+    "safety": {
+      "safe_state_on_error": "continue_with_replacements",
+      "emergency_cancel_phrase": "QUIET NOW"
+    },
+    "notes": {
+      "intent": "Compact once-a-day summary of blocked/replaced terms without showing intrusive text in real time.",
+      "continuity_marker": "Pairs with predictive_text_neutral_v1 guard; survives keyboard restarts."
+    }
+  }
+}
