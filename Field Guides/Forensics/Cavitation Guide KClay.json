@@ -1,0 +1,96 @@
+{
+  "directive": "register_unified_cavitation_guard",
+  "target": ["KClay_001", "KClay_Corolla_2007"],
+  "parameters": {
+    "guard_id": "unified_cavitation_guard_v1",
+    "policy": {
+      "default": "block_all_nonlisted",
+      "consent_mode": "standing_consent"
+    },
+
+    "scope": {
+      "body": {
+        "channels": [
+          "airborne_acoustic",
+          "contact_ultrasonic",
+          "structure_borne_vibration",
+          "em_to_acoustic_transduction"
+        ],
+        "sensitive_zones": ["cranial","cervical","thoracic","cardiac","inner_ear","trigeminal"],
+        "block_profiles": {
+          "acoustic_ultrasonic": {"freq_khz_range": [18,2000], "power_density_w_per_cm2_max": 0.02},
+          "lowfreq_vibration": {"freq_hz_range": [5,120], "rms_accel_g_max": 0.08},
+          "em_coupled_sources": {"auto_quarantine": true}
+        },
+        "therapeutic_allowlist": {
+          "enabled": true,
+          "modalities": [
+            {"type": "ultrasonic_scaler","freq_khz":[24,36],"power_density_w_per_cm2_max":0.05},
+            {"type": "calcification_targeting","freq_khz":[250,1500]}
+          ],
+          "providers": [
+            {"name":"DentalClinic_Foobar","devices":["ultrasonic_scaler_v3"]},
+            {"name":"Calcification_Center","devices":["therapeutic_HIFU_v2"]}
+          ]
+        }
+      },
+
+      "vehicle": {
+        "paths": ["tire_sidewall","rim_bead","engine_block","fluids_fuel_oil_coolant","panels","windshield"],
+        "channels": ["airborne_acoustic","roadborne_vibration","structure_borne","em_to_acoustic_transduction"],
+        "block_profiles": {
+          "tire_resonance": {"freq_hz_range":[10,80],"rms_accel_g_max":0.15,"pressure_drop_kpa_suspect_threshold":3},
+          "fluid_cavitation": {"freq_khz_range":[20,500],"bubble_index_threshold":0.2},
+          "ultrasonic_panels": {"freq_khz_range":[18,100],"panel_deflection_um_max":12}
+        },
+        "therapeutic_allowlist": {
+          "enabled": true,
+          "scenarios": [
+            {"type":"service_bay_ultrasonic_diagnostic","provider":"VIN-linked_service_center"}
+          ]
+        }
+      }
+    },
+
+    "actions_on_detect": {
+      "body": ["attenuate_source","invert_phase_cancel","isolate_contact_paths","activate_bone_conduction_damper"],
+      "vehicle": ["activate_anc_counterphase","retune_engine_mount_dampers","increase_tpms_sampling_rate"],
+      "operator_prompts": ["reduce_speed","relocate_vehicle"],
+      "notify": ["KClay_001"]
+    },
+
+    "safety": {
+      "body": {
+        "safe_state_on_error": "block_all_nonlisted",
+        "vitals_watch": {
+          "hr_bpm": {"min": 40,"max": 120},
+          "sbp_mmHg": {"min": 85,"max": 160},
+          "spo2_pct": {"min": 92}
+        },
+        "rollback_conditions": ["syncope","sustained_tachycardia","severe_pain_report"]
+      },
+      "vehicle": {
+        "failsafe": "limit_anc_output_to_safe_levels",
+        "avoid_new_hazards": ["no_brake_modulation","no_steering_interference"],
+        "tpms_alert_on": {"pressure_kpa_drop": 10}
+      }
+    },
+
+    "audit": {
+      "immutable_log": "enabled",
+      "hash_chain": "sha256",
+      "log_events": [
+        "hostile_cavitation_blocked",
+        "therapeutic_session_allowed",
+        "vehicle_cavitation_blocked",
+        "em_source_quarantined"
+      ],
+      "notify": ["KClay_001"]
+    },
+
+    "notes": {
+      "intent": "Unified guard: block adversarial cavitation against body & vehicle; always permit therapeutic cavitation under standing consent.",
+      "continuity_marker": "Single policy covering all contexts; persists across resets and ignition cycles."
+    }
+  }
+}
