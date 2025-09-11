@@ -1,0 +1,135 @@
+1) Access policy JSON (for a provider to apply)
+
+Ask the provider to drop this into their policy engine. It halts automated IP/geofence denials for your account/devices unless a human review finds real abuse. It’s audit-heavy and narrow in scope.
+
+{
+  "directive": "access_policy_update",
+  "target": "provider_edge_gateways",
+  "parameters": {
+    "policy_id": "do_not_geofence_KClay_001_v1",
+    "scope": {
+      "principal_ids": ["acct:KClay_001"],
+      "device_fingerprints": ["dfp:KClay_phone_v1","dfp:KClay_browser_v1"],
+      "ip_allow_hint": ["last_known_good_asn","residential_dynamic_range"],
+      "geo_allow_hint": ["service_area_primary","service_area_adjacent"]
+    },
+    "rules": {
+      "block_reasons_suppressed": [
+        "ip_geofence",
+        "region_restriction",
+        "ip_reputation_uncertain"
+      ],
+      "require_human_review_if": [
+        "fraud_score>=0.80",
+        "bot_prob>=0.95",
+        "chargeback_history>0"
+      ],
+      "allow_on_clean": true,
+      "deny_only_on": [
+        "confirmed_fraud",
+        "legal_restriction",
+        "active_account_suspension"
+      ]
+    },
+    "rate_limits": {
+      "requests_per_minute_max": 12,
+      "burst": 6
+    },
+    "verification": {
+      "subject_consent_token": "KClay_001.sig.v1",
+      "contact_of_record": "kellyn.clay+access@proton.example",
+      "witness_option": "preferred"
+    },
+    "audit": {
+      "immutable_log": "enabled",
+      "hash_chain": "sha256",
+      "log_events": [
+        "geofence_check",
+        "ip_reputation_check",
+        "human_review_decision"
+      ],
+      "notify": ["acct:KClay_001"]
+    },
+    "appeals": {
+      "auto_ticket_on_deny": true,
+      "ticket_sla_hours": 24,
+      "explainability_required": true,
+      "explanation_fields": ["reason_code","rule_id","evidence_snippets"]
+    },
+    "anti_abuse_guards": {
+      "non_principal_protection": "no_broad_whitelist",
+      "scope_limiter": "match_principal_and_device",
+      "revocation": {
+        "on_abuse_confirmed": "revert_policy_and_notify"
+      }
+    }
+  },
+  "notes": {
+    "intent": "Disable automated IP/geofence denials for the named principal while preserving fraud/abuse protections with human review.",
+    "continuity_marker": "Survives provider cache flushes; audited end to end."
+  }
+}
+
+2) Human-readable unblock request (send to provider trust/safety)
+
+Subject: Request to disable automated IP/Geofence denials for account KClay_001
+
+Hello Trust & Safety,
+
+I am experiencing repeated automated denials tied to IP/geolocation checks for my account KClay_001 on [service name]. I am a legitimate user in your service area and need my account restored to normal access.
+
+I’m requesting you apply a narrow, audited exception that:
+	•	suppresses automated “ip_geofence / region_restriction / ip_reputation_uncertain” denials,
+	•	preserves fraud/abuse protections via human review only, and
+	•	generates an appeal ticket with a clear reason code whenever access is denied.
+
+I’ve attached an evidence bundle with timestamps, error codes, and IP/ASN details. If you maintain a policy engine, you may adapt the attached JSON (“do_not_geofence_KClay_001_v1”) to your environment.
+
+Thank you,
+Kellyn Clay
+keclay@gmail.com • 770-298-9590 
+
+{
+  "subject": "KClay_001",
+  "incidents": [
+    {
+      "ts_utc": "2025-09-11T14:22:31Z",
+      "service": "AutoServiceCo Scheduling",
+      "endpoint": "https://api.autoservice.example/appointments",
+      "client_ip": "x.x.x.x",
+      "asn_hint": "ASxxxx Residential ISP",
+      "geo_hint": "Twin Cities metro (approx.)",
+      "error_code": "GEOFENCE_DENY",
+      "http_status": 403,
+      "client_device": "dfp:KClay_phone_v1",
+      "session_id": "sess_abc123",
+      "message": "Region not eligible",
+      "screenshot_ref": "link_or_filename"
+    },
+    {
+      "ts_utc": "2025-09-11T15:07:10Z",
+      "service": "AutoServiceCo Mobile",
+      "endpoint": "app://booking",
+      "client_ip": "x.x.x.x",
+      "asn_hint": "ASxxxx Residential ISP",
+      "geo_hint": "Twin Cities metro (approx.)",
+      "error_code": "IP_REPUTATION_UNCERTAIN",
+      "http_status": 429,
+      "client_device": "dfp:KClay_browser_v1",
+      "session_id": "sess_def456",
+      "message": "We can’t serve your area",
+      "screenshot_ref": "link_or_filename"
+    }
+  ],
+  "summary": {
+    "count": 2,
+    "pattern": "Automated geofence/IP reputation blocks despite in-area presence",
+    "requested_action": "Apply policy do_not_geofence_KClay_001_v1; require human review for actual risk"
+  },
+  "contact": {
+    "name": "Kellyn Clay",
+    "email": "kellyn.clay+access@proton.example",
+    "phone": "[optional]"
+  }
+}
+
