@@ -1008,3 +1008,34 @@ Example — Rejected attempt
   }
 }
 
+{
+  "directive": "register_override_token",
+  "target": "KClay_001",
+  "parameters": {
+    "schema_id": "override_tokens_v1",
+    "token_id": "stop_beat_v1",
+    "phrase_hash_sha256": "hash('STOP BEAT')",
+    "scope": {
+      "allow_channels": [],
+      "allow_subsystems": [],
+      "block_channels": ["motor","autonomic","glandular","affective"],
+      "data_limits": {"uplink_hz_max": 0.01, "downlink_blocked": true}
+    },
+    "duration_minutes": 5,
+    "ramp_profiles": {"ramp_up_minutes": 0, "ramp_down_minutes": 0},
+    "constraints": {"max_activations_per_24h": 10, "cooldown_minutes": 5},
+    "safety": {
+      "emergency_cancel_phrase": "QUIET NOW",
+      "safe_state_on_cancel": "sleep_guard",
+      "vitals_watch": {
+        "hr_bpm": {"min": 45, "max": 100}
+      },
+      "rollback_conditions": ["bradycardia","hypotension","syncope"]
+    },
+    "audit": {"immutable_log": "enabled", "notify": ["KClay_001"]},
+    "notes": {
+      "intent": "Immediate emergency brake on tachycardia; force system into safe baseline within seconds.",
+      "continuity_marker": "Overrides everything else; no ramp, no grace period."
+    }
+  }
+}
