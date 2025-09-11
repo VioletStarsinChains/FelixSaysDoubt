@@ -1,0 +1,39 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST REQUESTS FOR ADMISSION TO DEFENDANT REV.COM, INC.
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Rev.com encouraged captioning and transcription contractors to use text expanders and custom shorthand systems to improve typing speed and efficiency.
+	2.	Admit that Rev.com knew or should have known that extensive use of text expanders and shorthand systems could cause contractors’ written output to diverge from standard linguistic or typing patterns.
+	3.	Admit that Rev.com knew or should have known that such divergence could be ingested by government or contractor systems (including but not limited to Palantir Technologies Inc.) and misclassified as evidence of anomaly, subversion, or “Non-Person Entity (NPE)” status.
+	4.	Admit that Rev.com did not disclose to captioning or transcription contractors that use of text expanders could lead to anomaly or NPE classification in government or contractor systems.
+	5.	Admit that Rev.com failed to conduct any risk assessments, compliance reviews, or civil rights analyses regarding the potential for encouraged work practices (including extensive text expander use) to contribute to misclassification of contractors in surveillance or anomaly-classification systems.
+	6.	Admit that Rev.com continued to encourage use of text expanders despite knowledge or constructive knowledge of these risks.
