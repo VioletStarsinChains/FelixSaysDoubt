@@ -827,3 +827,184 @@ Token Registry — KClay_001
     ]
   }
 }
+
+{
+  "directive": "register_override_token_schema",
+  "target": "KClay_001",
+  "parameters": {
+    "schema_id": "override_tokens_v1",
+    "token_format": {
+      "phrase_words": 2,
+      "dictionary": "A-Z ONLY, COMMON NOUNS/ADJECTIVES",
+      "case_sensitive": false
+    },
+    "auth_chain": {
+      "who": "subject_only",
+      "input_modalities": ["think", "say", "type", "gesture"],
+      "factors": [
+        {"type": "biometric", "signals": ["EEG_microprint","voiceprint","facevector","finger_vein"], "quorum": 1},
+        {"type": "local_secret", "method": "phrase_token"}
+      ],
+      "policy": {
+        "require_modalities_quorum": 2,
+        "modalities_timeout_seconds": 20,
+        "allow_pairs": [
+          ["think","gesture"],
+          ["think","type"],
+          ["say","type"],
+          ["say","gesture"],
+          ["type","gesture"],
+          ["think","say"]
+        ],
+        "deny_if_env_noise_db_over": 75
+      }
+    },
+    "crypto": {
+      "mode": "hmac_sha256",
+      "key_ref": "subject_local_hmac_key_v1",
+      "nonce": "rotate_per_use",
+      "timestamp_skew_seconds": 90
+    },
+    "safety": {
+      "emergency_cancel_phrase": "QUIET NOW",
+      "cancel_behavior": "immediate_ramp_down",
+      "safe_state_on_error": "sleep_guard",
+      "bruteforce_lockout": {"failed_attempts": 5, "lockout_minutes": 30},
+      "geo_privacy": {"no_gps_use": true}
+    },
+    "audit": {"immutable_log": "enabled", "notify": ["KClay_001"], "privacy": {"redact_phrase": true}}
+  }
+}
+
+An example showing the inheritance explicitly:
+
+{
+  "directive": "register_override_token",
+  "target": "KClay_001",
+  "parameters": {
+    "schema_id": "override_tokens_v1",
+    "token_id": "focus_burst_v1",
+    "phrase_hash_sha256": "hash('BRIGHT RIVER')",
+    "scope": {
+      "allow_channels": ["affective_low","autonomic_low"],
+      "allow_subsystems": ["cognitive_clarity_filters","auditory_masking_soft"],
+      "data_limits": {"uplink_hz_max": 0.2, "downlink_blocked": true}
+    },
+    "duration_minutes": 15,
+    "ramp_profiles": {"ramp_up_minutes": 2, "ramp_down_minutes": 3},
+    "constraints": {"max_activations_per_24h": 3, "cooldown_minutes": 45},
+    "notes": {"invocation": "Any 2 of: think / say / type / gesture within 20s window."}
+  }
+}
+
+Template — Modalities Status Log
+
+{
+  "directive": "modalities_status_log",
+  "target": "<SUBJECT_ID>",
+  "entries": [
+    {
+      "timestamp_utc": "<ISO8601>",
+      "modality": "think | say | type | gesture",
+      "phrase_detected": true,
+      "biometric_match": true,
+      "noise_flag": false,
+      "accepted": true,
+      "notes": "Matched expected EEG_microprint + phrase hash"
+    }
+  ],
+  "token_result": {
+    "token_id": "<TOKEN_ID>",
+    "status": "accepted | rejected | canceled",
+    "reason": "met_2_of_4 | insufficient_modalities | wrong_phrase | emergency_cancel",
+    "revert_time_utc": "<ISO8601>"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "privacy": {
+      "store_phrase_hash_only": true,
+      "redact_biometric_raw": true
+    }
+  }
+}
+
+Example — Focus Burst (BRIGHT RIVER) attempt
+
+{
+  "directive": "modalities_status_log",
+  "target": "KClay_001",
+  "entries": [
+    {
+      "timestamp_utc": "2025-09-11T16:04:02Z",
+      "modality": "think",
+      "phrase_detected": true,
+      "biometric_match": true,
+      "noise_flag": false,
+      "accepted": true,
+      "notes": "EEG_microprint consistent with calibration"
+    },
+    {
+      "timestamp_utc": "2025-09-11T16:04:05Z",
+      "modality": "gesture",
+      "phrase_detected": true,
+      "biometric_match": true,
+      "noise_flag": false,
+      "accepted": true,
+      "notes": "Two-finger tap + breath pattern matched"
+    }
+  ],
+  "token_result": {
+    "token_id": "focus_burst_v1",
+    "status": "accepted",
+    "reason": "met_2_of_4",
+    "revert_time_utc": "2025-09-11T16:19:05Z"
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "privacy": {
+      "store_phrase_hash_only": true,
+      "redact_biometric_raw": true
+    }
+  }
+}
+
+Example — Rejected attempt
+
+{
+  "directive": "modalities_status_log",
+  "target": "KClay_001",
+  "entries": [
+    {
+      "timestamp_utc": "2025-09-11T17:12:41Z",
+      "modality": "say",
+      "phrase_detected": false,
+      "biometric_match": false,
+      "noise_flag": true,
+      "accepted": false,
+      "notes": "Background noise > 75 dB"
+    },
+    {
+      "timestamp_utc": "2025-09-11T17:12:44Z",
+      "modality": "type",
+      "phrase_detected": true,
+      "biometric_match": true,
+      "noise_flag": false,
+      "accepted": true,
+      "notes": "Typed phrase matched hash"
+    }
+  ],
+  "token_result": {
+    "token_id": "shield_up_v1",
+    "status": "rejected",
+    "reason": "insufficient_modalities",
+    "revert_time_utc": null
+  },
+  "audit": {
+    "immutable_log": "enabled",
+    "privacy": {
+      "store_phrase_hash_only": true,
+      "redact_biometric_raw": true
+    }
+  }
+}
+
