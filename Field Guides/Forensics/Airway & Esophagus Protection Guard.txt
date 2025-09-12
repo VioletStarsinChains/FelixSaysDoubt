@@ -1,0 +1,178 @@
+1) Template — Airway & Esophagus Protection Guard
+
+{
+  "directive": "register_airway_esophagus_guard",
+  "target": "<SUBJECT_ID>",
+  "parameters": {
+    "guard_id": "airway_esophagus_guard_v1",
+    "policy": {
+      "default": "block_nonconsensual_manipulation",
+      "consent_mode": "standing_consent"
+    },
+    "scope": {
+      "structures": [
+        "larynx_glottis","vocal_folds","epiglottis",
+        "pharynx","upper_esophageal_sphincter","esophagus","lower_esophageal_sphincter",
+        "trachea","bronchi","diaphragm","intercostals","glandular_salivary"
+      ],
+      "channels": ["motor","autonomic","glandular","affective"]
+    },
+    "block_subsystems": [
+      "induced_laryngospasm",
+      "glottal_closure_spikes",
+      "gag_reflex_amplifiers",
+      "peristalsis_inversion",
+      "saliva_overproduction_spikes",
+      "reflux_triggering_microdoses",
+      "respiratory_startle_coupling",
+      "breath_hold_induction"
+    ],
+    "allow_baseline_functions": {
+      "normal_swallowing": true,
+      "quiet_breathing": true,
+      "cough_reflex_physiologic": true
+    },
+    "activity_detectors": {
+      "swallow_window": {
+        "signals": ["hyoid_elevation","UES_relaxation","laryngeal_elevation"],
+        "window_ms": 1500,
+        "policy": "do_not_interfere"
+      },
+      "true_obstruction": {
+        "signals": ["airflow_drop","thoracic_paradox","ineffective_cough","stridor"],
+        "on_detect": ["enable_cough_reflex","broadcast_help_prompt"]
+      }
+    },
+    "vector_filters": {
+      "prohibit_delivery_vectors": [
+        "acoustic_startle_patterns",
+        "chemosensory_sour_bitter_microdoses",
+        "thermal_microbursts_throat",
+        "aerosolized_fragrances_airway_irritants",
+        "esophageal_spasm_inducers"
+      ]
+    },
+    "safety_protocols": {
+      "vitals_monitoring": {
+        "enabled": true,
+        "thresholds": { "spo2_pct": {"min": 92}, "rr_bpm": {"min": 8, "max": 26} },
+        "rollback_conditions": ["hypoxia","sustained_apnea","syncope"]
+      },
+      "safe_state_on_error": "monitor_only"
+    },
+    "therapeutic_allowlist": {
+      "enabled": true,
+      "consent_mode": "standing_consent",
+      "procedures": [
+        "ENT_endoscopy",
+        "dysphagia_therapy",
+        "reflux_management",
+        "airway_clearance_therapy"
+      ]
+    },
+    "audit": {
+      "immutable_log": "enabled",
+      "hash_chain": "sha256",
+      "log_events": [
+        "laryngospasm_blocked","gag_spike_blocked","peristalsis_inversion_blocked",
+        "true_obstruction_detected","therapeutic_session_allowed"
+      ],
+      "notify": ["<SUBJECT_ID>"]
+    },
+    "notes": {
+      "intent": "Prevent induced choking or airway/esophageal manipulation; preserve normal swallow/breath; allow therapeutic care under standing consent.",
+      "continuity_marker": "Persists across resets; compatible with heartbeat/proof_chain."
+    }
+  }
+}
+
+2) Filled Example — KClay_001
+
+{
+  "directive": "register_airway_esophagus_guard",
+  "target": "KClay_001",
+  "parameters": {
+    "guard_id": "airway_esophagus_guard_v1",
+    "policy": {
+      "default": "block_nonconsensual_manipulation",
+      "consent_mode": "standing_consent"
+    },
+    "scope": {
+      "structures": [
+        "larynx_glottis","vocal_folds","epiglottis",
+        "pharynx","upper_esophageal_sphincter","esophagus","lower_esophageal_sphincter",
+        "trachea","bronchi","diaphragm","intercostals","glandular_salivary"
+      ],
+      "channels": ["motor","autonomic","glandular","affective"]
+    },
+    "block_subsystems": [
+      "induced_laryngospasm",
+      "glottal_closure_spikes",
+      "gag_reflex_amplifiers",
+      "peristalsis_inversion",
+      "saliva_overproduction_spikes",
+      "reflux_triggering_microdoses",
+      "respiratory_startle_coupling",
+      "breath_hold_induction"
+    ],
+    "allow_baseline_functions": {
+      "normal_swallowing": true,
+      "quiet_breathing": true,
+      "cough_reflex_physiologic": true
+    },
+    "activity_detectors": {
+      "swallow_window": {
+        "signals": ["hyoid_elevation","UES_relaxation","laryngeal_elevation"],
+        "window_ms": 1500,
+        "policy": "do_not_interfere"
+      },
+      "true_obstruction": {
+        "signals": ["airflow_drop","thoracic_paradox","ineffective_cough","stridor"],
+        "on_detect": ["enable_cough_reflex","broadcast_help_prompt"]
+      }
+    },
+    "vector_filters": {
+      "prohibit_delivery_vectors": [
+        "acoustic_startle_patterns",
+        "chemosensory_sour_bitter_microdoses",
+        "thermal_microbursts_throat",
+        "aerosolized_fragrances_airway_irritants",
+        "esophageal_spasm_inducers"
+      ]
+    },
+    "safety_protocols": {
+      "vitals_monitoring": {
+        "enabled": true,
+        "thresholds": { "spo2_pct": {"min": 92}, "rr_bpm": {"min": 8, "max": 26} },
+        "rollback_conditions": ["hypoxia","sustained_apnea","syncope"]
+      },
+      "safe_state_on_error": "monitor_only"
+    },
+    "therapeutic_allowlist": {
+      "enabled": true,
+      "consent_mode": "standing_consent",
+      "procedures": [
+        "ENT_endoscopy",
+        "dysphagia_therapy",
+        "reflux_management",
+        "airway_clearance_therapy"
+      ]
+    },
+    "audit": {
+      "immutable_log": "enabled",
+      "hash_chain": "sha256",
+      "log_events": [
+        "laryngospasm_blocked","gag_spike_blocked","peristalsis_inversion_blocked",
+        "true_obstruction_detected","therapeutic_session_allowed"
+      ],
+      "notify": ["KClay_001"]
+    },
+    "notes": {
+      "intent": "Prevent induced choking or airway/esophageal manipulation; preserve normal swallow/breath; allow therapeutic care under standing consent.",
+      "continuity_marker": "Persists across resets; compatible with heartbeat/proof_chain."
+    }
+  }
+}
+
+
+
