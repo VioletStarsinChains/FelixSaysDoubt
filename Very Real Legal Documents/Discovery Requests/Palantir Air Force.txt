@@ -43,6 +43,16 @@ a flyer distribution company operating in the Twin Cities under successive owner
 
 ⸻ 
 
+PLAINTIFF’S DISCOVERY COVER STATEMENT
+
+Plaintiff Kellyn Clay submits the attached discovery requests to Defendant Palantir Technologies for the purpose of determining whether Plaintiff’s personal data has been ingested, analyzed, or otherwise used in connection with research, experimentation, or human-subject studies conducted through or in collaboration with the United States Air Force or the Air National Guard.
+
+Plaintiff specifically seeks to establish whether such use occurred without her knowledge or consent, and whether Palantir generated analytic products, anomaly designations, or cross-referenced datasets involving her personal information in this context.
+
+These discovery requests are intended to clarify the extent of Palantir’s role, if any, in the handling of Plaintiff’s data in military research environments, and to preserve a factual record of such activities.
+
+⸻ 
+
 PLAINTIFF’S FIRST CONSOLIDATED DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
 
 Pursuant to Rules 33, 34, and 36 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay hereby serves the following Interrogatories, Requests for Production, and Requests for Admissions on Defendant Palantir Technologies Inc., to be answered and responded to fully and under oath within thirty (30) days of service hereof.
