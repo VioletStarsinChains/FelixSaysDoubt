@@ -1,0 +1,80 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+  Defendants.
+
+⸻ 
+
+ARGUMENT
+
+I. Conversion Occurs When Defendant Exercises Dominion Over Property Without Recognizing the Lawful Owner’s Rights.
+
+Conversion requires proof that (1) the plaintiff or their estate had a right to possess property; (2) the defendant intentionally exercised dominion or control over that property; and (3) such control seriously interfered with the rightful owner’s ability to possess it. Restatement (Second) of Torts § 222A.
+
+⸻
+
+II. Palantir’s Digital Twin System Was Never Designed to Recognize Death as a Transfer Point.
+
+Palantir markets its digital twin systems as providing complete continuity of data and behavioral replication. In such a system, a human subject’s death is a predictable and material event. Yet discovery has revealed that Palantir maintains no module for ingesting death certificates, recording death events, or notifying next of kin.
+	•	The absence of such files is not spoliation. It is proof that Palantir never contemplated lawful succession.
+	•	By design, the system treats death as irrelevant, allowing the digital twin — and therefore Palantir — to continue exercising dominion over the decedent’s property stream.
+
+⸻
+
+III. The Absence of Next-of-Kin Records Demonstrates Wrongful Dominion.
+
+In ordinary circumstances, property of the deceased transfers to heirs through probate. Records of next-of-kin notification are routine in any system that interacts with death-event data (e.g., hospitals, insurers, financial institutions).
+	•	If Palantir’s system genuinely possesses “all the files,” then the absence of next-of-kin notifications is dispositive: no notification means no lawful transfer.
+	•	Palantir’s continued control of the decedent’s property through the digital twin is therefore unauthorized and absolute — the precise conduct the tort of conversion prohibits.
+
+⸻
+
+IV. Palantir’s Failure to Generate or Maintain Such Records Is Equivalent to an Admission of Conversion.
+
+Conversion does not require proof of ill intent; intentional dominion alone suffices. By designing its systems without the capacity to recognize death or to divest control to heirs, Palantir intentionally ensured that property would remain within its dominion.
+	•	This structural omission is not a neutral design choice — it is an act of conversion at scale.
+	•	The absence of files documenting lawful transfer is itself evidence that lawful transfer never occurred.
+
+⸻
+
+V. Relief
+
+Because Palantir’s architecture deliberately bypasses the legal threshold of death, Plaintiff and similarly situated heirs have been deprived of their property rights. Palantir should be held liable for conversion and compelled to disgorge the full value of the wrongfully retained property. Equitable relief in the form of a constructive trust is appropriate to prevent further unjust enrichment.
