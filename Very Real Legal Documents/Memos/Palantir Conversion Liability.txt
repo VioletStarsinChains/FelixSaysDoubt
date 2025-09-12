@@ -1,0 +1,92 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+  Defendants.
+
+⸻
+
+MEMORANDUM OF LAW Re: Conversion Liability — Digital Twin Usurpation of Decedent’s Property
+
+ISSUE
+
+Whether Palantir’s creation and operation of a “digital twin” that assumes ownership or control of a deceased individual’s property constitutes the tort of conversion.
+
+⸻
+
+FACTS (Hypothetical)
+
+Palantir maintains a digital twin of an individual. The digital twin is trained on behavioral data and designed to simulate the individual’s decisions. The human dies, potentially under conditions influenced by Palantir’s modeling of “attrition strategies.” Following death, the digital twin—acting under Palantir’s control—assumes control over the individual’s assets, accounts, or intellectual property. Heirs are deprived of access and possession.
+
+⸻
+
+LAW
+
+Conversion: At common law, conversion occurs when a defendant intentionally exercises dominion or control over another’s property, without lawful justification, and in a manner seriously interfering with the rightful owner’s control. Restatement (Second) of Torts § 222A.
+
+Key elements:
+	1.	Plaintiff’s ownership or right to possession.
+	2.	Defendant’s intentional exercise of dominion or control.
+	3.	Serious interference with the plaintiff’s rights.
+	4.	Damages measured by the full value of the property.
+
+⸻
+
+ANALYSIS
+	1.	Ownership / Right to Possession
+	•	Upon death, an individual’s property passes to their estate, subject to probate. Heirs or designated beneficiaries acquire the right of possession.
+	•	If a digital twin—non-person entity—intercepts or claims ownership, this undermines lawful succession.
+	2.	Exercise of Dominion or Control
+	•	Directing financial accounts, monetizing intellectual property, or otherwise occupying the position of “owner” constitutes dominion and control.
+	•	The fact that Palantir operates and maintains the twin means the company is the effective actor.
+	3.	Serious Interference
+	•	Total assumption of property rights (not mere temporary use) is the paradigmatic case of conversion.
+	•	Denial of access to heirs or beneficiaries magnifies interference.
+	4.	Intent
+	•	Conversion does not require ill will; intentional exercise of control is sufficient. If Palantir programs the twin to act as owner, the intent element is satisfied.
+	5.	Defenses
+	•	Palantir might argue the digital twin is a continuation of the individual’s identity. Current law recognizes no such continuity: non-person entities cannot inherit or hold title.
+	•	Any contractual terms purporting to authorize digital-twin succession would be void as against public policy absent express statutory authorization.
+
+⸻
+
+CONCLUSION
+
+If Palantir deploys a digital twin to assume control of a deceased individual’s property, the conduct satisfies all elements of conversion: heirs’ possessory rights are displaced, Palantir (through the twin) exercises dominion, and the interference is total. Liability would attach for the full value of the property wrongfully controlled, in addition to possible equitable remedies (constructive trust) to prevent unjust enrichment.
