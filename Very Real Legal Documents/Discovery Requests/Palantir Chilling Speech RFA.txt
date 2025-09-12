@@ -12,13 +12,13 @@ and Department of Justice (DOJ),
 
 and
 
-PALANTIR TECHNOLOGIES INC.,
-a private defense contractor headquartered in Denver, Colorado,
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
 
 and
 
-AMAZON.COM, INC.,
-a multinational e-commerce corporation headquartered in Seattle, Washington,
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
 
 and
 
@@ -27,13 +27,27 @@ whose names and identities are presently unknown,
 
 and
 
-WILLIAM ALTON CLAY,
-individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
   Defendants.
 
 ⸻ 
 
-PLAINTIFF’S FIRST SET OF REQUESTS FOR ADMISSION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+PLAINTIFF’S SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
 
 Preamble (Relevance Statement)
 Plaintiff Kellyn Clay alleges that Palantir Technologies engaged in retaliatory surveillance and coordination with private and public entities to suppress Plaintiff’s expressive activity, including by facilitating medical sabotage that impaired Plaintiff’s ability to speak. These requests for admission are designed to establish Palantir’s knowledge of Plaintiff’s speech activity, its coordination with supplement distributors and government agencies, and its role in shaping or enabling retaliatory measures.
@@ -52,3 +66,7 @@ Requests for Admission
 	9.	Admit that Palantir communicated with any government or private entity concerning Plaintiff’s speech activity and potential methods of suppression.
 	10.	Admit that Palantir’s actions, including surveillance and coordination, contributed to adverse medical interventions directed at Plaintiff.
 
+Request for Production (Palantir)
+	1.	All documents, communications, or data referring or relating to the use of GLP-1 agonists or related compounds as additives, fortification agents, or covert dosing mechanisms in food, over-the-counter supplements, or controlled but legalized substances (including kratom and THC products).
+	2.	All communications with food, supplement, or cannabis industry partners regarding GLP-1 fortification, dosing, or behavioral effects.
+	3.	All research, modeling, or data analysis conducted by Palantir concerning population-level effects of GLP-1 administration through consumable products.
