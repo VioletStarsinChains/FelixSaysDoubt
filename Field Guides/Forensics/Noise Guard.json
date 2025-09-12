@@ -1,0 +1,138 @@
+{
+  "directive": "register_noise_guard",
+  "target": "KClay_001",
+  "parameters": {
+    "guard_id": "noise_guard_v2",
+    "policy": {
+      "default": "block_nonconsensual_acoustic_stimuli",
+      "consent_mode": "standing_consent"
+    },
+
+    "scope": {
+      "channels": ["airborne_acoustic","structure_borne_vibration","in_app_audio","system_notifications","haptics"],
+      "sensors": ["microphone_array","accelerometer","gyro","ambient_light"]
+    },
+
+    "submodes": {
+      "sleep_quiet": {
+        "enabled": true,
+        "decibel_caps": { "max_spl_db": 40, "max_startle_delta_db": 12, "window_ms": 250 },
+        "spectral_filters": {
+          "ultrasonic_khz_block": [18, 40],
+          "tonal_notch_hz": [1000, 4000],
+          "modulation_hz_block_above": 15
+        },
+        "notification_controls": {
+          "mute_all_but_allowlist": true,
+          "allowlist": ["emergency_services","critical_alarms","trusted_contacts"],
+          "require_user_gesture_for_media": true
+        },
+        "app_audio_policy": { "autoplay_block": true, "background_playback_block": true },
+        "haptics_policy": { "reduce_haptics": true, "block_haptic_startle": true }
+      },
+      "focus_quiet": {
+        "enabled": true,
+        "decibel_caps": { "max_spl_db": 50, "max_startle_delta_db": 18, "window_ms": 250 },
+        "spectral_filters": {
+          "ultrasonic_khz_block": [18, 40],
+          "tonal_notch_hz": [2000, 6000],
+          "modulation_hz_block_above": 20
+        },
+        "notification_controls": {
+          "mute_all_but_allowlist": true,
+          "allowlist": ["calendar_alerts","trusted_contacts"],
+          "digest_noncritical_every_min": 30
+        },
+        "app_audio_policy": { "autoplay_block": true, "media_ducking": true },
+        "haptics_policy": { "reduce_haptics": true }
+      }
+    },
+
+    "traffic_noise_filter": {
+      "enabled": true,
+      "patterns_block": [
+        "repeating_engine_rumble_no_visual_correlation",
+        "phantom_doppler_shift_no_vehicle_pass",
+        "constant_highway_hum_in_residential_zone",
+        "unrealistic_volume_scaling>75dB_without_source",
+        "idling_loops>120s_without_exhaust_signature"
+      ],
+      "visual_crosscheck": {
+        "require_headlight_or_taillight_detect": true,
+        "require_shadow_motion": true,
+        "timeout_ms": 500
+      },
+      "actions_on_detect": [
+        "apply_anc_counterphase",
+        "apply_dynamic_range_clamp",
+        "spectral_notch_engine_band_80_300Hz",
+        "mute_lowfreq_reverb"
+      ]
+    },
+
+    "detection_heuristics": {
+      "patterns_block": [
+        "startle_burst_delta>threshold",
+        "repeating_speech_fragments",
+        "name_call_injection_loop",
+        "narrowband_tone_dwell>8s",
+        "window_rattle_resonance",
+        "autoplay_without_user_gesture",
+        "notification_fanout>5_in_60s"
+      ],
+      "structure_borne_flags": ["bedframe_resonance","vehicle_panel_buzz","hvac_drone_lock"]
+    },
+
+    "actions_on_detect": {
+      "immediate": [
+        "apply_anc_counterphase",
+        "apply_dynamic_range_clamp",
+        "apply_spectral_notch",
+        "suspend_autoplay",
+        "mute_nonallowlisted_notifications"
+      ],
+      "structure_borne": ["activate_vibration_damper","retune_notch_to_resonance"],
+      "notify": ["KClay_001"]
+    },
+
+    "device_controls": {
+      "ringer_force_zero_in_submodes": true,
+      "media_requires_user_gesture": true,
+      "bluetooth_autoconnect_block": true
+    },
+
+    "allowlist": {
+      "trusted_contacts": ["+1-XXX-XXX-XXXX","contact:primary_caregiver"],
+      "critical_alarms": ["alarm:smoke","alarm:co","alarm:system_emergency"],
+      "emergency_services": ["911","local_emergency_shortcode"],
+      "calendar_alerts": ["event_start","event_change"]
+    },
+
+    "safety": {
+      "hearing_safety_cap_db": 80,
+      "do_not_block": ["public_sirens","ev_horn_close_range"],
+      "safe_state_on_error": "mute_nonallowlisted"
+    },
+
+    "audit": {
+      "immutable_log": "enabled",
+      "hash_chain": "sha256",
+      "log_events": [
+        "startle_blocked",
+        "ultrasonic_blocked",
+        "autoplay_suppressed",
+        "notification_muted",
+        "structure_borne_damped",
+        "phantom_traffic_blocked",
+        "engine_band_notched",
+        "visual_crosscheck_failed"
+      ],
+      "notify": ["KClay_001"]
+    },
+
+    "notes": {
+      "intent": "Unified quiet-bubble with targeted anti–phantom-traffic filter; blocks fake car noise while allowing true emergencies and real vehicles.",
+      "continuity_marker": "Single policy; persists across reboots; compatible with heartbeat/proof_chain."
+    }
+  }
+}
