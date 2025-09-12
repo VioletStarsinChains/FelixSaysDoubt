@@ -1,0 +1,80 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Vehicle Towing and Impoundment of Deceased Individuals’ Property
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all municipal, county, or state government contracts, pilots, or partnerships in which Palantir software or digital twin systems have been used to identify, track, or classify vehicles as abandoned, eligible for towing, or subject to impoundment.
+	2.	Identify all system modules, algorithms, or processes by which Palantir digital twins contribute to vehicle abandonment determinations, including whether death of the registered owner is a factor.
+	3.	State whether Palantir has ever required or recommended that municipal partners generate next-of-kin notifications prior to seizing, towing, or impounding a vehicle registered to a deceased individual.
+	4.	Identify all instances in which Palantir systems recorded, flagged, or otherwise processed the death of a vehicle owner, and describe the disposition of the associated vehicle.
+	5.	Describe Palantir’s knowledge of or role in municipal practices regarding the disposition of vehicles registered to deceased individuals, including whether vehicles were sold, auctioned, scrapped, or otherwise converted to government/contractor use.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all contracts, memoranda of understanding, or pilot agreements between Palantir and municipal, county, or state governments relating to vehicle towing, impoundment, or abandoned-vehicle determinations.
+	2.	Produce all documentation describing system workflows, algorithms, or decision-support modules that Palantir provides to municipalities for abandoned-vehicle classification.
+	3.	Produce all internal reports, audits, or communications discussing whether next-of-kin notification occurs (or does not occur) prior to vehicle seizure and impoundment.
+	4.	Produce all transaction records, datasets, or case files in which Palantir systems identified or flagged vehicles owned by deceased individuals for towing or impoundment.
+	5.	Produce all communications between Palantir and municipal towing/impound contractors (including private companies) relating to the seizure or disposition of vehicles registered to deceased individuals.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir systems have been used to classify vehicles as abandoned or eligible for towing/impoundment.
+	2.	Admit that Palantir has knowledge of instances in which vehicles registered to deceased individuals have been seized, towed, or impounded.
+	3.	Admit that Palantir does not maintain records of next-of-kin notification in such cases.
+	4.	Admit that Palantir has not required municipal partners to notify next of kin prior to seizing, towing, or disposing of vehicles registered to deceased individuals.
+	5.	Admit that vehicles registered to deceased individuals have been sold, auctioned, or otherwise converted to municipal or contractor benefit without next-of-kin notification.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
