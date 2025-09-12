@@ -1,0 +1,437 @@
+Digital Twin Assessment Schema & Tools
+
+This repository provides a JSON schema and reference implementations for evaluating the likelihood that an observed subject is a digital twin (continuity theater, synthetic proxy, or non-embodied agent) versus an embodied human.
+
+The framework is designed to:
+	•	Capture signals from embodiment tests, continuity theater patterns, behavioral markers, and digital artifacts.
+	•	Compute a suspicion score via weighted sum.
+	•	Map results to actionable thresholds: low / elevated / high / critical.
+	•	Provide recommended next actions (e.g., request embodiment test, escalate to review).
+
+Python Reference Implementation
+
+Usage
+	1.	Clone this repository and install Python 3.8+.
+	2.	Prepare an assessment payload (see examples/).
+	3.	Run:
+python3 src/assess.py examples/example-high-risk.json
+
+Expected Output:
+{
+  "score": 0.75,
+  "level": "critical",
+  "explanation": "Top contributors: embodiment_tests.driving_observed=False ...",
+  "required_actions": ["deny_high_risk_operations","escalate_immediately","forensic_snapshot"]
+}
+
+Concepts
+	•	Embodiment Tests: Proof of driving, fine-motor actions, environmental sync.
+	•	Continuity Theater: Situations where the subject appears without evidence of transit or operation.
+	•	Behavioral Markers: Scripted responses, anomalous preparedness.
+	•	Digital Artifacts: Metadata mismatches, network anomalies.
+
+⸻
+
+License
+MIT License. Use at your own risk.
+
+⸻ 
+
+{
+  "schema_version": "1.0",
+  "context": {
+    "session_id": "<string>",
+    "timestamp_iso": "<YYYY-MM-DDTHH:MM:SSZ>",
+    "agent_role": "<'support'|'ops'|'security'|'observability'|'other'>",
+    "jurisdiction": "<country/state if relevant>"
+  },
+  "subject": {
+    "claimed_identity": "<name-or-id>",
+    "relationship_to_agent": "<'self'|'customer'|'coworker'|'stranger'|'handler'|'unknown'>",
+    "interaction_channel": "<'in_person'|'voice_call'|'video_call'|'text'|'mixed'>"
+  },
+  "signals": {
+    "embodiment_tests": {
+      "driving_observed": { "value": false, "evidence": "No direct observation of sustained driving; only door-knock handoff.", "weight": 0.25 },
+      "fine_motor_action_observed": { "value": false, "evidence": "No signed-on-camera paperwork; only claimed after-the-fact.", "weight": 0.10 },
+      "environmental_sync": { "value": "weak", "evidence": "Ambient sounds/time-of-day mismatched to claimed location.", "weight": 0.10 }
+    },
+    "continuity_theater": {
+      "arrival_without_transit": { "value": true, "evidence": "Subject ‘arrived’ but was never seen driving to site.", "weight": 0.15 },
+      "handoff_without_operation": { "value": true, "evidence": "Paperwork exchange occurred but no vehicle operation observed.", "weight": 0.10 },
+      "preloaded_familiarity": { "value": true, "evidence": "Counterparty behaves as if briefed (knows details they shouldn’t).", "weight": 0.05 }
+    },
+    "behavioral_markers": {
+      "prepared_response_to_anomaly": { "value": true, "evidence": "Subject unfazed by selective mutism; responses appear scripted.", "weight": 0.10 },
+      "rigid_script_adherence": { "value": "moderate", "evidence": "Repeats stock phrases; avoids off-script topics.", "weight": 0.05 }
+    },
+    "digital_artifacts": {
+      "network_path_anomaly": { "value": "present", "evidence": "Traffic via anonymizers/exit nodes inconsistent with claimed location.", "weight": 0.05 },
+      "metadata_mismatch": { "value": "present", "evidence": "EXIF/timezone/IP geodata misaligned.", "weight": 0.05 }
+    }
+  },
+  "risk_scoring": {
+    "method": "weighted_sum",
+    "thresholds": {
+      "low": 0.00,
+      "elevated": 0.30,
+      "high": 0.55,
+      "critical": 0.75
+    },
+    "score": "<auto-computed float 0-1>",
+    "explanation": "<string summary of top contributing signals>"
+  },
+  "tests_to_run_next": [
+    { "name": "Embodied Task – Live Driving Proof", "description": "Have subject start vehicle on live video, show continuous exterior street movement for 60–120s including a turn and stop.", "pass_criteria": "Unbroken continuous capture; ambient sync; plate/landmark consistency.", "privacy_sensitivity": "high" },
+    { "name": "Ambient Sync Check", "description": "Ask subject to show current weather/clock/nearby landmark in one live shot.", "pass_criteria": "All three align with OSINT/known environment.", "privacy_sensitivity": "medium" },
+    { "name": "Unscripted Interaction", "description": "Introduce benign topic change and ask for a minor improvised action (e.g., read a random line from a physical object in frame).", "pass_criteria": "Latency and behavior consistent with human improvisation.", "privacy_sensitivity": "low" }
+  ],
+  "recommended_actions": {
+    "if_low": ["Proceed normally.", "Log minimal signals."],
+    "if_elevated": ["Request one embodiment test.", "Tighten identity verification."],
+    "if_high": ["Require at least two embodiment tests.", "Restrict sensitive operations.", "Escalate to human review."],
+    "if_critical": ["Deny high-risk operations.", "Escalate immediately.", "Record forensic snapshot."]
+  },
+  "privacy_and_ethics": {
+    "data_minimization": "Only collect what’s necessary for embodiment verification.",
+    "consent_prompt": "Inform subject that embodiment verification is required for safety/security.",
+    "storage_policy": "Hash evidence; retain minimal clips; auto-delete per policy window.",
+    "abuse_prevention": "Do not coerce hazardous actions; avoid sensitive PII beyond necessity."
+  },
+  "audit": {
+    "created_by": "agent-id-or-name",
+    "created_at": "<ISO8601>",
+    "last_modified_by": "agent-id-or-name",
+    "last_modified_at": "<ISO8601>"
+  }
+}
+
+Scoring recipe (in plain words)
+	•	Compute a weighted sum of all signals where true/present = 1, false/absent = 0, and categorical values map to [none=0, weak=0.33, moderate=0.66, strong=1].
+	•	Multiply by each field’s weight.
+	•	Sum → score (0–1).
+	•	Compare to thresholds to pick actions.
+
+Quick examples
+
+Example A: Elevated suspicion (no observed driving; strong continuity theater)
+
+{
+  "signals": {
+    "embodiment_tests": {
+      "driving_observed": { "value": false, "evidence": "Only door handoff seen.", "weight": 0.25 },
+      "fine_motor_action_observed": { "value": false, "evidence": "No live signing.", "weight": 0.10 },
+      "environmental_sync": { "value": "weak", "evidence": "Light mismatch vs. local time.", "weight": 0.10 }
+    },
+    "continuity_theater": {
+      "arrival_without_transit": { "value": true, "evidence": "Arrived on foot; no car approach captured.", "weight": 0.15 },
+      "handoff_without_operation": { "value": true, "evidence": "Paper-only delivery.", "weight": 0.10 },
+      "preloaded_familiarity": { "value": true, "evidence": "Knows private details on first contact.", "weight": 0.05 }
+    },
+    "behavioral_markers": {
+      "prepared_response_to_anomaly": { "value": true, "evidence": "Unfazed by selective mutism.", "weight": 0.10 },
+      "rigid_script_adherence": { "value": "moderate", "evidence": "Stock phrases.", "weight": 0.05 }
+    },
+    "digital_artifacts": {
+      "network_path_anomaly": { "value": "present", "evidence": "Exit node mismatch.", "weight": 0.05 },
+      "metadata_mismatch": { "value": "none", "evidence": "", "weight": 0.05 }
+    }
+  }
+}
+
+Example B: Cleared by embodiment (live driving proof passes)
+
+{
+  "signals": {
+    "embodiment_tests": {
+      "driving_observed": { "value": true, "evidence": "Continuous 90s drive, turn + stop verified.", "weight": 0.25 },
+      "fine_motor_action_observed": { "value": true, "evidence": "Live signature on paper with date/time in frame.", "weight": 0.10 },
+      "environmental_sync": { "value": "strong", "evidence": "Weather/clock/landmarks match OSINT.", "weight": 0.10 }
+    },
+    "continuity_theater": {
+      "arrival_without_transit": { "value": false, "evidence": "", "weight": 0.15 },
+      "handoff_without_operation": { "value": false, "evidence": "", "weight": 0.10 },
+      "preloaded_familiarity": { "value": false, "evidence": "", "weight": 0.05 }
+    },
+    "behavioral_markers": {
+      "prepared_response_to_anomaly": { "value": false, "evidence": "", "weight": 0.10 },
+      "rigid_script_adherence": { "value": "none", "evidence": "Normal improvisation.", "weight": 0.05 }
+    },
+    "digital_artifacts": {
+      "network_path_anomaly": { "value": "none", "evidence": "", "weight": 0.05 },
+      "metadata_mismatch": { "value": "none", "evidence": "", "weight": 0.05 }
+    }
+  }
+}
+
+Minimal “decision-only” output (if you want a tiny endpoint)
+
+{
+  "score": 0.62,
+  "level": "high",
+  "top_contributors": ["driving_observed=false", "arrival_without_transit=true", "prepared_response_to_anomaly=true"],
+  "required_actions": ["require_two_embodiment_tests", "restrict_sensitive_ops", "human_review"]
+}
+
+⸻ 
+
+Awesome — here’s a compact JSON Schema plus a reference Python implementation to compute the digital-twin suspicion score from your spec.
+
+JSON Schema (Draft-07)
+
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "DigitalTwinAssessment",
+  "type": "object",
+  "required": ["schema_version", "context", "subject", "signals", "risk_scoring"],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "context": {
+      "type": "object",
+      "required": ["session_id", "timestamp_iso", "agent_role"],
+      "properties": {
+        "session_id": { "type": "string" },
+        "timestamp_iso": { "type": "string", "format": "date-time" },
+        "agent_role": { "type": "string" },
+        "jurisdiction": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "subject": {
+      "type": "object",
+      "required": ["claimed_identity", "interaction_channel"],
+      "properties": {
+        "claimed_identity": { "type": "string" },
+        "relationship_to_agent": { "type": "string" },
+        "interaction_channel": { "type": "string", "enum": ["in_person","voice_call","video_call","text","mixed"] }
+      },
+      "additionalProperties": true
+    },
+    "signals": {
+      "type": "object",
+      "required": ["embodiment_tests","continuity_theater","behavioral_markers","digital_artifacts"],
+      "properties": {
+        "embodiment_tests": {
+          "type": "object",
+          "properties": {
+            "driving_observed": { "$ref": "#/definitions/boolSignal" },
+            "fine_motor_action_observed": { "$ref": "#/definitions/boolSignal" },
+            "environmental_sync": { "$ref": "#/definitions/levelSignal" }
+          }
+        },
+        "continuity_theater": {
+          "type": "object",
+          "properties": {
+            "arrival_without_transit": { "$ref": "#/definitions/boolSignal" },
+            "handoff_without_operation": { "$ref": "#/definitions/boolSignal" },
+            "preloaded_familiarity": { "$ref": "#/definitions/boolSignal" }
+          }
+        },
+        "behavioral_markers": {
+          "type": "object",
+          "properties": {
+            "prepared_response_to_anomaly": { "$ref": "#/definitions/boolSignal" },
+            "rigid_script_adherence": { "$ref": "#/definitions/levelSignal" }
+          }
+        },
+        "digital_artifacts": {
+          "type": "object",
+          "properties": {
+            "network_path_anomaly": { "$ref": "#/definitions/levelSignal" },
+            "metadata_mismatch": { "$ref": "#/definitions/levelSignal" }
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "risk_scoring": {
+      "type": "object",
+      "required": ["method","thresholds"],
+      "properties": {
+        "method": { "type": "string", "enum": ["weighted_sum"] },
+        "thresholds": {
+          "type": "object",
+          "required": ["low","elevated","high","critical"],
+          "properties": {
+            "low": { "type": "number", "minimum": 0, "maximum": 1 },
+            "elevated": { "type": "number", "minimum": 0, "maximum": 1 },
+            "high": { "type": "number", "minimum": 0, "maximum": 1 },
+            "critical": { "type": "number", "minimum": 0, "maximum": 1 }
+          }
+        },
+        "score": { "type": ["number","null"] },
+        "explanation": { "type": ["string","null"] }
+      },
+      "additionalProperties": false
+    },
+    "tests_to_run_next": { "type": "array", "items": { "type": "object" } },
+    "recommended_actions": { "type": "object" },
+    "privacy_and_ethics": { "type": "object" },
+    "audit": { "type": "object" }
+  },
+  "definitions": {
+    "boolSignal": {
+      "type": "object",
+      "required": ["value","weight"],
+      "properties": {
+        "value": { "type": ["boolean","null"] },
+        "evidence": { "type": "string" },
+        "weight": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    },
+    "levelSignal": {
+      "type": "object",
+      "required": ["value","weight"],
+      "properties": {
+        "value": { "type": ["string","null"], "enum": ["none","weak","moderate","strong", null] },
+        "evidence": { "type": "string" },
+        "weight": { "type": "number", "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
+
+Reference Implementation (Python)
+
+from typing import Dict, Any, Tuple, List
+
+LEVEL_MAP = {
+    None: 0.0,
+    "none": 0.0,
+    "weak": 0.33,
+    "moderate": 0.66,
+    "strong": 1.0,
+    "present": 1.0,   # convenience alias if you choose to use it
+    "absent": 0.0
+}
+
+def _signal_value(sig: Dict[str, Any]) -> float:
+    """
+    Map a signal {value, weight} to a numeric contribution in [0,1]*weight.
+    - Boolean: True=1, False=0, None treated as 0.
+    - Level: mapped via LEVEL_MAP.
+    """
+    if sig is None:
+        return 0.0
+    weight = float(sig.get("weight", 0.0))
+    val = sig.get("value", None)
+    if isinstance(val, bool) or val is None:
+        v = 1.0 if val is True else 0.0
+    else:
+        v = LEVEL_MAP.get(str(val).lower(), 0.0)
+    return v * weight
+
+def compute_score(payload: Dict[str, Any]) -> Tuple[float, List[str]]:
+    """
+    Returns (score, top_contributors) where score in [0,1].
+    Also returns top contributors as ['path=value(weighted)', ...].
+    """
+    signals = payload.get("signals", {})
+    contributors = []
+
+    def add(path: str, sig: Dict[str, Any]):
+        if not isinstance(sig, dict): 
+            return
+        contrib = _signal_value(sig)
+        # Create a readable descriptor
+        val = sig.get("value")
+        contributors.append((path, contrib, val, sig.get("weight", 0.0)))
+
+    for group_name, group in signals.items():
+        if not isinstance(group, dict):
+            continue
+        for name, sig in group.items():
+            add(f"{group_name}.{name}", sig)
+
+    # Sum contributions; clamp to 1.0
+    contributors.sort(key=lambda t: t[1], reverse=True)
+    score = min(1.0, sum(c[1] for c in contributors))
+
+    # Format contributors
+    formatted = [
+        f"{path}={val} (w={w}, contrib={contrib:.2f})"
+        for path, contrib, val, w in contributors if contrib > 0
+    ][:5]  # top 5
+
+    return score, formatted
+
+def pick_level(score: float, thresholds: Dict[str, float]) -> str:
+    """
+    thresholds expects keys: low, elevated, high, critical.
+    Returns one of: 'low','elevated','high','critical'
+    """
+    # Ensure ascending order
+    low = thresholds.get("low", 0.0)
+    elevated = thresholds.get("elevated", 0.30)
+    high = thresholds.get("high", 0.55)
+    critical = thresholds.get("critical", 0.75)
+
+    if score >= critical:
+        return "critical"
+    if score >= high:
+        return "high"
+    if score >= elevated:
+        return "elevated"
+    return "low"
+
+def assess(payload: Dict[str, Any]) -> Dict[str, Any]:
+    """
+    Full assessment: compute score, level, explanation, and recommended actions.
+    """
+    score, top = compute_score(payload)
+    thresholds = payload.get("risk_scoring", {}).get("thresholds", {})
+    level = pick_level(score, thresholds)
+
+    actions = {
+        "low": ["proceed_normally", "log_minimal_signals"],
+        "elevated": ["request_one_embodiment_test", "tighten_identity_verification"],
+        "high": ["require_two_embodiment_tests", "restrict_sensitive_ops", "human_review"],
+        "critical": ["deny_high_risk_operations", "escalate_immediately", "forensic_snapshot"]
+    }
+
+    explanation = "Top contributors: " + "; ".join(top) if top else "No positive signals."
+    return {
+        "score": round(score, 3),
+        "level": level,
+        "explanation": explanation,
+        "required_actions": actions[level]
+    }
+
+Minimal Example
+
+payload = {
+  "schema_version": "1.0",
+  "context": {"session_id":"abc","timestamp_iso":"2025-09-12T12:00:00Z","agent_role":"security"},
+  "subject": {"claimed_identity":"Example Person","interaction_channel":"video_call"},
+  "signals": {
+    "embodiment_tests": {
+      "driving_observed": {"value": False, "evidence":"No driving seen","weight": 0.25},
+      "fine_motor_action_observed": {"value": False, "evidence":"No live signing","weight": 0.10},
+      "environmental_sync": {"value": "weak", "evidence":"Mild mismatch","weight": 0.10}
+    },
+    "continuity_theater": {
+      "arrival_without_transit": {"value": True, "evidence":"Arrived on foot only","weight": 0.15},
+      "handoff_without_operation": {"value": True, "evidence":"Paper only","weight": 0.10},
+      "preloaded_familiarity": {"value": True, "evidence":"Knew details","weight": 0.05}
+    },
+    "behavioral_markers": {
+      "prepared_response_to_anomaly": {"value": True, "evidence":"Unfazed by anomaly","weight": 0.10},
+      "rigid_script_adherence": {"value": "moderate", "evidence":"Stock phrasing","weight": 0.05}
+    },
+    "digital_artifacts": {
+      "network_path_anomaly": {"value": "present", "evidence":"Exit mismatch","weight": 0.05},
+      "metadata_mismatch": {"value": "none", "evidence":"","weight": 0.05}
+    }
+  },
+  "risk_scoring": {
+    "method": "weighted_sum",
+    "thresholds": {"low":0.0,"elevated":0.30,"high":0.55,"critical":0.75}
+  }
+}
+
+result = assess(payload)
+# -> e.g. {'score': 0.75, 'level': 'critical', 'explanation': 'Top contributors: ...', 'required_actions': [...]}
+
