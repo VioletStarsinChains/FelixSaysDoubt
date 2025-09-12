@@ -80,5 +80,31 @@ REQUESTS FOR ADMISSION
 	5.	Admit that Palantir has records of Plaintiff’s former partner’s request for power of attorney.
 	6.	Admit that Palantir systems are capable of substituting or deploying digital twin proxies to act in place of family members in legal proceedings.
 
-Respectfully submitted,
-Kellyn Clay, Plaintiff, pro se 
+⸻ 
+
+DISCOVERY REQUESTS RELATED TO PAYPAL PAYMENT & INSURANCE SWITCH
+
+INTERROGATORIES
+	1.	Identify all records within Palantir systems concerning changes to Plaintiff’s health insurance coverage during the period of the attempted psychiatric institutionalization, including who initiated the change and the rationale.
+	2.	Identify all Palantir records concerning PayPal transactions involving Plaintiff, including the $800 transfer received from “Kristin Houser” or any associated account.
+	3.	Identify whether Palantir maintains data-sharing agreements with PayPal, and describe the scope of data accessible to Palantir from such agreements.
+	4.	Identify all Palantir records of communications or data concerning the hotel where Plaintiff stayed during this period, including whether Palantir systems tracked or facilitated payments or non-payments to that hotel.
+	5.	State whether Palantir has any records or models indicating that the $800 transfer was intended as a trigger for estrangement between Plaintiff and their sister.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all records reflecting the change in Plaintiff’s health insurance plan during the relevant period, including who initiated the change, the effective dates, and any communications with insurers.
+	2.	Produce all records concerning the $800 PayPal transfer to Plaintiff, including sender identity, associated account details, transaction metadata, and any Palantir system logs referencing the transfer.
+	3.	Produce all agreements, memoranda, or contracts between Palantir and PayPal (or its parent company) relating to data access or integration.
+	4.	Produce all communications referencing Plaintiff’s hotel stay during this period, including payment instructions or follow-up communications regarding alleged unpaid balances.
+	5.	Produce all Palantir internal analyses or models referencing familial estrangement or relationship termination as a strategy in Plaintiff’s case.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir systems have access to or integration with PayPal transaction data.
+	2.	Admit that Palantir has records of the $800 PayPal transfer received by Plaintiff from the individual identifying as Kristin Houser.
+	3.	Admit that Palantir systems recorded or facilitated the change to Plaintiff’s health insurance coverage during the relevant period.
+	4.	Admit that Palantir systems tracked or modeled Plaintiff’s hotel stay, including whether the bill was paid.
+	5.	Admit that Palantir systems flagged or modeled familial estrangement as a strategic outcome in Plaintiff’s case.
