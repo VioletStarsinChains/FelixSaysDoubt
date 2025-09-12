@@ -1,0 +1,39 @@
+SUBPOENA DUCES TECUM
+
+To: Custodian of Records, PayPal Holdings, Inc.
+From: [Court and Case Caption Here]
+Re: Production of Records — $800 Transfer to Kellyn Clay
+
+⸻
+
+YOU ARE HEREBY COMMANDED to produce the following documents, records, and electronically stored information in your possession, custody, or control, at [location / clerk’s office / counsel’s office], on [date/time], or to deliver certified copies to [counsel’s address], pursuant to Rule 45 of the Federal Rules of Civil Procedure (or applicable state equivalent).
+
+⸻
+
+DOCUMENTS REQUESTED
+	1.	All records, receipts, and transaction logs relating to an $800 transfer received by Kellyn Clay via PayPal from or on behalf of Kristin Houser (a/k/a Kristin Alexis Clay, a/k/a Kristin Clay Lennon) during [approximate date range].
+	2.	All metadata associated with this transaction, including but not limited to:
+	•	Sender account details (name, email, phone, account creation date, linked bank/credit cards).
+	•	Recipient account details (confirmation of receipt, account identifiers).
+	•	Transaction ID, timestamps (UTC and local).
+	•	IP addresses, device IDs, browser fingerprints, and geolocation data associated with the sender at the time of the transaction.
+	•	IP addresses, device IDs, browser fingerprints, and geolocation data associated with the recipient login at the time of the transaction.
+	3.	All communications, internal notes, or account flags associated with the sender account or this transaction.
+	4.	All historical name changes, linked identities, or aliases associated with the sender account.
+	5.	All PayPal policies, memoranda, or internal documents concerning data-sharing agreements with Palantir Technologies Inc., including access to transaction metadata.
+	6.	All records reflecting whether the $800 transaction was flagged, reviewed, or routed through any third-party monitoring system, including Palantir.
+
+⸻
+
+DEFINITIONS
+	•	“Palantir” refers to Palantir Technologies Inc., its subsidiaries, affiliates, employees, contractors, and digital twin platforms.
+	•	“Digital Twin” refers to any automated or simulated profile acting on behalf of a deceased or living individual within predictive or transactional systems.
+	•	“Kristin Houser” refers to the individual presenting as Plaintiff’s sister during the events in question, also known as Kristin Alexis Clay and Kristin Clay Lennon.
+
+⸻
+
+Failure to comply with this subpoena may subject you to penalties under Rule 45(g) and applicable state law.
+
+Dated: [____]
+Signed: __________________________
+[Attorney for Plaintiff Kellyn Clay]
