@@ -12,13 +12,13 @@ and Department of Justice (DOJ),
 
 and
 
-PALANTIR TECHNOLOGIES INC.,
-a private defense contractor headquartered in Denver, Colorado,
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
 
 and
 
-ADOBE INC.,
-a multinational software company headquartered in San Jose, California,
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
 
 and
 
@@ -27,59 +27,72 @@ whose names and identities are presently unknown,
 
 and
 
-WILLIAM ALTON CLAY,
-individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
   Defendants.
 
-Case No. [to be assigned]
+⸻ 
+
+PLAINTIFF’S FIRST SET OF DISCOVERY REQUESTS TO DEFENDANT
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH**
+
+Pursuant to Rules 33 and 34 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay (pro se) hereby requests that Defendant Ellie Family Services, n/k/a Ellie Mental Health (“Ellie”), answer the following Interrogatories and produce the documents described below within thirty (30) days of service.
 
 ⸻
 
-SUBPOENA TO PRODUCE DOCUMENTS, INFORMATION, OR OBJECTS
-
-Fed. R. Civ. P. 45
-
-TO: Ellie Mental Health/Ellie Family Services, including all current and former business registrations, at 1150 Montreal Ave # 107, St Paul, MN 55116.
-
-⸻
-
-YOU ARE COMMANDED to produce the following documents and records for inspection and copying at the offices of Plaintiff (pro se) or as otherwise agreed by the parties:
+Requests for Production of Documents
 	1.	Patient Records of Plaintiff
- All intake forms, treatment notes, billing records, consent forms, and communications regarding Plaintiff Kellyn Clay during the period of treatment, including any records showing disclosures of data to third parties.
+All intake forms, treatment notes, billing records, consent forms, and communications regarding Plaintiff Kellyn Clay during the period of treatment, including any records showing disclosures of data to third parties.
 	2.	Data-Sharing Agreements
- All contracts, memoranda of understanding, or communications with insurers, electronic health record (EHR) providers, analytics vendors, or government contractors concerning the sharing, licensing, or secondary use of patient data from 2000 to present.
+All contracts, memoranda of understanding, or communications with insurers, electronic health record (EHR) providers, analytics vendors, or government contractors concerning the sharing, licensing, or secondary use of patient data from 2000 to present.
 	3.	Predictive Analytics / Research Use
- All documents referring to the use of patient data in predictive modeling, “quality improvement,” “outcomes measurement,” research collaborations, or behavioral analytics projects, whether internal or with third parties.
+All documents referring to the use of patient data in predictive modeling, “quality improvement,” “outcomes measurement,” research collaborations, or behavioral analytics projects, whether internal or with third parties.
 	4.	Third-Party Vendors and Contractors
- A complete list of all third-party vendors, contractors, or affiliates with whom patient records were shared, licensed, or made accessible, including IT providers, data storage services, and behavioral analytics platforms.
+A complete list of all third-party vendors, contractors, or affiliates with whom patient records were shared, licensed, or made accessible, including IT providers, data storage services, and behavioral analytics platforms.
 	5.	Regulatory Disclosures
- All communications with state or federal regulators (including but not limited to HIPAA/HITECH compliance audits) concerning data sharing, predictive analytics, or research use of patient records.
+All communications with state or federal regulators (including but not limited to HIPAA/HITECH compliance audits) concerning data sharing, predictive analytics, or research use of patient records.
 	6.	Corporate Continuity
- All documents reflecting name changes, corporate registrations, mergers, or rebrandings of [Therapy Office/Clinic Name] from 2000 to present, including records filed with state licensing boards.
-    7.	Franchise Disclosure Documents (FDDs)
- Produce all Franchise Disclosure Documents (FDDs) issued by Ellie Mental Health (formerly Ellie Family Services) from 2015 to present, including drafts, amendments, and financial performance representations.
+All documents reflecting name changes, corporate registrations, mergers, or rebrandings of Ellie Family Services/Ellie Mental Health from 2000 to present, including records filed with state licensing boards.
+	7.	Franchise Disclosure Documents (FDDs)
+All Franchise Disclosure Documents (FDDs) issued by Ellie Family Services/Ellie Mental Health from 2015 to present, including drafts, amendments, and financial performance representations.
 	8.	Franchisee Agreements & Data Terms
- Produce all franchisee agreements, contracts, or policies referencing data ownership, data-sharing, electronic health record access, patient record retention, or predictive analytics.
+All franchisee agreements, contracts, or policies referencing data ownership, data-sharing, electronic health record access, patient record retention, or predictive analytics.
 	9.	Franchisee Litigation Records
- Produce all pleadings, complaints, answers, discovery materials, or settlements in lawsuits involving Ellie Mental Health and its franchisees, including but not limited to Ellie Fam v. CBUS Brain Health LLC and all franchisee actions alleging false, fraudulent, or deceptive practices.
+All pleadings, complaints, answers, discovery materials, or settlements in lawsuits involving Ellie Family Services/Ellie Mental Health and its franchisees, including but not limited to Ellie Fam v. CBUS Brain Health LLC and all franchisee actions alleging false, fraudulent, or deceptive practices.
 	10.	Leadership Transition Documents
- Produce all documents relating to leadership transitions at Ellie, including the resignation of the founder as CEO in or around 2025.
+All documents relating to leadership transitions at Ellie, including the resignation of the founder as CEO in or around 2025.
 	11.	Nystrom & Associates Acquisition
- Produce all contracts, memoranda, or communications concerning the sale, transfer, or acquisition of 25 Ellie clinics by Nystrom & Associates in 2025, including treatment of data, records, and intellectual property during the transaction.
+All contracts, memoranda, or communications concerning the sale, transfer, or acquisition of 25 Ellie clinics by Nystrom & Associates in 2025, including treatment of data, records, and intellectual property during the transaction.
 	12.	NLRB Proceedings
- Produce all filings, correspondence, or decisions related to the NLRB case involving Ellie Mental Health, including case closure documents.
+All filings, correspondence, or decisions related to the NLRB case involving Ellie Family Services/Ellie Mental Health, including case closure documents.
 
 ⸻
 
-YOU ARE FURTHER COMMANDED to provide written answers to the following:
-	1.	Identify all names, aliases, or business registrations under which Ellie Mental Health/Ellie Family Services has operated since 2000.
-	2.	State whether Ellie Mental Health/Ellie Family has ever shared patient records for purposes of predictive analytics, behavioral modeling, or classification, and identify the recipients.
-	3.	State whether Ellie Mental Health/Ellie Family has received financial or in-kind compensation for data sharing, research participation, or outcomes reporting involving patient records.
-	4.	State whether any federal contractors (including Palantir Technologies Inc., Adobe Inc., or affiliated subcontractors) have had access to data originating from Ellie Mental Health/Ellie Family Services.
+Interrogatories
+	1.	Identify all names, aliases, or business registrations under which Ellie Family Services/Ellie Mental Health has operated since 2000.
+	2.	State whether Ellie Family Services/Ellie Mental Health has ever shared patient records for purposes of predictive analytics, behavioral modeling, or classification, and identify the recipients.
+	3.	State whether Ellie Family Services/Ellie Mental Health has received financial or in-kind compensation for data sharing, research participation, or outcomes reporting involving patient records.
+	4.	State whether any federal contractors (including Palantir Technologies Inc., Adobe Inc., or affiliated subcontractors) have had access to data originating from Ellie Family Services/Ellie Mental Health.
 
 ⸻
 
-Issued this 8th day of September, 2025.
-
+Dated: September 8, 2025
 Respectfully submitted,
-Kellyn Clay, Plaintiff, pro se
+
+Kellyn Clay
+Plaintiff, Pro Se
