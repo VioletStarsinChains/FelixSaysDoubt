@@ -47,9 +47,7 @@ ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health servic
 
 ⸻ 
 
-PLAINTIFF’S FIRST SET OF DISCOVERY REQUESTS TO DEFENDANT
-
-ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH**
+PLAINTIFF’S FIRST SET OF DISCOVERY REQUESTS TO DEFENDANT ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH
 
 Pursuant to Rules 33 and 34 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay (pro se) hereby requests that Defendant Ellie Family Services, n/k/a Ellie Mental Health (“Ellie”), answer the following Interrogatories and produce the documents described below within thirty (30) days of service.
 
@@ -88,6 +86,43 @@ Interrogatories
 	2.	State whether Ellie Family Services/Ellie Mental Health has ever shared patient records for purposes of predictive analytics, behavioral modeling, or classification, and identify the recipients.
 	3.	State whether Ellie Family Services/Ellie Mental Health has received financial or in-kind compensation for data sharing, research participation, or outcomes reporting involving patient records.
 	4.	State whether any federal contractors (including Palantir Technologies Inc., Adobe Inc., or affiliated subcontractors) have had access to data originating from Ellie Family Services/Ellie Mental Health.
+
+PLAINTIFF’S FIRST REQUESTS FOR ADMISSION TO DEFENDANT
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH
+
+Pursuant to Fed. R. Civ. P. 36, Plaintiff Kellyn Clay requests that Defendant Ellie Family Services, n/k/a Ellie Mental Health (“Ellie”), respond to the following Requests for Admission within the time required by law.
+
+⸻
+
+DEFINITIONS
+	1.	“Ellie Mental Health” means Ellie Mental Health, including all prior iterations, registrations, or brand names, including but not limited to Ellie Family Services.
+	2.	“Data-sharing” means any disclosure, transfer, licensing, or provision of access to patient data, whether identified, de-identified, or aggregated, to third parties.
+	3.	“Predictive analytics” means any system, model, or tool used to forecast behavior, outcomes, or classifications based on patient data, including but not limited to anomaly detection, behavioral modeling, or outcomes scoring.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Ellie Mental Health has operated under the name Ellie Family Services.
+	2.	Admit that Ellie Mental Health has entered into data-sharing agreements with insurers, electronic health record providers, or third-party vendors.
+	3.	Admit that patient records were disclosed, licensed, or made accessible to third-party vendors for purposes beyond direct clinical care.
+	4.	Admit that Ellie Mental Health has participated in programs described as “quality improvement,” “outcomes measurement,” or “research collaborations” involving patient data.
+	5.	Admit that patient data from Ellie Mental Health has been used in predictive analytics systems.
+	6.	Admit that third parties used data originating from Ellie Mental Health to train, validate, or test behavioral models or classification systems.
+	7.	Admit that Ellie Mental Health received financial or in-kind compensation in exchange for participation in research, outcomes reporting, or predictive analytics programs.
+	8.	Admit that Ellie Mental Health did not disclose all data-sharing or predictive analytics arrangements to patients at the time of treatment.
+	9.	Admit that data originating from Ellie Mental Health has been accessible, directly or indirectly, to federal contractors, including Palantir Technologies Inc.
+	10.	Admit that Ellie Mental Health maintains, or has maintained, contracts or business relationships with vendors engaged in predictive analytics or anomaly classification.
+	11.	Admit that Ellie Mental Health has issued Franchise Disclosure Documents (FDDs) to prospective franchisees.
+	12.	Admit that certain franchisees have alleged Ellie’s FDDs contained false, fraudulent, or deceptive financial representations.
+	13.	Admit that Ellie’s franchise agreements include provisions addressing data ownership, record retention, or access to electronic health records.
+	14.	Admit that Ellie Mental Health has litigated against franchisees for rebranding or continuing operations after leaving Ellie’s system.
+	15.	Admit that Ellie Mental Health divested 25 clinics to Nystrom & Associates in 2025.
+	16.	Admit that the divestiture to Nystrom & Associates included the transfer of patient records, client data, or related goodwill.
+	17.	Admit that Ellie Mental Health experienced a leadership transition in 2025, including the founder stepping down as CEO.
+	18.	Admit that the National Labor Relations Board (NLRB) investigated Ellie Mental Health and that a case file was opened.
+	19.	Admit that Ellie Mental Health has received financial or reputational benefit from controlling patient data, franchise data, or both, during litigation and acquisitions.
+	20.	Admit that Ellie Mental Health did not fully disclose to franchisees or clients all data-sharing practices with insurers, vendors, or government contractors.
 
 ⸻
 
