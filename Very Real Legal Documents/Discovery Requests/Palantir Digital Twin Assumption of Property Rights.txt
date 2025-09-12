@@ -1,0 +1,81 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Digital twin assumption of property rights upon human subject’s death
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all policies, protocols, or procedures used by Palantir to handle data when a digital twin subject dies, including how property rights and next-of-kin notifications are addressed.
+	2.	Identify each individual within Palantir responsible for monitoring, recording, or verifying the death of human subjects for whom a digital twin was maintained.
+	3.	State whether Palantir maintains records of next-of-kin notifications when a human subject dies. If so, describe the system(s) in which such records are stored and the retention period.
+	4.	Describe in detail any instances in which a digital twin, under Palantir’s control, assumed control of, or made decisions regarding, a deceased subject’s property, assets, or accounts.
+	5.	Identify all Palantir personnel or contractors who had access to, or authority over, digital twin accounts or systems at the time of such death events.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all documents, databases, logs, or internal communications concerning the death of any human subject linked to a Palantir digital twin.
+	2.	Produce all records of next-of-kin notifications following such deaths.
+	3.	Produce all contracts, terms of service, or user agreements that address succession, inheritance, or continuity of digital twins after human death.
+	4.	Produce all audit trails, system logs, or chain-of-custody documentation reflecting how digital twins handled property, assets, or accounts after the death of their human counterpart.
+	5.	Produce all internal or external legal analyses concerning the capacity of digital twins (or NPEs) to hold property or inherit rights.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir maintains or has maintained digital twins of human individuals.
+	2.	Admit that Palantir has knowledge of instances in which human subjects associated with digital twins have died.
+	3.	Admit that Palantir does not maintain or cannot produce any records of next-of-kin notifications following such deaths.
+	4.	Admit that digital twins, as operated by Palantir, are not recognized as legal persons under U.S. law.
+	5.	Admit that Palantir systems have assumed control over, directed, or otherwise interfered with the property of deceased human subjects.
+
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
