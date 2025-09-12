@@ -1,0 +1,82 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Post-Death Transactions by Digital Twins
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all categories of goods and services that digital twins have ordered, contracted for, or otherwise procured after the human subject’s date of death.
+	2.	State whether Palantir has ever suspended, terminated, or flagged digital twin activity upon receipt of notice of a subject’s death.
+	3.	Identify all third-party service providers (including, but not limited to, landscaping companies, house painters, junk pickup services such as Ridwell, subscription-based home services, utilities, and maintenance providers) with whom Palantir’s digital twin systems have executed transactions post-mortem.
+	4.	For each such transaction, identify:
+a. the type of service or good ordered,
+b. the date of the order,
+c. the dollar amount,
+d. the recipient of funds, and
+e. whether heirs or estates were notified.
+	5.	Describe any internal policies or deliberations concerning whether digital twins should continue to engage in transactions after the subject’s death.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all transaction logs reflecting goods or services ordered by digital twins after the death of the corresponding human subject.
+	2.	Produce all communications between Palantir and third-party service providers relating to post-death transactions.
+	3.	Produce all internal memoranda, emails, or presentations discussing whether to allow digital twins to continue ordering or contracting for services post-mortem.
+	4.	Produce all documents evidencing funds transferred from estates of deceased subjects to third-party service providers via digital twin transactions.
+	5.	Produce all audits, investigations, or analyses concerning the financial impact of post-death digital twin transactions on estates and heirs.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir digital twins have ordered goods or services on behalf of deceased individuals.
+	2.	Admit that Palantir has not consistently suspended digital twin activity following notice of a subject’s death.
+	3.	Admit that Palantir has not notified heirs or estates of post-death transactions executed by digital twins.
+	4.	Admit that third-party service providers (including but not limited to landscaping, painting, junk removal, subscription services, and utilities) have received payments initiated by digital twins of deceased individuals.
+	5.	Admit that Palantir retains logs or data reflecting these transactions and can identify which companies benefitted from them.
