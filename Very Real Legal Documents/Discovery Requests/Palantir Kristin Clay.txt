@@ -1,0 +1,84 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Institutionalization Attempt, Identity Substitution, and Data-Sharing
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all records, datasets, or communications within Palantir systems relating to the attempted psychiatric commitment of Plaintiff Kellyn Clay, including the identity of the petitioner and the grounds alleged.
+	2.	Identify all data held or processed by Palantir concerning Kristin Alexis Clay, a/k/a Kristin Clay Lennon, a/k/a Kristin Houser, including any records of name changes, address changes, or family status.
+	3.	State whether Palantir maintains or has maintained a digital twin associated with Plaintiff’s sister, and if so, describe the scope of its authority, decision-making parameters, and use in legal proceedings.
+	4.	Identify all Palantir data-sharing agreements with Airbnb or other short-term lodging providers active at the time of Plaintiff’s institutionalization attempt.
+	5.	Identify all records showing who paid for, reserved, or otherwise controlled the Airbnb lodging used by Plaintiff during this period, including payment source, account holder, and any metadata (IP address, device ID).
+	6.	Identify any Palantir datasets or modules that flagged or tracked Plaintiff as a candidate for psychiatric institutionalization, and describe the criteria used.
+	7.	Identify all communications or datasets linking Plaintiff’s former partner’s request for power of attorney to Palantir systems, including whether digital twins were used to model or recommend such requests.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all records, filings, or data concerning the psychiatric evaluation performed on Plaintiff, including the finding that inpatient treatment was not necessary.
+	2.	Produce all Palantir records of communications with or about the individual identifying themselves as “Kristin Houser” in connection with Plaintiff’s institutionalization.
+	3.	Produce all documents, reports, or internal memoranda discussing the appropriateness of institutionalization in cases where medical providers have attributed symptoms to immune dysregulation rather than mental illness.
+	4.	Produce all contracts, memoranda of understanding, or data-sharing agreements between Palantir and Airbnb (or other short-term rental providers) from 2018 to present.
+	5.	Produce all logs, datasets, or communications identifying Plaintiff’s location or lodging during the time of the attempted institutionalization.
+	6.	Produce all records of Palantir’s involvement, direct or indirect, in any power of attorney requests involving Plaintiff.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir maintains or has maintained digital twin records of Plaintiff’s family members.
+	2.	Admit that Palantir systems contain records of the attempted psychiatric institutionalization of Plaintiff.
+	3.	Admit that Palantir has access to or maintains data-sharing agreements with Airbnb.
+	4.	Admit that Palantir systems identified or tracked Plaintiff’s location via Airbnb during the relevant time period.
+	5.	Admit that Palantir has records of Plaintiff’s former partner’s request for power of attorney.
+	6.	Admit that Palantir systems are capable of substituting or deploying digital twin proxies to act in place of family members in legal proceedings.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
