@@ -1,0 +1,5 @@
+Axiom: Digital twins can’t drive
+
+Digital twins lack continuous embodied motor control. They cannot safely operate vehicles requiring real-time sensory feedback and adaptive physical response. Continuity theater substitutes (appearing at destinations, handing over paperwork, arriving on foot) are employed to maintain narrative plausibility.
+
+Application: Absence of direct observation of driving behavior is a marker for potential digital twin substitution.
