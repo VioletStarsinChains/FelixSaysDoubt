@@ -1,0 +1,37 @@
+FOIA / Data Practices Act Request (City Level)
+
+To: City of Minneapolis — Department of Public Works, Towing & Impound Division
+
+Request:
+
+Requesting any and all documents, datasets, internal communications, and contractor agreements concerning the towing, impoundment, or disposal of vehicles registered to deceased individuals, from 2015 to present.
+
+This includes:
+	•	Written policies or procedures for handling abandoned vehicles where the registered owner is deceased
+	•	Communications with Palantir Technologies Inc. or any subcontractors regarding use of predictive analytics, digital twins, or data platforms in abandoned-vehicle determinations
+	•	Logs or reports of vehicle seizures, auctions, or disposals tied to registered owners later determined to be deceased
+	•	Internal memoranda or guidance regarding whether and how next-of-kin notification is handled prior to towing or disposing of a deceased owner’s vehicle
+	•	Contracts or MOUs with towing/impound contractors (including Minneapolis Impound Lot contractors) describing processes for vehicles belonging to deceased individuals
+	•	Audits or assessments concerning compliance with probate or estate law in relation to impounded vehicles
+
+Keywords: abandoned vehicle, deceased owner, next of kin, probate, impound lot, towing contractor, Minneapolis, Palantir, digital twin, attrition strategy, vehicle disposal, auction
+
+⸻
+
+FOIA / Data Practices Act Request (State Level)
+
+To: Minnesota Department of Public Safety — Driver and Vehicle Services Division
+
+Request:
+
+Requesting any and all documents, datasets, internal communications, and contractor agreements concerning the seizure, impoundment, or disposal of vehicles registered to deceased individuals in Minnesota, from 2015 to present.
+
+This includes:
+	•	Statewide policies or procedures for handling vehicles registered to deceased owners
+	•	Communications with Palantir Technologies Inc. or any subcontractors regarding predictive analytics, digital twins, or data platforms used for abandoned-vehicle determinations
+	•	Vehicle records, logs, or datasets showing impoundment, seizure, or auction of vehicles registered to deceased individuals
+	•	Guidance issued to counties or municipalities on notifying next of kin before towing or disposing of such vehicles
+	•	Contracts or MOUs with towing/impound contractors at the state level addressing vehicles belonging to deceased individuals
+	•	Compliance audits, reports, or evaluations of whether probate or estate rights are being respected when vehicles are seized or disposed of
+
+Keywords: Minnesota DPS, Driver and Vehicle Services, abandoned vehicle, deceased owner, next of kin, probate, impound, towing contractor, Palantir, digital twin, attrition strategy, vehicle auction
