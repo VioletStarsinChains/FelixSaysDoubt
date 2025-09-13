@@ -1,0 +1,82 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Plaintiff’s Combined Discovery Requests to Defendant Palantir Technologies Inc.
+
+Subject: Synthetic Cannabinoid Adulteration in Retail Cannabis Products
+
+⸻
+
+Interrogatories
+	1.	Identify all projects, programs, or contracts in which Palantir analyzed or ingested data concerning adulteration of cannabis or hemp products sold in state-regulated dispensaries.
+	2.	Describe any datasets or streams provided to Palantir relating to synthetic cannabinoid contamination of cannabis flower, pre-rolls, or rolling papers.
+	3.	State whether Palantir has provided analysis or modeling to federal, state, or corporate entities concerning consumer health outcomes linked to cannabis adulteration.
+	4.	Identify all Palantir personnel and partner entities who have worked on projects involving cannabis product safety, adulteration, or contamination.
+	5.	Describe any involvement Palantir has had in programs tracking adulterated consumer goods through retail surveillance systems.
+
+⸻
+
+Requests for Admission
+	1.	Admit that Palantir has ingested or analyzed data concerning cannabis or hemp product adulteration.
+	2.	Admit that Palantir has analyzed data relating to synthetic cannabinoid contamination of cannabis products sold in state-licensed dispensaries.
+	3.	Admit that Palantir has provided cannabis adulteration analyses to federal or state agencies.
+	4.	Admit that Palantir has modeled or flagged consumer anomalies linked to adulterated cannabis or hemp products.
+	5.	Admit that Palantir has not disclosed to affected consumers the existence of any such analyses or data integrations.
+
+⸻
+
+Requests for Production
+	1.	All contracts, agreements, or memoranda of understanding between Palantir and any federal, state, or corporate entity relating to cannabis or hemp product adulteration.
+	2.	All datasets, dashboards, or analytic outputs concerning synthetic cannabinoid contamination of cannabis flower, pre-rolls, or rolling papers.
+	3.	All internal communications regarding cannabis adulteration projects, including references to synthetic cannabinoids.
+	4.	All presentations, reports, or analyses prepared for federal, state, or corporate partners that address adulteration of cannabis products.
+	5.	All technical specifications describing how Palantir platforms ingest or model cannabis product safety/adulteration data.
+
+Respectfully submitted, 
+Kellyn Clay, Plaintiff, pro se 
