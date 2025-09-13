@@ -1,0 +1,65 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Plaintiff’s Requests for Admission to Defendant Palantir Technologies Inc.
+
+Subject: Anomaly Detection and Targeting Workflows
+
+⸻
+
+	1.	Admit that Palantir anomaly detection outputs are provided to military, law enforcement, or intelligence agencies for operational use.
+	2.	Admit that in such operational settings, anomaly designations are treated as risk indicators rather than neutral statistical deviations.
+	3.	Admit that Palantir anomaly detection outputs have been integrated into targeting workflows used to identify individuals or groups for further surveillance.
+	4.	Admit that Palantir anomaly detection outputs have been integrated into targeting workflows used to identify individuals or groups for detention, restriction of movement, or denial of services.
+	5.	Admit that Palantir anomaly detection outputs have been integrated into targeting workflows used to identify individuals or groups for lethal action.
+	6.	Admit that Palantir has not disclosed to affected individuals the potential consequences of being labeled an anomaly.
+	7.	Admit that Palantir has not provided adequate safeguards to prevent anomaly detection outputs from being misused as direct threat designations.
+
+ Respectfully submitted,
+ Kellyn Clay, Plaintiff, pro se 
