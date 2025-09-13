@@ -1,0 +1,82 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Plaintiff’s Combined Discovery Requests to Defendant Palantir Technologies Inc.
+
+Subject: Data Sharing and Integration with Starbucks Corporation
+
+⸻
+
+Interrogatories
+	1.	Identify all agreements, partnerships, or contracts between Palantir Technologies Inc. and Starbucks Corporation from 2005 to present.
+	2.	Describe in detail any data provided by Starbucks to Palantir, including but not limited to loyalty program data, stored-value card balances, mobile app data, or customer purchase histories.
+	3.	State whether Palantir has provided Starbucks with access to Palantir platforms (e.g., Gotham, Foundry, Apollo) for purposes of customer data analysis or predictive modeling.
+	4.	Identify all Palantir personnel who have worked directly on projects or contracts involving Starbucks Corporation.
+	5.	Describe any analyses conducted by Palantir using Starbucks consumer or employee data to generate predictive models of customer behavior, anomaly classification, or attrition risk.
+
+⸻
+
+Requests for Admission
+	1.	Admit that Palantir has entered into data-sharing or service agreements with Starbucks Corporation.
+	2.	Admit that Palantir has received Starbucks loyalty program or stored-value card data.
+	3.	Admit that Palantir has analyzed Starbucks consumer data for the purpose of predicting purchasing behavior.
+	4.	Admit that Palantir has applied anomaly classification or behavioral risk assessment models to Starbucks customer data.
+	5.	Admit that Palantir has shared Starbucks-related analyses or datasets with third-party vendors, government agencies, or contractors.
+
+⸻
+
+Requests for Production
+	1.	All contracts, agreements, or memoranda of understanding between Palantir and Starbucks from 2005 to present.
+	2.	All data transfer logs, technical specifications, or integration documents describing how Starbucks data has been ingested into Palantir platforms.
+	3.	All reports, presentations, or analyses produced by Palantir that include or derive from Starbucks consumer or employee data.
+	4.	All communications (internal or external) concerning Starbucks’ use of Palantir platforms for predictive modeling, anomaly classification, or customer behavior analysis.
+	5.	All documents identifying government or corporate partners who had access to Starbucks-related data through Palantir systems.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
