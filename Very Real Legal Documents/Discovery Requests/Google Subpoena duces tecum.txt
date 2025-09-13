@@ -1,0 +1,91 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+SUBPOENA DUCES TECUM
+
+To: Custodian of Records
+Google LLC
+1600 Amphitheatre Parkway
+Mountain View, CA 94043
+
+From: [Court and Case Caption Here]
+
+Re: Production of Records — Palantir Technologies Use of Google Cloud Platform and Consumer Data
+
+⸻
+
+YOU ARE HEREBY COMMANDED to produce the following documents, records, and electronically stored information in your possession, custody, or control, at [location / clerk’s office / counsel’s office], on [date/time], or to deliver certified copies to [counsel’s address], pursuant to Rule 45 of the Federal Rules of Civil Procedure (or applicable state equivalent).
+
+⸻
+
+DOCUMENTS REQUESTED
+	1.	All contracts, service agreements, memoranda of understanding, or pilot program documentation between Google LLC and Palantir Technologies Inc. concerning the use of Google Cloud Platform (GCP) services, from 2010 to present.
+	2.	All records of Palantir Technologies deployments hosted on GCP, including but not limited to datasets stored, processed, or analyzed.
+	3.	All records, logs, or datasets reflecting consumer-facing device identifiers, account information, or behavioral data routed through GCP environments maintained or accessed by Palantir.
+	4.	All internal Google communications, reports, or audits concerning Palantir’s use of GCP services, including compliance reviews, data security assessments, or risk evaluations.
+	5.	All communications between Google and Palantir concerning predictive analytics, digital twin programs, behavioral futures modeling, or consumer-device telemetry hosted on GCP.
+	6.	All records showing whether data associated with Kellyn Clay was ever processed, stored, or accessed within GCP environments maintained by or on behalf of Palantir Technologies Inc.
+	7.	All documents, agreements, or correspondence reflecting integration between Palantir Technologies and Google consumer services (including but not limited to Gmail, Google Drive, Google Maps, Google Play, or Android OS) for the purpose of behavioral modeling or device/data telemetry.
+
+⸻
+
+DEFINITIONS
+	•	“Palantir” refers to Palantir Technologies Inc., its subsidiaries, affiliates, employees, contractors, and digital twin platforms.
+	•	“Google Cloud Platform (GCP)” refers to all Google-hosted cloud infrastructure and services, including but not limited to BigQuery, Vertex AI, AutoML, Pub/Sub, and Cloud Storage.
+	•	“Consumer-facing data” includes but is not limited to device identifiers (IMEI, MAC, serial numbers), account identifiers (email, login credentials), behavioral usage data, and transaction metadata.
+
+⸻
+
+Failure to comply with this subpoena may subject you to penalties under Rule 45(g) of the Federal Rules of Civil Procedure and applicable state law.
+
+Dated: [____]
+
+Signed: __________________________
+[Attorney for Plaintiff Kellyn Clay]
+
