@@ -1,0 +1,93 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Memorandum of Law Re: Anomaly Labeling of Women in Predictive Analytics Systems
+
+⸻
+
+Issue
+
+Whether large-scale predictive analytics platforms, including those developed by Palantir Technologies Inc., may systematically and unjustly classify women as anomalies, despite their demographic majority, and whether such classification constitutes structural discrimination.
+
+⸻
+
+Background
+	•	Anomaly detection systems operate by comparing observed data against a baseline profile generated from training data.
+	•	In machine logic, “anomaly” does not mean inherently dangerous or deviant; it simply denotes deviation from the expected pattern.
+	•	Baseline datasets used in military, corporate, or financial contexts frequently overrepresent male behavior patterns, particularly those of men in positions of power.
+	•	Consequently, women — whose patterns of behavior, movement, or interaction may differ from this baseline — are flagged as “anomalous,” regardless of their prevalence in the general population.
+
+⸻
+
+Analysis
+	1.	Statistical framing of “normal”
+	•	If a system is trained primarily on male-coded data (e.g., military deployments, executive financial records), then male behaviors form the statistical “norm.”
+	•	Female-coded behaviors become statistical outliers by default.
+	2.	Feedback loops of anomaly labeling
+	•	Once women are flagged disproportionately, surveillance attention and enforcement resources become concentrated on them.
+	•	This heightened scrutiny generates additional “evidence” of anomaly, reinforcing the bias.
+	3.	Structural discrimination by proxy
+	•	While the algorithm is nominally neutral, the underlying data encodes historical sexism (e.g., underrepresentation of women in certain institutions).
+	•	The result is an automated perpetuation of gender bias, where women as a class are treated as inherently anomalous.
+	4.	Disparate impact
+	•	Even if the anomaly designation is not explicitly gendered, the practical effect is gender-discriminatory.
+	•	In legal terms, this can constitute disparate impact discrimination, where a facially neutral system disproportionately burdens women.
+
+⸻
+
+Conclusion
+
+The classification of women as “anomalies” in predictive analytics systems such as Palantir is not a reflection of objective demographic reality. It is a modeling artifact produced by male-skewed baseline data and reinforced by feedback loops of surveillance.
+
+Such classification constitutes structural discrimination, embedding longstanding gender bias into machine logic under the guise of objectivity.
+
+⸻ 
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se  
