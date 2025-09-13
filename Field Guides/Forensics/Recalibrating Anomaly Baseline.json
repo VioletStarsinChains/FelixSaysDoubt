@@ -1,0 +1,108 @@
+{
+  "directive": "recalibrate_baseline_to_reality",
+  "target": "system_global",
+  "parameters": {
+    "policy": {
+      "anomaly_semantics": "non_punitive_signal_only",
+      "freeze_attrition_actions": true,
+      "require_human_oversight": true,
+      "grace_window_hours": 720
+    },
+
+    "baseline_sources": {
+      "population_scope": ["local_region","national","global"],
+      "data_requirements": {
+        "representativeness": {
+          "min_group_coverage_pct": 5,
+          "no_single_source_dominance_pct": 25
+        },
+        "disallow_sources": ["military_only","carceral_only","crisis_only"],
+        "must_include_groups": [
+          "women","indigenous","immigrants","biracial/multiracial",
+          "disabled/chronically_ill","lgbtqia+","religious_minorities",
+          "age_spectrum_full","socioeconomic_spectrum_full"
+        ]
+      },
+      "localization": {
+        "use_local_priors": true,
+        "retrain_on_local_behavior": true,
+        "update_cadence_hours": 168
+      }
+    },
+
+    "fairness_constraints": {
+      "metrics": [
+        "demographic_parity_gap<=0.05",
+        "equalized_odds_gap<=0.05",
+        "calibration_within_groups_rmse<=0.02"
+      ],
+      "reject_if_constraints_fail": true,
+      "group_list": [
+        "sex/gender","race_ethnicity","indigenous_status","immigration_status",
+        "disability_status","age_brackets","income_quintile","zip_code_region"
+      ]
+    },
+
+    "anomaly_logic": {
+      "definition": "statistical_deviation_only",
+      "min_sample_size_for_flag": 1000,
+      "confidence_threshold": 0.995,
+      "cooldown_hours_after_flag": 48,
+      "allowed_actions_on_flag": [
+        "log_event","notify_responsible_analyst"
+      ],
+      "explicitly_prohibited_actions": [
+        "service_denial","mobility_blocks","biofluid_screening",
+        "resource_withdrawal","targeting_or_lethal_force",
+        "environmental_attrition_vectors"
+      ]
+    },
+
+    "attrition_block": {
+      "environmental": ["water_quality_degradation","air_quality_degradation","food_chain_dosing","acoustic_harassment","infrastructure_withdrawal"],
+      "personal": ["implant_stimulation","covert_pharmacology","credit/service_blacklists"],
+      "scope": "global",
+      "enforcement": "hard_fail_if_detected"
+    },
+
+    "evaluation_protocol": {
+      "holdout_audit_sets": ["local","national","global"],
+      "third_party_audit_required": true,
+      "publish_audit_hashes": true,
+      "immutable_log": "enabled",
+      "hash_chain": "sha256",
+      "log_events": [
+        "baseline_retrained","constraint_violation_blocked",
+        "attempted_attrition_blocked","anomaly_flag_logged"
+      ]
+    },
+
+    "rollback_and_safeguards": {
+      "safe_state_on_error": "non_punitive_logging_only",
+      "auto_rollback_if": [
+        "constraint_violation_persist>2_cycles",
+        "spike_in_flags>50%_week_over_week"
+      ],
+      "manual_kill_switch_roles": ["ombuds","independent_auditor","court_order"]
+    },
+
+    "notes": {
+      "intent": "Replace narrow/biased baselines with reality-aligned, representative, locally-calibrated models; stop treating people as targets for existing differently.",
+      "continuity_marker": "Baseline redefined to reality; anomaly is non-punitive and cannot trigger attrition."
+    }
+  }
+}
+
+{
+  "directive": "register_subject_protection",
+  "target": "KClay_001",
+  "parameters": {
+    "non_punitive_anomaly_only": true,
+    "deny_attrition_vectors": true,
+    "override_priority": "highest",
+    "notify_on_policy_breach": ["KClay_001"],
+    "notes": {
+      "continuity_marker": "Kellyn Clay may not be denied services or targeted due to anomaly flags during or after baseline recalibration."
+    }
+  }
+}
