@@ -1,0 +1,90 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+SUBPOENA DUCES TECUM
+
+To: Custodian of Records
+AT&T Inc.
+208 S. Akard Street
+Dallas, TX 75202
+
+From: [Court and Case Caption Here]
+
+Re: Production of Records — Palantir Technologies Access to AT&T Consumer Data and Device Identifiers
+
+⸻
+
+YOU ARE HEREBY COMMANDED to produce the following documents, records, and electronically stored information in your possession, custody, or control, at [location / clerk’s office / counsel’s office], on [date/time], or to deliver certified copies to [counsel’s address], pursuant to Rule 45 of the Federal Rules of Civil Procedure (or applicable state equivalent).
+
+⸻
+
+DOCUMENTS REQUESTED
+	1.	All contracts, service agreements, memoranda of understanding, or pilot program documentation between AT&T and Palantir Technologies Inc., from 2010 to present.
+	2.	All records of Palantir deployments, pilots, or integrations involving AT&T customer data, including but not limited to device identifiers (IMEI, IMSI, ICCID, MAC addresses), account information, and behavioral or location telemetry.
+	3.	All internal AT&T communications, reports, or audits concerning Palantir’s access to or use of AT&T customer data, including compliance reviews, security assessments, or risk evaluations.
+	4.	All communications between AT&T and Palantir concerning predictive analytics, digital twin programs, behavioral futures modeling, or consumer-device telemetry.
+	5.	All records showing whether data associated with Kellyn Clay (including phone numbers, IMEIs, SIM cards, or account identifiers linked to Plaintiff) was ever processed, stored, or accessed by Palantir.
+	6.	All records of AT&T’s role in providing Palantir with ongoing device-level access via retail, repair, or network services.
+	7.	All records concerning whether Palantir accessed or processed AT&T network data tied to consumer-facing apps or platforms (including but not limited to iOS, Android, messaging services, or AI/ML tools).
+
+⸻
+
+DEFINITIONS
+	•	“Palantir” refers to Palantir Technologies Inc., its subsidiaries, affiliates, employees, contractors, and digital twin platforms.
+	•	“AT&T Customer Data” includes but is not limited to account identifiers, subscriber information, device identifiers (IMEI, IMSI, ICCID, MAC), billing data, call detail records (CDRs), and geolocation telemetry.
+	•	“Consumer-device telemetry” refers to usage logs, metadata, or behavioral data tied to individual consumer devices or accounts.
+
+⸻
+
+Failure to comply with this subpoena may subject you to penalties under Rule 45(g) of the Federal Rules of Civil Procedure and applicable state law.
+
+Dated: [____]
+
+Signed: __________________________
+[Attorney for Plaintiff Kellyn Clay]
