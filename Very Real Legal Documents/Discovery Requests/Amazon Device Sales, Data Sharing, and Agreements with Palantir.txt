@@ -1,0 +1,99 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIRST SET OF DISCOVERY REQUESTS TO DEFENDANT AMAZON.COM, INC.
+
+Subject Matter: Device Sales, Data Sharing, and Agreements with Palantir
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all contracts, memoranda of understanding, or other agreements between Amazon and Palantir Technologies Inc. relating to device sales, account data, or post-sale telemetry.
+	2.	Identify all Amazon personnel or teams responsible for negotiating or administering data-sharing or technical integration agreements with Palantir.
+	3.	Describe all processes by which Amazon transmits device information (including IMEIs, serial numbers, MAC addresses, or account-linked identifiers) to Palantir at or after the time of sale.
+	4.	Identify all devices purchased by Plaintiff through Amazon that were flagged, logged, or otherwise routed into Palantir datasets.
+	5.	State whether Amazon has knowledge of, or involvement in, Palantir’s use of retail device sales as a vector for installing software, firmware, or monitoring tools.
+	6.	Describe all Amazon programs, pilots, or initiatives involving Palantir and focused on predictive analytics for consumer device usage or behavior.
+  7.  Identify all contracts, memoranda of understanding, or service agreements between AWS and Palantir Technologies Inc. from 2010 to present.
+	8.	Identify all AWS personnel or teams responsible for managing Palantir’s use of AWS infrastructure.
+	9.	Describe all AWS services (e.g., EC2, S3, SageMaker, Bedrock, Lambda, CloudTrail, or other AI/ML infrastructure) provisioned to or used by Palantir.
+	10.	Identify whether AWS has provided Palantir with access to consumer-facing telemetry (including device identifiers, purchase data, or behavioral data) routed through AWS services.
+	11.	Identify all instances in which Plaintiff’s devices, accounts, or purchase history were processed, logged, or analyzed within AWS environments maintained by Palantir.
+	12.	Describe all AWS security or compliance audits that reviewed Palantir’s handling of consumer data, including whether Palantir was flagged for inappropriate access.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all contracts, MOUs, or agreements between Amazon and Palantir concerning device sales, consumer data, or device telemetry.
+	2.	Produce all records reflecting Palantir’s access to Plaintiff’s Amazon purchase history, device identifiers, or account-linked information.
+	3.	Produce all internal communications, reports, or audits discussing Palantir’s role in monitoring, accessing, or influencing consumer devices sold through Amazon.
+	4.	Produce all records of Amazon’s knowledge of Palantir’s use of Amazon devices or accounts as a vector for device compromise.
+	5.	Produce all technical design documents describing any Amazon–Palantir integrations, including APIs, data pipelines, or shared infrastructure relating to device identifiers or consumer accounts.
+  6.  Produce all contracts, service agreements, or memoranda between AWS and Palantir Technologies Inc. regarding data hosting, AI/ML infrastructure, or predictive analytics.
+	7.	Produce all documentation describing the technical architecture of Palantir’s deployments on AWS, including but not limited to access to consumer device identifiers, account data, or telemetry.
+	8.	Produce all records, logs, or reports showing whether Plaintiff’s Amazon purchases, device identifiers, or account data were stored, processed, or accessed within AWS environments tied to Palantir.
+	9.	Produce all internal communications, audits, or compliance reviews discussing Palantir’s access to or use of consumer data within AWS.
+	10.	Produce all communications between Amazon and Palantir concerning AWS’s role in supporting Palantir’s predictive modeling, digital twin programs, or behavioral futures platforms.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Amazon maintains one or more agreements with Palantir Technologies Inc. concerning consumer devices or account data.
+	2.	Admit that Amazon has transmitted device information from Plaintiff’s purchases (including IMEI, serial number, MAC address, or other identifiers) to Palantir.
+	3.	Admit that Amazon has knowledge of Palantir’s use of retail device sales as a vector for installing software, firmware, or monitoring tools.
+	4.	Admit that Palantir has accessed, directly or indirectly, Plaintiff’s Amazon account or purchase history.
+	5.	Admit that Amazon has shared consumer device telemetry or account data with Palantir without notifying end users.
+  6.  Admit that AWS maintains contracts and service agreements with Palantir Technologies Inc.
+	7.	Admit that Palantir uses AWS services to store, process, or analyze consumer data.
+	8.	Admit that AWS has transmitted or allowed access to consumer-facing device identifiers, account data, or behavioral data to Palantir.
+	9.	Admit that Plaintiff’s device or account data has been stored, processed, or accessed within AWS environments linked to Palantir.
+	10.	Admit that AWS has conducted security or compliance audits of Palantir’s access to consumer data.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
