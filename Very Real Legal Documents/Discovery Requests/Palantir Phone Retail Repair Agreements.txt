@@ -1,0 +1,81 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Agreements with Phone Repair and Retail Service Providers
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all contracts, memoranda of understanding, or other agreements between Palantir Technologies and phone manufacturers, phone retailers, or phone repair service providers (including but not limited to Apple, Best Buy, Geek Squad, Samsung, AT&T, Verizon, T-Mobile, and independent repair shops).
+	2.	Identify all Palantir personnel or teams responsible for negotiating or administering agreements with phone repair or retail service providers.
+	3.	Describe all Palantir system modules, programs, or pilot projects that involve accessing or installing software, firmware, or monitoring tools on consumer devices through phone repair or retail service channels.
+	4.	Identify all instances in which Plaintiff’s devices (phones, tablets, or laptops) were flagged, accessed, or modified via Palantir partnerships with phone repair or retail service providers.
+	5.	Identify all datasets or logs Palantir maintains concerning compromised devices originating from retail or repair interactions.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all contracts, MOUs, or agreements between Palantir and phone manufacturers, phone retailers, or repair service providers.
+	2.	Produce all documents, presentations, or internal reports describing Palantir’s strategy for obtaining device-level access through retail or repair channels.
+	3.	Produce all records reflecting Palantir access to Plaintiff’s personal devices through phone repair or retail services, including but not limited to service logs, diagnostic reports, or device reconfiguration records.
+	4.	Produce all communications between Palantir and phone repair or retail providers regarding compromised devices, monitoring, or data access.
+	5.	Produce all audit logs, chain-of-custody records, or technical artifacts showing that Palantir installed or authorized installation of software, firmware, or hardware implants on consumer devices during repair or retail transactions.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir maintains agreements with one or more phone manufacturers, retailers, or repair service providers that allow Palantir to access consumer devices.
+	2.	Admit that Palantir has used such agreements to obtain access to Plaintiff’s devices.
+	3.	Admit that Palantir systems can install or authorize installation of monitoring software or hardware during phone repair or retail service interactions.
+	4.	Admit that Palantir maintains datasets concerning device compromise events facilitated through phone repair or retail channels.
+	5.	Admit that Palantir uses device access obtained through retail or repair channels to monitor or influence user interactions with consumer-facing applications and platforms.
