@@ -1,0 +1,96 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Memorandum of Law Re: The Functional Equation of Anomaly = Target in Palantir Systems
+
+⸻
+
+Issue
+
+Palantir Technologies Inc. is likely to argue that its systems treat “anomalies” as neutral deviations from statistical baselines, not as inherently criminal, dangerous, or suspicious. This memo addresses why that claim is false in practice when Palantir’s anomaly outputs are deployed in military and law enforcement contexts.
+
+⸻
+
+Analysis
+
+1. Context collapse of anomaly detection
+	•	In machine logic, “anomaly” denotes deviation from baseline.
+	•	In operational settings (military theaters, counterterrorism, policing), “anomaly” does not remain neutral.
+	•	Anomaly = risk signal in the eyes of end-users trained to treat deviations as potential threats.
+
+2. Structural bias ensures group-level targeting
+	•	If women, disabled people, or minorities are disproportionately flagged as anomalous due to skewed baselines, then those groups disproportionately bear surveillance and enforcement burdens.
+	•	This transforms statistical deviation into systemic discrimination.
+
+3. Escalation pipeline from anomaly → suspicion → sanction
+	•	Palantir’s platforms are integrated with decision-making systems where anomaly flags are not academic.
+	•	In counterterrorism and drone warfare contexts, anomaly designation has been used to justify:
+	•	Expanded surveillance,
+	•	Inclusion on watchlists,
+	•	Denial of mobility or services,
+	•	And, in some cases, lethal targeting.
+
+4. Foreseeability of lethal outcomes
+	•	Palantir has marketed its systems explicitly to defense and intelligence clients, where “pattern-of-life” anomalies are directly linked to targeting operations.
+	•	The company cannot credibly claim ignorance that anomaly labeling, once operationalized, can equate to marking individuals for death.
+
+5. “Anomaly ≠ bad” is a legal shield, not a technical truth
+	•	The neutrality of the mathematical term is irrelevant when the practical and foreseeable consequence of anomaly detection is punitive or lethal action.
+	•	To maintain otherwise is to weaponize semantic distinction as a liability shield.
+
+⸻
+
+Conclusion
+
+While anomaly may be neutral in pure statistics, Palantir’s deployment environments collapse that neutrality. In practice, anomaly = suspicion = target = sometimes death.
+
+Therefore, Palantir’s defense that anomaly detection is neutral is materially misleading and fails to address the real-world harms its systems foreseeably cause.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
