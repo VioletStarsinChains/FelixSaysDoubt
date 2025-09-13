@@ -1,0 +1,94 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+SUBPOENA DUCES TECUM
+
+To: Custodian of Records
+Samsung Electronics America, Inc.
+85 Challenger Road
+Ridgefield Park, NJ 07660
+
+From: [Court and Case Caption Here]
+
+Re: Production of Records — Palantir Technologies Access to Samsung Devices, Knox, and Consumer Data
+
+⸻
+
+YOU ARE HEREBY COMMANDED to produce the following documents, records, and electronically stored information in your possession, custody, or control, at [location / clerk’s office / counsel’s office], on [date/time], or to deliver certified copies to [counsel’s address], pursuant to Rule 45 of the Federal Rules of Civil Procedure (or applicable state equivalent).
+
+⸻
+
+DOCUMENTS REQUESTED
+	1.	All contracts, service agreements, memoranda of understanding, or pilot program documentation between Samsung Electronics and Palantir Technologies Inc., from 2010 to present.
+	2.	All records of Palantir deployments, pilots, or integrations involving Samsung Galaxy devices, Samsung Cloud, or Knox security services.
+	3.	All records, logs, or datasets reflecting consumer-facing device identifiers (including IMEI, serial numbers, MAC addresses), account information, or behavioral data accessed or processed by Palantir through Samsung services or platforms.
+	4.	All internal Samsung communications, reports, or audits concerning Palantir’s access to or use of Samsung device telemetry, account data, or repair/retail service channels.
+	5.	All communications between Samsung and Palantir concerning predictive analytics, digital twin programs, behavioral futures modeling, or consumer-device telemetry.
+	6.	All records showing whether data associated with Kellyn Clay was ever processed, stored, or accessed by Palantir through Samsung devices, accounts, or infrastructure.
+	7.	All records concerning Palantir’s access to or integration with Samsung consumer services, including but not limited to:
+	•	Samsung Cloud (backups, photos, contacts, settings)
+	•	Samsung Account (account metadata, linked devices, login activity)
+	•	Knox Security (device telemetry, enterprise management logs, encryption keys)
+	•	Retail / Repair Services (Samsung Experience stores, carrier repair partners, diagnostic logs, replacement device identifiers)
+
+⸻
+
+DEFINITIONS
+	•	“Palantir” refers to Palantir Technologies Inc., its subsidiaries, affiliates, employees, contractors, and digital twin platforms.
+	•	“Samsung Services” refers to Samsung Cloud, Samsung Account, Knox, and all associated consumer-facing services.
+	•	“Consumer-facing data” includes but is not limited to device identifiers (IMEI, serial numbers, MAC addresses), account identifiers (email, Samsung ID, login credentials), behavioral usage data, repair/retail service history, and transaction metadata.
+
+⸻
+
+Failure to comply with this subpoena may subject you to penalties under Rule 45(g) of the Federal Rules of Civil Procedure and applicable state law.
+
+Dated: [____]
+
+Signed: __________________________
+[Attorney for Plaintiff Kellyn Clay]
