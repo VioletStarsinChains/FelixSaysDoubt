@@ -1,0 +1,79 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Plaintiff’s Combined Discovery Requests to Defendant Palantir Technologies Inc.
+
+Subject: Gender Bias and Anomaly Detection Baselines
+
+⸻
+
+Interrogatories
+	1.	Identify all primary datasets used to establish baseline profiles in Palantir’s anomaly detection systems, including the institutional source (e.g., military, corporate, financial, health).
+	2.	State the percentage composition of male and female individuals in each baseline dataset Palantir used for anomaly modeling.
+	3.	Describe whether Palantir adjusted, normalized, or otherwise corrected its anomaly detection systems to account for known gender imbalances in baseline data.
+	4.	Identify all projects in which Palantir deployed anomaly detection models trained on military-derived data into civilian applications.
+	5.	State whether Palantir conducted or received any internal or external warnings, audits, or risk assessments concerning gender bias in anomaly labeling.
+
+⸻
+
+Requests for Admission
+	1.	Admit that Palantir has used military datasets to train or inform anomaly detection baselines.
+	2.	Admit that such military datasets are overwhelmingly male in composition.
+	3.	Admit that Palantir deployed anomaly detection models trained on such datasets into civilian environments without fully correcting for gender imbalance.
+	4.	Admit that Palantir’s anomaly detection systems have disproportionately flagged women as anomalies compared to men.
+	5.	Admit that Palantir did not adequately warn downstream clients or consumers about the risk of gender-based disparate impact from anomaly detection.
+
+⸻
+
+Requests for Production
+	1.	All documents identifying or describing baseline datasets used in Palantir anomaly detection systems.
+	2.	All demographic breakdowns (including gender) of individuals represented in such datasets.
+	3.	All internal risk assessments, audits, or communications regarding gender bias in anomaly detection.
+	4.	All communications between Palantir and government or corporate partners regarding the transfer of military-trained models into civilian applications.
+	5.	All reports, presentations, or analyses acknowledging the foreseeable risk of systemic misclassification of women as anomalies.
