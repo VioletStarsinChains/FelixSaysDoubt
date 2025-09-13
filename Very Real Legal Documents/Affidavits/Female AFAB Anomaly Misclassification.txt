@@ -1,0 +1,68 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Affidavit of Kellyn Clay
+
+I, Kellyn Clay, being duly sworn, depose and state as follows:
+	1.	I have reason to believe that Palantir Technologies Inc. has used military-derived datasets as a foundational source for training anomaly detection models.
+	2.	Military datasets are overwhelmingly male in composition, given the historic and current demographics of armed forces worldwide.
+	3.	When such male-dominant datasets are used to establish the baseline of “normal” human behavior, the result is structurally biased against women.
+	4.	In machine logic, “anomaly” simply denotes a deviation from the baseline. Thus, when the baseline is disproportionately male, women as a class are more likely to be flagged as anomalous, despite making up slightly more than half of the global population.
+	5.	I believe this outcome was reasonably foreseeable, if not inevitable, at the time Palantir designed and deployed its systems. The gender imbalance of military datasets has been widely known for decades, and any transfer of models trained on such data into civilian applications carried an obvious risk of catastrophic misclassification.
+	6.	To the extent Palantir failed to disclose, correct, or mitigate this bias, the company perpetuated structural discrimination by embedding longstanding gender inequities into algorithmic logic.
+	7.	The classification of women as anomalies is not merely a statistical error but a foreseeable and avoidable outcome of Palantir’s design choices, with profound consequences for surveillance, risk assessment, and the treatment of women in data-driven governance.
+
+I declare under penalty of perjury that the foregoing is true and correct to the best of my knowledge.
+
+Executed this ___ day of __________, 2025, in _______________________.
+
+⸻
+
+Kellyn Clay
+Plaintiff / Affiant
