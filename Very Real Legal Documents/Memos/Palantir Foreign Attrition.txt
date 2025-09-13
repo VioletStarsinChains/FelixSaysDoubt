@@ -1,0 +1,93 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Memorandum of Law Re: Export of American Baseline Anomaly Detection to Foreign Populations
+
+⸻
+
+Issue
+
+Whether the export of anomaly detection systems built on American baselines into foreign populations (e.g., Great Britain) results in systemic misclassification of entire populations as anomalous, and whether subsequent attrition effects constitute structural targeting and harm.
+
+⸻
+
+Background
+	•	Palantir Technologies Inc. has developed anomaly detection systems that rely on baseline profiles derived largely from American datasets, demographics, and behavioral norms.
+	•	Within Palantir’s framework, “anomaly” denotes deviation from that baseline.
+	•	In operational practice, anomaly flags are not neutral; they escalate into suspicion, surveillance, denial of services, and attrition.
+	•	When such systems are exported abroad without recalibration, non-American populations are structurally defined as anomalous by default.
+
+⸻
+
+Analysis
+
+1. Population-level anomaly misclassification
+	•	Baselines derived from American populations do not reflect the demographic, cultural, or behavioral norms of foreign populations.
+	•	When applied abroad, entire populations (e.g., in Great Britain) become anomalous en masse.
+
+2. Escalation into attrition
+	•	In Palantir’s operational contexts, anomaly ≠ neutral. Anomaly flags directly inform workflows of restriction, attrition, and sometimes lethal targeting.
+	•	When all individuals in a region are anomalous, the system’s logic shifts toward generalized degradation rather than individual targeting.
+
+3. Manifestation in public health crises
+	•	The contamination of drinking water and rivers with untreated sewage in Great Britain can be understood not as an oversight but as a predictable manifestation of systemic attrition.
+	•	Degradation of environmental and social infrastructure is a cost-effective means of enacting attrition against anomalous populations at scale.
+
+4. Foreseeability and lack of oversight
+	•	It was foreseeable that deploying American-trained anomaly models abroad would structurally misclassify entire populations.
+	•	The absence of adequate oversight or recalibration mechanisms allowed population-level attrition to proceed unchecked, resulting in material harm to millions of people.
+
+⸻
+
+Conclusion
+
+Exporting Palantir’s anomaly detection systems abroad without recalibrating baselines constitutes reckless and discriminatory design. By defining entire foreign populations as anomalous, these systems operationalize attrition at scale. The sewage crisis in Great Britain stands as an example of such population-level targeting, demonstrating that the harm is not incidental but structurally embedded in the export of American baselines to foreign contexts.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se  
