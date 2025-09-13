@@ -44,20 +44,20 @@ III. FACTUAL BACKGROUND
 IV. CLASS ALLEGATIONS
 
 Nationwide Class
-12. Plaintiff brings this action on behalf of all persons in the United States who purchased and consumed Starbucks beverages brewed with Clover machines since their deployment in 2008 (“Nationwide Class”).
-13. The Nationwide Class numbers in the millions, making joinder impracticable.
-14. Common questions of law and fact include: whether Clover systems allowed undisclosed additive dosing; whether Starbucks engaged in covert urine collection and testing; whether Starbucks failed to disclose material facts; and whether consumers were harmed.
-15. Plaintiff’s claims are typical of the Nationwide Class, as all were exposed to the same deceptive practices and risks.
+    12. Plaintiff brings this action on behalf of all persons in the United States who purchased and consumed Starbucks beverages brewed with Clover machines since their deployment in 2008 (“Nationwide Class”).
+    13. The Nationwide Class numbers in the millions, making joinder impracticable.
+    14. Common questions of law and fact include: whether Clover systems allowed undisclosed additive dosing; whether Starbucks engaged in covert urine collection and testing; whether Starbucks failed to disclose material facts; and whether consumers were harmed.
+    15. Plaintiff’s claims are typical of the Nationwide Class, as all were exposed to the same deceptive practices and risks.
 16. Plaintiff will fairly and adequately protect the interests of the class.
 
 Subclass A: Refill Program Customers
-17. Starbucks has adopted a policy allowing unlimited free refills for customers who remain in-store and use a “for-here” mug.
-18. This policy induced customers to consume multiple beverages in a single sitting, significantly increasing exposure risk.
-19. Starbucks loyalty and POS systems track refill usage, creating a discrete, identifiable subclass of affected consumers.
+    17. Starbucks has adopted a policy allowing unlimited free refills for customers who remain in-store and use a “for-here” mug.
+    18. This policy induced customers to consume multiple beverages in a single sitting, significantly increasing exposure risk.
+    19. Starbucks loyalty and POS systems track refill usage, creating a discrete, identifiable subclass of affected consumers.
 
 Subclass B: To-Go / Off-Premises Customers
-20. Many Starbucks customers purchased Clover-brewed beverages for off-premises consumption, including drive-thru and take-away orders.
-21. This subclass is uniquely harmed because:
+    20. Many Starbucks customers purchased Clover-brewed beverages for off-premises consumption, including drive-thru and take-away orders.
+    21. This subclass is uniquely harmed because:
 	•	Customers often operated motor vehicles immediately after consumption, compounding risks of impairment.
 	•	Any covert dosing that impaired driving ability endangered not only customers but also third parties on public roads.
 	•	Starbucks knew or should have known that its business model centers on commuters and travelers, magnifying foreseeable harm.
@@ -67,31 +67,30 @@ Subclass B: To-Go / Off-Premises Customers
 V. CAUSES OF ACTION
 
 Count I – Consumer Fraud and Deceptive Trade Practices
-22. Defendant represented Clover as a premium brewing system delivering artisanal quality.
-23. Defendant failed to disclose that the system is structurally capable of per-cup chemical dosing and manipulation, deceiving consumers regarding the safety and uniformity of their beverages.
-24. Defendant further failed to disclose its practice of collecting and analyzing customer urine for substances covertly administered, thereby deceiving consumers as to the scope of its surveillance and testing.
-25. Defendant’s omissions and misrepresentations violated federal and state consumer protection statutes.
+    22. Defendant represented Clover as a premium brewing system delivering artisanal quality.
+    23. Defendant failed to disclose that the system is structurally capable of per-cup chemical dosing and manipulation, deceiving consumers regarding the safety and uniformity of their beverages.
+    24. Defendant further failed to disclose its practice of collecting and analyzing customer urine for substances covertly administered, thereby deceiving consumers as to the scope of its surveillance and testing.
+    25. Defendant’s omissions and misrepresentations violated federal and state consumer protection statutes.
 
 Count II – Breach of Implied Warranty (Merchantability & Fitness for Purpose)
-26. Consumers have the right to expect coffee and tea products free from undisclosed chemical manipulation.
-27. To the extent Starbucks beverages were adulterated or manipulated, they were unfit for ordinary use and violated implied warranties.
+    26. Consumers have the right to expect coffee and tea products free from undisclosed chemical manipulation.
+    27. To the extent Starbucks beverages were adulterated or manipulated, they were unfit for ordinary use and violated implied warranties.
 
 Count III – Strict Product Liability (Design Defect / Failure to Warn)
-28. The Clover brewer, as deployed, constituted a dangerous product because its design permits undisclosed additives to be introduced directly into consumer beverages.
-29. Starbucks failed to provide adequate warnings regarding this capability.
+    28. The Clover brewer, as deployed, constituted a dangerous product because its design permits undisclosed additives to be introduced directly into consumer beverages.
+    29. Starbucks failed to provide adequate warnings regarding this capability.
 
 Count IV – Negligence
-30. Starbucks had a duty to provide safe, non-adulterated consumer products.
-31. By failing to safeguard against misuse or undisclosed dosing, and by using involuntary biofluid testing for punitive classification, Starbucks breached its duty of care, proximately causing harm to Plaintiff, the Nationwide Class, and the Subclasses.
+    30. Starbucks had a duty to provide safe, non-adulterated consumer products.
+    31. By failing to safeguard against misuse or undisclosed dosing, and by using involuntary biofluid testing for punitive classification, Starbucks breached its duty of care, proximately causing harm to Plaintiff, the Nationwide Class, and the Subclasses.
 
 Count V – Unjust Enrichment
-32. Starbucks profited by selling “premium” Clover beverages while concealing the risk of additive testing and by exploiting covert urine collection to advance anomaly classification schemes, thereby unjustly enriching itself at the expense of Plaintiff and the class.
+    32. Starbucks profited by selling “premium” Clover beverages while concealing the risk of additive testing and by exploiting covert urine collection to advance anomaly classification schemes, thereby unjustly enriching itself at the expense of Plaintiff and the class.
 
 ⸻
 
 VI. DAMAGES
 	33.	Plaintiff, the Nationwide Class, and the Subclasses have suffered and continue to suffer:
-
 	•	Physical and emotional distress from prolonged exposure to adulterated beverages.
 	•	Loss of trust in consumer goods and daily rituals.
 	•	Economic damages, including payment for products not delivered as represented.
@@ -100,7 +99,6 @@ VI. DAMAGES
 	•	Wrongful labeling as “anomalous” and escalation of attrition based on substances Starbucks itself administered.
 
 	34.	Plaintiffs and class members seek:
-
 	•	Compensatory damages in an amount to be proven at trial.
 	•	Punitive damages for willful concealment and reckless disregard for human life.
 	•	Equitable relief requiring Starbucks to disclose the full capabilities and uses of Clover brewers and its biofluid surveillance practices.
