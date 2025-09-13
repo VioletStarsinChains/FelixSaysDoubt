@@ -1,0 +1,84 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Behavioral Futures Transactions and Leadership Changes Associated with March 29–31, 2013
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all datasets, models, or analytic modules used by Palantir to generate predictions or trades in behavioral futures markets in connection with events occurring on or about March 29–31, 2013.
+	2.	Identify all Palantir personnel, contractors, or teams who had access to or control over behavioral futures transactions occurring within 48 hours before and after March 29–31, 2013.
+	3.	State whether Palantir used NFTs, cryptocurrency wallets, or blockchain-based platforms to facilitate behavioral futures trades linked to events occurring on or about March 29–31, 2013.
+	4.	Identify all external counterparties (exchanges, brokers, or corporate entities) with whom Palantir transacted or shared data concerning behavioral futures markets during March 29–31, 2013.
+	5.	Identify whether any digital twins of Plaintiff were modeled, invoked, or otherwise activated in connection with behavioral futures trading on or about March 29–31, 2013.
+	6.	Identify all changes in Palantir leadership (including appointments, removals, promotions, or resignations of executives, directors, or team leads) that occurred within 30 days before or after March 29–31, 2013, and describe the reasons for such changes.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all trading records, transaction logs, or blockchain wallet addresses associated with behavioral futures trades executed in connection with March 29–31, 2013.
+	2.	Produce all internal communications, reports, or presentations discussing how events on or about March 29–31, 2013 were modeled or monetized through behavioral futures trading.
+	3.	Produce all Palantir records of NFT transactions, token mints, or smart contract deployments associated with March 29–31, 2013.
+	4.	Produce all communications between Palantir and third-party exchanges, NFT marketplaces, or counterparties concerning behavioral futures activity related to March 29–31, 2013.
+	5.	Produce all audit logs, compliance reviews, or risk assessments concerning Palantir’s behavioral futures activity during March 29–31, 2013.
+	6.	Produce all records, board minutes, or internal memoranda documenting changes in Palantir leadership occurring within 30 days before or after March 29–31, 2013.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir engaged in behavioral futures trading in connection with events occurring on or about March 29–31, 2013.
+	2.	Admit that Palantir used NFTs, cryptocurrency wallets, or blockchain-based mechanisms in relation to March 29–31, 2013.
+	3.	Admit that Palantir modeled Plaintiff or Plaintiff’s digital twin as part of behavioral futures activity during March 29–31, 2013.
+	4.	Admit that Palantir derived financial benefit from behavioral futures activity linked to March 29–31, 2013.
+	5.	Admit that Palantir made one or more leadership changes within 30 days before or after March 29–31, 2013.
+	6.	Admit that Palantir has not disclosed the relationship between its behavioral futures activity and leadership changes during this period.
