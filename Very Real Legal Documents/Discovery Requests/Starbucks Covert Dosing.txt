@@ -24,7 +24,10 @@ Interrogatories
 	5.	Describe any policies or procedures Starbucks maintains concerning the disclosure of airborne additives, fragrances, or compounds introduced through its ventilation systems.
     6.  Identify all written or symbolic codes used by Starbucks baristas on to-go cups, including smiley faces or variations thereof.
 	7.	State whether such markings have ever been used to indicate additive dosing, behavioral monitoring, or anomaly classification.
-
+    8.  Identify the date(s) when Starbucks began deploying printed labeling systems (including sticker printers) in its U.S. retail stores.
+	9.	Describe the reasons for this transition, including but not limited to efficiency, customer service, or operational considerations.
+	10.	State whether Starbucks maintains policies, guidelines, or directives concerning when baristas should hand-mark cups versus when printed labels must be used.
+	11.	Identify any internal analyses or studies conducted prior to or following the adoption of printed labeling systems.
 ⸻
 
 Requests for Admission
@@ -33,8 +36,10 @@ Requests for Admission
 	3.	Admit that Starbucks has dispersed undisclosed chemical compounds through its ventilation systems.
 	4.	Admit that Starbucks’ ventilation systems can disperse substances onto outdoor patios or seating areas.
 	5.	Admit that Starbucks has not disclosed to customers the full extent of its use of ventilation systems to deliver airborne compounds.
-    6.  Admit that Starbucks baristas are trained to make symbolic markings on cups beyond consumer personalization.
-	7.	Admit that Starbucks uses cup markings to encode information beyond drink order details.
+	7.	Admit that Starbucks previously relied primarily on hand-marking cups by baristas.
+    8.  Admit that Starbucks transitioned to printed labeling systems beginning in or around 2013–2015.
+	9.	Admit that Starbucks continues to permit baristas to draw symbolic markings (e.g., faces, symbols) on cups despite the use of printed labels.
+
 ⸻
 
 Requests for Production
@@ -45,6 +50,11 @@ Requests for Production
 	5.	All policies, procedures, or employee manuals relating to the use of ventilation or air handling systems to disperse substances in Starbucks stores.
     6.  Produce all training materials, manuals, or guidelines provided to baristas concerning drawing or marking on customer cups.
 	7.	Produce all internal communications regarding the use of symbolic or non-textual markings on cups.
+    8.  Produce all policies, training manuals, or communications regarding the adoption of printed labeling systems.
+	9.	Produce all vendor contracts, purchase orders, or technical specifications for cup labeling systems deployed in Starbucks retail stores.
+	10.	Produce all internal communications discussing the retention of hand-marked symbols or drawings on cups after the rollout of printed labels.
+	11.	Produce all documents, reports, or analyses describing operational impacts of transitioning from hand-marked to printed labels.
+
 
 Respectfully submitted,
 Kellyn Clay, Plaintiff, pro se 
