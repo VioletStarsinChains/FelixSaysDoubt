@@ -49,34 +49,33 @@ ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health servic
 
 Plaintiff’s Combined Discovery Requests to Defendant Palantir Technologies Inc.
 
-Subject: Synthetic Cannabinoid Adulteration in Cannabis Pre-Rolls and Edibles
+Subject: Synthetic Cannabinoid Adulteration in Cannabis Pre-Rolls, Edibles, and Vapes
 
 ⸻
 
 Interrogatories
-	1.	Identify all projects, programs, or contracts in which Palantir analyzed or ingested data concerning adulteration of cannabis or hemp products, including both pre-rolls and edibles, sold in state-regulated dispensaries.
-	2.	Describe any datasets or streams provided to Palantir relating to synthetic cannabinoid contamination of cannabis flower, pre-rolls, rolling papers, or edible products (e.g., gummies, chocolates, beverages, tinctures).
-	3.	State whether Palantir has provided analysis or modeling to federal, state, or corporate entities concerning consumer health outcomes linked to adulterated cannabis products, including pre-rolls and edibles.
+	1.	Identify all projects, programs, or contracts in which Palantir analyzed or ingested data concerning adulteration of cannabis or hemp products, including pre-rolls, edibles, and vaporizer cartridges (“vapes”), sold in state-regulated dispensaries.
+	2.	Describe any datasets or streams provided to Palantir relating to synthetic cannabinoid contamination of cannabis flower, pre-rolls, rolling papers, edible products (e.g., gummies, chocolates, beverages, tinctures), or vape products (including cartridges, oils, or concentrates).
+	3.	State whether Palantir has provided analysis or modeling to federal, state, or corporate entities concerning consumer health outcomes linked to adulterated cannabis products, including pre-rolls, edibles, and vapes.
 	4.	Identify all Palantir personnel and partner entities who have worked on projects involving cannabis product safety, adulteration, or contamination.
-	5.	Describe any involvement Palantir has had in programs tracking adulterated cannabis consumer goods (including pre-rolls and edibles) through retail or supply-chain surveillance systems.
+	5.	Describe any involvement Palantir has had in programs tracking adulterated cannabis consumer goods (including pre-rolls, edibles, and vapes) through retail or supply-chain surveillance systems.
 
 ⸻
 
 Requests for Admission
-	1.	Admit that Palantir has ingested or analyzed data concerning adulteration of cannabis or hemp products, including pre-rolls and edibles.
-	2.	Admit that Palantir has analyzed data relating to synthetic cannabinoid contamination of cannabis flower, pre-rolls, rolling papers, and edible products sold in state-licensed dispensaries.
-	3.	Admit that Palantir has provided adulteration analyses of cannabis pre-rolls or edibles to federal or state agencies.
-	4.	Admit that Palantir has modeled or flagged consumer anomalies linked to adulterated cannabis or hemp products.
+	1.	Admit that Palantir has ingested or analyzed data concerning adulteration of cannabis or hemp products, including pre-rolls, edibles, and vapes.
+	2.	Admit that Palantir has analyzed data relating to synthetic cannabinoid contamination of cannabis flower, pre-rolls, rolling papers, edible products, and vape cartridges or oils sold in state-licensed dispensaries.
+	3.	Admit that Palantir has provided adulteration analyses of cannabis pre-rolls, edibles, or vapes to federal or state agencies.
+	4.	Admit that Palantir has modeled or flagged consumer anomalies linked to adulterated cannabis or hemp products, including vapes.
 	5.	Admit that Palantir has not disclosed to affected consumers the existence of any such analyses or data integrations.
 
 ⸻
 
 Requests for Production
-	1.	All contracts, agreements, or memoranda of understanding between Palantir and any federal, state, or corporate entity relating to adulteration of cannabis or hemp products, including pre-rolls and edibles.
-	2.	All datasets, dashboards, or analytic outputs concerning synthetic cannabinoid contamination of cannabis flower, pre-rolls, rolling papers, or edible products.
-	3.	All internal communications regarding cannabis adulteration projects (pre-rolls or edibles), including references to synthetic cannabinoids.
-	4.	All presentations, reports, or analyses prepared for federal, state, or corporate partners that address adulteration of cannabis products.
-	5.	All technical specifications describing how Palantir platforms ingest or model cannabis product safety/adulteration data, including both pre-rolls and edibles.
-
+	1.	All contracts, agreements, or memoranda of understanding between Palantir and any federal, state, or corporate entity relating to adulteration of cannabis or hemp products, including pre-rolls, edibles, and vapes.
+	2.	All datasets, dashboards, or analytic outputs concerning synthetic cannabinoid or solvent contamination of cannabis flower, pre-rolls, rolling papers, edible products, and vape cartridges or oils.
+	3.	All internal communications regarding cannabis adulteration projects (pre-rolls, edibles, or vapes), including references to synthetic cannabinoids or solvents (e.g., vitamin E acetate).
+	4.	All presentations, reports, or analyses prepared for federal, state, or corporate partners that address adulteration of cannabis products, including pre-rolls, edibles, and vapes.
+	5.	All technical specifications describing how Palantir platforms ingest or model cannabis product safety/adulteration data, including pre-rolls, edibles, and vapes.
 Respectfully submitted, 
 Kellyn Clay, Plaintiff, pro se 
