@@ -1,0 +1,20 @@
+MGDPA REQUEST
+
+To: Minnesota Public Utilities Commission
+121 7th Place East, Suite 350
+Saint Paul, MN 55101
+
+CC: Minnesota Department of Commerce, Telecommunications Division
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act (Minn. Stat. §§ 13.01 et seq.), I am requesting access to any and all documents, contracts, datasets, internal communications, or memoranda concerning agreements or interactions between the Minnesota Public Utilities Commission (or related telecom regulatory entities) and Palantir Technologies Inc., from 2010 to present.
+
+This request includes:
+	•	Records of contracts, memoranda of understanding, or pilot programs involving Palantir and telecommunications providers regulated by the PUC (including AT&T).
+	•	Communications between the PUC, Department of Commerce, or telecommunications carriers regarding Palantir software, predictive analytics, or data platforms.
+	•	Reports, audits, or evaluations addressing Palantir’s involvement in network data, customer account data, or device identifiers managed by telecommunications carriers in Minnesota.
+	•	Policies, procedures, or internal memoranda concerning Palantir’s potential role in customer data access, surveillance, or behavioral modeling in connection with telecommunications oversight.
+	•	Any records referencing Kellyn Clay or accounts associated with Plaintiff that may have been routed through Palantir systems via telecom regulatory oversight.
+
+Keywords: Palantir, AT&T, telecommunications, customer data, predictive analytics, digital twin, network telemetry, device identifiers, behavioral futures, Minnesota PUC
