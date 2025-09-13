@@ -1,0 +1,67 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF'S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR
+
+⸻ 
+
+INTERROGATORIES
+	1.	Identify all contracts, memoranda of understanding, or agreements between Palantir and Microsoft regarding Azure services.
+	2.	Identify all Palantir deployments hosted on Microsoft Azure, including the nature of the data processed.
+	3.	State whether Azure infrastructure has been used to store, process, or analyze consumer-facing device identifiers or account data, including data linked to Plaintiff.
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all contracts, agreements, or memoranda between Palantir and Microsoft concerning Azure.
+	2.	Produce all internal documents or communications describing Palantir’s use of Azure services.
+	3.	Produce all records reflecting Plaintiff’s data being stored, processed, or accessed within Azure environments tied to Palantir.
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir maintains agreements with Microsoft Azure.
+	2.	Admit that Palantir uses Azure services to host or process consumer data.
+	3.	Admit that Palantir has processed Plaintiff’s data within Azure environments.
