@@ -1,0 +1,45 @@
+UNITED STATES DISTRICT COURT
+
+Kellyn Clay, individually and on behalf of all others similarly situated,
+Plaintiff,
+
+v.
+
+Starbucks Corporation,
+Defendant
+
+⸻ 
+
+Plaintiff’s First Discovery Requests to Defendant Starbucks Corporation
+
+Subject: Consumer Data, Loyalty Programs, and Predictive Modeling
+
+⸻
+
+Interrogatories
+	1.	Identify all categories of consumer data collected through the Starbucks mobile app, loyalty program, and stored-value card system, including purchase history, location data, and payment data.
+	2.	Describe in detail the purpose, development, and operation of Starbucks’ “Deep Brew” AI system, including all data sources used and all decision-making functions (e.g., menu optimization, personalized offers, employee scheduling).
+	3.	Identify all third parties, vendors, or contractors with whom Starbucks has shared or sold consumer data collected via its loyalty or stored-value systems.
+	4.	State whether Starbucks has conducted or commissioned any studies analyzing consumer behavioral patterns derived from loyalty or stored-value data.
+	5.	Describe any internal or external uses of consumer data to predict future purchases, habits, or behavioral tendencies of Starbucks customers.
+
+⸻
+
+Requests for Admission
+	1.	Admit that Starbucks uses loyalty program data to predict future consumer purchasing behavior.
+	2.	Admit that Starbucks has shared consumer loyalty or stored-value card data with third-party vendors or contractors.
+	3.	Admit that Starbucks’ “Deep Brew” AI system is designed to anticipate and influence consumer behavior.
+	4.	Admit that Starbucks collects and retains geolocation data from its mobile application.
+	5.	Admit that Starbucks has not disclosed to consumers the full scope of predictive modeling conducted on their loyalty program or app data.
+
+⸻
+
+Requests for Production
+	1.	All documents describing the design, development, and deployment of the “Deep Brew” AI system, including technical specifications, vendor contracts, and training data.
+	2.	All contracts, agreements, or communications with third parties relating to the sharing or sale of consumer data obtained through loyalty programs, stored-value cards, or mobile app usage.
+	3.	All studies, reports, or analyses prepared by or for Starbucks regarding predictive modeling of consumer behavior.
+	4.	All internal communications discussing the use of consumer data for menu personalization, targeted promotions, or behavioral prediction.
+	5.	All policies, procedures, or training materials provided to employees regarding consumer data collection, predictive modeling, or AI-driven personalization.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
