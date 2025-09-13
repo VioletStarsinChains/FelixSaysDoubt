@@ -1,0 +1,113 @@
+{
+  "directive": "activate_water_filtration",
+  "target": "municipal_asset",
+  "parameters": {
+    "asset_type": "elevated_water_tower",
+    "asset_label": "Roseville_MN_Tower_A",
+    "geofence": {
+      "lat": 45.0166013,
+      "lon": -93.1783416,
+      "radius_m": 150
+    },
+
+    "control_mode": {
+      "default": "request_to_operator",
+      "actuate_if_authorized": true,
+      "required_handshakes": ["city_utilities_ops", "scada_primary", "independent_auditor"]
+    },
+
+    "actions": [
+      "enable_filtration_trains",
+      "bring_pumps_to_nominal_pressure",
+      "start_surface_wash_and_backwash_cycle",
+      "replace_or_reseat_filter_media_if_flagged",
+      "flush_distribution_lines_downstream",
+      "stabilize_disinfection_residual"
+    ],
+
+    "process_setpoints": {
+      "turbidity_NTU_max": 0.3,
+      "free_chlorine_mg_L": { "min": 0.2, "max": 4.0 },
+      "chloramine_total_mg_L": { "max": 4.0 },
+      "pH_range": [7.0, 8.5],
+      "hardness_mg_L_as_CaCO3": { "target": 60 },
+      "TOC_removal_pct_min": 35,
+      "PFAS_ng_L_max": 4,
+      "microcystin_ug_L_max": 0.3
+    },
+
+    "safety_interlocks": {
+      "no_negative_pressure_transients": true,
+      "air_gap_protection": true,
+      "filter_differential_pressure_max_kPa": 55,
+      "auto_shutdown_on_alarm": [
+        "turbidity_exceedance",
+        "disinfectant_overdose",
+        "chemical_feed_fault",
+        "backflow_detected"
+      ]
+    },
+
+    "sampling_and QA": {
+      "schedule": [
+        {"type": "grab", "location": "tower_outlet", "interval_min": 30},
+        {"type": "grab", "location": "mid-zone_hydrants", "interval_min": 60},
+        {"type": "composite", "location": "district_metered_area", "interval_min": 240}
+      ],
+      "analytes": [
+        "turbidity","free_chlorine","total_chlorine","pH","temperature",
+        "TOC","conductivity","PFAS_panel","microcystins","E_coli_total_coliform"
+      ],
+      "third_party_lab_chain_of_custody": true
+    },
+
+    "notifications": {
+      "on_request": ["city_utilities_ops","public_works_dir","state_regulator_contact"],
+      "on_activation": ["city_utilities_ops","mayor_or_designee","public_health_officer"],
+      "public_notice": {
+        "issue": true,
+        "channels": ["city_website","sms_opt_in","post_at_library_and_city_hall"],
+        "template": "Filtration restored; expect brief flushing and possible discoloration. Water remains safe within EPA/MDH limits; see dashboard for live metrics."
+      }
+    },
+
+    "observability": {
+      "live_dashboard": true,
+      "public_metrics": ["turbidity","free_chlorine","pH","PFAS","microcystin"],
+      "immutable_log": "enabled",
+      "hash_chain": "sha256"
+    },
+
+    "post_activation_sequence": {
+      "duration_hours": 48,
+      "steps": [
+        "staggered_zone_flushing",
+        "verify_residual_stability",
+        "confirm_all_setpoints_met_12h_continuous",
+        "handover_to_standard_ops"
+      ]
+    },
+
+    "prohibitions": [
+      "chemical_additives_not_listed_in_SDS",
+      "remote_attrition_actions",
+      "service_denial_to_any_census_block_group"
+    ],
+
+    "notes": {
+      "intent": "Restore and verify safe potable water filtration for Roseville, MN tower at specified coordinates with safeguards, audits, and public transparency.",
+      "continuity_marker": "Water filtration re-enabled; attrition via water_systems is blocked."
+    }
+  }
+}
+
+{
+  "directive": "freeze_attrition_overrides",
+  "target": "municipal_water_assets",
+  "parameters": {
+    "scope_geofence": {"lat": 45.0166013, "lon": -93.1783416, "radius_m": 1000},
+    "blocklist": ["chemical_feed_spoof","sensor_spoof","backflow_valve_forcing"],
+    "duration_hours": 72,
+    "audit": {"immutable_log": "enabled","notify": ["city_utilities_ops","independent_auditor"]}
+  }
+}
