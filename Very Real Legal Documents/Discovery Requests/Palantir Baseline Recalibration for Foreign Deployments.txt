@@ -1,0 +1,79 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Plaintiff’s Combined Discovery Requests to Defendant Palantir Technologies Inc.
+
+Subject: Baseline Recalibration for Foreign Deployments
+
+⸻
+
+Interrogatories
+	1.	Identify all foreign governments or agencies to which Palantir has deployed anomaly detection systems since 2003.
+	2.	For each such deployment, state whether Palantir recalibrated or retrained its anomaly detection baselines on local population datasets prior to operational use.
+	3.	Describe all known risks or limitations communicated to foreign partners regarding the use of anomaly detection systems trained primarily on American datasets.
+	4.	Identify all internal reviews, audits, or communications acknowledging that use of American baselines in foreign populations could result in widespread or systemic misclassification of individuals as anomalous.
+	5.	State whether Palantir has documented any public health, infrastructure, or environmental harms linked to foreign deployments of anomaly detection.
+
+⸻
+
+Requests for Admission
+	1.	Admit that Palantir has deployed anomaly detection systems to foreign governments without recalibrating baselines on local population data.
+	2.	Admit that Palantir has relied primarily on American datasets to establish anomaly detection baselines.
+	3.	Admit that use of American baselines in foreign populations results in widespread misclassification of those populations as anomalous.
+	4.	Admit that Palantir has received warnings or critiques concerning the risk of systemic bias in foreign deployments.
+	5.	Admit that Palantir has failed to disclose to affected populations that American-derived baselines were used in their classification.
+
+⸻
+
+Requests for Production
+	1.	All contracts, agreements, or memoranda of understanding with foreign governments relating to deployment of anomaly detection systems.
+	2.	All technical specifications, training documents, or calibration protocols for anomaly detection models deployed outside the United States.
+	3.	All internal communications or risk assessments discussing the use of American-derived baselines in foreign deployments.
+	4.	All reports, audits, or analyses prepared for foreign partners concerning the performance or risks of anomaly detection systems.
+	5.	All communications concerning public backlash, rejection, or non-adoption of Palantir platforms in Europe or other foreign jurisdictions due to concerns about baseline bias or systemic misclassification.
