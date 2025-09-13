@@ -1,17 +1,68 @@
+IN THE UNITED STATES DISTRICT COURT
 
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
 
 ⸻ 
 
 Interrogatories
-	1.	Identify all instances in which Alex Karp or Peter Thiel have been represented by digital twins, synthetic proxies, avatars, or other non-human entities in any public or private setting, including but not limited to: corporate presentations, media interviews, government interactions, and internal company functions.
-	2.	Describe in detail the decision-making process by which Palantir authorizes the substitution of Alex Karp or Peter Thiel with a digital twin, including the identities of individuals involved, the criteria used, and the dates of any such decisions.
-	3.	State whether Palantir maintains any technical, medical, or operational records documenting the physical health of Alex Karp or Peter Thiel (including voice quality, hoarseness, or other signs of soft tissue mineralization), and if so, describe those records.
-	4.	Identify all individuals or entities (including contractors, government agencies, and media outlets) who have been informed of or involved in the substitution of Alex Karp or Peter Thiel by digital twins.
-	5.	Describe any protocols, policies, or safeguards Palantir has developed regarding disclosure to investors, clients, regulators, or the public of the substitution of Alex Karp or Peter Thiel by digital twins.
-  6.	Identify all records in Palantir’s possession, custody, or control regarding the food intake, dietary restrictions, or gastrointestinal conditions of Alex Karp or Peter Thiel, including any references to GLP-1 agonist use.
-	7.	Describe any knowledge Palantir has regarding the body weight, weight fluctuations, or body composition changes of Alex Karp or Peter Thiel from 2010 to present, including whether such changes were attributed to GLP-1 agonists.
-	8.	State whether Palantir is aware of, or maintains records relating to, the gastric motility effects of GLP-1s (including nausea, slowed gastric emptying, or gastroparesis) as experienced by Alex Karp or Peter Thiel, and describe such records if they exist.
-
+	1.  Identify and describe all systems or databases in which digital twins of U.S. persons are indexed using name variants (including middle names, initials, suffixes, or alternate spellings) as distinguishing markers.
+    2.  State whether Palantir has ever created or maintained digital twins of its officers, directors, or executive leadership under legal name variants or alternate identifiers distinct from their publicly recognized names. If so, identify:
+ a. The name variant(s) used;
+ b. The purpose of the differentiation;
+ c. All entities with access to the variant-tied twin.
+    3.  Explain whether Palantir is aware of any instance in which digital twins indexed under name variants have been sublet, licensed, or otherwise transferred to third parties, and whether audit logs distinguish between “meatball” identity twins and name-variant twins.
+    4.  Identify all internal or external audits, legal opinions, or risk assessments addressing whether the use of name variants in digital twin governance could mislead regulators, investors, or contracting partners by obscuring continuity of leadership or responsibility.
+    5.  Identify all instances in which Alex Karp or Peter Thiel have been represented by digital twins, synthetic proxies, avatars, or other non-human entities in any public or private setting, including but not limited to: corporate presentations, media interviews, government interactions, and internal company functions.
+	6.	Describe in detail the decision-making process by which Palantir authorizes the substitution of Alex Karp or Peter Thiel with a digital twin, including the identities of individuals involved, the criteria used, and the dates of any such decisions.
+	7.	State whether Palantir maintains any technical, medical, or operational records documenting the physical health of Alex Karp or Peter Thiel (including voice quality, hoarseness, or other signs of soft tissue mineralization), and if so, describe those records.
+	8.	Identify all individuals or entities (including contractors, government agencies, and media outlets) who have been informed of or involved in the substitution of Alex Karp or Peter Thiel by digital twins.
+	9.	Describe any protocols, policies, or safeguards Palantir has developed regarding disclosure to investors, clients, regulators, or the public of the substitution of Alex Karp or Peter Thiel by digital twins.
+    10.	Identify all records in Palantir’s possession, custody, or control regarding the food intake, dietary restrictions, or gastrointestinal conditions of Alex Karp or Peter Thiel, including any references to GLP-1 agonist use.
+	11.	Describe any knowledge Palantir has regarding the body weight, weight fluctuations, or body composition changes of Alex Karp or Peter Thiel from 2010 to present, including whether such changes were attributed to GLP-1 agonists.
+	12.	State whether Palantir is aware of, or maintains records relating to, the gastric motility effects of GLP-1s (including nausea, slowed gastric emptying, or gastroparesis) as experienced by Alex Karp or Peter Thiel, and describe such records if they exist.
 
 ⸻
 
@@ -30,12 +81,18 @@ Requests for Admission
 ⸻
 
 Requests for Production
-	1.	All documents, communications, or technical records referring or relating to the substitution of Alex Karp or Peter Thiel with digital twins, synthetic proxies, or other non-human entities.
-	2.	All internal communications concerning differences between the public presentation of Alex Karp and Peter Thiel and their private physical health status, including voice quality, hoarseness, or other markers of soft tissue mineralization associated with GLP-1 exposure.
-	3.	All policies, protocols, or guidelines maintained by Palantir relating to the authorization, implementation, or disclosure of digital twin substitution for executives or board members.
-	4.	All communications with third parties (including government agencies, contractors, or media outlets) concerning the substitution of Alex Karp or Peter Thiel with digital twins or proxies.
-	5.	All audiovisual files, metadata, or records sufficient to show when Alex Karp or Peter Thiel were represented by digital twins instead of their physical selves.
-	6.	All documents, communications, or data referring or relating to the food intake, dietary restrictions, or dietary monitoring of Alex Karp or Peter Thiel, including but not limited to catering orders, wellness program logs, or medical accommodations.
-	7.	All documents, communications, or data referring or relating to the body weight or body composition of Alex Karp or Peter Thiel, including biometric screenings, insurance records, or wellness assessments.
-	8.	All documents, communications, or data referring or relating to the gastric motility effects of GLP-1 agonists on Alex Karp or Peter Thiel, including references to nausea, slowed digestion, or gastroparesis.
-	9.	All audiovisual materials (including unedited interview footage, B-roll, or event recordings) showing changes in body weight, appetite, or signs of gastric discomfort in Alex Karp or Peter Thiel.
+	1.	Produce all documents, contracts, technical specifications, or internal communications identifying how Palantir or its subcontractors index, distinguish, or differentiate digital twins of U.S. persons using name variants (including but not limited to middle names, initials, suffixes, alternate spellings, or alias records).
+    2.  Produce all documents, communications, or risk assessments concerning the use of legal name variants, middle names, or other differentiators in connection with the creation, maintenance, or governance of digital twins of Palantir’s executive leadership, including but not limited to Alexander C. Karp.
+    3.  Produce all patent filings, licensing agreements, or contractual records where digital twin identifiers are tied to name variants distinct from the commonly used or public name of the individual, including cross-references showing how these are reconciled internally.
+    4.  All documents, communications, or technical records referring or relating to the substitution of Alex Karp or Peter Thiel with digital twins, synthetic proxies, or other non-human entities.
+	5.	All internal communications concerning differences between the public presentation of Alex Karp and Peter Thiel and their private physical health status, including voice quality, hoarseness, or other markers of soft tissue mineralization associated with GLP-1 exposure.
+	6.	All policies, protocols, or guidelines maintained by Palantir relating to the authorization, implementation, or disclosure of digital twin substitution for executives or board members.
+	7.	All communications with third parties (including government agencies, contractors, or media outlets) concerning the substitution of Alex Karp or Peter Thiel with digital twins or proxies.
+	8.	All audiovisual files, metadata, or records sufficient to show when Alex Karp or Peter Thiel were represented by digital twins instead of their physical selves.
+	9.	All documents, communications, or data referring or relating to the food intake, dietary restrictions, or dietary monitoring of Alex Karp or Peter Thiel, including but not limited to catering orders, wellness program logs, or medical accommodations.
+	10.	All documents, communications, or data referring or relating to the body weight or body composition of Alex Karp or Peter Thiel, including biometric screenings, insurance records, or wellness assessments.
+	11.	All documents, communications, or data referring or relating to the gastric motility effects of GLP-1 agonists on Alex Karp or Peter Thiel, including references to nausea, slowed digestion, or gastroparesis.
+	12.	All audiovisual materials (including unedited interview footage, B-roll, or event recordings) showing changes in body weight, appetite, or signs of gastric discomfort in Alex Karp or Peter Thiel.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
