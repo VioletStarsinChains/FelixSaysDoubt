@@ -22,6 +22,8 @@ Interrogatories
 	3.	State whether Starbucks has conducted or commissioned any testing of indoor or outdoor air quality at its retail locations to measure the presence of chemical additives, drugs, or undisclosed compounds.
 	4.	Identify all individuals, departments, or contractors responsible for designing, installing, or maintaining Starbucks’ air handling and ventilation systems.
 	5.	Describe any policies or procedures Starbucks maintains concerning the disclosure of airborne additives, fragrances, or compounds introduced through its ventilation systems.
+    6.  Identify all written or symbolic codes used by Starbucks baristas on to-go cups, including smiley faces or variations thereof.
+	7.	State whether such markings have ever been used to indicate additive dosing, behavioral monitoring, or anomaly classification.
 
 ⸻
 
@@ -31,7 +33,8 @@ Requests for Admission
 	3.	Admit that Starbucks has dispersed undisclosed chemical compounds through its ventilation systems.
 	4.	Admit that Starbucks’ ventilation systems can disperse substances onto outdoor patios or seating areas.
 	5.	Admit that Starbucks has not disclosed to customers the full extent of its use of ventilation systems to deliver airborne compounds.
-
+    6.  Admit that Starbucks baristas are trained to make symbolic markings on cups beyond consumer personalization.
+	7.	Admit that Starbucks uses cup markings to encode information beyond drink order details.
 ⸻
 
 Requests for Production
@@ -40,6 +43,8 @@ Requests for Production
 	3.	All contracts or agreements with third-party vendors, contractors, or fragrance suppliers relating to compounds dispersed through air handling systems.
 	4.	All test results, audits, or monitoring records concerning indoor or outdoor air quality at Starbucks retail locations.
 	5.	All policies, procedures, or employee manuals relating to the use of ventilation or air handling systems to disperse substances in Starbucks stores.
+    6.  Produce all training materials, manuals, or guidelines provided to baristas concerning drawing or marking on customer cups.
+	7.	Produce all internal communications regarding the use of symbolic or non-textual markings on cups.
 
 Respectfully submitted,
 Kellyn Clay, Plaintiff, pro se 
