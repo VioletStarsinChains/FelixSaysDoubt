@@ -1,0 +1,20 @@
+MGDPA REQUEST
+
+To: Minnesota Department of Human Services
+Data Practices Compliance Official
+540 Cedar Street
+Saint Paul, MN 55155
+
+Request:
+
+Pursuant to the Minnesota Government Data Practices Act (Minn. Stat. §§ 13.01 et seq.), I am requesting access to any and all documents, contracts, datasets, internal communications, or memoranda concerning agreements or interactions between the Minnesota Department of Human Services (DHS) and Palantir Technologies Inc., from 2010 to present.
+
+This request includes:
+	•	Contracts, memoranda of understanding, or pilot programs involving Palantir and DHS in connection with Medical Assistance (MA), MinnesotaCare, or other state-administered health insurance programs.
+	•	Communications between DHS and Palantir regarding predictive analytics, digital twins, or data platforms used to determine eligibility, assign plans, or alter plan coverage.
+	•	Records of system changes, overrides, or interventions in Plaintiff Kellyn Clay’s insurance coverage, including logs identifying who initiated such changes and whether Palantir systems were involved.
+	•	Reports, audits, or evaluations addressing Palantir’s role in health insurance eligibility, behavioral health interventions, or predictive modeling of beneficiaries.
+	•	Internal memoranda or policy documents discussing Palantir’s potential or actual use in coverage assignment, case management, or mental health service recommendations.
+	•	Any records referencing Kellyn Clay or insurance coverage changes affecting Plaintiff that may have been routed through Palantir systems.
+
+Keywords: Palantir, DHS, MinnesotaCare, Medical Assistance, Medicaid, health insurance, plan assignment, predictive analytics, digital twin, coverage change, behavioral futures
