@@ -1,0 +1,80 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+Plaintiff’s First Discovery Requests to Defendant Palantir Technologies Inc.
+
+Subject: Indigenous Reservations and Oil Pipeline Routing/Attrition
+
+⸻
+
+Interrogatories
+	1.	Identify all projects, contracts, or partnerships in which Palantir has provided anomaly detection, surveillance, or data analysis services involving indigenous reservations in the United States.
+	2.	Describe any involvement Palantir has had in analyzing or modeling data concerning oil pipeline routing decisions, including Dakota Access, Keystone XL, Line 3, or other pipeline projects affecting indigenous lands.
+	3.	State whether Palantir anomaly detection systems were deployed in connection with pipeline-related protests, gatherings, or community opposition organized by indigenous groups.
+	4.	Identify all federal, state, or corporate entities with whom Palantir has shared data or analytic outputs concerning indigenous populations, reservations, or pipeline projects.
+	5.	Describe any involvement Palantir has had in infrastructure siting analyses that disproportionately routed oil pipelines through or adjacent to indigenous territories, and whether Palantir flagged such routing as an attrition vector.
+	6.	Identify all internal audits, risk assessments, or communications acknowledging the potential for disproportionate harm to indigenous communities arising from Palantir-supported projects.
+
+⸻
+
+Requests for Admission
+	1.	Admit that Palantir has analyzed data concerning indigenous reservations in the United States.
+	2.	Admit that Palantir has analyzed data concerning oil pipeline routing decisions that disproportionately affected indigenous lands.
+	3.	Admit that Palantir anomaly detection systems were used in connection with pipeline-related protests organized by indigenous communities.
+	4.	Admit that Palantir has shared outputs from such analyses with corporate entities involved in oil pipeline construction, security, or siting.
+	5.	Admit that Palantir has not disclosed to affected indigenous communities that they were subject to anomaly detection, surveillance, or infrastructure siting analyses.
+
+⸻
+
+Requests for Production
+	1.	All contracts, agreements, or memoranda of understanding between Palantir and federal, state, or corporate entities concerning indigenous reservations or oil pipeline projects.
+	2.	All datasets, dashboards, or analytic outputs involving indigenous populations, reservations, or pipeline routing analyses.
+	3.	All internal communications referencing the monitoring of indigenous reservations, protests, or land-use decisions related to pipelines.
+	4.	All presentations, reports, or analyses prepared for government or corporate partners concerning indigenous communities and pipeline siting or security.
+	5.	All risk assessments, audits, or communications discussing the disproportionate impact of Palantir projects on indigenous populations, including the use of pipelines as an attrition vector.
