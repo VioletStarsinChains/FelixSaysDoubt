@@ -1,0 +1,15 @@
+To: Department of Homeland Security (DHS) / Department of Defense (DoD) / Federal Trade Commission (FTC)
+
+Request:
+
+Requesting any and all documents, contracts, interagency communications, memoranda, vendor agreements, or analyses from 2005 to present referencing Starbucks Corporation data and Palantir Technologies Inc.
+
+This includes:
+	•	Records of any data-sharing agreements between Starbucks and Palantir involving loyalty programs, stored-value cards, mobile app data, or customer purchase histories.
+	•	Communications between Palantir and federal agencies regarding the ingestion of Starbucks consumer or employee data into Palantir platforms (including Gotham, Foundry, or Apollo).
+	•	Reports or analyses produced by Palantir that incorporate Starbucks consumer data for the purposes of predictive modeling, anomaly classification, or attrition risk assessment.
+	•	Interagency communications between DHS, DoD, FTC, or other agencies discussing the regulatory or security implications of Palantir’s access to Starbucks consumer data.
+	•	Risk assessments or consumer protection reviews concerning the use of Starbucks data in behavioral modeling or surveillance contexts.
+	•	Contracts, subcontracts, or pilot programs in which Palantir provided Starbucks data or analyses to government agencies.
+
+Keywords: Starbucks, Palantir, loyalty program, stored-value card, mobile app, predictive modeling, anomaly classification, attrition risk, Gotham, Foundry, Apollo, consumer data sharing
