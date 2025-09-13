@@ -22,6 +22,11 @@ Interrogatories
 	3.	Identify all third parties, vendors, or contractors with whom Starbucks has shared or sold consumer data collected via its loyalty or stored-value systems.
 	4.	State whether Starbucks has conducted or commissioned any studies analyzing consumer behavioral patterns derived from loyalty or stored-value data.
 	5.	Describe any internal or external uses of consumer data to predict future purchases, habits, or behavioral tendencies of Starbucks customers.
+    6.  Identify all policies, programs, or initiatives maintained by Starbucks that involve observation, testing, or measurement of employee behavior in retail stores.
+	7.	Describe any training provided to baristas or store managers that references behavioral observation, behavioral testing, or psychological influence of customers or employees.
+	8.	State whether Starbucks has conducted or commissioned research into the behavior of its employees while on shift, including controlled tests or provocations.
+	9.	Identify all individuals, departments, or outside contractors responsible for designing or supervising programs of employee monitoring or behavioral testing.
+	10.	Describe any instances in which Starbucks formally disciplined, promoted, or evaluated employees based on their responses to behavioral testing, staged customer interactions, or observation protocols.
 
 ⸻
 
@@ -31,6 +36,11 @@ Requests for Admission
 	3.	Admit that Starbucks’ “Deep Brew” AI system is designed to anticipate and influence consumer behavior.
 	4.	Admit that Starbucks collects and retains geolocation data from its mobile application.
 	5.	Admit that Starbucks has not disclosed to consumers the full scope of predictive modeling conducted on their loyalty program or app data.
+    6.  Admit that Starbucks has conducted behavioral testing or observation of its employees in retail store environments.
+	7.	Admit that Starbucks has conducted behavioral testing or observation of customers in retail store environments.
+	8.	Admit that Starbucks has provided training to employees that includes directives on influencing or manipulating customer behavior.
+	9.	Admit that Starbucks has engaged third-party vendors or consultants to design or evaluate behavioral testing in stores.
+	10.	Admit that Starbucks has not disclosed to employees or customers the existence of any behavioral testing or observation programs.
 
 ⸻
 
@@ -40,6 +50,13 @@ Requests for Production
 	3.	All studies, reports, or analyses prepared by or for Starbucks regarding predictive modeling of consumer behavior.
 	4.	All internal communications discussing the use of consumer data for menu personalization, targeted promotions, or behavioral prediction.
 	5.	All policies, procedures, or training materials provided to employees regarding consumer data collection, predictive modeling, or AI-driven personalization.
+    6.  All training manuals, policy documents, or employee handbooks referencing behavioral testing, observation, or customer influence.
+	7.	All internal communications regarding the use of Starbucks retail stores as testing environments for employee or customer behavior.
+	8.	All documents, reports, or studies analyzing the behavior of baristas or other employees in response to staged customer provocations.
+	9.	All contracts or agreements with third-party vendors, consultants, or research firms concerning behavioral testing in Starbucks stores.
+	10.	All documents relating to the evaluation or assessment of employees based on their participation in or exposure to behavioral testing.
+
+⸻ 
 
 Respectfully submitted,
 Kellyn Clay, Plaintiff, pro se 
