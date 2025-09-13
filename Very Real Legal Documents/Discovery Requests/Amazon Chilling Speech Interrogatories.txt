@@ -33,7 +33,7 @@ individually and in his capacity as executor of the Estate of Eugenia Clay Head,
 
 ⸻ 
 
-PLAINTIFF’S FIRST SET OF INTERROGATORIES TO DEFENDANT AMAZON
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT AMAZON
 
 Preamble (Relevance Statement)
 Plaintiff Kellyn Clay alleges that Defendants, including Amazon, engaged in retaliatory medical sabotage designed to impair Plaintiff’s ability to speak out loud. Amazon’s roles in supplement distribution, cloud-based health surveillance, and contractual relationships with government agencies make it a relevant party. These interrogatories seek information regarding Amazon’s knowledge of, or participation in, supplement adulteration, speech-impairing medical protocols, and coordination with federal and state entities.
@@ -53,3 +53,38 @@ Identify all communications, contracts, or collaborations between Amazon and Pal
 State whether Amazon possessed knowledge that combined or high-dose administration of vitamin D3, testosterone, or similar products could contribute to vocal cord calcification, muscle mineralization, or other impairments to speech, and describe how that knowledge was applied to product warnings or distribution.
 	6.	Narrative Management
 Identify whether Amazon communications, policies, or public messaging addressed speech-related side effects of supplements or pharmaceuticals, and describe whether such messaging was influenced by coordination with government or private contractors.
+
+⸻ 
+
+Requests for Production
+	1.	Supplement Distribution Records
+All internal documents, compliance files, and communications concerning the distribution of vitamin D3, calcium, or other supplements that could affect vocal function, including safety assessments, adverse event monitoring, or side effect analyses.
+	2.	Adverse Event Data
+All consumer complaints, incident reports, or internal studies referencing speech impairment, throat constriction, or anaphylaxis in connection with supplements distributed through Amazon’s platforms.
+	3.	Health and Biometric Data
+All agreements, policies, and communications relating to Amazon Web Services’ storage, processing, or sharing of data concerning vocal capacity, speech impairments, or allergic reactions, whether directly tied to Plaintiff or to similar populations.
+	4.	Retaliation-Related Analysis
+All documents reflecting monitoring, analysis, or reporting of Plaintiff’s expressive activity (including online postings, speech, or dissenting activity), particularly where such analysis coincided with medical or supplement interventions.
+	5.	Government and Contractor Coordination
+All contracts, memoranda of understanding, or communications between Amazon and (a) Palantir Technologies, (b) the Minnesota Department of Health, or (c) federal agencies, regarding supplement distribution, health surveillance, or initiatives relating to speech, behavior, or expression.
+	6.	Knowledge of Speech-Suppressing Effects
+All internal research, risk assessments, or external correspondence that mention or evaluate the potential for vitamin D3, testosterone, or related compounds to contribute to vocal cord calcification, mineralization of muscle/fascia, or impairment of speech.
+	7.	Narrative and Messaging
+All communications, public-relations materials, or talking points concerning adverse effects of supplements that could impair speech, particularly where messaging was coordinated with government agencies, contractors, or Palantir Technologies.
+
+⸻ 
+
+Requests for Admission
+	1.	Admit that Amazon has distributed dietary supplements, including vitamin D3, through its platform.
+	2.	Admit that at least some supplements distributed through Amazon were found to be mislabeled as to dosage or purity.
+	3.	Admit that Amazon has received consumer complaints regarding mislabeled or adulterated supplements.
+	4.	Admit that Amazon had the ability to remove mislabeled or adulterated supplements from its platform.
+	5.	Admit that Amazon has, on occasion, failed to remove supplements alleged to be mislabeled or adulterated despite receiving complaints.
+	6.	Admit that Amazon has communicated with government agencies or contractors concerning supplement safety or labeling compliance.
+	7.	Admit that Amazon has communicated with Palantir Technologies or the Minnesota Department of Health regarding supplement distribution or compliance.
+	8.	Admit that supplement mislabeling or adulteration can cause physiological harm, including effects on vocal cords, musculature, or related tissue.
+	9.	Admit that Plaintiff purchased a vitamin D3 supplement through Amazon that was labeled as low-dose.
+	10.	Admit that Amazon lacks documentation sufficient to guarantee that the vitamin D3 supplement Plaintiff purchased contained only the labeled dosage.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
