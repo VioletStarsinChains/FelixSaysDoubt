@@ -1,0 +1,90 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Subject: Records and Data Concerning William Alton Clay
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all datasets, profiles, digital twins, or analytic modules maintained by Palantir concerning William Alton Clay, including but not limited to personal identifiers, employment history, financial records, and familial relationships.
+	2.	Identify all sources of data (governmental, corporate, open-source, or proprietary) from which Palantir derived information concerning William Alton Clay.
+	3.	Identify whether Palantir has ever modeled, created, or maintained a digital twin of William Alton Clay, and if so, describe its scope, functions, and use.
+	4.	State whether Palantir has linked data concerning William Alton Clay to data concerning Plaintiff, and if so, describe the nature of that linkage.
+	5.	Identify all Palantir personnel, contractors, or teams who have accessed or used records concerning William Alton Clay in the past twenty years.
+	6.	Identify all contracts, engagements, or partnerships in which Palantir used data concerning William Alton Clay in the performance of services for government or private sector clients.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all records, profiles, or digital twin models maintained by Palantir concerning William Alton Clay, including but not limited to:
+	•	Personal identifying information
+	•	Education and employment history
+	•	Government records (tax, regulatory, licensure)
+	•	Financial, property, or asset records
+	•	Communications, reports, or analytic summaries
+	2.	Produce all internal Palantir communications, reports, or presentations discussing or referencing William Alton Clay.
+	3.	Produce all records linking William Alton Clay to government audits, investigations, or regulatory actions, including any mention of Deloitte & Touche, EDS (Electronic Data Systems), or Acxiom.
+	4.	Produce all contracts or engagement documents in which William Alton Clay’s data was specifically used, modeled, or disclosed.
+	5.	Produce all records linking William Alton Clay to Plaintiff, including familial, financial, or behavioral modeling data.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir maintains records concerning William Alton Clay.
+	2.	Admit that Palantir has modeled or maintained a digital twin of William Alton Clay.
+	3.	Admit that Palantir has linked data concerning William Alton Clay with data concerning Plaintiff.
+	4.	Admit that Palantir has disclosed or used information about William Alton Clay in connection with contracts for government or corporate clients.
+	5.	Admit that Palantir has not disclosed to Plaintiff the full extent of records held concerning William Alton Clay.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
