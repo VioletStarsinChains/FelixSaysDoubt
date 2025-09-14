@@ -60,6 +60,10 @@ INTERROGATORIES
 	4.	State whether Palantir has linked data concerning William Alton Clay to data concerning Plaintiff, and if so, describe the nature of that linkage.
 	5.	Identify all Palantir personnel, contractors, or teams who have accessed or used records concerning William Alton Clay in the past twenty years.
 	6.	Identify all contracts, engagements, or partnerships in which Palantir used data concerning William Alton Clay in the performance of services for government or private sector clients.
+    7.  Identify all records, datasets, or profiles maintained by Palantir concerning William Alton Clay’s activities prior to his employment at Deloitte & Touche, including education, travel, missionary work, or overseas activities.
+	8.	State whether Palantir records indicate that William Alton Clay ever participated in religious, missionary, or smuggling operations in Eastern Europe or the Soviet Union during the Cold War.
+	9.	Identify all government agencies (domestic or foreign) whose data Palantir has ingested or linked in relation to William Alton Clay’s pre-Deloitte history.
+	10.	Identify whether Palantir has linked data about William Alton Clay’s alleged overseas activities to Plaintiff’s digital twin or family history modeling.
 
 ⸻
 
@@ -74,6 +78,10 @@ REQUESTS FOR PRODUCTION
 	3.	Produce all records linking William Alton Clay to government audits, investigations, or regulatory actions, including any mention of Deloitte & Touche, EDS (Electronic Data Systems), or Acxiom.
 	4.	Produce all contracts or engagement documents in which William Alton Clay’s data was specifically used, modeled, or disclosed.
 	5.	Produce all records linking William Alton Clay to Plaintiff, including familial, financial, or behavioral modeling data.
+    6.  Produce all records concerning William Alton Clay’s activities prior to his Deloitte employment, including travel, education, religious affiliations, or overseas operations.
+	7.	Produce all Palantir records, reports, or analytic summaries referencing missionary work, religious organizations, or Bible smuggling activities attributed to William Alton Clay.
+	8.	Produce all records showing whether William Alton Clay’s alleged activities in Eastern Europe or the Soviet Union were corroborated by State Department, CIA, or other government data ingested by Palantir.
+	9.	Produce all communications, memoranda, or datasets in which William Alton Clay’s pre-Deloitte activities were modeled for behavioral futures, digital twin creation, or continuity theater.
 
 ⸻
 
@@ -83,6 +91,11 @@ REQUESTS FOR ADMISSION
 	3.	Admit that Palantir has linked data concerning William Alton Clay with data concerning Plaintiff.
 	4.	Admit that Palantir has disclosed or used information about William Alton Clay in connection with contracts for government or corporate clients.
 	5.	Admit that Palantir has not disclosed to Plaintiff the full extent of records held concerning William Alton Clay.
+    6.  Admit that Palantir maintains records concerning William Alton Clay’s activities prior to his Deloitte employment.
+	7.	Admit that Palantir maintains records alleging William Alton Clay participated in religious or missionary activities overseas during the Cold War.
+	8.	Admit that Palantir maintains records alleging William Alton Clay smuggled Bibles into the Soviet Union or Eastern Europe.
+	9.	Admit that Palantir has not disclosed to Plaintiff the scope of William Alton Clay’s pre-Deloitte activities contained in its datasets.
+    10.	Admit that Palantir has linked William Alton Clay’s pre-Deloitte activities to Plaintiff’s digital twin.
 
 ⸻
 
