@@ -71,7 +71,14 @@ For each instance, state:
 	•	The Palantir personnel or predecessor entities involved;
 	•	The purpose and intended outcome of the activity; and
 	•	Whether Plaintiff’s data was collected, stored, or acted upon in connection with the Event.
+   2.  Identify and describe in detail any programs, files, or activities maintained by Palantir Technologies, Inc., or its predecessor entities, involving the use of cosmetic accessories—including but not limited to hair elastics, hair clips, bobby pins, earrings, or other items worn on or around the head and ears—as vectors for the insertion, calibration, or enhancement of implant arrays.
 
+For each such program or activity, state:
+	•	The date(s) and duration;
+	•	The accessory types involved;
+	•	The personnel, contractors, or agencies participating;
+	•	The purpose and intended effect of the accessory in relation to implant-array functioning; and
+	•	Whether Plaintiff’s data was collected, stored, or acted upon in connection with such use.
 
 ⸻ 
 
@@ -86,7 +93,9 @@ REQUESTS FOR PRODUCTION
 
 ⸻ 
 
-REQUEST FOR ADMISSION
+REQUESTS FOR ADMISSION
 
   1.  Admit that Palantir Technologies, Inc., directly or indirectly, maintains files, records, or retrospective analyses referencing Plaintiff’s ear-piercing and cosmetic consultation at Merle Norman in or around June 2002, including in connection with the calibration or enhancement of implant arrays.
+   2.  Admit that Palantir Technologies, Inc., directly or indirectly, has collected, maintained, or analyzed data concerning the use of cosmetic retail environments—including but not limited to ear-piercing services, makeup consultations, or skin-contact product trials—as sites for the insertion, calibration, or enhancement of implant arrays.
+   3.  Admit that Palantir Technologies, Inc., directly or indirectly, has collected, maintained, or analyzed data concerning the use of cosmetic accessories—including but not limited to hair elastics, hair clips, bobby pins, earrings, or similar items worn on or around the head and ears—as vectors for the insertion, calibration, or enhancement of implant arrays.
 
