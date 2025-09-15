@@ -1,0 +1,87 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S FIFTEENTH SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Water Attrition Modeling in Arkansas (2009–2014)
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all predictive models, simulations, or datasets maintained by Palantir concerning water quality, water scarcity, or water infrastructure in the State of Arkansas between 2009 and 2014.
+	2.	Identify all government agencies, private entities, or contractors with whom Palantir shared water attrition modeling related to Arkansas during that period.
+	3.	Identify whether Palantir models or anomaly detection systems forecasted a water quality crisis in or around Conway, Arkansas, during 2009–2014.
+	4.	Identify all Palantir personnel, contractors, or teams who worked on Arkansas-specific water infrastructure or attrition projects between 2009 and 2014.
+	5.	Identify whether Palantir linked Arkansas water attrition modeling to behavioral futures markets, anomaly monetization, or digital twin scenarios.
+	6.	Identify whether Palantir records connect household-level stockpiling behaviors (such as water storage by Arkansas residents) to its predictive models of water crisis or attrition.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all records, datasets, or predictive models concerning water quality, scarcity, or infrastructure in Arkansas (2009–2014).
+	2.	Produce all contracts, memoranda, or communications between Palantir and government agencies concerning Arkansas water systems in that period.
+	3.	Produce all Palantir reports or analyses that referenced Conway, Arkansas, or surrounding areas in relation to water attrition.
+	4.	Produce all internal Palantir communications, memoranda, or presentations discussing household-level behaviors (including water stockpiling) as indicators of attrition in Arkansas.
+	5.	Produce all records linking Arkansas water modeling to behavioral futures trading, anomaly markets, or monetization systems.
+	6.	Produce all records showing whether Palantir explicitly modeled or anticipated a water crisis in Arkansas between 2009 and 2014.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir modeled water quality or water infrastructure in Arkansas between 2009 and 2014.
+	2.	Admit that Palantir forecasted or flagged a potential water quality crisis in Arkansas during that period.
+	3.	Admit that Palantir shared Arkansas water attrition modeling with government agencies or private contractors.
+	4.	Admit that Palantir linked Arkansas household-level behaviors (including stockpiling) to its predictive water crisis models.
+	5.	Admit that Palantir monetized Arkansas water attrition forecasts in behavioral futures markets.
+	6.	Admit that Palantir has not disclosed its Arkansas water attrition modeling to Plaintiff or the general public.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
