@@ -1,0 +1,86 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S TWELFTH SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Moderna Covid-19 Vaccine Lot Numbers Administered to Plaintiff
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all datasets, records, or anomaly detection modules in which Palantir processed data related to the two specific Moderna vaccine lot numbers administered to Plaintiff.
+	2.	Identify whether Palantir classified either of Plaintiff’s Moderna vaccine lot numbers as contaminated, anomalous, or otherwise requiring heightened monitoring.
+	3.	Identify all Palantir personnel, contractors, or teams who accessed, analyzed, or reported on Plaintiff’s Moderna lot numbers.
+	4.	Identify whether Palantir linked data concerning Plaintiff’s Moderna lot numbers to adverse events, anomaly detection, or digital twin modeling of Plaintiff.
+	5.	Identify all government agencies (CDC, FDA, DoD, HHS, etc.) with whom Palantir shared analytics concerning Plaintiff’s Moderna lot numbers.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all records, anomaly flags, or analytic reports concerning Plaintiff’s two Moderna vaccine lot numbers.
+	2.	Produce all internal Palantir communications, reports, or memoranda referencing Plaintiff’s Moderna lot numbers.
+	3.	Produce all records showing whether Plaintiff’s lot numbers were flagged for contamination, misformulation, or abnormal adverse event patterns.
+	4.	Produce all communications between Palantir and government agencies concerning Plaintiff’s Moderna lot numbers.
+	5.	Produce all records linking Plaintiff’s Moderna lot numbers to behavioral futures transactions, anomaly markets, or predictive modeling.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir ingested data concerning Plaintiff’s two Moderna vaccine lot numbers.
+	2.	Admit that Palantir flagged one or both of Plaintiff’s Moderna lot numbers as contaminated or anomalous.
+	3.	Admit that Palantir linked Plaintiff’s adverse event reports to the lot numbers administered.
+	4.	Admit that Palantir communicated with government agencies about Plaintiff’s Moderna lot numbers.
+	5.	Admit that Palantir has not disclosed to Plaintiff the scope of its data processing concerning Plaintiff’s Moderna lot numbers.
+
+⸻ 
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
