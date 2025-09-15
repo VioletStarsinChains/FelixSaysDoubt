@@ -82,3 +82,13 @@ REQUESTS FOR ADMISSION
 	4.	Admit that Palantir flagged certain vaccine lot numbers as anomalous or contaminated.
 	5.	Admit that Palantir ingested and analyzed data concerning the two Moderna vaccine lot numbers administered to Plaintiff.
 	6.	Admit that Palantir has not disclosed to Plaintiff the scope of its analysis of Plaintiff’s vaccine lot numbers.
+    7.  Admit that Palantir ingested data concerning the two Moderna vaccine lot numbers administered to Plaintiff in 2021.
+	8.	Admit that Palantir tracked, monitored, or otherwise processed adverse event data associated with these lot numbers.
+	9.	Admit that Palantir flagged one or both of Plaintiff’s Moderna lot numbers as anomalous.
+	10.	Admit that Palantir flagged one or both of Plaintiff’s Moderna lot numbers as contaminated or potentially contaminated.
+	11.	Admit that Palantir communicated internally about anomaly or contamination flags linked to Plaintiff’s Moderna lot numbers.
+	12.	Admit that Palantir communicated with one or more federal agencies (including HHS, CDC, FDA, or DoD) concerning anomaly or contamination flags for Plaintiff’s Moderna lot numbers.
+	13.	Admit that Palantir linked Plaintiff’s adverse health outcomes following vaccination to the lot numbers administered.
+	14.	Admit that Palantir monetized or modeled anomaly data concerning Plaintiff’s Moderna lot numbers in behavioral futures markets.
+	15.	Admit that Palantir has not disclosed to Plaintiff the existence of contamination or anomaly flags related to Plaintiff’s Moderna lot numbers.
+
