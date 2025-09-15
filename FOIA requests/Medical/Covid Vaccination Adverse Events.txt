@@ -1,0 +1,60 @@
+FOIA REQUEST
+
+To: Centers for Disease Control and Prevention (CDC)
+FOIA Office
+1600 Clifton Road NE
+Atlanta, GA 30329
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I am requesting access to any and all records concerning Kellyn Clay in connection with Covid-19 vaccine safety monitoring programs during 2021.
+
+This request includes:
+	•	All v-safe records (smartphone-based survey entries) submitted by Kellyn Clay in 2021.
+	•	All VAERS (Vaccine Adverse Event Reporting System) records or reports submitted under Kellyn Clay’s name or identifiers in 2021.
+	•	Any records showing that data from Kellyn Clay’s v-safe or VAERS reports was shared with, processed by, or analyzed in systems developed by or in partnership with Palantir Technologies Inc.
+	•	Communications, memoranda, or agreements between CDC and Palantir concerning v-safe, VAERS, or vaccine safety monitoring datasets during 2020–2022.
+	•	Internal reports or analyses referencing Kellyn Clay’s v-safe or VAERS submissions, especially any noting incapacity, inability to eat or sleep, or other severe medical impairment.
+	•	Any records showing that Kellyn Clay’s adverse event data was linked to anomaly detection, digital twin modeling, or designation as a Non-Person Entity (NPE).
+
+Keywords: Kellyn Clay, v-safe, VAERS, vaccine safety, Covid-19, adverse event, Palantir, behavioral futures, anomaly detection, Non-Person Entity, NPE
+
+⸻ 
+
+To: U.S. Food and Drug Administration (FDA)
+Division of Freedom of Information, Office of the Executive Secretariat
+5630 Fishers Lane, Room 1035
+Rockville, MD 20857
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I am requesting access to any and all records concerning Kellyn Clay in connection with Covid-19 vaccine safety monitoring during 2021.
+
+This request includes:
+	•	All VAERS (Vaccine Adverse Event Reporting System) records submitted under Kellyn Clay’s name or identifiers in 2021.
+	•	Any records showing that data from Kellyn Clay’s VAERS reports was shared with, processed by, or analyzed in systems developed by or in partnership with Palantir Technologies Inc.
+	•	Communications, memoranda, or agreements between FDA and Palantir concerning vaccine safety monitoring, anomaly detection, or behavioral modeling during 2020–2022.
+	•	Internal reports, reviews, or analyses referencing Kellyn Clay’s adverse event submissions, including any findings that documented incapacity, inability to eat or sleep, or other severe medical impairment.
+	•	Records demonstrating whether Kellyn Clay’s adverse event data was routed through predictive modeling, anomaly detection, or digital twin systems connected to Palantir.
+
+Keywords: Kellyn Clay, VAERS, vaccine safety, Covid-19, adverse event, Palantir, anomaly detection, behavioral futures, digital twin
+
+⸻ 
+
+To: Centers for Medicare & Medicaid Services (CMS)
+Freedom of Information Group
+7500 Security Boulevard
+Baltimore, MD 21244
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I am requesting access to any and all records concerning Kellyn Clay in connection with health insurance coverage, medical claims, or vaccine-related adverse events during the period of 2021 to present.
+
+This request includes:
+	•	All records of medical claims, eligibility determinations, or plan assignments concerning Kellyn Clay from 2021 onward.
+	•	Records indicating whether Kellyn Clay’s medical crisis following Covid vaccination (inability to eat or sleep for ~45 days) was captured or flagged within CMS systems.
+	•	Records showing whether data concerning Kellyn Clay was processed by, analyzed within, or shared with systems developed by or in partnership with Palantir Technologies Inc.
+	•	Communications, contracts, or memoranda between CMS and Palantir concerning anomaly detection, behavioral modeling, or predictive analytics applied to Medicaid/Medicare datasets during 2020–2022.
+	•	Internal reports or analyses referencing Kellyn Clay’s case, including any documentation acknowledging that anomalies in claims or filings were the result of severe medical impairment, not fraud or intentional misconduct.
+
+Keywords: Kellyn Clay, CMS, Medicare, Medicaid, health insurance, Covid vaccine, adverse event, Palantir, anomaly detection, Non-Person Entity, behavioral futures, digital twin
