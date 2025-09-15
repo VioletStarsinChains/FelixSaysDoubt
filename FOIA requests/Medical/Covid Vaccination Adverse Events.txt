@@ -58,3 +58,25 @@ This request includes:
 	•	Internal reports or analyses referencing Kellyn Clay’s case, including any documentation acknowledging that anomalies in claims or filings were the result of severe medical impairment, not fraud or intentional misconduct.
 
 Keywords: Kellyn Clay, CMS, Medicare, Medicaid, health insurance, Covid vaccine, adverse event, Palantir, anomaly detection, Non-Person Entity, behavioral futures, digital twin
+
+⸻ 
+
+FOIA REQUEST — CDC & FDA
+
+To:
+	•	Centers for Disease Control and Prevention (CDC) FOIA Office
+	•	U.S. Food and Drug Administration (FDA) FOIA Office
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I am requesting access to any and all records concerning the two Moderna Covid-19 vaccine lot numbers administered to Kellyn Clay in 2021.
+
+This request includes:
+	•	Records of adverse event monitoring, anomaly detection, or contamination flags associated with these lot numbers.
+	•	Records of internal analyses, memoranda, or communications discussing abnormal rates of adverse events linked to these lot numbers.
+	•	Records of coordination with Palantir Technologies Inc. concerning analytics, anomaly detection, or monitoring of these lot numbers.
+	•	Reports or communications with state immunization registries concerning these lot numbers.
+	•	Any records explicitly referencing Kellyn Clay in connection with these Moderna lot numbers.
+
+Keywords: Moderna, Covid-19 vaccine, lot number, adverse event, anomaly detection, contamination, Kellyn Clay, Palantir, Operation Warp Speed, v-safe, VAERS
+
