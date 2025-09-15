@@ -1,0 +1,85 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S SEVENTEENTH SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Household-Level Water Contamination Records Tied to Plaintiff’s Family Residences
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all datasets, anomaly tags, or historical records in Palantir’s possession concerning household water quality, contamination, or service modifications linked to the following addresses:
+	•	2675 Heartstone Circle, Marietta, GA 30062
+	•	3214 Burnette Dr, Roswell, GA 30075
+	•	940 Hickory Oak Hollow, Roswell, GA 30075
+	•	2715 Collins Dr, Conway, AR 72034
+	2.	Identify all federal, state, or municipal agencies from which Palantir obtained water quality or infrastructure datasets covering these addresses.
+	3.	Identify whether Palantir flagged any of these addresses as anomalous or subject to contamination during ingestion or modeling.
+	4.	Identify all Palantir personnel, contractors, or teams who accessed or analyzed records tied to these addresses.
+	5.	Identify whether Palantir linked Plaintiff’s digital twin or anomaly classification to household-level contamination or water modification data from any of these residences.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all records, datasets, or anomaly tags concerning water contamination, additives, or service modifications at the listed addresses.
+	2.	Produce all contracts, memoranda, or communications between Palantir and government agencies referencing water quality, contamination, or infrastructure work at these addresses.
+	3.	Produce all Palantir analyses, reports, or dashboards referencing household-level contamination tied to these addresses.
+	4.	Produce all internal communications, memoranda, or notes discussing Plaintiff’s family residences in relation to waterborne exposures.
+	5.	Produce all records linking household water contamination at these addresses to behavioral futures markets, anomaly monetization, or predictive modeling.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir ingested historical records concerning water quality or contamination for the listed addresses.
+	2.	Admit that Palantir flagged one or more of these addresses as anomalous or contamination-linked.
+	3.	Admit that Palantir linked Plaintiff’s anomaly classification to records of household water contamination at one or more of these addresses.
+	4.	Admit that Palantir maintains household-level service or contamination records for the listed residences.
+	5.	Admit that Palantir has not disclosed to Plaintiff the scope of its possession or use of these address-linked records.
