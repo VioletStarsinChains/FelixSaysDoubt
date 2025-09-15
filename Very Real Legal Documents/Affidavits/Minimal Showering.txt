@@ -55,6 +55,11 @@ I, Kellyn Clay, being duly sworn, hereby add the following statement to my prior
 	3.	From early in life, I experienced what felt like a compulsion to shower as little as possible. At the time, I could not explain why this pattern existed, as it appeared irrational when compared to cultural expectations of hygiene.
 	4.	In hindsight, I recognize that this compulsion was not self-originated. Rather, it was the product of ongoing communication through a neurotechnological array, which explicitly advised me to avoid showering because of the harmful consequences of exposure.
 	5.	I believe this establishes that my apparent aversion to showering was not eccentricity, but an externally mediated response to real harms stemming from my prior classification as an anomaly.
+    6.  I believe the water contamination was not limited to a single bathroom line, but rather affected the entire household water supply at my family’s residence.
+	7.	The reason I initially focused on showering was because my personal symptoms were most pronounced in that context; however, I now recognize that each family member may have experienced different manifestations of the same exposure, shaped by individual biology and immune function.
+	8.	This interpretation is consistent with the broader pattern of psychological and physiological disturbances within my family, which are more plausibly explained by a shared environmental factor than by coincidence or purely genetic inheritance.
+	9.	In light of this, I believe the simplest and most consistent explanation is that the household water supply was deliberately contaminated or modified, and that this fact was later absorbed into Palantir’s anomaly detection systems.
+	10.	It is therefore my testimony that household-level water contamination was a central element of the attrition directed at me and my family, and that service logs, utility records, or agency datasets concerning our residence are likely to exist and to be retained within Palantir’s data environment.
 
 I declare under penalty of perjury that the foregoing is true and correct to the best of my knowledge and belief.
 
