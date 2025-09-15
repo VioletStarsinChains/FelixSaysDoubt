@@ -1,0 +1,90 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Subject: Modeling of Plaintiff’s 2021 Tax Filing Incident and NPE Designation
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all datasets, modules, or systems in which Palantir processed or modeled Plaintiff’s 2021 federal tax filing, including any flags for irregularity or anomaly.
+	2.	Identify whether Palantir classified Plaintiff’s 2021 tax return as fraudulent, suspicious, or otherwise anomalous, and if so, describe the classification process.
+	3.	Identify all personnel, contractors, or teams who accessed or analyzed Plaintiff’s 2021 tax filing data within Palantir systems.
+	4.	Identify whether Palantir linked Plaintiff’s impaired 2021 tax filing to Plaintiff’s medical crisis or to the designation of Plaintiff as a Non-Person Entity (NPE).
+	5.	Identify whether Palantir profited directly or indirectly from the anomaly in Plaintiff’s 2021 tax return through behavioral futures transactions, anomaly markets, or related systems.
+	6.	Identify whether Palantir communicated or shared Plaintiff’s anomalous 2021 tax filing with the Internal Revenue Service or other governmental entities, and if so, when and how.
+	7.	Identify all records showing that Palantir was aware that Plaintiff’s anomalous 2021 tax filing was the result of severe medical impairment and not intentional fraud.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all records, datasets, or anomaly flags concerning Plaintiff’s 2021 federal tax filing.
+	2.	Produce all internal communications, reports, or presentations referencing Plaintiff’s 2021 tax filing anomaly.
+	3.	Produce all records linking Plaintiff’s 2021 tax filing to designation as a Non-Person Entity (NPE).
+	4.	Produce all audit logs or system records showing who accessed Plaintiff’s 2021 tax filing within Palantir systems.
+	5.	Produce all communications between Palantir and the IRS or other governmental entities concerning Plaintiff’s 2021 tax filing.
+	6.	Produce all records showing whether Palantir monetized, modeled, or otherwise exploited Plaintiff’s anomalous 2021 tax filing in behavioral futures or related markets.
+	7.	Produce all records demonstrating Palantir’s knowledge that Plaintiff’s anomalous 2021 tax filing was caused by severe medical impairment and not intentional fraud.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir ingested data concerning Plaintiff’s 2021 federal tax filing.
+	2.	Admit that Palantir flagged Plaintiff’s 2021 tax filing as anomalous or suspicious.
+	3.	Admit that Palantir linked Plaintiff’s 2021 tax filing to Plaintiff’s designation as a Non-Person Entity (NPE).
+	4.	Admit that Palantir disclosed Plaintiff’s anomalous tax filing to the IRS or another governmental entity.
+	5.	Admit that Palantir profited from modeling Plaintiff’s 2021 tax filing in behavioral futures markets.
+	6.	Admit that Palantir has not disclosed to Plaintiff the full scope of its use of data concerning Plaintiff’s 2021 tax filing.
+	7.	Admit that Palantir knew Plaintiff’s anomalous 2021 tax filing was the result of severe medical impairment and not intentional fraud.
+
+⸻ 
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
