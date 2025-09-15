@@ -1,0 +1,84 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S TENTH SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Tai Chi Workshops Conducted by Alex Karp — Video and Data Use
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all types of data collected (including video, audio, biometric, or motion-capture data) during tai chi workshops conducted by Palantir CEO Alex Karp.
+	2.	Identify all purposes for which the data collected from these tai chi workshops was used, including but not limited to research and development, behavioral modeling, digital twin creation, or behavioral futures trading.
+	3.	Identify all Palantir personnel, contractors, or teams who had access to the data collected from Karp’s tai chi workshops.
+	4.	Identify all third parties (governmental, corporate, or academic) with whom Palantir shared, licensed, or disclosed data collected from these workshops.
+	5.	Identify whether any data collected from the tai chi workshops was used in connection with behavioral futures markets, predictive modeling, or digital twin simulations involving class members.
+	6.	Identify whether Palantir maintains archives of the tai chi workshop data, and if so, describe their current location, custodians, and format.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all video, audio, or biometric recordings generated during Alex Karp’s tai chi workshops.
+	2.	Produce all internal reports, presentations, or analyses discussing the collection or use of data from these workshops.
+	3.	Produce all contracts, memoranda of understanding, or communications with third parties concerning the data collected from Karp’s tai chi workshops.
+	4.	Produce all internal communications (emails, Slack messages, memoranda) referencing tai chi workshops conducted by Alex Karp and the associated data.
+	5.	Produce all metadata, data dictionaries, or analytic models built using workshop data.
+	6.	Produce all records showing whether data collected from Karp’s tai chi workshops was linked to Plaintiff’s digital twin or to behavioral modeling concerning Plaintiff.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir collected video and other data during tai chi workshops conducted by Alex Karp.
+	2.	Admit that Palantir used data collected from these workshops for research and development.
+	3.	Admit that Palantir used data collected from these workshops to build, train, or refine digital twin models.
+	4.	Admit that Palantir shared or disclosed data collected from these workshops to third parties.
+	5.	Admit that Palantir used data from these workshops in connection with behavioral futures markets.
+	6.	Admit that Palantir has not disclosed to participants the full scope of its use of tai chi workshop data.
