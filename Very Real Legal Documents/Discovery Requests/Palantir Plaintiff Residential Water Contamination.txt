@@ -61,6 +61,8 @@ INTERROGATORIES
 	•	3214 Burnette Dr, Roswell, GA 30075
 	•	940 Hickory Oak Hollow, Roswell, GA 30075
 	•	2715 Collins Dr, Conway, AR 72034
+	•	233 N Grand Ave, Brownsville, TN 38012
+	•	653 Anderson St, Memphis, TN 38104
 	2.	Identify all federal, state, or municipal agencies from which Palantir obtained water quality or infrastructure datasets covering these addresses.
 	3.	Identify whether Palantir flagged any of these addresses as anomalous or subject to contamination during ingestion or modeling.
 	4.	Identify all Palantir personnel, contractors, or teams who accessed or analyzed records tied to these addresses.
