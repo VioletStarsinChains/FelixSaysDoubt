@@ -1,0 +1,41 @@
+FOIA REQUEST — HHS
+
+To: U.S. Department of Health and Human Services
+Freedom of Information Officer
+200 Independence Avenue, SW
+Washington, DC 20201
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I am requesting access to any and all records concerning Palantir Technologies Inc. in connection with Operation Warp Speed (2020–2022), particularly with respect to Covid-19 vaccine safety monitoring and lot-level data analysis.
+
+This request includes:
+	•	Contracts, task orders, or memoranda of understanding between HHS (including BARDA, NIH, CDC, FDA) and Palantir relating to Operation Warp Speed.
+	•	Records describing Palantir’s role in vaccine distribution, anomaly detection, or adverse event monitoring.
+	•	Analytic reports, dashboards, or memoranda referencing vaccine lot numbers administered to Kellyn Clay in 2021.
+	•	Communications between HHS and Palantir concerning adverse events, contamination flags, or anomaly detection at the vaccine lot level.
+	•	Any records linking Kellyn Clay’s adverse event reports (via v-safe, VAERS, or other HHS systems) to Palantir’s anomaly detection or data modeling.
+
+Keywords: Palantir, Operation Warp Speed, BARDA, CDC, FDA, vaccine lot number, adverse event, anomaly detection, Kellyn Clay, Moderna, contamination
+
+⸻
+
+FOIA REQUEST — DoD
+
+To: U.S. Department of Defense
+Office of Freedom of Information
+1155 Defense Pentagon
+Washington, DC 20301
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I am requesting access to any and all records concerning Palantir Technologies Inc. in connection with Operation Warp Speed (2020–2022), particularly with respect to Covid-19 vaccine logistics, distribution, and anomaly tracking.
+
+This request includes:
+	•	Contracts, task orders, or agreements between DoD and Palantir for Operation Warp Speed, including distribution, logistics, or vaccine tracking systems.
+	•	Records describing Palantir’s role in monitoring vaccine safety, lot-level data, or adverse event anomalies.
+	•	Internal DoD reports, dashboards, or memoranda referencing vaccine lot numbers administered to Kellyn Clay in 2021.
+	•	Communications between DoD and Palantir concerning contamination flags, misformulation alerts, or anomaly detection at the lot level.
+	•	Records linking vaccine lot numbers associated with Kellyn Clay to anomaly detection, predictive modeling, or digital twin systems operated by Palantir.
+
+Keywords: Palantir, Operation Warp Speed, DoD, vaccine logistics, Moderna, vaccine lot number, anomaly detection, contamination, adverse event, Kellyn Clay
