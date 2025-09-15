@@ -1,0 +1,81 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S SIXTEENTH SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Historical Records of Waterborne Additives Targeted at Anomaly-Classified Individuals
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all datasets or archives ingested by Palantir that contain records of waterborne chemical additive programs directed at individuals classified as anomalies prior to Palantir’s incorporation.
+	2.	Identify whether Palantir has modeled, tagged, or otherwise analyzed historical datasets concerning targeted additives in residential water systems, including showering exposure.
+	3.	Identify all federal, state, or municipal agencies from which Palantir obtained historical data relating to anomaly-based water additive programs.
+	4.	Identify whether Palantir linked Plaintiff’s anomaly classification to waterborne additive exposure data originating before Palantir’s founding.
+	5.	Identify all Palantir personnel, contractors, or teams who have accessed or worked with such historical datasets concerning waterborne additives.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all historical records in Palantir’s possession concerning waterborne chemical additives targeted at anomaly-classified individuals prior to Palantir’s incorporation.
+	2.	Produce all communications, reports, or presentations prepared by Palantir referencing historical anomaly-classification programs involving waterborne additives.
+	3.	Produce all records showing whether Plaintiff’s anomaly classification was cross-referenced with historical datasets of water additive exposures.
+	4.	Produce all records showing whether Palantir linked showering behaviors or water avoidance behaviors to anomaly classification in Plaintiff’s digital twin.
+	5.	Produce all Palantir analyses or dashboards referencing water additive programs as precursors to Palantir’s own anomaly detection or attrition models.
+
+⸻
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir ingested historical datasets concerning waterborne chemical additive programs targeted at anomaly-classified individuals.
+	2.	Admit that Palantir has modeled or analyzed such historical data within its platforms.
+	3.	Admit that Palantir linked Plaintiff’s anomaly classification to historical datasets of waterborne additive exposure.
+	4.	Admit that Palantir currently maintains records of water additive programs predating its own incorporation.
+	5.	Admit that Palantir has not disclosed to Plaintiff its possession or use of such historical records.
