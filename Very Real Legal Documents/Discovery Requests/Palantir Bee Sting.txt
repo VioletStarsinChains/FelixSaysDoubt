@@ -1,0 +1,114 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Linden Hills Farmers Market Incident — Bee Sting / Possible Delivery Mechanism (June - August 2016)
+
+⸻
+
+DEFINITIONS / INSTRUCTIONS (short)
+	•	“Market” means Linden Hills Farmers Market, 2813 W 43rd St, Minneapolis, MN 55410.
+	•	“Incident” means the bee sting to Plaintiff’s left hand/wrist at the Market in summer 2016 (or specified date).
+	•	“Palantir” includes Palantir Technologies Inc., subsidiaries, affiliates, employees, contractors, agents, and any platform names (Gotham, Foundry, etc.).
+	•	“Document” and “communication” are used in their broadest discovery senses (electronically stored information included).
+	•	The time window for the search: default to the exact date if known; if not known, search June 1, 2016 – August 31, 2016.
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all Palantir contracts, task orders, pilots, MOUs, or service agreements in effect as of June–August 2016 with the City of Minneapolis, Hennepin County, Linden Hills Farmers Market operators, Market vendors, market security providers, or private contractors (including drone/robotics vendors) that relate to public-space surveillance, sensor deployment, logistics, or public-health monitoring.
+	2.	Describe in detail any Palantir systems, dashboards, modules, or data interfaces that, as of June–August 2016, ingested or displayed surveillance video, sensor telemetry, vendor point-of-sale logs, or crowd-movement data from Linden Hills Farmers Market or proximate addresses (within 200 meters of 2813 W 43rd St).
+	3.	Identify all Palantir personnel, contractors, or third-party vendors who had live or archival access to video, sensor, or vendor payment data from Linden Hills Farmers Market during June–August 2016. For each person, provide name, role, dates of access, and the data sources to which they had access.
+	4.	State whether Palantir, its clients, or its contractors maintained or had access to any drone flight logs, UAV operations, robotics deployment logs, or micro-robotics testing records in Minneapolis, MN — specifically Linden Hills Farmers Market or surrounding blocks — during June–August 2016. If so, identify the operator, purpose, and any associated contracts.
+	5.	Describe any Palantir datasets, analytic models, or anomaly-detection routines that were configured in 2016 to identify “attrition events,” “targeted delivery events,” or small-scale public-space interventions (including use of atypical biological vectors), and identify whether such routines were ever run against Linden Hills Farmers Market data for June–August 2016.
+	6.	Identify any communications, data requests, or deliverables Palantir provided to public-health, law-enforcement, or municipal clients in 2016 that referenced “experiments,” “localized exposures,” or “targeted interventions” in public markets within Minneapolis.
+	7.	Identify all records in Palantir’s possession that reference or are responsive to the terms: “Linden Hills,” “2813 W 43rd,” “Linden Hills Farmers Market,” “LHF Market,” “farmers market Minneapolis,” “bee,” “sting,” “insect delivery,” “UAV,” “drone,” “micro-robot,” “anomaly,” “attrition,” and similar variants for June–August 2016.
+	8.	State whether Palantir has ever modeled or created a digital twin, profile, or simulation for Plaintiff (Kellyn Clay) that incorporated marketplace attendance, vendor interactions, or insect-sting risk factors. If yes, describe the inputs, timeframes, and any activations corresponding to summer 2016.
+	9.	Identify all records showing Palantir’s communications, data transfers, or shared dashboards with third parties (including market operators, vendors, contractors, labs, or research groups) concerning any incident(s) of unusual medical or neurological reactions reported at Linden Hills Farmers Market during June–August 2016.
+	10.	Identify whether Palantir maintains logs of requests to remove, alter, or withhold video or sensor footage from Linden Hills Farmers Market for June–August 2016. If so, produce the list of requests, who made them, and the dispositions.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+Produce the following documents (custodial search with likely custodians: product teams for Gotham/Foundry, contracts team, municipal accounts, and operations engineers). Each request asks for responsive material from June 1, 2016 – August 31, 2016 unless otherwise specified.
+	1.	All contracts, service orders, MOUs, or written agreements between Palantir and the City of Minneapolis, Hennepin County, Linden Hills Farmers Market organizers, or vendor/payment processors that reference surveillance, sensors, drone operations, public-space analytics, or public-health monitoring.
+	2.	All video files, surveillance footage, archived camera exports, or links to same in Palantir custody or accessible via Palantir platforms that capture Linden Hills Farmers Market or the approximate area of 2813 W 43rd St during the date(s) of June–August 2016.
+	3.	All logs, telemetry datasets, or sensor records (including but not limited to motion sensors, environmental sensors, audio sensors, IoT vendor logs, Wi-Fi / Bluetooth probes, point-of-sale timestamps, and vendor payment logs) for Linden Hills Farmers Market in June–August 2016 that Palantir ingested, processed, or archived.
+	4.	All drone/UAV flight logs, contractor reports, maintenance records, or communications in Palantir possession referencing drone operations in the vicinity of Linden Hills Farmers Market during June–August 2016.
+	5.	All Palantir internal emails, Slack messages, memoranda, slide decks, or presentations from 2016 referencing the Market, Linden Hills, 2813 W 43rd St, insects, stings, delivery mechanisms, micro-robotics, or targeted public-space interventions.
+	6.	All deliverables, reports, dashboard screenshots, or analytic outputs that Palantir provided to clients concerning anomaly-detection outputs or “targeted events” at Linden Hills Farmers Market during June–August 2016.
+	7.	All contracts, purchase orders, or communications between Palantir and any third parties (research labs, biotech firms, drone manufacturers, micro-robotics firms, insect-delivery researchers, or contractor integrators) concerning experiments, prototyping, or deployment in public spaces in Minneapolis during 2016.
+	8.	All access logs, audit trails, or custodial metadata showing which Palantir accounts or employees accessed any of the above items.
+	9.	All records relating to any public- or private-sector complaints, incident reports, or client tickets in Palantir’s systems that concern unusual medical events, unexplained stings, or public complaints at Linden Hills Farmers Market in 2016.
+	10.	All documents showing Palantir policies, controls, or compliance reviews in place in 2016 about handling or reporting suspected biological exposure events, public-health notifications, or coordination with health agencies.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+Please admit or deny the following:
+	1.	Admit that Palantir maintained or had access to surveillance video or sensor data capturing Linden Hills Farmers Market (2813 W 43rd St) during June–August 2016.
+	2.	Admit that Palantir contracted with or provided services to the City of Minneapolis, Hennepin County, Linden Hills Farmers Market organizers, or market vendors in 2016.
+	3.	Admit that Palantir ingested point-of-sale or vendor transaction data from Linden Hills Farmers Market in 2016.
+	4.	Admit that Palantir maintained or had access to drone/UAV flight logs or contractor records for UAV activity near Linden Hills Farmers Market in June–August 2016.
+	5.	Admit that Palantir has records indicating any unusual medical complaints or neurological incidents reported at Linden Hills Farmers Market during June–August 2016.
+	6.	Admit that Palantir has shared video, sensor, or drone data from Linden Hills Farmers Market with any third-party contractors, research labs, or vendors in 2016.
+	7.	Admit that Palantir maintains files, models, or annotations that describe or tag “targeted delivery mechanisms,” “insect-mediated delivery,” or similar concepts used in public-space modeling as of 2016.
+	8.	Admit that Palantir has not produced to Plaintiff (as of the date of these requests) the materials requested above concerning Linden Hills Farmers Market.
+
+ ⸻
+
+ Preservation / Spoliation Notice
+
+PRESERVATION NOTICE:
+This is to advise you that litigation is reasonably anticipated concerning events at Linden Hills Farmers Market (2813 W 43rd St, Minneapolis, MN) in summer 2016 and that Plaintiff Kellyn Clay intends to seek discovery regarding the incident. You are hereby requested to preserve all data, video, sensor logs, access logs, drone/UAV logs, vendor point-of-sale records, incident/complaint logs, email/Slack/chat records, and any other electronically stored information or physical evidence that might be responsive to a subpoena or records request concerning Linden Hills Farmers Market during June 1, 2016 – August 31, 2016. Please preserve both the underlying data and any metadata, retention/overwrite logs, and chain-of-custody records.
