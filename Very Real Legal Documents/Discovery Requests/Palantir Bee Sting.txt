@@ -75,6 +75,9 @@ INTERROGATORIES
 	8.	State whether Palantir has ever modeled or created a digital twin, profile, or simulation for Plaintiff (Kellyn Clay) that incorporated marketplace attendance, vendor interactions, or insect-sting risk factors. If yes, describe the inputs, timeframes, and any activations corresponding to summer 2016.
 	9.	Identify all records showing Palantir’s communications, data transfers, or shared dashboards with third parties (including market operators, vendors, contractors, labs, or research groups) concerning any incident(s) of unusual medical or neurological reactions reported at Linden Hills Farmers Market during June–August 2016.
 	10.	Identify whether Palantir maintains logs of requests to remove, alter, or withhold video or sensor footage from Linden Hills Farmers Market for June–August 2016. If so, produce the list of requests, who made them, and the dispositions.
+    11.  Identify all Palantir records, analytics, or datasets that reference medical events, emergency calls, or clinic/ER visits occurring within one hour and within 48 hours following any activity tracked at Linden Hills Farmers Market (2813 W 43rd St) during June–August 2016.
+    12.  State whether Palantir has any records indicating that the Plaintiff (Kellyn Clay) or any other market attendee reported diffuse swelling, extended pain, large rashes (approx. 6” × 4”), neurological symptoms, or other atypical reactions following an insect sting at Linden Hills Farmers Market in summer 2016. If so, identify the source and custodians of those records.
+    13.  Identify any Palantir contacts, integrations, or dashboards that captured or linked local Poison Control Center reports, EMS/911 dispatch logs, or hospital triage logs to surveillance/sensor data from Linden Hills Farmers Market in June–August 2016.
 
 ⸻
 
@@ -91,6 +94,12 @@ Produce the following documents (custodial search with likely custodians: produc
 	8.	All access logs, audit trails, or custodial metadata showing which Palantir accounts or employees accessed any of the above items.
 	9.	All records relating to any public- or private-sector complaints, incident reports, or client tickets in Palantir’s systems that concern unusual medical events, unexplained stings, or public complaints at Linden Hills Farmers Market in 2016.
 	10.	All documents showing Palantir policies, controls, or compliance reviews in place in 2016 about handling or reporting suspected biological exposure events, public-health notifications, or coordination with health agencies.
+    11.  Produce any and all Palantir-ingested records or copies of EMS / 911 dispatch logs, ambulance run reports, or patient care reports for calls within a 500-meter radius of 2813 W 43rd St, Minneapolis during June–August 2016.
+    12.  Produce any Palantir-ingested or Palantir-hosted hospital/clinic triage or ER records, triage notes, or encounter summaries for a patient identified as Kellyn (or otherwise indicating an insect sting / diffuse swelling event) for June–August 2016. (If Palantir does not store protected health information but had access to it via a client, produce logs of access/queries that referenced such records.)
+    13.  Produce Palantir logs or dataset extracts of any Poison Control Center reports, hot-line calls, or toxicology center notifications linked to Linden Hills Farmers Market during June–August 2016.
+    14.  Produce all surveillance footage, sensor logs, Wi-Fi/Bluetooth probe records, or vendor point-of-sale timestamps ingested by Palantir that cover the Market during the relevant date window; highlight any footage that shows the Plaintiff at the time of the incident.
+    15.  Produce any Palantir communications (internal or with clients/contractors) describing indistinct or atypical medical reactions (diffuse swelling, multi-inch rashes, long-duration pain) occurring at markets or public-space vendor events in Minneapolis in 2016.
+    16.  Produce any Palantir analyses, annotations, or flags that associate a non-localized dermal reaction (e.g., swelling not limited to sting site) or prolonged pain as an indicator of a targeted delivery/event in market settings.
 
 ⸻
 
@@ -105,6 +114,10 @@ Please admit or deny the following:
 	6.	Admit that Palantir has shared video, sensor, or drone data from Linden Hills Farmers Market with any third-party contractors, research labs, or vendors in 2016.
 	7.	Admit that Palantir maintains files, models, or annotations that describe or tag “targeted delivery mechanisms,” “insect-mediated delivery,” or similar concepts used in public-space modeling as of 2016.
 	8.	Admit that Palantir has not produced to Plaintiff (as of the date of these requests) the materials requested above concerning Linden Hills Farmers Market.
+    9.  Admit that Palantir has in its possession video, sensor logs, or other data capturing Linden Hills Farmers Market for dates in June–August 2016.
+    10.  Admit that Palantir has in its possession or has accessed EMS/911 logs or hospital triage records for incidents near Linden Hills Farmers Market in June–August 2016.
+    11.  Admit that Palantir has data or models that associate insect stings in public spaces with non-localized symptoms such as diffuse swelling and prolonged pain.
+    12.  Admit Palantir has not produced to Plaintiff any EMS/911, poison-control, or medical triage records (or access logs to those records) for Linden Hills Farmers Market in June–August 2016.
 
  ⸻
 
