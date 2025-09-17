@@ -1,0 +1,99 @@
+Focused list of federal actors most likely to hold research, grants, contracts, and communications about neurotechnology used for surveillance or behavioral modeling, plus practical FOIA strategy, suggested search terms, and a copy-paste FOIA request template you can adapt:
+
+Highest-priority federal agencies / offices to FOIA
+
+These are the places most likely to fund, run, or coordinate R&D that touches neurotech, neural data analysis, behavioral inference, or surveillance applications.
+	1.	DARPA (Defense Advanced Research Projects Agency) — especially offices like Biological Technologies Office (BTO) and any programs involving neural interfaces, neural decoding, or cognitive modeling.
+	2.	IARPA (Intelligence Advanced Research Projects Activity) — funds advanced neuroscience/AI research for intelligence use (behavioral prediction, cognitive inference).
+	3.	ODNI / Office of the Director of National Intelligence — program oversight and funding coordination; may hold summaries and acquisition records.
+	4.	NSA (National Security Agency) — signals/intelligence analysis groups; may fund sensor/analysis research relevant to behavioral inference.
+	5.	DOD (Department of Defense) — including:
+	•	Army Research Office (ARO) and Army Research Laboratory (ARL)
+	•	Office of Naval Research (ONR)
+	•	Air Force Research Laboratory (AFRL)
+	•	Defense Innovation Unit (DIU)
+	•	U.S. Special Operations Command (USSOCOM) (if weapons/cognitive ops are relevant)
+	6.	FBI (Federal Bureau of Investigation) — research contracts and pilot programs on surveillance, biometrics, behavior detection.
+	7.	DHS (Department of Homeland Security), Science & Technology Directorate — biometric surveillance, crowd behavior modeling, border/security tech.
+	8.	NIH (National Institutes of Health) — esp. NINDS, NIMH, and grant administration offices — holds basic/applied neuroscience grants (some may be dual-use or have downstream applications).
+	9.	NSF (National Science Foundation) — grants supporting computational neuroscience, machine learning applied to behavioral data.
+	10.	DOE national labs (e.g., LANL, LLNL, ORNL) — sometimes do advanced sensing/data science applicable to behavioral modeling.
+	11.	VA (Veterans Affairs) — clinical neural device research and collaborations with DoD.
+	12.	HHS / FDA — regulatory or premarket submissions for neural devices; FDA may have device docs and communications.
+	13.	NASA — cognitive monitoring/brain-state monitoring research for crew; less likely but worth checking if you want breadth.
+	14.	Contracting/Procurement offices across agencies (e.g., DARPA contracting, DHS contracting) — to find contractor reports and deliverables (Palantir/contractors’ work products held by agencies).
+	15.	Federally Funded Research and Development Centers (FFRDCs) and Government-sponsored labs (e.g., MITRE, RAND) — you can FOIA agency holdings about their reports; FOIA doesn’t apply to private contractors directly but agencies hold copies.
+
+State & local targets (if you want to cover surveillance use at other levels)
+	•	State police / fusion centers, major city police departments (records requests under state public-records laws), local fusion centers that may partner with federal programs.
+	•	State university contracting offices (for university research funded by DoD/IARPA).
+
+What to request (types of records that are most revealing)
+	•	Grant abstracts, full proposals (if held), award documents, final reports, and progress reports.
+	•	Contract solicitations, task orders, statements of work (SOW), contractor final reports, technical deliverables.
+	•	Interagency memoranda, meeting minutes, briefings, program descriptions, white papers.
+	•	IRB/ethics reviews or correspondence about human-subjects research (may be partially exempt).
+	•	Communications (emails) between agency program managers and contractors/universities about specific programs.
+	•	Budget lines, program funding justifications, capability requirement documents.
+	•	FOIA reading room entries and FOIA logs (to see what similar requests have returned).
+	•	Freedom of Information Act responses to others (previous releases) and appeals.
+
+Useful search terms / keywords to include in FOIA requests
+
+Use several variations and synonyms to broaden your search — combine them if you can:
+	•	“neuro*” terms: neurotechnology, neural interface, brain-computer interface, BCI, neural decoding, neural data, EEG, fMRI, intracranial, electrocorticography, ECoG, neuromodulation, TMS, tDCS
+	•	behavioral/surveillance terms: surveillance, behavioral modeling, behavioral prediction, predictive policing, biometrics, affective computing, crowd modeling, behavioral inference, cognitive state, deception detection, stress detection
+	•	machine learning & analytics: neural decoding, deep learning, predictive analytics, pattern recognition, neural network, classifier, modeling
+	•	programmatic names (use cautiously — include if you know them): e.g., names of DARPA/IARPA programs if you have them.
+	•	contracting-specific: statement of work, technical report, final report, task order, contract deliverable, grant progress report
+
+Practical FOIA drafting strategy (how to make requests that work)
+	1.	Be specific but iterative — start with a reasonably scoped request (agency, date range, keywords). If you get a partial/empty response, follow up with expanded keywords or date ranges.
+	2.	Use date ranges — e.g., “records from Jan 1, 2015 to present” to limit search burden.
+	3.	Ask for categories, not just documents — e.g., “all final technical reports, contractor deliverables, and award abstracts” — this helps searches.
+	4.	Request both electronic and hard-copy records and specify file formats if you have a preference.
+	5.	Ask for fee waivers if your request is in the public interest (explain public-interest rationale).
+	6.	Check agency FOIA reading rooms and FOIA logs first — may reveal program names or already-released docs you can cite to narrow requests.
+	7.	Simultaneous multi-agency filings — submit the same keyword list to the relevant agencies at once; keep copies of all request receipts.
+	8.	Follow appeals aggressively — many meaningful records are produced on appeal or after administrative litigation.
+	9.	Requesting contractor records — FOIA to the agency that holds the contract will often produce contractor deliverables; ask explicitly for “contractor final reports and deliverables related to Contract No. X” if you can find the contract number.
+	10.	Consider state public records acts for local agencies (police, fusion centers, universities) — these often produce different material.
+
+Common exemptions and limits to expect
+	•	National security/classified material: may be redacted or withheld (esp. IARPA, DARPA, ODNI, NSA).
+	•	Trade secrets / proprietary contractor info: contractors may object; agencies may withhold portions.
+	•	Personal privacy: names/SSNs/emails often redacted.
+	•	Exemption 5 deliberative process for internal memos.
+Plan for redactions and appeals.
+
+Sample FOIA request (copy/paste & adapt)
+
+[Agency FOIA Office Address or FOIAonline submission]
+
+Freedom of Information Act Request
+
+Date: [today’s date]
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I request the following records:
+
+1. All program descriptions, solicitations, statements of work (SOW), contracts, task orders, grant awards, award abstracts, final technical reports, interim/progress reports, and contractor deliverables produced by or submitted to [AGENCY or OFFICE, e.g., "DARPA, Biological Technologies Office"] that mention or concern any of the following terms: "neurotechnology", "neural interface", "brain-computer interface", "BCI", "neural decoding", "EEG", "ECoG", "fMRI", "neuromodulation", "behavioral modeling", "behavioral prediction", "predictive policing", "biometrics", "cognitive state", "affective computing", "behavioral inference", or "surveillance". 
+
+2. All email communications, memoranda, briefing slides, white papers, and interagency correspondence (including attachments) between [AGENCY/Office] program managers and external contractors, universities, or other federal agencies discussing the development, use, or potential use of neurotechnology for surveillance, behavioral modeling, or behavior prediction.
+
+Timeframe: January 1, 2015 to present.
+
+Format: I request records in native electronic format where available. I request a waiver of fees because disclosure is in the public interest: these records concern the development and potential use of technologies affecting privacy, civil liberties, and public policy.
+
+If you determine that any portion of the requested records is exempt from disclosure, please produce all reasonably segregable non-exempt portions. If you deny any portion of this request, please cite specific exemptions and provide an index of withheld documents (Vaughn index) if applicable.
+
+If possible, please inform me of the processing status and estimated fees. I may be reached at: [your contact info].
+
+Sincerely,
+[Your name]
+
+Tactical next steps (practical plan)
+	1.	Pick 4–8 top agencies from above to file simultaneously (e.g., DARPA, IARPA, ODNI, DoD/ARO, DHS S&T, NIH, NSF, FBI).
+	2.	Use the sample request, adjust keywords and date ranges per agency, and submit via each agency’s FOIA portal (FOIAonline or agency FOIA email/form).
+	3.	Save all FOIA tracking numbers and calendar follow-ups (30-day statutory response).
+	4.	If you get minimal/blank returns, file targeted follow-ups: request specific contract numbers, or ask for “any records referencing [known program or company]” found in reading-room docs.
+	5.	Consider building a spreadsheet to track agency, request wording, submission date, FOIA number, status, fee estimates, and outcome.
