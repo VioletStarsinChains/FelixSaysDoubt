@@ -86,6 +86,16 @@ Interrogatory No. 9: Identify all Palantir records linking the eviction incident
 
 Interrogatory No. 10: Identify all audit logs, custodial metadata, or access histories showing which Palantir accounts accessed or modified records concerning Aaron or Alice Hardin between 2006–2011.
 
+Interrogatory No. 11: Identify all Palantir datasets, analytic models, or platforms that ingested, stored, or analyzed housing, landlord–tenant, rental, or eviction-related data concerning Aaron or Alice Hardin between January 1, 2006 and December 31, 2011.
+
+Interrogatory No. 12: Identify all Palantir clients (including state, municipal, or private landlords/property-management companies) from whom Palantir obtained housing or eviction datasets for the relevant period.
+
+Interrogatory No. 13: Describe any Palantir analysis, dashboard, or deliverable that included reference to the eviction of Plaintiff from the Hardins’ household, including the purpose of the analysis and the client(s) to whom it was delivered.
+
+Interrogatory No. 14: Identify whether Palantir flagged the eviction incident as part of a behavioral futures market setup, including any anomaly tags, monetization outputs, or predictive modeling linked to the incident.
+
+Interrogatory No. 15: Identify all Palantir personnel or contractors who accessed, modified, or analyzed records concerning housing, rental, or eviction incidents linked to Aaron or Alice Hardin during the 2006–2011 timeframe.
+
 ⸻
 
 REQUESTS FOR PRODUCTION
@@ -112,6 +122,16 @@ Request for Production No. 9: All compliance, ethics, or legal reviews referenci
 
 Request for Production No. 10: All Palantir records linking Plaintiff’s eviction by the Hardins to monetization or predictive modeling outputs in behavioral futures markets.
 
+Request for Production No. 11: Produce all Palantir records (dashboards, reports, datasets, exports) that reference Plaintiff’s eviction from the Hardins’ household, including internal analyses, client-facing deliverables, or anomaly tags.
+
+Request for Production No. 12: Produce all Palantir contracts, task orders, or agreements with property-management companies, landlords, or alumni housing networks involving Aaron or Alice Hardin during 2006–2011.
+
+Request for Production No. 13: Produce all records reflecting housing or rental data ingestion into Palantir platforms concerning Aaron or Alice Hardin.
+
+Request for Production No. 14: Produce all internal Palantir communications (emails, chats, memos) discussing Plaintiff’s eviction by Aaron and Alice Hardin.
+
+Request for Production No. 15: Produce all Palantir records linking Plaintiff’s eviction by the Hardins to monetization, predictive modeling, or behavioral futures market outcomes.
+
 ⸻
 
 REQUESTS FOR ADMISSION
@@ -133,3 +153,15 @@ Request for Admission No. 6: Admit that Palantir has not disclosed to Plaintiff 
 Request for Admission No. 7: Admit that Palantir maintains audit logs showing which accounts accessed records tied to Aaron or Alice Hardin.
 
 Request for Admission No. 8: Admit that Palantir has records linking the eviction of Plaintiff by the Hardins to behavioral futures market modeling or monetization.
+
+Request for Admission No. 9: Admit that Palantir maintains or maintained housing or eviction records concerning Aaron or Alice Hardin.
+
+Request for Admission No. 10: Admit that Palantir has records referencing Plaintiff’s eviction from the Hardins’ household.
+
+Request for Admission No. 11: Admit that Palantir linked Plaintiff’s eviction by Aaron and Alice Hardin to behavioral futures market modeling or monetization outputs.
+
+Request for Admission No. 12: Admit that Palantir shared records of Plaintiff’s eviction with one or more clients.
+
+Request for Admission No. 13: Admit that Palantir maintains audit logs showing which accounts accessed eviction-related records concerning Plaintiff.
+
+Request for Admission No. 14: Admit that Palantir has not produced all records in its possession concerning the eviction of Plaintiff by Aaron and Alice Hardin.
