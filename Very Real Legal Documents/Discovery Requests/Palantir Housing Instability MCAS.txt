@@ -1,0 +1,108 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Use of Housing/Employment Instability Patterns in Anomaly Modeling and Service Denial
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1: Identify all Palantir datasets, analytic models, or anomaly tags that track or reference housing instability, address changes, or tenancy duration of approximately twelve (12) months or less.
+
+Interrogatory No. 2: Identify all Palantir datasets, analytic models, or anomaly tags that track or reference employment instability, job tenure, or work assignments lasting approximately twelve (12) months or less.
+
+Interrogatory No. 3: State whether Palantir maintains records of Plaintiff’s residential address changes or employment history and, if so, describe whether these were flagged as anomalous.
+
+Interrogatory No. 4: Identify all Palantir clients (governmental or private) that received reports, dashboards, or analytic outputs concerning housing or employment instability patterns between 2000 and the present.
+
+Interrogatory No. 5: State whether Palantir has ever classified Plaintiff’s housing or employment instability as a behavioral futures market signal or used it as justification for attrition, denial of services, or predictive modeling.
+
+Interrogatory No. 6: Identify all Palantir personnel or contractors who accessed or modified records concerning Plaintiff’s housing or employment changes.
+
+Interrogatory No. 7: State whether Palantir has any policy, protocol, or compliance guideline concerning the use of disability-related housing or employment instability in anomaly detection or service denial.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+Request for Production No. 1: Produce all Palantir records, dashboards, or datasets referencing Plaintiff’s housing changes or tenancy history.
+
+Request for Production No. 2: Produce all Palantir records, dashboards, or datasets referencing Plaintiff’s employment history, job tenure, or job separations.
+
+Request for Production No. 3: Produce all Palantir anomaly tags, watchlist entries, or behavioral futures market analyses that reference patterns of approximately 12-month housing or employment instability.
+
+Request for Production No. 4: Produce all communications (emails, chats, memos) within Palantir that reference Plaintiff’s housing or employment changes.
+
+Request for Production No. 5: Produce all contracts, deliverables, or analytic products provided to clients that reference Plaintiff’s housing or employment instability.
+
+Request for Production No. 6: Produce all compliance, ethics, or legal reviews concerning the use of housing or employment instability as an anomaly or behavioral futures market variable.
+
+Request for Production No. 7: Produce all audit logs or custodial metadata showing Palantir account access to Plaintiff’s housing or employment records.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+Request for Admission No. 1: Admit that Palantir maintains records of Plaintiff’s housing history, including multiple address changes.
+
+Request for Admission No. 2: Admit that Palantir maintains records of Plaintiff’s employment history, including multiple short-term positions.
+
+Request for Admission No. 3: Admit that Palantir flagged Plaintiff’s housing instability as anomalous or predictive in behavioral futures market modeling.
+
+Request for Admission No. 4: Admit that Palantir flagged Plaintiff’s employment instability as anomalous or predictive in behavioral futures market modeling.
+
+Request for Admission No. 5: Admit that Palantir linked Plaintiff’s housing and employment instability to denial of services, attrition, or continuity-theater operations.
+
+Request for Admission No. 6: Admit that Palantir has not disclosed all records in its possession concerning Plaintiff’s housing and employment instability.
+
+Request for Admission No. 7: Admit that Palantir does not have a policy prohibiting the use of disability-related housing or employment instability patterns in anomaly modeling or behavioral futures markets.
