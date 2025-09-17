@@ -1,0 +1,112 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S [__]TH SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Mischaracterization of Trauma Processing and Research Behaviors in Datasets and Anomaly Models
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1: Identify all Palantir datasets, anomaly tags, or analytic models that reference Plaintiff’s use of kink-related material, including the dates such records were created and the data sources used.
+
+Interrogatory No. 2: Identify whether Palantir classified or flagged Plaintiff’s research into abusive behaviors (including viewing of erotic content outside Plaintiff’s own interest) as anomalous, suspicious, or otherwise negative.
+
+Interrogatory No. 3: Identify all Palantir personnel, contractors, or clients who accessed, modified, or analyzed records concerning Plaintiff’s trauma processing through kink-related material.
+
+Interrogatory No. 4: Identify all Palantir records that distinguish between Plaintiff’s actual conduct in the world and Plaintiff’s research activities conducted online or through digital communications.
+
+Interrogatory No. 5: Identify whether Palantir ingested or stored records of Plaintiff’s digital conversations in which Plaintiff withheld moral objections for research purposes. If yes, identify how those conversations were categorized or tagged.
+
+Interrogatory No. 6: State whether Palantir has any policies, protocols, or compliance guidelines concerning the ingestion of sexual-content-related data, and describe how those guidelines were applied to records concerning Plaintiff.
+
+Interrogatory No. 7: Identify all Palantir records that explicitly note Plaintiff’s stated moral boundaries and consistent refusal to engage in abusive or harmful behaviors.
+
+Interrogatory No. 8: Identify all Palantir analytic outputs, client deliverables, or dashboards in which Plaintiff’s trauma processing or research behaviors were presented without context, and state whether Palantir ever warned clients of the risk of mischaracterization.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+Request for Production No. 1: Produce all records, datasets, dashboards, or analytic outputs referencing Plaintiff’s use of kink-related material.
+
+Request for Production No. 2: Produce all records referencing Plaintiff’s research into abusive behaviors, including content Plaintiff viewed solely to understand why such behaviors appealed to others.
+
+Request for Production No. 3: Produce all records of Plaintiff’s digital conversations where Plaintiff withheld moral objections, including metadata showing how those conversations were categorized, tagged, or presented to clients.
+
+Request for Production No. 4: Produce all Palantir compliance, ethics, or legal review documents discussing ingestion or classification of sexual-content-related data in relation to Plaintiff.
+
+Request for Production No. 5: Produce all Palantir records that distinguish Plaintiff’s actual conduct (consistent with moral guidelines) from Plaintiff’s research activities, and any internal notes acknowledging this distinction.
+
+Request for Production No. 6: Produce all communications between Palantir personnel and clients referencing Plaintiff’s trauma processing, kink material usage, or research into abusive behaviors.
+
+Request for Production No. 7: Produce all records where Palantir flagged Plaintiff’s research activities as anomalous, suspicious, or linked to behavioral futures markets.
+
+Request for Production No. 8: Produce all audit logs or custodial metadata showing which Palantir accounts accessed records tied to Plaintiff’s research activities.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+Request for Admission No. 1: Admit that Palantir maintains records referencing Plaintiff’s use of kink-related material.
+
+Request for Admission No. 2: Admit that Palantir maintains records referencing Plaintiff’s research into abusive behaviors.
+
+Request for Admission No. 3: Admit that Palantir ingested or stored Plaintiff’s digital conversations in which Plaintiff withheld moral objections.
+
+Request for Admission No. 4: Admit that Palantir flagged Plaintiff’s trauma processing or research activities as anomalous, suspicious, or predictive in behavioral futures market modeling.
+
+Request for Admission No. 5: Admit that Palantir did not provide context to clients distinguishing Plaintiff’s moral guidelines and real-world conduct from Plaintiff’s trauma processing and research behaviors.
+
+Request for Admission No. 6: Admit that Palantir has not produced to Plaintiff all records in its possession concerning Plaintiff’s trauma processing or research behaviors.
+
+Request for Admission No. 7: Admit that Palantir has records acknowledging that Plaintiff’s research into abusive behaviors was conducted for analytical purposes, not out of personal desire or intent.
