@@ -1,0 +1,135 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Records, Communications, Models, and Activities Concerning Aaron and Alice Hardin — Jan. 1, 2006 through Dec. 31, 2011
+
+⸻
+
+DEFINITIONS & INSTRUCTIONS
+	1.	“Palantir” means Palantir Technologies Inc., its subsidiaries, affiliates, predecessors, successors, agents, employees, contractors, and any platforms (including Gotham, Foundry, or others).
+	2.	“Aaron Hardin” and “Alice Hardin” refer to those individuals by those names, including any known aliases, maiden/married names, or alternate spellings.
+	3.	“Behavioral futures markets” means any system, dataset, program, or analytic output designed to predict, simulate, or monetize human behavior, including but not limited to anomaly detection, attrition modeling, continuity operations, or digital twin deployment.
+	4.	Unless otherwise specified, the relevant timeframe is January 1, 2006 through December 31, 2011.
+	5.	Each Interrogatory and Request is deemed continuing. If additional responsive information becomes available, it must be supplemented promptly.
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1: Identify all Palantir profiles, datasets, or digital twins maintained concerning Aaron Hardin or Alice Hardin, including the date of creation, data sources, and purpose of the profile/model.
+
+Interrogatory No. 2: Identify all Palantir personnel, contractors, or third-party vendors who accessed, analyzed, or modified records concerning Aaron or Alice Hardin during 2006–2011.
+
+Interrogatory No. 3: Identify all Palantir contracts, task orders, or agreements with Union University, its alumni network, or any affiliated organizations that referenced Aaron or Alice Hardin during 2006–2011.
+
+Interrogatory No. 4: Describe any Palantir datasets, simulations, or behavioral futures market experiments involving the Hardins, including whether Plaintiff was linked or modeled in association with them.
+
+Interrogatory No. 5: Identify all Palantir records referencing the eviction of Plaintiff from the Hardins’ household under the pretext of “marital problems,” including the date of such records, the data sources, and whether the event was logged as a behavioral intervention.
+
+Interrogatory No. 6: Identify any Palantir communications, contracts, or data-sharing arrangements between Palantir and private landlords, rental property managers, or alumni housing networks that reference or include Aaron or Alice Hardin between 2006–2011.
+
+Interrogatory No. 7: State whether Palantir ever flagged Aaron or Alice Hardin as “assets,” “handlers,” or otherwise designated them for participation in continuity-theater or anomaly experiments. If yes, describe their roles and dates of involvement.
+
+Interrogatory No. 8: Identify any Palantir records showing payments, reimbursements, or in-kind benefits to Aaron or Alice Hardin (directly or indirectly) for activity involving Plaintiff or related to behavioral futures market operations.
+
+Interrogatory No. 9: Identify all Palantir records linking the eviction incident to downstream monetization, behavioral modeling, or anomaly tagging of Plaintiff.
+
+Interrogatory No. 10: Identify all audit logs, custodial metadata, or access histories showing which Palantir accounts accessed or modified records concerning Aaron or Alice Hardin between 2006–2011.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+Pursuant to Fed. R. Civ. P. 34, Plaintiff requests production of the following:
+
+Request for Production No. 1: All Palantir records, profiles, or digital twins concerning Aaron Hardin or Alice Hardin.
+
+Request for Production No. 2: All communications, including emails, text messages, chat logs, or meeting notes, referencing Aaron or Alice Hardin and Plaintiff Kellyn Clay between 2006–2011.
+
+Request for Production No. 3: All records referencing or documenting Plaintiff’s eviction from the Hardins’ household, including logs, dashboards, analytic outputs, or deliverables tying that incident to behavioral testing.
+
+Request for Production No. 4: All Palantir contracts, statements of work, or agreements involving Union University alumni or housing arrangements where Aaron or Alice Hardin were participants.
+
+Request for Production No. 5: All records reflecting payments, reimbursements, or benefits to Aaron or Alice Hardin tied to interactions with Plaintiff.
+
+Request for Production No. 6: All Palantir internal presentations, reports, or dashboards that reference the Hardins in connection with behavioral futures market operations.
+
+Request for Production No. 7: All communications between Palantir and any landlord, rental property manager, or housing entity referencing Aaron or Alice Hardin and Plaintiff during 2006–2011.
+
+Request for Production No. 8: All audit logs or metadata showing Palantir account access to Hardin-related records.
+
+Request for Production No. 9: All compliance, ethics, or legal reviews referencing use of Aaron or Alice Hardin in field operations, anomaly targeting, or behavioral experiments.
+
+Request for Production No. 10: All Palantir records linking Plaintiff’s eviction by the Hardins to monetization or predictive modeling outputs in behavioral futures markets.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+Pursuant to Fed. R. Civ. P. 36, Plaintiff requests that Defendant admit or deny the following:
+
+Request for Admission No. 1: Admit that Palantir maintains or maintained records, profiles, or digital twins concerning Aaron Hardin and/or Alice Hardin.
+
+Request for Admission No. 2: Admit that Palantir has records linking Plaintiff to Aaron or Alice Hardin in the context of behavioral futures market experiments.
+
+Request for Admission No. 3: Admit that Palantir has records referencing Plaintiff’s eviction from the Hardins’ household.
+
+Request for Admission No. 4: Admit that Palantir provided deliverables, reports, or dashboards concerning Aaron or Alice Hardin between 2006–2011.
+
+Request for Admission No. 5: Admit that Palantir has records showing Aaron or Alice Hardin were compensated for activities involving Plaintiff.
+
+Request for Admission No. 6: Admit that Palantir has not disclosed to Plaintiff all records in its possession concerning Aaron or Alice Hardin.
+
+Request for Admission No. 7: Admit that Palantir maintains audit logs showing which accounts accessed records tied to Aaron or Alice Hardin.
+
+Request for Admission No. 8: Admit that Palantir has records linking the eviction of Plaintiff by the Hardins to behavioral futures market modeling or monetization.
