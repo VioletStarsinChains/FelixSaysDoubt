@@ -1,0 +1,126 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES, INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Records, Communications, Models, and Activities Concerning Kristen Nicole Sayres (a/k/a any known aliases) — 2006 to Present
+
+Timeframe: January 1, 2006 – Present (unless specified otherwise)
+
+Definitions / Instructions (apply to all requests):
+	•	“Palantir” means Palantir Technologies Inc., its subsidiaries, affiliates, predecessors, successors, agents, employees, contractors, platforms (including but not limited to Gotham and Foundry), and any other entities acting on its behalf.
+	•	“Kristen Nicole Sayres” refers to the individual identified by that full name, and any known aliases, maiden/married names, or common misspellings. Include records where she is identified by email address, account handle, staff ID, or other identifier.
+	•	“Document,” “communication,” and “record” are used in their broadest discovery sense and include electronically stored information (ESI), emails, text messages, Slack/Teams messages, calendar entries, meeting notes, contracts, agreements, video, audio, logs, databases, spreadsheets, dashboards, source data, audit logs, and metadata.
+	•	Unless otherwise specified, each request seeks records from January 1, 2006 through the date of production.
+	•	To the extent material is subject to privilege or a claim of confidentiality, produce a privilege log identifying the document, its date, author, recipients, and basis for privilege.
+	•	If you contend any request is overbroad, provide the factual and legal basis for the objection and state whether any part of the request will be complied with.
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all records, profiles, or digital-twin models Palantir maintains or has maintained for Kristen Nicole Sayres, including the date each profile or model was created, the data sources used to construct it, and a description of the model’s purpose or use.
+	2.	Identify all Palantir personnel, contractors, or third-party vendors who have accessed, modified, or otherwise used records or models concerning Kristen Nicole Sayres. For each person, provide name, role, dates of access, and a brief description of the access purpose.
+	3.	Describe all contracts, task orders, MOUs, or agreements between Palantir (or Palantir clients) and the International Mission Board (IMB), Union University, hospitals/health systems in the U.S. or Kenya, or any missionary-support organizations that reference or involve Kristen Nicole Sayres, her activities, travel, or data.
+	4.	State whether Palantir has any records, logs, or communications indicating that Kristen Nicole Sayres acted as a handler, operative, informant, volunteer, paid monitor, or human asset in field programs, behavioral-testing protocols, or continuity/attrition operations connected to Plaintiff or Plaintiff’s family. If yes, describe the role, dates, sponsoring client(s), and deliverables.
+	5.	Identify all Palantir datasets, searches, or analytic runs that referenced or returned results for Kristen Nicole Sayres in any search, watchlist, or monitoring program from 2006 to present. For each occurrence, provide the dataset name, approximate date, search terms used, and the person or account that executed the search.
+	6.	State whether Palantir has any records of communications with hospitals, urgent-care clinics, emergency medical services (EMS), police, or victim-support services that mention or involve Kristen Nicole Sayres, particularly relating to an ER visit or transport of Plaintiff following a sexual assault (as alleged in Plaintiff’s records). If yes, identify the records, dates, and recipients.
+	7.	Identify all Palantir records showing travel, immigration, visa, or deployment data for Kristen Nicole Sayres (including travel to Kenya or other countries), and state whether Palantir has records linking her travel to IMB assignments, missionary postings, or contractor deployments.
+	8.	State whether Palantir has ever received, stored, or processed communications (email, SMS, messaging app, social media DMs) between Kristen Nicole Sayres and any Palantir client, contractor, or employee that reference Plaintiff, family members of Plaintiff, or events identified in Plaintiff’s affidavits. If yes, identify custodians and summarize subjects.
+	9.	State whether Palantir has any records indicating that Kristen Nicole Sayres was paid, reimbursed, or otherwise compensated—directly or indirectly—by Palantir, Palantir clients, government agencies, or contractors for activity involving public interaction, observation, or monitoring of individuals. If yes, describe amount, dates, payor, and purpose.
+	10.	Identify any records indicating Palantir linked or associated Kristen Nicole Sayres to any digital identifiers (email addresses, phone numbers, social media accounts, vendor IDs) and list those identifiers.
+	11.	State whether Palantir has ever used, embedded, or cited information originating with Kristen Nicole Sayres (including witness statements, reports, or informal notes) in any deliverable, dashboard, or briefing concerning Plaintiff or Plaintiff’s family. If yes, identify the deliverable, date, recipients, and text excerpt.
+	12.	Identify any Palantir analyses, anomaly flags, or watchlist entries that used Kristen Nicole Sayres as a corroborating source for events involving Plaintiff (including but not limited to the alleged staged sexual assault, institutionalization attempt, lodging/Airbnb arrangements, or other continuity-theater events). Provide dates and descriptions.
+
+⸻
+
+REQUESTS FOR PRODUCTION 
+
+Produce all responsive documents and ESI (including metadata) in your possession, custody, or control.
+	1.	All records, files, profiles, digital twins, models, or analytic outputs maintained by Palantir concerning Kristen Nicole Sayres, from January 1, 2006 to present.
+	2.	All emails, instant messages, calendar entries, meeting notes, call logs, text messages, and other communications in Palantir’s custody that reference or discuss Kristen Nicole Sayres and Plaintiff Kellyn Clay (or Plaintiff’s family), from January 1, 2006 to present.
+	3.	All contracts, statements of work, purchase orders, MOUs, invoices, or payment records evidencing direct or indirect compensation to Kristen Nicole Sayres by Palantir, Palantir clients, or third-party contractors, including any expense reimbursements, honoraria, or in-kind benefits (e.g., lodging, travel).
+	4.	All documents evidencing Palantir communications, outreach, training, briefing materials, or scripts provided to third-party individuals (vendors, volunteers, stall-workers, human assets) in which Kristen Nicole Sayres is identified as a participant, recruit, handler, or monitor.
+	5.	All records reflecting Palantir’s ingestion, storage, or analysis of IMB personnel lists, missionary rosters, or IMB assignment records that reference or include Kristen Nicole Sayres.
+	6.	All records, video clips, CCTV exports, vendor camera footage, Wi-Fi/Bluetooth probe logs, POS transaction logs, geolocation logs, or sensor data in Palantir’s custody that show or reference Kristen Nicole Sayres at public events, markets, ERs, or other locations connected to Plaintiff (including Union University events, Linden Hills Farmers Market, or healthcare facilities) from 2006 to present.
+	7.	All internal Palantir reports, slide decks, client deliverables, or briefings in which Kristen Nicole Sayres is named, described, or used as a source for analysis or operational decision-making regarding Plaintiff or related matters.
+	8.	All audit logs, access logs, or custodial metadata showing which Palantir accounts accessed records concerning Kristen Nicole Sayres and when.
+	9.	All records evidencing any directive, request, or instruction from any Palantir client (governmental or private) to identify, recruit, or task Kristen Nicole Sayres for monitoring, observation, or data-gathering activities related to Plaintiff or Plaintiff’s family.
+	10.	All compliance, legal, ethics, or human-resources review materials that reference Kristen Nicole Sayres in the context of field operations, human-subjects concerns, or use of non-employee assets in operational deployments.
+	11.	All records of Palantir communications with Union University (including alumni offices), IMB (International Mission Board), or missionary-support organizations that reference Kristen Nicole Sayres, her alumni status, missionary deployment, or any student/volunteer referrals.
+	12.	All records reflecting searches, watchlist hits, or hits in Palantir platforms where “Kristen Nicole Sayres” (or likely variants) returned results tied to Plaintiff or Plaintiff’s family.
+	13.	All documents showing any termination, resignation, complaint, or personnel file entries involving Kristen Nicole Sayres that Palantir possesses or has received from third parties.
+	14.	All documents and communications that reflect Palantir’s knowledge of or interaction with any hospital, clinic, or ER where Plaintiff was transported (including instances where Kristen Nicole Sayres accompanied Plaintiff, if such records exist), from 2006 to present.
+
+⸻
+
+REQUESTS FOR ADMISSION 
+
+Please admit or deny the following statements. If denied, state the basis for denial and identify responsive records.
+	1.	Admit that Palantir maintains or has maintained a profile, dataset, or digital twin concerning Kristen Nicole Sayres.
+	2.	Admit that Palantir has records of communications between Palantir (or Palantir clients) and International Mission Board (IMB) personnel that reference Kristen Nicole Sayres.
+	3.	Admit that Palantir has records indicating that Kristen Nicole Sayres traveled to or was deployed in Kenya as a missionary or in a missionary role.
+	4.	Admit that Palantir has records showing communications between Kristen Nicole Sayres and any Palantir employee, contractor, or client that reference Kellyn Clay or any member of Plaintiff’s family.
+	5.	Admit that Palantir has records evidencing that Kristen Nicole Sayres accompanied or transported Plaintiff to an ER, clinic, or medical facility following an alleged sexual assault incident involving Plaintiff.
+	6.	Admit that Palantir has records indicating payment, reimbursement, or in-kind compensation to Kristen Nicole Sayres by or at the direction of Palantir, Palantir clients, or contractors for activities involving observation, monitoring, or direct interaction with members of the public.
+	7.	Admit that Palantir has used information sourced from Kristen Nicole Sayres in any deliverable, dashboard, or analytic product concerning Plaintiff.
+	8.	Admit that Palantir has not produced to Plaintiff all records in its possession that reference Kristen Nicole Sayres.
+	9.	Admit that Palantir has in its possession records reflecting searches or watchlist hits that matched the name Kristen Nicole Sayres together with identifiers for Plaintiff (e.g., Kellyn Clay’s name, address, device identifiers).
+	10.	Admit that Palantir has communicated with Union University concerning alumni-affairs, volunteer referrals, or student networks that included Kristen Nicole Sayres.
+
+⸻
+
+PRESERVATION / SPOLIATION NOTICE
+
+Preservation Notice — Kristen Nicole Sayres
+
+This is to advise you that litigation is reasonably anticipated and that Plaintiff intends to seek discovery concerning events and conduct involving Kristen Nicole Sayres (and related subjects) from January 1, 2006 to present. You are hereby requested to preserve and not destroy, modify, or conceal all documents and ESI potentially responsive to the above discovery, including but not limited to email, text messages, Slack/Teams/other messaging communications, calendars, contact lists, CRM records, surveillance video, access logs, audit trails, dashboard screenshots, contracts, vendor lists, transaction logs, and any backups, archives, snapshots, or server logs. Preserve metadata and chain-of-custody information for all responsive items.
+
+Please confirm in writing that you have implemented a litigation hold for custodians and data sources that may be responsive to these requests.
