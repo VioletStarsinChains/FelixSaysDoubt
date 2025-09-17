@@ -1,0 +1,124 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES, INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Toccoa Falls Area Vehicle-Staging / Near-Miss Incident — Approx. 2004–2008
+
+Timeframe: January 1, 2004 – December 31, 2008 (unless otherwise specified)
+
+Location description: Area adjacent to Toccoa Falls / parking lot entrance off the state highway near Toccoa Falls, Georgia (include any known cross-streets or business landmarks if available).
+
+⸻
+
+DEFINITIONS & INSTRUCTIONS (apply to all requests)
+	1.	“Palantir” means Palantir Technologies Inc., its subsidiaries, affiliates, predecessors, successors, agents, employees, contractors, and any platforms or products (including but not limited to Gotham and Foundry) through which Palantir stores, models, or analyzes data.
+	2.	“Document,” “record,” and “communication” include, but are not limited to, electronically stored information (ESI), emails, calendars, text messages, chat logs (Slack, Teams, etc.), databases, dashboards, search logs, video files, CCTV exports, sensor logs, drone/UAV logs, photos, contracts, invoices, invoices, memoranda, presentations, notes, and metadata.
+	3.	“Incident” means the event described by Plaintiff in which, while driving a vehicle on a learner’s permit and turning right off a state highway into a parking lot in the Toccoa Falls area between 2004–2008, a car immediately began backing out from an adjacent space such that Plaintiff’s vehicle was forced to stop mid-turn and a semi-truck behind Plaintiff narrowly avoided striking Plaintiff’s vehicle.
+	4.	Unless otherwise stated, each request seeks records from January 1, 2004 through December 31, 2008.
+	5.	If Palantir claims documents responsive to any request are withheld as privileged, produce a privilege log identifying the document, date, author, recipient(s), and the basis for the privilege claim.
+	6.	If any request is objected to, state the specific grounds and produce any non-privileged portions responsive to that request.
+
+⸻
+
+INTERROGATORIES
+	1.	Identify all Palantir datasets, indices, or files that reference or are tagged for incidents, anomalies, or near-miss traffic events in the area adjacent to Toccoa Falls (include any latitude/longitude or cross-street identifiers) between January 1, 2004 and December 31, 2008.
+	2.	Identify all Palantir contracts, task orders, grants, or memoranda of understanding between Palantir (or Palantir clients) and any municipal, county, state, or private entities (including but not limited to Departments of Transportation, sheriff’s offices, city/county governments, commercial property owners, or parking operators) covering surveillance, traffic monitoring, sensor deployment, video analytics, or public-space instrumentation in the Toccoa Falls area during 2004–2008.
+	3.	Identify all Palantir personnel, contractors, or third-party vendors who accessed, processed, or analyzed surveillance video, traffic camera feeds, sensor logs, or vehicle-identification datasets for the Toccoa Falls area in the time period January 1, 2004 – December 31, 2008. For each person, provide name, role, dates of access, and the data sources accessed.
+	4.	Describe in detail any Palantir analytic models, anomaly-detection routines, or operational products in use between 2004–2008 that were configured to detect, tag, or simulate “staged” traffic events, engineered near-misses, or targeted vehicle-interference events (including model names, purpose, data inputs, and client users).
+	5.	Identify all Palantir records showing receipt, ingestion, or storage of CCTV, DVR, vendor camera, or private/security camera footage that captured the state highway entrance, adjacent parking lot, or immediate vicinity of Toccoa Falls during the 2004–2008 timeframe.
+	6.	State whether Palantir has any records indicating that a specific vehicle (by VIN, plate number, make/model, or merchant/vendor fleet identifier) was recorded backing out of a parking space adjacent to the entrance to the parking lot near Toccoa Falls on any date during 2004–2008. If yes, identify the records, the vehicle identifiers, and the source of the footage/log.
+	7.	Identify any Palantir communications, deliverables, or dashboards provided to clients that referenced “targeted interventions,” “behavioral testing,” “staged incidents,” or similar operational language involving road-based or vehicular events in the Georgia region during 2004–2008.
+	8.	Identify any Palantir records that link or correlate data involving Plaintiff (Kellyn Clay), her sister, or household members to vehicle events, driving incidents, or monitoring activity between 2004–2008.
+	9.	Identify all Palantir records of communications with third parties (including towing companies, private security firms, traffic engineering contractors, local businesses with parking lots, or municipal public works crews) concerning planned or observed parking-lot vehicle movements, scripted vehicular actions, or staged road events in the Toccoa Falls area during 2004–2008.
+	10.	Identify any Palantir datasets or watchlists that included the name of Plaintiff’s sister or any known aliases during the period 2004–2008 and describe any queries, alerts, or model outputs that referenced that sister in conjunction with location-based vehicle events.
+	11.	Identify any Palantir records revealing whether video/sensor footage or related logs for the Toccoa Falls area were subject to removal, redaction, or preservation requests from governmental or private actors during 2004–2008.
+
+⸻
+
+REQUESTS FOR PRODUCTION (RFPs)
+
+Produce all responsive documents and ESI (with metadata) in your possession, custody, or control.
+	1.	Produce all Palantir contracts, task orders, statements of work, MOUs, purchase orders, or invoices between Palantir (or Palantir clients) and state, county, municipal, or private entities for surveillance, traffic monitoring, video analytics, or sensor deployments in the vicinity of Toccoa Falls (Georgia) from January 1, 2004 through December 31, 2008.
+	2.	Produce all CCTV/DVR/video footage or exports, still images, thumbnails, or links to video files in Palantir’s custody showing the parking-lot entrance and adjacent areas near Toccoa Falls for any dates in the 2004–2008 window.
+	3.	Produce all access logs, indexing records, or audit trails showing Palantir ingestion or access of video/sensor feeds for the Toccoa Falls area during 2004–2008, including usernames, timestamps, and actions taken.
+	4.	Produce all internal Palantir emails, instant messages, slide decks, reports, or presentations from 2004–2008 that reference staged vehicular events, coordinated parking-lot maneuvers, near-miss incidents used for behavioral observation, or operation-level descriptions of similar conduct in Georgia or proximate regions.
+	5.	Produce all Palantir datasets or extracts listing vehicle identifiers (license plate numbers, VINs, fleet IDs) tied to vehicles observed in parking lots immediately adjacent to state highways near Toccoa Falls during 2004–2008.
+	6.	Produce all deliverables, dashboards, or analytic outputs Palantir provided to any client in which the Toccoa Falls area or client-related parking lots were monitored, annotated, or had incidents flagged during 2004–2008.
+	7.	Produce all communications between Palantir and any towing company, parking-management firm, private security contractor, or local business (including property owners of parking lots near Toccoa Falls) that reference vehicle maneuvers, planned vehicle movements, or staging of vehicles for observational or testing purposes during 2004–2008.
+	8.	Produce all records reflecting any directives, preservation requests, or deletion/retention decisions made with respect to video, sensor, or traffic data for the Toccoa Falls area during 2004–2008.
+	9.	Produce all Palantir internal incident reports, ethics/compliance reviews, or post-operation debriefs that reference field exercises involving vehicle staging or road-based near-miss simulations in Georgia between 2004–2008.
+	10.	Produce any Palantir logs, entries, or snapshots that reference the Plaintiff’s sister by name (and any known aliases) in association with location or vehicle events during 2004–2008.
+	11.	Produce all records showing linkage in Palantir systems between Plaintiff’s identifying data and any driving incidents, near-misses, or vehicle anomalies in the 2004–2008 timeframe.
+	12.	Produce all records of payments, reimbursements, or in-kind compensation from Palantir or Palantir clients to third parties for the purpose of facilitating, recording, or staging parking-lot or road events in Georgia from 2004–2008.
+
+⸻
+
+REQUESTS FOR ADMISSION (RFAs)
+
+Please admit or deny the following. If denied, state the basis for denial and identify any responsive records.
+	1.	Admit that Palantir ingested or had access to surveillance video or sensor data covering the Toccoa Falls area (including parking-lot entrances adjacent to the state highway) during the period January 1, 2004 – December 31, 2008.
+	2.	Admit that Palantir had contracts or work orders with any public or private entity to provide surveillance, traffic monitoring, or video-analytic services in the Toccoa Falls area during 2004–2008.
+	3.	Admit that Palantir maintains or maintained audit logs documenting access to footage or sensor data relevant to the Toccoa Falls area for dates in the 2004–2008 window.
+	4.	Admit that Palantir has records indicating a vehicle backed out of a parking space adjacent to the parking-lot entrance near Toccoa Falls at any date during 2004–2008.
+	5.	Admit that Palantir has records linking Plaintiff (Kellyn Clay) or Plaintiff’s sister to any vehicle event, near-miss, or staged traffic maneuver in or near Toccoa Falls during 2004–2008.
+	6.	Admit that Palantir has provided any client deliverable, internal report, or dashboard in 2004–2008 that used the term “staged,” “scripted,” “engineered,” or “near-miss” in connection with vehicular events in Georgia.
+	7.	Admit that Palantir has not produced to Plaintiff all responsive materials in its possession concerning the Toccoa Falls area and the described incident.
+
+⸻
+
+PRESERVATION / SPOLIATION NOTICE 
+
+PRESERVATION NOTICE — Toccoa Falls incident
+
+This is to advise you that litigation is reasonably anticipated and that Plaintiff intends to seek discovery concerning an incident occurring in the Toccoa Falls area between 2004–2008. You are hereby requested to preserve and not destroy, modify, or conceal all documents and ESI potentially responsive to the above discovery, including but not limited to email, text messages, Slack/Teams messages, calendars, surveillance video, CCTV/DVR footage, drone/UAV logs, sensor data, traffic camera feeds, contracts, vendor invoices, access logs, audit trails, dashboard screenshots, and any backups, archives, or snapshots. Preserve metadata and chain-of-custody information for all responsive items.
+
+Please confirm in writing that you have implemented a litigation hold for custodians and data sources that may be responsive to these requests.
