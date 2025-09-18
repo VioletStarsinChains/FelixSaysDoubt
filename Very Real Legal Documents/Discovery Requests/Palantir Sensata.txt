@@ -1,0 +1,147 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Records Relating to Sensata Technologies (4467 White Bear Pkwy, White Bear Lake, MN 55110) — Employee: Kellyn Clay (Jan. 2015–Dec. 2015); Downstream Uses of Sensata Power Inverters / Generators
+
+Timeframe: January 1, 2014–December 31, 2016 
+
+⸻
+
+DEFINITIONS & INSTRUCTIONS (applies to all requests)
+	1.	“Palantir” includes Palantir Technologies Inc., its platforms (Gotham, Foundry), subsidiaries, affiliates, employees, contractors, agents, and any other entities acting on its behalf.
+	2.	“Sensata” means Sensata Technologies, the facility located at 4467 White Bear Pkwy, White Bear Lake, MN 55110, and any Sensata parent/subsidiary/division involved with power inverters, generators, or related equipment.
+	3.	“Products” means power inverters, portable generators, inverter systems, vehicle-installed inverter/generator systems, power-conditioning equipment, telemetry-enabled power devices, and any similar Sensata-manufactured hardware.
+	4.	“Continuity theater / entrainment uses” means any use of Products for non-standard utility functions, behavioral entrainment, continuity-of-operations theater, targeted environmental modulation, or deployment in contexts intended to influence human behavior or system continuity rather than only conventional power delivery.
+	5.	“Document,” “communication,” and “record” are used in their broadest sense and include electronically stored information (ESI).
+	6.	If you object to any request on any ground, state the grounds with specificity and produce any non-privileged portion. Provide a privilege log for withheld items.
+
+⸻
+
+INTERROGATORIES
+
+Answer each interrogatory fully, under oath, within the time allowed by the rules.
+
+Interrogatory No. 1: Identify all Palantir datasets, indices, or records that reference Sensata Technologies and/or the facility at 4467 White Bear Pkwy, White Bear Lake, MN 55110, including dataset names, ingestion dates, and source systems.
+
+Interrogatory No. 2: Identify all Palantir contracts, task orders, or data-sharing agreements (including with Palantir clients or government entities) in which Palantir received product, shipment, inventory, or deployment data concerning Sensata-manufactured power inverters, generators, or related Products.
+
+Interrogatory No. 3: Identify all Palantir analytic models, dashboards, or anomaly-detection routines that referenced or used data about Sensata Products being deployed in vehicles, municipal fleets, utility vehicles, or non-utility installations between 2010 and present. For each model/dashboard provide name, purpose, and clients/users.
+
+Interrogatory No. 4: Identify all Palantir records that associate Sensata Products with “non-utility” uses, including deployment for environmental modulation, entrainment, continuity operations, or behavioral influence. For each record identify source, date, and any client recipient.
+
+Interrogatory No. 5: Identify all Palantir records that reference the distribution of Sensata Products to Sensata employees (including any “employee bonus” distributions such as inverters), including the existence of programs providing devices to employees, dates, and sourcing/fulfillment data.
+
+Interrogatory No. 6: Identify all Palantir personnel, contractors, or third-party vendors who accessed or analyzed records relating to Sensata Products or the White Bear Pkwy facility. For each person, provide name, role, dates of access, and data sources accessed.
+
+Interrogatory No. 7: Identify all Palantir clients (government, municipal, private sector) that received analytics or reports showing Sensata Product deployments in vehicles or other non-standard contexts, and describe the nature of the deliverable and dates provided.
+
+Interrogatory No. 8: State whether Palantir has any records linking Sensata Products to telemetry, remote-control, or sensor feeds that would enable real-time modulation of devices (e.g., power cycling, waveform modulation, frequency control) and, if so, identify the datasets and clients that received such telemetry.
+
+Interrogatory No. 9: Identify any Palantir records indicating that Sensata Products manufactured at the White Bear Pkwy facility were sold or supplied to entities or fleets known to be used for continuity, public-safety operations, or other deployments beyond normal utility/residential uses.
+
+Interrogatory No. 10: Identify all Palantir files, datasets, or models that link the identity of Sensata employees (including but not limited to Plaintiff) to Product serial numbers, inventory records, or deployment logs.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+Produce responsive documents (with metadata) in Palantir’s possession, custody, or control.
+
+RFP No. 1: All Palantir datasets, ingestion manifests, CSVs, or records that reference Sensata Technologies or the White Bear Pkwy facility, including original source identifiers and ingestion dates.
+
+RFP No. 2: All contracts, statements of work, task orders, purchase orders, MOUs, or data-sharing agreements under which Palantir obtained product, shipment, inventory, or deployment data for Sensata-manufactured Products.
+
+RFP No. 3: All dashboards, slide decks, analytic reports, screenshots, or export files that reference Sensata Products being deployed in vehicles, municipal fleets, or in non-utility contexts.
+
+RFP No. 4: All records (including supply-chain manifests, bills of lading, purchase orders, vendor lists) showing downstream customers of Sensata Products manufactured at White Bear Pkwy, including fleet customers, municipal purchasers, and large-scale buyers.
+
+RFP No. 5: All communications (emails, Slack messages, memos) between Palantir and clients, vendors, or third parties concerning the use of Sensata Products for continuity operations, environmental modulation, entrainment, or other behavioral uses.
+
+RFP No. 6: All Palantir records referencing programs that distributed Sensata Products to employees (including in-kind bonuses), including lists of recipients, serial numbers, procurement records, or program materials.
+
+RFP No. 7: All audit logs, access logs, and custodial metadata showing which Palantir accounts accessed Sensata-related records and when.
+
+RFP No. 8: All Palantir analytic model source code, configuration files, or documentation for models that used Sensata Product deployment data as input.
+
+RFP No. 9: All records identifying Palantir clients that requested or received analytics concerning Sensata Products or power-device deployments, including client names, contact points, and delivery dates.
+
+RFP No. 10: All compliance, legal, or ethics reviews, incident reports, or memoranda that reference the ingestion, use, or risks of using industrial/utility equipment data (including inverters/generators) in behavioral or continuity modeling.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+Please admit or deny the following statements. For any denial, briefly explain and identify responsive records.
+
+RFA No. 1: Admit that Palantir maintains datasets referencing Sensata Technologies or the White Bear Pkwy facility.
+
+RFA No. 2: Admit that Palantir ingested product, shipment, or inventory data for Sensata-manufactured power inverters or generators.
+
+RFA No. 3: Admit that Palantir has analytic outputs or dashboards that show Sensata Products installed in utility vehicles, municipal fleets, or non-utility vehicles.
+
+RFA No. 4: Admit that Palantir received data showing Sensata Products were distributed as employee bonuses to Sensata staff.
+
+RFA No. 5: Admit that Palantir analyzed telemetry or remote-control data associated with Sensata Products that would permit remote modulation of device output.
+
+RFA No. 6: Admit that Palantir provided analytics concerning Sensata Products to any government agency, municipal client, or private-sector client for purposes other than conventional power- and inventory-management.
+
+RFA No. 7: Admit that Palantir linked Product serial numbers or deployment records to the identities of Sensata employees (including Plaintiff) or to addresses associated with Sensata employees.
+
+RFA No. 8: Admit that Palantir maintains audit logs showing which accounts accessed files referencing Sensata Products.
+
+RFA No. 9: Admit that Palantir has not produced to Plaintiff all records in its possession concerning Sensata Products and the White Bear Pkwy facility.
+
+⸻
+
+PRESERVATION NOTICE: Litigation is reasonably anticipated concerning the use of Sensata Technologies–manufactured power inverters, generators, and related equipment and the ingestion and use of product, shipment, inventory, telemetry, and deployment data by Palantir Technologies Inc. You are directed to preserve all documents, ESI, ingestion manifests, audit logs, dashboards, and communications concerning Sensata Technologies, the White Bear Pkwy facility (4467 White Bear Pkwy, White Bear Lake, MN 55110), and the Products described above from January 1, 2010 to present.
+
