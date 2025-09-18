@@ -96,6 +96,14 @@ Interrogatory No. 14: Identify whether Palantir flagged the eviction incident as
 
 Interrogatory No. 15: Identify all Palantir personnel or contractors who accessed, modified, or analyzed records concerning housing, rental, or eviction incidents linked to Aaron or Alice Hardin during the 2006–2011 timeframe.
 
+Interrogatory No. 16: Identify all Palantir datasets, anomaly tags, or analytic models referencing informal housing arrangements, cohabitation without leases, or sudden housing changes requested without legal eviction.
+
+Interrogatory No. 17: State whether Palantir maintains records of Plaintiff’s living arrangement with Aaron and Alice Hardin, including whether the absence of a lease was itself flagged as anomalous.
+
+Interrogatory No. 18: Identify all Palantir records describing housing disruptions or instability caused by “informal” requests to vacate, and whether such events were used in behavioral futures market models.
+
+Interrogatory No. 19: Identify all Palantir clients who received outputs, dashboards, or reports concerning Plaintiff’s cohabitation with Aaron and Alice Hardin.
+
 ⸻
 
 REQUESTS FOR PRODUCTION
@@ -132,6 +140,14 @@ Request for Production No. 14: Produce all internal Palantir communications (ema
 
 Request for Production No. 15: Produce all Palantir records linking Plaintiff’s eviction by the Hardins to monetization, predictive modeling, or behavioral futures market outcomes.
 
+Request for Production No. 16: Produce all Palantir records, anomaly tags, or reports referencing Plaintiff’s cohabitation with Aaron and Alice Hardin, whether or not formal tenancy or lease terms existed.
+
+Request for Production No. 17: Produce all Palantir datasets or dashboards referencing “informal eviction,” “asked to move out,” “no lease,” or other terms indicating sudden housing change without formal legal process.
+
+Request for Production No. 18: Produce all communications within Palantir or between Palantir and clients referencing Plaintiff’s departure from the Hardin household.
+
+Request for Production No. 19: Produce all records documenting Palantir’s treatment of housing instability data where no legal tenancy or lease existed.
+
 ⸻
 
 REQUESTS FOR ADMISSION
@@ -165,3 +181,13 @@ Request for Admission No. 12: Admit that Palantir shared records of Plaintiff’
 Request for Admission No. 13: Admit that Palantir maintains audit logs showing which accounts accessed eviction-related records concerning Plaintiff.
 
 Request for Admission No. 14: Admit that Palantir has not produced all records in its possession concerning the eviction of Plaintiff by Aaron and Alice Hardin.
+
+Request for Admission No. 15: Admit that Palantir maintains records of Plaintiff’s housing arrangement with Aaron and Alice Hardin.
+
+Request for Admission No. 16: Admit that Palantir maintains anomaly tags or records referencing informal housing arrangements or cohabitation without a lease.
+
+Request for Admission No. 17: Admit that Palantir flagged Plaintiff’s sudden departure from the Hardin household as an anomalous event for behavioral futures market purposes.
+
+Request for Admission No. 18: Admit that Palantir provided reports or dashboards to clients referencing Plaintiff’s informal housing arrangement with Aaron and Alice Hardin.
+
+Request for Admission No. 19: Admit that Palantir did not disclose all records in its possession concerning Plaintiff’s cohabitation with Aaron and Alice Hardin.
