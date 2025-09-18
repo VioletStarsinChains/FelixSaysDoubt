@@ -1,0 +1,150 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject: Retail restroom sampling, urine-derived data, and downstream analytics from Starbucks / Target / Cub Foods and related vendors
+
+Timeframe: July 1, 2021 – Present
+
+DEFINITIONS / INSTRUCTIONS (short)
+	•	“Retailers” = Starbucks Corporation; Target Corporation; Cub Foods (and corporate affiliates/franchise stores).
+	•	“Restroom sampling” = any collection, sampling, sensor-recording, analysis, or inference of biological substances (including urine) from public restrooms, restroom waste, restroom fixtures, or user behavior in restrooms.
+	•	“Palantir” = Palantir Technologies Inc., its platforms (Gotham, Foundry), subsidiaries, employees, contractors, clients, and any ingesting systems.
+	•	“Document” and “communication” are used broadly (ESI included).
+
+INTERROGATORIES
+
+Interrogatory 1. Identify all datasets, indices, or records in Palantir’s possession that reference “restroom,” “toilet,” “urine,” “urinalysis,” “toilet sensor,” “waste sample,” “bio-sample,” or similar terms that were sourced from or associated with Starbucks, Target, Cub Foods, or their contractors.
+
+Interrogatory 2. Identify all Palantir contracts, statements of work, task orders, MOUs, or data-sharing agreements (including those with data brokers) under which Palantir received data or analytic feeds originating from retail restroom sensors, janitorial vendors, waste-management manifests, or lab testing tied to Starbucks, Target, or Cub Foods.
+
+Interrogatory 3. Identify all Palantir clients, partners, or third-party vendors who supplied Palantir with restroom-originating data (including vendor names such as janitorial firms, restroom-sensor providers, waste-management firms, or laboratories) and describe the data types/formats provided.
+
+Interrogatory 4. Describe any Palantir analytic models, anomaly-detection routines, or dashboards (by name and purpose) that were used to process or tag restroom-originated biological data or inferences derived from restroom events (including events indicating urination, incontinence, or presence of specific chemicals).
+
+Interrogatory 5. Identify any Palantir watchlists, flags, profiles, or digital-twin attributes that included “toilet event,” “urination event,” “urinalysis positive,” “toxicology,” or similar markers linked to Plaintiff (Kellyn Clay) or identifiers associated with Plaintiff (DOB, device IDs, addresses).
+
+Interrogatory 6. Identify all Palantir records that reflect a chain of custody or provenance for restroom-derived biological data (i.e., source vendor, ingestion manifest, timestamp), including manifest IDs and the point at which data was linked to individual identities.
+
+Interrogatory 7. Identify any Palantir communications (internal or with clients) that discuss using restroom-originated bio-sample data to justify targeting, service denial, or risk classification of individuals.
+
+Interrogatory 8. Identify all Palantir personnel, contractors, or accounts that accessed restroom-sourced video, sensor logs, waste manifests, or lab reports tied to Starbucks, Target, or Cub Foods; for each person, state name, role, dates of access, and purpose.
+
+Interrogatory 9. State whether Palantir received or ingested data from any of the following vendors or categories (answer yes/no and identify vendors where yes): janitorial contractors; restroom-sensor manufacturers; waste-management firms; in-store lab/analytics vendors; third-party rapid-test vendors used in retail settings.
+
+Interrogatory 10. Identify any Palantir records showing that restroom-derived data was used to create or modify any model, score, or dashboard that led to a denial of service, restriction, or adverse action toward an identified consumer.
+
+REQUESTS FOR PRODUCTION
+
+Produce documents/ESI responsive to the following requests (custodial search: product ops, contracts, municipal/private accounts, integrations, data ingestion teams).
+
+RFP No. 1. All data ingestion manifests, CSVs, logs, or manifests that show Palantir ingested data described as originating from Starbucks, Target, or Cub Foods restroom sensors, waste manifests, janitorial logs, or lab testing.
+
+RFP No. 2. All contracts, SOWs, MOUs, or purchase orders between Palantir (or Palantir clients) and restroom-related vendors (janitorial firms, restroom-sensor vendors, waste-management vendors, labs) that reference data-sharing, analytics, or testing services.
+
+RFP No. 3. All dashboards, screenshots, slide decks, reports, or analytic outputs that reference restroom-originated data, urine/urinalysis, restroom events, or related anomaly flags.
+
+RFP No. 4. All profiles, digital-twin entries, watchlist records, or anomaly tags that reference “urine,” “toilet events,” “toilet sensor,” “toxicology,” or similar indicators linked to Plaintiff or identifiers associated with Plaintiff.
+
+RFP No. 5. All audit logs, access logs, and metadata showing who accessed or exported restroom-originated data or related analytic outputs, and when.
+
+RFP No. 6. All communications (emails, Slack, text messages, memos) between Palantir and Starbucks/Target/Cub Foods (or their contractors) that reference restroom sampling, biological sampling, urine, toxicology, restroom sensors, or related pilot programs.
+
+RFP No. 7. All legal/compliance/records documenting Palantir’s handling of bio-sample data, including privacy assessments, HIPAA/PHI handling guidance, or decisions on whether data was de-identified vs. re-identifiable.
+
+RFP No. 8. All records of payments, invoices, or financial transfers between Palantir (or Palantir clients) and any vendor that supplied restroom-originated biological data.
+
+REQUESTS FOR ADMISSION
+
+Please admit or deny:
+
+RFA No.1 Admit that Palantir has in its possession data or records that originated from Starbucks, Target, or Cub Foods relating to restroom cleaning logs, waste manifests, sensor telemetry, or other restroom-related data.
+
+RFA No.2 Admit that Palantir has ingested data that could be used to infer that a named individual used a public restroom at a retailer at a specific time.
+
+RFA No.3 Admit that Palantir has in its possession any laboratory reports, toxicology results, or sample accession numbers that were obtained from restroom-sourced samples tied to Starbucks, Target, or Cub Foods.
+
+RFA No.4 Admit that Palantir provided analytics or dashboards to any client that used restroom-sourced data to classify or target individuals for services, benefits, or enforcement decisions.
+
+RFA No.5 Admit that Palantir has not produced to Plaintiff all records in its possession concerning restroom-originated biological data from the retailers above.
+
+⸻ 
+
+PRESERVATION / SPOLIATION NOTICE
+
+PRESERVATION NOTICE — NONCONSENSUAL BIOLOGICAL SAMPLING / URINE-RELATED DATA
+
+To: Legal Custodian / Records Officer, Palantir Technologies Inc.; Starbucks Corporation; Target Corporation; Cub Foods; [Named janitorial contractors]; [Named restroom-sensor vendors]; [Local store managers]; [Any known lab/analytics vendors]
+
+Date: 9/16/2025
+
+Re: Preservation of documents and ESI relating to alleged nonconsensual urine sampling and collection of urine-derived data from public restrooms at retail locations (Starbucks / Target / Cub Foods) and any downstream analytics or data sharing.
+
+This notice is to advise you that litigation is reasonably anticipated concerning allegations that biological samples (including urine) or urine-derived data were collected from patrons using public restrooms without individual consent and subsequently analyzed, retained, or shared. You are hereby directed to preserve all documents and electronically stored information (ESI) from January 1, 2000 to present that may be responsive to discovery, including but not limited to:
+	•	CCTV and security camera footage capturing restroom entrances, restroom cleaning, waste-disposal, or waste bin access;
+	•	Restroom sensor logs (any sensors detecting liquid, chemical composition, weight, or other biometrics), maintenance logs, and vendor telemetry;
+	•	Janitorial/cleaning work orders, supply orders, incident reports, waste-disposal manifests, and contractor invoices;
+	•	Waste management pickup logs, manifests, and chain-of-custody records for restroom waste bags or biohazard waste in store locations specified by Plaintiff;
+	•	Contracts, statements of work, purchase orders, or MOUs between the retailer and third-party vendors related to restroom monitoring, restroom sensors, waste disposal, sample collection, laboratory testing, or analytics;
+	•	Lab reports, test results, accession logs, and communications with any third-party lab or analytics firm referencing samples collected from retail restrooms or retail locations identified by Plaintiff;
+	•	Records of any consumer-testing programs, pilot studies, or operational experiments conducted in store restrooms;
+	•	Data ingestion manifests, data-sharing agreements, buy/sell records involving data brokers, and any manifests reflecting the transfer of restroom-sourced data to analytics platforms (including Palantir);
+	•	Emails, Slack/Teams messages, text messages, or other communications discussing restroom testing, sample collection, or urine-related analyses;
+	•	Audit logs showing access to any of the above records, including copies/backups and metadata.
+
+Preserve all underlying source files, database records, logs, and metadata, and do not destroy, alter, delete, overwrite, or conceal any potentially relevant materials, including backups and archives.
+
+Please confirm in writing within seven (7) days that you have instituted a legal hold and the scope of custodians and systems subject to it.
+
+This preservation notice is provided without prejudice to any party’s rights and claims.
+
+— End preservation notice —
