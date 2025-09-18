@@ -1,0 +1,88 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES, INC.
+
+Subject: GLP-1 Delivery via Water Systems
+
+⸻
+
+INTERROGATORY NO. 1
+
+Identify and describe in detail any instance in which Palantir Technologies, Inc., or any officer, employee, contractor, or agent, has planned, modeled, directed, facilitated, monitored, or evaluated the delivery of GLP-1 receptor agonists or functionally similar incretin-pathway compounds through water systems.
+
+For each instance, state:
+a. the date(s) and duration;
+b. the location(s) (city/state and system/operator);
+c. the compound(s) involved (generic/brand name, class, concentration targets);
+d. the delivery method (e.g., in-line additive, upstream dosing, cartridge/coating technology), including any hardware, software, or vendor components used;
+e. all Palantir personnel, business units, contractors, or partner entities involved (including government agencies or private companies);
+f. the purpose and objectives (e.g., behavioral modulation, health intervention, A/B testing, surveillance analytics);
+g. any data sources, models, or dashboards used to track exposure, compliance, outcomes, or adverse events;
+h. the outcomes measured and results obtained (including adverse events, complaints, or incident reports);
+i. the existence and location of documents, reports, or datasets memorializing the foregoing.
+
+⸻
+
+REQUEST FOR PRODUCTION NO. 2
+
+Produce all documents, records, contracts, datasets, reports, communications, prototypes, or software modules in Palantir’s possession, custody, or control that reference or relate to the delivery of GLP-1 receptor agonists or functionally similar incretin-pathway compounds through water systems, including but not limited to:
+
+a. protocols, dosing specifications, or technical manuals describing delivery methods (e.g., in-line additives, cartridges, upstream dosing, coatings);
+b. dashboards, models, or analytic outputs used to monitor exposure, compliance, outcomes, or adverse events;
+c. contracts, subcontracts, purchase orders, or vendor agreements with third parties providing hardware, consumables, or compounds for such delivery;
+d. internal or external communications (emails, presentations, memoranda) referencing GLP-1 delivery through municipal, commercial, institutional, or packaged water supplies;
+e. incident reports, adverse event logs, or field test evaluations associated with GLP-1 water delivery programs;
+f. financial records, billing statements, or invoices reflecting expenditures on GLP-1 compounds, delivery systems, or monitoring infrastructure.
+
+⸻
+
+REQUEST FOR ADMISSION NO. 3
+
+Admit that Palantir Technologies, Inc., has at any time planned, modeled, directed, facilitated, monitored, or evaluated the delivery of GLP-1 receptor agonists or functionally similar incretin-pathway compounds through municipal, commercial, institutional, or packaged water supplies.
