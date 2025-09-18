@@ -1,0 +1,75 @@
+UNITED STATES DISTRICT COURT
+
+Kellyn Clay, individually and on behalf of all others similarly situated,
+Plaintiff,
+
+v.
+
+Starbucks Corporation,
+Defendant
+
+⸻ 
+
+PLAINTIFF’S [__]TH SET OF DISCOVERY REQUESTS TO DEFENDANT STARBUCKS CORPORATION
+
+Plaintiff: Kellyn Clay
+Defendant: Starbucks Corporation
+Subject Matter: Restroom Sampling, Urine Data Collection, and Data Sharing
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1: Identify all programs, pilot projects, vendor agreements, or internal initiatives since January 1, 2000 that involved collection, sampling, analysis, or monitoring of restroom waste, restroom fluids, or other biological materials from Starbucks store restrooms.
+
+Interrogatory No. 2: Identify all third-party vendors (janitorial, waste-management, laboratory, restroom-sensor providers, analytics firms, data brokers) that provided services relating to Starbucks restroom cleaning, waste disposal, or restroom monitoring, and state whether any of these vendors collected or analyzed biological samples.
+
+Interrogatory No. 3: State whether Starbucks has ever authorized or been aware of urine or restroom-waste samples being collected from store restrooms for analysis, and if so, describe the purpose, methods, and outcomes of such collection.
+
+Interrogatory No. 4: Identify all contracts, agreements, or communications between Starbucks and Palantir Technologies Inc. (or Palantir’s contractors/clients) that reference restroom sampling, restroom sensors, waste analysis, or any biological testing.
+
+Interrogatory No. 5: Describe Starbucks’ policies, procedures, or compliance reviews concerning restroom waste handling, restroom sensor usage, and biological sample collection, including whether Starbucks has policies against nonconsensual sampling.
+
+Interrogatory No. 6: Identify all Starbucks personnel, employees, or contractors who have knowledge of restroom waste sampling or biological testing programs at Starbucks stores.
+
+Interrogatory No. 7: State whether Starbucks maintains CCTV, sensor logs, or other records that track restroom use, restroom cleaning, or restroom waste disposal at any of Plaintiff’s known store locations.
+
+Interrogatory No. 8: Identify whether Starbucks has ever received lab reports, toxicology results, or analytics derived from restroom waste or restroom fluids, and if so, state when, from whom, and for what purpose.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+RFP No. 1: Produce all contracts, statements of work, or agreements between Starbucks and any janitorial, waste-management, laboratory, or analytics vendor relating to restroom cleaning, restroom waste disposal, restroom sensors, or biological sample testing.
+
+RFP No. 2: Produce all logs, manifests, or chain-of-custody records for restroom waste disposal from Starbucks stores where Plaintiff was a patron.
+
+RFP No. 3: Produce all lab reports, test results, or analytic outputs generated from Starbucks restroom waste, restroom sensors, or restroom fluid sampling.
+
+RFP No. 4: Produce all communications (emails, memos, internal chats) within Starbucks or with third-party vendors that reference restroom waste collection, urine sampling, restroom sensors, or biological testing.
+
+RFP No. 5: Produce all records of communications between Starbucks and Palantir Technologies Inc. (or Palantir contractors/clients) that reference restroom data, restroom waste, restroom sensors, urine analysis, or biological testing.
+
+RFP No. 6: Produce all policies, procedures, or training materials concerning restroom waste handling, restroom sensors, restroom cleaning, and restroom biological testing.
+
+RFP No. 7: Produce all CCTV, restroom sensor data, or access logs showing restroom cleaning, waste removal, or restroom use at Plaintiff’s identified Starbucks store locations on the dates of alleged incidents.
+
+RFP No. 8: Produce all compliance, ethics, or oversight reviews conducted by Starbucks concerning restroom waste, restroom sensors, or biological testing in retail locations.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+RFA No. 1: Admit that Starbucks has entered into contracts with janitorial, waste-management, laboratory, or analytics vendors that involve restroom waste disposal or restroom monitoring.
+
+RFA No. 2: Admit that Starbucks has received or had access to restroom sensor data, restroom logs, or restroom monitoring data from its stores.
+
+RFA No. 3: Admit that restroom waste from Starbucks stores has been collected and analyzed by third-party vendors for biological or toxicological purposes.
+
+RFA No. 4: Admit that Starbucks has communicated with Palantir Technologies Inc. or its clients/contractors regarding restroom sampling, restroom sensors, or restroom-derived data.
+
+RFA No. 5: Admit that Starbucks has not disclosed to Plaintiff all records in its possession concerning restroom sampling, restroom sensors, urine analysis, or biological testing.
+
+RFA No. 6: Admit that Starbucks does not have a written policy prohibiting the collection or analysis of restroom-derived biological samples.
+
+RFA No. 7: Admit that Starbucks restroom data, restroom waste logs, or restroom-derived analytics were provided to third parties without the informed consent of patrons.
