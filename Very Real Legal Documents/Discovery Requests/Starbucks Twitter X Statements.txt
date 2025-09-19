@@ -99,7 +99,7 @@ Interrogatory No. 10: State whether Starbucks has ever provided, sold, licensed,
 
 ⸻
 
-REQUESTS FOR PRODUCTION (Starbucks)
+REQUESTS FOR PRODUCTION
 
 Pursuant to applicable civil rules, produce the following documents and ESI (native format and metadata preserved).
 
@@ -129,7 +129,7 @@ RFP No. 12: All records of disclosures to customers (including privacy notices, 
 
 ⸻
 
-REQUESTS FOR ADMISSION (Starbucks)
+REQUESTS FOR ADMISSION 
 
 Pursuant to applicable civil rules, please admit or deny the following statements. For any denial, state with specificity the grounds and identify responsive documents.
 
@@ -146,6 +146,24 @@ RFA No. 5: Admit that Starbucks has provided third-party analytics firms with Cl
 RFA No. 6: Admit that Starbucks provided no customer-facing disclosure that purchase events could be correlated with customers’ social-media handles during the relevant timeframe.
 
 RFA No. 7: Admit that Starbucks did not implement safeguards to prevent the use of correlated purchase/social-media data for monitoring, targeting, or service denial by third-party recipients.
+
+RFA No. 8: Admit that Starbucks has at any time provided, sold, or transferred customer purchase history (including Clover brewer data, point-of-sale records, or loyalty-app data) to Palantir Technologies Inc. or its contractors.
+
+RFA No. 9: Admit that Starbucks has provided, sold, or transferred datasets that included Plaintiff’s purchase history to Palantir Technologies Inc. or its contractors.
+
+RFA No. 10: Admit that Starbucks has correlated customer purchase history with social-media data, including Twitter/X activity, and shared such correlated data with Palantir Technologies Inc. or its contractors.
+
+RFA No. 11: Admit that Starbucks has in its possession records linking Plaintiff’s Twitter/X account @dysautonomian with Plaintiff’s Starbucks purchase history.
+
+RFA No. 12: Admit that Starbucks has shared, sold, or transferred records linking Plaintiff’s Twitter/X account @dysautonomian with Plaintiff’s purchase history to Palantir Technologies Inc. or its contractors.
+
+RFA No. 13: Admit that Starbucks has provided access to Palantir Technologies Inc. or its contractors to analyze customer purchase records, including Clover brewer data, without informing customers.
+
+RFA No. 14: Admit that Starbucks did not disclose to customers that their purchase data and correlated social-media identifiers could be shared or sold to Palantir Technologies Inc. or its contractors.
+
+RFA No. 15: Admit that Starbucks has not conducted adequate compliance or ethics reviews concerning the sharing of purchase or social-media correlated data with Palantir Technologies Inc. or its contractors.
+
+RFA No. 16: Admit that Starbucks has failed to disclose all records in its possession concerning Plaintiff’s purchase history, Starbucks beverage consumption, and correlation of that history with Plaintiff’s social-media statements.
 
 ⸻
 
