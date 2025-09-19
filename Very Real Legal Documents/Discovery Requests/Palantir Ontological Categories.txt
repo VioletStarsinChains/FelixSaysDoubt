@@ -1,0 +1,116 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Pursuant to Rules 33, 34, and 36 of the Federal Rules of Civil Procedure, Plaintiff Kellyn Clay requests that Defendant Palantir Technologies Inc. respond to the following Interrogatories, Requests for Production, and Requests for Admission within the time required by law.
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1
+Identify all individuals, committees, or outside contractors responsible for designing, approving, or modifying the ontological categories used in Palantir platforms, including but not limited to categories of risk, anomaly, compliance, threat, subject, and entity.
+
+Interrogatory No. 2
+Describe the methodology used to determine which categories, classes, or relationships were included or excluded in Palantir’s ontologies. Include any deliberations regarding categories considered but ultimately rejected.
+
+Interrogatory No. 3
+Identify all internal or external reviews, audits, or assessments of potential epistemic bias or epistemic injustice in Palantir’s ontological frameworks, and state the results of those reviews.
+
+Interrogatory No. 4
+State whether Palantir ontologies vary across clients (e.g., law enforcement, intelligence, healthcare, finance) and identify the criteria used to determine such variations.
+
+Interrogatory No. 5
+Describe all procedures by which Palantir monitors for “blind spots” or emergent categories not represented in existing ontologies, including how such gaps are identified, reported, and addressed.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+Request for Production No. 6
+Produce all documents, presentations, training materials, or design specifications relating to the creation or modification of ontological categories used in Palantir platforms.
+
+Request for Production No. 7
+Produce any and all risk assessments, white papers, or internal memoranda discussing epistemic bias, category exclusion, or the potential for misclassification in Palantir’s ontologies.
+
+Request for Production No. 8
+Produce communications with government agencies, corporate clients, or third-party experts in which Palantir’s ontological categories were discussed, critiqued, or revised.
+
+Request for Production No. 9
+Produce all records reflecting client-specific customizations of ontologies, including rationales for tailoring categories differently for distinct sectors (e.g., law enforcement vs. healthcare).
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+Request for Admission No. 10
+Admit that Palantir defines and encodes ontological categories (e.g., risk, anomaly, compliance, threat) into its platforms.
+
+Request for Admission No. 11
+Admit that the inclusion or exclusion of categories in an ontology determines what data can or cannot be represented, analyzed, or acted upon in Palantir systems.
+
+Request for Admission No. 12
+Admit that ontological design choices in Palantir systems have the potential to result in misclassification, omission, or distortion of individuals, groups, or events.
+
+Request for Admission No. 13
+Admit that Palantir has received feedback, complaints, or critiques concerning the adequacy, fairness, or neutrality of its ontological categories.
+
+Request for Admission No. 14
+Admit that Palantir has not implemented a public or independent review process for its ontological frameworks.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se  
