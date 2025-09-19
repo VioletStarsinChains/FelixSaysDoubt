@@ -97,6 +97,18 @@ Interrogatory No. 9: Identify all communications within Starbucks (emails, Slack
 
 Interrogatory No. 10: State whether Starbucks has ever provided, sold, licensed, or otherwise transferred datasets (including POS, loyalty, mobile-app, Wi-Fi, or Clover logs) that could be used to correlate purchase events with social-media accounts to any third party (including data brokers, analytics vendors, or government entities). If yes, identify the recipients, dates, data fields transferred, and contractual protections (if any).
 
+Interrogatory No. 11: Identify all agreements, contracts, or data-sharing arrangements between Starbucks and Palantir Technologies Inc. or its contractors that involved customer purchase records, Clover brewer data, mobile-app or loyalty data, or any other customer identifiers.
+
+Interrogatory No. 12: State whether Starbucks has ever linked or correlated Plaintiff’s Starbucks purchase history to Plaintiff’s Twitter/X account @dysautonomian. If so, identify the method of correlation, the date(s) performed, and the custodians responsible.
+
+Interrogatory No. 13: Identify all Starbucks personnel, contractors, or third-party vendors who had access to systems or datasets capable of correlating Plaintiff’s purchase history with social-media identifiers, including any involvement by Palantir Technologies Inc.
+
+Interrogatory No. 14: Describe all datasets, dashboards, or deliverables provided to Palantir Technologies Inc. or its contractors that contained Starbucks purchase data linked to social-media identifiers. Include dataset name, date, and scope of fields provided.
+
+Interrogatory No. 15: State whether Starbucks has ever informed customers that their purchase history could be linked to or correlated with social-media activity and shared with third-party analytics vendors such as Palantir. If so, identify when and how such disclosures were made.
+
+Interrogatory No. 16: Identify all compliance, legal, or ethics reviews conducted by Starbucks regarding the sharing of customer purchase or social-media correlated data with Palantir Technologies Inc. or its contractors. For each, provide the date, findings, and custodians.
+
 ⸻
 
 REQUESTS FOR PRODUCTION
@@ -126,6 +138,18 @@ RFP No. 10: All documents reflecting training of store employees or corporate pe
 RFP No. 11: All internal audit logs and custodial metadata showing who accessed any datasets, dashboards, or outputs that linked purchase events to social-media identifiers (include usernames, timestamps, and actions).
 
 RFP No. 12: All records of disclosures to customers (including privacy notices, terms of service, or mobile-app disclosures) informing customers that Starbucks might correlate purchase data with external social-media activity or share purchase data with analytics vendors for enrichment.
+
+RFP No. 13: Produce all agreements, contracts, or statements of work between Starbucks and Palantir Technologies Inc. (or its contractors) involving Starbucks purchase data, Clover brewer data, mobile-app/loyalty data, or correlated social-media data.
+
+RFP No. 14: Produce all datasets, manifests, dashboards, or exports showing Plaintiff’s purchase history linked or correlated with Plaintiff’s Twitter/X account @dysautonomian.
+
+RFP No. 15: Produce all communications (emails, memos, chats) between Starbucks and Palantir Technologies Inc. or its contractors referencing correlation of customer purchase data with social-media identifiers, including Plaintiff’s handle @dysautonomian.
+
+RFP No. 16: Produce all internal communications, policies, or slide decks within Starbucks discussing the use of Palantir platforms (e.g., Gotham, Foundry) to analyze or correlate customer purchase records with social-media activity.
+
+RFP No. 17: Produce all compliance reviews, privacy assessments, legal opinions, or ethics memoranda concerning Starbucks’ sharing of purchase history or correlated social-media data with Palantir Technologies Inc. or its contractors.
+
+RFP No. 18: Produce all records of disclosures to customers (privacy policies, app terms, loyalty terms, in-store notices) that referenced the possibility of Starbucks purchase data being shared with third-party analytics vendors for correlation with social-media identifiers.
 
 ⸻
 
