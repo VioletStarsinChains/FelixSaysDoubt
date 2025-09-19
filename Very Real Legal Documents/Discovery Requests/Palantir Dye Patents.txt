@@ -1,0 +1,89 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+⸻
+
+INTERROGATORIES
+	1.	State whether Palantir Technologies Inc. collects, analyzes, or cross-references data concerning patent holdings in dyes, colorants, or pigmentation technologies by financial institutions.
+	2.	State whether Palantir maintains or has access to databases identifying which financial institutions (including but not limited to Charles Schwab, Robinhood, Fidelity, Citadel, Goldman Sachs, BlackRock, Vanguard, State Street, J.P. Morgan, and Bank of America / Merrill Lynch) hold patents or licenses related to dyes or colorants.
+	3.	State whether Palantir has ever incorporated financial institution dye/colorant patent holdings into its ontology design, anomaly classification schemas, or digital twin custody mapping.
+	4.	Identify all Palantir employees, contractors, or affiliates who have worked on projects involving patent portfolio analysis as an input to behavioral modeling or custody rotation systems.
+	5.	State whether Palantir has communicated with government agencies or financial institutions about the symbolic or behavioral implications of dye/colorant patent holdings.
+	6.	Describe whether Palantir has ever assessed the impact of financial institution dye/colorant patent portfolios on classification outputs or digital twin custody transitions.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all databases, reports, or analyses maintained by Palantir identifying dye/colorant patents held by financial institutions.
+	2.	Produce all internal documents, technical specifications, or ontology schemas referencing color codes, dye patents, or pigmentation technologies in connection with anomaly classification or digital twin custody.
+	3.	Produce all communications between Palantir and government agencies (CIA, DoD, DOJ, DHS, ODNI) referencing financial institution dye/colorant patent holdings.
+	4.	Produce all communications between Palantir and financial institutions (Charles Schwab, Citadel, Goldman Sachs, BlackRock, Vanguard, State Street, J.P. Morgan, Merrill Lynch, or affiliates) referencing dye/colorant patents or symbolic custody markers.
+	5.	Produce all internal reviews, audits, or analyses addressing whether financial institution dye/colorant patent holdings were used in behavioral futures modeling or custody determination.
+	6.	Produce all whistleblower complaints, objections, or warnings concerning the integration of patent symbolism (including dyes/colorants) into anomaly or custody systems.
+
+⸻ 
+
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir Technologies Inc. is aware that major financial institutions hold patents in dyes, pigments, or colorant technologies.
+	2.	Admit that Palantir has collected or maintained data identifying which financial institutions hold patents in dyes, pigments, or colorant technologies.
+	3.	Admit that Palantir has cross-referenced financial institution dye/colorant patent holdings in its ontology design or anomaly classification systems.
+	4.	Admit that Palantir has treated dye/colorant patent portfolios as symbolic custody markers for identifying or distinguishing institutions within behavioral futures markets.
+	5.	Admit that Palantir has communicated with government agencies regarding financial institution dye/colorant patent holdings.
+	6.	Admit that Palantir has communicated with financial institutions regarding their dye/colorant patent holdings.
+	7.	Admit that Palantir has never disclosed to the public that dye/colorant patent holdings are used as symbolic markers in anomaly classification or digital twin custody.
+	8.	Admit that Palantir has received internal concerns or objections about the use of dye/colorant patents as symbolic or behavioral classification markers.
+	9.	Admit that integration of dye/colorant patents into anomaly classification systems has contributed to wrongful anomaly or “Non-Person Entity (NPE)” designations.
+	10.	Admit that Plaintiff’s wrongful classification as an anomaly or NPE was influenced in part by Palantir’s use of dye/colorant patent holdings as symbolic custody markers.
