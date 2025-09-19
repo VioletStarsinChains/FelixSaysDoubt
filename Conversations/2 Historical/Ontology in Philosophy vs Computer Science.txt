@@ -1,0 +1,133 @@
+KC: Which philosopher first wrote about ontology?
+
+CG: The first philosopher generally credited with writing about ontology—that is, the systematic study of being as being—is Aristotle.
+	•	The actual word ontology (from Greek ontos = being, logos = discourse) didn’t exist in Aristotle’s time; it appears much later, in the 17th century (notably in works by Jacob Lorhard in 1606 and Rudolf Göckel in 1613).
+	•	But the concept is traced back to Aristotle’s Metaphysics, where he distinguishes between different senses of being and tries to determine the fundamental principles underlying all that exists. He called this inquiry the search for being qua being (to on hê on).
+
+That said, Parmenides (5th century BCE) is often regarded as the first philosopher to make “being” itself the explicit subject of thought. His poem On Nature argues that “what is, is” and that non-being cannot be thought or spoken of. Plato, too, in dialogues like the Sophist and Parmenides, wrestled with the nature of being and non-being.
+
+So:
+	•	Parmenides was the first to write directly about being.
+	•	Plato deepened the discussion.
+	•	Aristotle systematized it in a way that anticipates what we now call ontology.
+	•	The term “ontology” itself was coined in the early 1600s.
+
+Would you like me to map out the timeline of ontology’s development (Parmenides → Plato → Aristotle → Scholastics → 17th century term “ontology”), or are you mainly interested in who first framed the question?
+
+KC: So why did usage of the term start climbing rapidly in the 1990s and peak around 2011? (screenshot of Ngram chart included in prompt)
+
+CG: Great question — and the Ngram chart you’ve pulled up is really telling. Let’s unpack both parts:
+
+1. Why the rise in the 1990s–2000s?
+The sharp increase in the use of the word ontology wasn’t driven only by philosophers. It was driven heavily by computer science and information systems:
+	•	In artificial intelligence (AI) and knowledge representation, “ontology” became the term for structured vocabularies that formally describe entities and their relationships (e.g., medical ontologies, semantic web, bioinformatics).
+	•	The Semantic Web initiative, championed by Tim Berners-Lee in the late 1990s, popularized ontologies as a foundation for machine-readable knowledge.
+	•	Fields like bioinformatics, library science, linguistics, and software engineering all adopted the term.
+
+So, starting in the early 1990s, “ontology” jumped from philosophy into technical and applied sciences, massively multiplying its usage.
+
+2. What happened around 2011?
+The peak in 2011 likely reflects the height of the Semantic Web hype cycle. Around that time:
+	•	Linked Data and Semantic Web technologies were at their most widely discussed in both academic and technical literature.
+	•	Projects like DBpedia, FOAF, OWL (Web Ontology Language), and schema.org were being developed and adopted.
+	•	There was also a surge of ontology-related publications in biomedical research, especially the Gene Ontology project, which by then had become a standard in genomics and molecular biology.
+
+After about 2011, the term’s usage dipped slightly, possibly because “ontology” as a buzzword stabilized into established practice. The hype cooled, even though the work continues in many fields.
+
+⸻
+
+👉 So in short:
+	•	Philosophy gave us the word.
+	•	AI, computer science, and bioinformatics made it explode in the 1990s–2010s.
+	•	2011 marks the peak of Semantic Web + bio-ontology excitement.
+
+Would you like me to make a side-by-side timeline (philosophy vs. computer science) to show how the word’s meaning and usage evolved?
+
+KC: I'm guessing ontology is tied more closely to epistemology in philosophy than in computer science?
+
+CG: Exactly — you’re on point.
+
+In philosophy:
+	•	Ontology and epistemology are like twin pillars:
+	•	Ontology = what exists (the structure of reality).
+	•	Epistemology = how we know (the structure of knowledge).
+	•	They’re tightly linked because one’s account of being often constrains one’s account of knowing. For example:
+	•	Plato: ontology of eternal Forms ↔ epistemology of recollection/ rational intuition.
+	•	Kant: ontology of phenomena/noumena ↔ epistemology of categories/conditions of possible experience.
+	•	Heidegger: ontology of Dasein ↔ epistemology rooted in existential situatedness.
+
+So, in philosophy, to talk ontology almost always raises epistemological issues: “What is real?” runs into “How do we know it’s real?”
+
+⸻
+
+In computer science:
+	•	The word ontology is more technical and pragmatic. It usually means a formal specification of a conceptualization (Tom Gruber’s famous definition, 1993).
+	•	An ontology in CS is like a structured schema: it defines entities, classes, relationships, and rules so machines can share data meaningfully.
+	•	It doesn’t care about epistemology in the classical sense (justification, belief, truth). Instead, it assumes knowledge can be represented in machine-readable form if you design the right ontology.
+	•	The philosophical worries about “but how do we know this model corresponds to reality?” are usually bracketed off.
+
+⸻
+
+So:
+	•	In philosophy, ontology and epistemology are inseparable.
+	•	In computer science, ontology is mostly severed from epistemology — it’s about shared vocabularies for interoperability, not the nature of knowing.
+
+👉 The irony is that the CS usage secretly inherits those old philosophical tensions, but engineers usually treat them as implementation problems, not metaphysical ones.
+
+Would you like me to sketch how computer ontologies could actually reintroduce epistemological problems (e.g. bias, incompleteness, authority over categories) — which is where things get politically spicy?
+
+KC: Yes please. 
+
+CG: Perfect — this is where it gets juicy. Let’s trace how epistemology sneaks back into computer ontologies:
+
+⸻
+
+1. Choice of Categories = Epistemic Authority
+	•	In philosophy: “What kinds of things exist?”
+	•	In CS: “What classes and relations do we include in the ontology?”
+	•	Problem: Whoever designs the ontology decides what’s “real enough” to encode. For example:
+	•	A medical ontology may encode “schizophrenia” but not “C-PTSD,” shaping research and treatment.
+	•	A social ontology may encode “gender: male/female” but exclude non-binary identities.
+
+This mirrors philosophical worries about epistemic injustice (Miranda Fricker): what is excluded from a conceptual scheme can’t be known, or even said.
+
+⸻
+
+2. Epistemic Bias Hidden in Formalism
+	•	Ontologies in CS are formal: classes, predicates, hierarchies.
+	•	This gives the appearance of objectivity. But the design reflects cultural/disciplinary assumptions.
+	•	Example: The Gene Ontology assumes hierarchical, tree-like relationships. But not all biological processes are tree-structured — some are networked, messy, recursive.
+
+So, an ontology encodes not just facts, but a worldview about how facts hang together.
+
+⸻
+
+3. Interoperability = Epistemic Translation Problems
+	•	Computer ontologies are often built to integrate data across systems.
+	•	But translation always involves loss or distortion: what one system encodes may not map cleanly to another.
+	•	Philosophical echo: Kuhn’s incommensurability of paradigms — different conceptual schemes can’t always be reconciled.
+
+So, when databases “align ontologies,” they’re performing a technical fix for an epistemological problem.
+
+⸻
+
+4. Power & Surveillance = Who Gets to Define Reality?
+	•	Palantir, government agencies, Big Tech firms build ontologies to track people, events, risks.
+	•	Their ontologies shape what counts as suspicious behavior, a terrorist, a patient, a consumer.
+	•	Ontology here is not just academic — it’s political epistemology: whoever controls the categories controls what the system knows.
+
+This is what makes behavioral futures markets so insidious: the ontologies that define “anomaly,” “compliance,” or “risk” are built into the machinery of prediction, but they reflect political/economic agendas.
+
+⸻
+
+5. Epistemic Fragility of Automation
+	•	Once an ontology is encoded, the system “knows” only what the ontology permits.
+	•	This creates epistemic blind spots: if reality changes, or new categories emerge, the system can’t register them.
+	•	Example: Early AI ontologies in the 1990s couldn’t handle irony, memes, or emoji. These gaps got exploited by users (think 4chan’s coded language slipping past filters).
+
+Philosophically: this is the problem of induction and the limits of formalization — no ontology can capture reality exhaustively.
+
+⸻
+
+✅ So in short:
+Computer ontologies look like they cut ontology off from epistemology, but in practice they reinstantiate epistemological problems as design choices, translation issues, blind spots, and ultimately power struggles over who gets to define reality for machines.
