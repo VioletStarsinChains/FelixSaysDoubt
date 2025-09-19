@@ -1,0 +1,158 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF DISCOVERY REQUESTS TO DEFENDANT STARBUCKS CORPORATION
+
+Plaintiff: Kellyn Clay
+Defendant: Starbucks Corporation
+Subject Matter: Tracking, Correlation, Analysis, and Sharing of Customer Social-Media Activity (including Twitter/X handle @dysautonomian) With Beverage Purchase Data (including Clover-brewed beverages)
+
+Timeframe: July 1, 2021 – Present
+
+DEFINITIONS & INSTRUCTIONS (apply to all requests)
+	1.	“Starbucks” means Starbucks Corporation, its parent/subsidiaries, franchisees, store managers, employees, contractors, agents, successors, and assigns.
+	2.	“Plaintiff” means Kellyn Clay and references to Plaintiff’s Twitter/X handle mean @dysautonomian.
+	3.	“Clover” means Clover brewers, Clover system logs, per-cup dosing systems, Clover telemetry, and any per-cup programmable brewer or similar equipment used at Starbucks locations.
+	4.	“Beverage purchase event” means any in-store or mobile app purchase of a beverage (including purchase receipts, POS records, mobile-app orders, loyalty-program scans, and drive-thru purchases).
+	5.	“Social-media activity” includes posts, direct messages, account handles, likes, follows, shares, tags, mentions, or any interaction on Twitter/X, Facebook, Instagram, TikTok, or other social media platforms.
+	6.	“Correlation” means any linking, matching, associating, or joining of beverage purchase events to social-media activity or user identifiers by Starbucks or its vendors/partners.
+	7.	“Third-party analytics vendors” includes Palantir Technologies Inc., CRM/data-broker vendors, marketing analytics companies, social-listening firms, loyalty analytics firms, and any vendor engaged to analyze customer behavior.
+	8.	“Document,” “record,” and “communication” are used in their broadest senses and include electronically stored information (ESI).
+	9.	If Starbucks claims any document is privileged, produce a privilege log identifying the document, date, author, recipients, and basis for privilege.
+
+⸻
+
+INTERROGATORIES
+
+Pursuant to applicable civil rules, produce written answers under oath.
+
+Interrogatory No. 1: Identify all Starbucks programs, initiatives, or projects (including pilot programs) from July 1, 2021 – Present that involved correlating or attempting to correlate customer beverage purchase events with social-media activity (including Twitter/X handles), whether for marketing, analytics, research, safety, or other purposes. For each program identify program name, purpose, dates, project leads, and participating stores.
+
+Interrogatory No. 2: Identify all Starbucks personnel, contractors, or third-party vendors who executed, managed, or had operational access to systems or datasets that could be used to correlate purchase events with social-media identifiers (examples: CRM teams, mobile-app analytics, loyalty program teams, Wi-Fi analytics, CCTV ops, POS/data integrations). For each person provide name, title, role, and custodial systems accessed.
+
+Interrogatory No. 3: Describe in detail Starbucks’ ingestion, retention, and linking practices for the following data types: (a) POS receipts and transaction data; (b) Starbucks mobile-app user identifiers and order histories; (c) Starbucks Rewards/loyalty program identifiers and profiles; (d) in-store Wi-Fi logs and device identifiers; (e) CCTV/video metadata (store entry timestamps); (f) Clover brewer per-cup logs/telemetry. For each data type describe how long data is retained, whether it is linkable to external identifiers (including social-media), and any anonymization/re-identification practices.
+
+Interrogatory No. 4: Describe all technical or procedural methods Starbucks has used to correlate customers’ social-media handles, posts, or profile data with beverage purchase events (e.g., matching loyalty emails to social-media accounts, device MAC address matching, Wi-Fi probe-request correlation, point-of-sale text/phone lookups, geotag/time correlation, social-listening enrichment). For each method identify the vendors, software, or libraries used, the dates used, and sample code or algorithms where not privileged.
+
+Interrogatory No. 5: State whether Starbucks has ever searched for, collected, or stored any social-media identifiers or specific user handles (including @dysautonomian) and linked them to purchase records, loyalty accounts, mobile-app identifiers, Wi-Fi logs, or CCTV timestamps. If yes, identify the records, custodians, dates, and the purpose of such linkage.
+
+Interrogatory No. 6: Identify all agreements, contracts, statements of work, or data-sharing arrangements between Starbucks and any third-party analytics vendors (including Palantir, CRM/data brokers, social-listening vendors) that permitted the vendor to receive or analyze Starbucks data that could be used to correlate beverage purchases with social-media activity. For each agreement, provide vendor name, contract dates, scope of data shared, and contact person.
+
+Interrogatory No. 7: Describe all instances in which Starbucks used correlated purchase/social-media data to take or recommend operational actions regarding an identified customer (examples: barring, service denial, targeted outreach, referrals to authorities, marketing suppression), including dates, stores, rationale, and the records showing the action.
+
+Interrogatory No. 8: State whether Starbucks has any policy, written guideline, training, or legal review (internal or external) concerning the ethical limits, privacy risks, or legal compliance for correlating purchase activity with social-media identifiers. If so, produce the policies and identify the custodians who maintain them.
+
+Interrogatory No. 9: Identify all communications within Starbucks (emails, Slack, Teams, memos) or between Starbucks and third parties discussing the risks that correlating purchase events with social-media activity could create surveillance, misclassification, or civil-rights harms to customers.
+
+Interrogatory No. 10: State whether Starbucks has ever provided, sold, licensed, or otherwise transferred datasets (including POS, loyalty, mobile-app, Wi-Fi, or Clover logs) that could be used to correlate purchase events with social-media accounts to any third party (including data brokers, analytics vendors, or government entities). If yes, identify the recipients, dates, data fields transferred, and contractual protections (if any).
+
+⸻
+
+REQUESTS FOR PRODUCTION (Starbucks)
+
+Pursuant to applicable civil rules, produce the following documents and ESI (native format and metadata preserved).
+
+RFP No. 1: All contracts, statements of work, purchase orders, MOUs, and data-sharing agreements between Starbucks and any third-party analytics vendors, data brokers, social-listening firms, CRM vendors, Wi-Fi analytics providers, or Palantir Technologies Inc. from July 1, 2021 – Present.
+
+RFP No. 2: All internal project documents, proposals, slide decks, or reports concerning efforts to correlate beverage purchase events with social-media identifiers, handles, or posts (including programs that used Clover telemetry, POS data, loyalty/mobile data, Wi-Fi logs, or CCTV to generate customer profiles).
+
+RFP No. 3: All datasets, ingestion manifests, exports, or sample CSVs showing mappings or linkage fields between Starbucks customer identifiers (email, rewards ID, device ID, phone number) and external social-media identifiers or handles (including any records referencing @dysautonomian).
+
+RFP No. 4: All server logs, ingestion manifests, Wi-Fi probe logs, mobile-app telemetry logs, POS export logs, CCTV metadata/timestamps, or Clover per-cup telemetry records that were used or available for use in correlating purchase events to external identifiers during the timeframe.
+
+RFP No. 5: All communications (emails, Slack/Teams messages, memos, contracts) between Starbucks and Palantir Technologies Inc., Palantir contractors, or any third-party analytics vendor referencing (a) ingestion of Starbucks data, (b) correlation of purchase events with social-media identifiers, or (c) delivery of dashboards or watchlists that included such correlations.
+
+RFP No. 6: All internal policies, privacy assessments, data-protection impact assessments (DPIAs), legal reviews, or ethics memos discussing the privacy, civil-rights, or discrimination risks of correlating Starbucks purchase data with social-media activity.
+
+RFP No. 7: All communications, records, or outputs that reference searches for or matches to the Twitter/X handle @dysautonomian, including any employee notes that reference or flag that handle in relation to any Starbucks purchase event or in-store encounter.
+
+RFP No. 8: All vendor deliverables, dashboards, or analytic exports provided to Starbucks that show correlated customer profiles built from Starbucks data enriched with social-media identifiers or social-listening outputs.
+
+RFP No. 9: All records of customer-service actions, security reports, incident logs, or escalation notes where social-media identifiers were used to identify, flag, or take action with respect to a Starbucks customer.
+
+RFP No. 10: All documents reflecting training of store employees or corporate personnel regarding how to use customer intelligence that includes social-media linkage (scripts, SOPs, training slides).
+
+RFP No. 11: All internal audit logs and custodial metadata showing who accessed any datasets, dashboards, or outputs that linked purchase events to social-media identifiers (include usernames, timestamps, and actions).
+
+RFP No. 12: All records of disclosures to customers (including privacy notices, terms of service, or mobile-app disclosures) informing customers that Starbucks might correlate purchase data with external social-media activity or share purchase data with analytics vendors for enrichment.
+
+⸻
+
+REQUESTS FOR ADMISSION (Starbucks)
+
+Pursuant to applicable civil rules, please admit or deny the following statements. For any denial, state with specificity the grounds and identify responsive documents.
+
+RFA No. 1: Admit that Starbucks has, at any time from July 1, 2021 – Present, engaged in activities to correlate or match customer purchase events to social-media identifiers.
+
+RFA No. 2: Admit that Starbucks has in its possession records that reference the Twitter/X handle @dysautonomian in relation to any store visit, purchase, or customer-service interaction.
+
+RFA No. 3: Admit that Starbucks has shared, sold, or transferred data sufficient to permit a third party to correlate purchase events with social-media identifiers to Palantir Technologies Inc. or any similar analytics vendor.
+
+RFA No. 4: Admit that Starbucks has used Wi-Fi logs, mobile-app telemetry, or CCTV timestamps to link customer devices to social-media activity for enrichment purposes.
+
+RFA No. 5: Admit that Starbucks has provided third-party analytics firms with Clover system telemetry or per-cup logs that could be associated with customer purchase events.
+
+RFA No. 6: Admit that Starbucks provided no customer-facing disclosure that purchase events could be correlated with customers’ social-media handles during the relevant timeframe.
+
+RFA No. 7: Admit that Starbucks did not implement safeguards to prevent the use of correlated purchase/social-media data for monitoring, targeting, or service denial by third-party recipients.
+
+⸻
+
+GENERAL REQUESTS & PRACTICAL NOTES
+	1.	Custodians suggested for Starbucks searches: Head of Data Analytics, Privacy Officer / Legal, CRM/Loyalty Product Managers, Mobile-App Product Team, Wi-Fi/Infrastructure Ops, Store Security/Operations, Clover/Equipment Ops, Vendor Management/Procurement, and Data-Broker/Marketing vendor teams.
+	2.	If Starbucks objects to the time scope as unduly burdensome, the Plaintiff requests production for a good-faith narrower set instead of a categorical refusal.
+	3.	Include a short preservation/spoliation notice with service (if not already sent) demanding immediate hold of POS/Clover/Wi-Fi/CCTV/mobile-app logs and vendor data.
+	4.	Request any produced datasets be accompanied by provenance manifests showing original source, ingestion timestamp, and any re-identification keys.
+	5.	If Starbucks claims data was “de-identified,” demand the re-identification key, mappings, or crosswalks (or an explanation why none exists).
+
