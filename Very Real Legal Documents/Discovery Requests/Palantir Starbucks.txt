@@ -1,0 +1,112 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S [__]TH SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Ingestion and Interpretation of Plaintiff’s Social Media Statements Influenced by Starbucks Beverages
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1: Identify all Palantir datasets, anomaly tags, or analytic models that reference Plaintiff’s social media accounts (including but not limited to Twitter/X handle @dysautonomian) or ingest Plaintiff’s social media statements.
+
+Interrogatory No. 2: State whether Palantir maintains records acknowledging, referencing, or analyzing the possibility that Plaintiff’s social media statements were influenced by chemical exposures or undisclosed additives in Starbucks beverages.
+
+Interrogatory No. 3: Identify all Palantir personnel, contractors, or client accounts who accessed or analyzed datasets containing Plaintiff’s social media statements, including dates of access and nature of analysis performed.
+
+Interrogatory No. 4: State whether Palantir has provided outputs, dashboards, or reports to clients in which Plaintiff’s social media statements were represented as authentic self-expression, without qualification as to possible chemical or environmental influences.
+
+Interrogatory No. 5: Identify all Palantir compliance, legal, or ethics reviews concerning ingestion of chemically influenced or otherwise environmentally modulated social media data for purposes of anomaly detection, monitoring, or classification.
+
+Interrogatory No. 6: Describe any Palantir policies, procedures, or safeguards for ensuring that social media statements influenced by chemical exposures, pharmaceuticals, or environmental additives are not misclassified as authentic expressions of belief or intent.
+
+Interrogatory No. 7: If Palantir denies that Plaintiff’s social media data was ingested, describe in detail the safeguards Palantir employs to prevent ingestion or analysis of chemically influenced online statements in anomaly-detection systems.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+RFP No. 1: Produce all Palantir datasets, ingestion manifests, and analytic outputs referencing Plaintiff’s social media accounts or statements (including Twitter/X handle @dysautonomian).
+
+RFP No. 2: Produce all Palantir records, reports, or communications referencing the possibility that Plaintiff’s Starbucks consumption or chemical exposures influenced Plaintiff’s social media activity.
+
+RFP No. 3: Produce all dashboards, reports, exports, or analytic summaries provided to Palantir clients in which Plaintiff’s social media statements were included, categorized, or tagged.
+
+RFP No. 4: Produce all communications (emails, Slack, memos) between Palantir and its clients, contractors, or employees discussing Plaintiff’s social media data in relation to authenticity, intent, or belief.
+
+RFP No. 5: Produce all Palantir compliance reviews, ethics memos, or legal analyses concerning the ingestion of environmentally influenced social media activity (including chemically induced statements).
+
+RFP No. 6: Produce all audit logs, custodial metadata, and access records showing which Palantir accounts accessed Plaintiff’s social media data.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+RFA No. 1: Admit that Palantir has ingested Plaintiff’s social media statements, including those posted from the Twitter/X handle @dysautonomian.
+
+RFA No. 2: Admit that Palantir has represented Plaintiff’s social media statements to clients as authentic expressions of Plaintiff’s beliefs and values.
+
+RFA No. 3: Admit that Palantir has not accounted for the influence of Starbucks beverage additives or chemical exposures on Plaintiff’s social media statements.
+
+RFA No. 4: Admit that Palantir has not disclosed to clients that Plaintiff’s social media statements may have been influenced by chemical exposures or environmental factors.
+
+RFA No. 5: Admit that Palantir has not conducted adequate compliance or ethics reviews concerning the ingestion and classification of chemically influenced social media activity.
+
+RFA No. 6: Admit that treating chemically influenced social media statements as authentic self-expression constitutes a misrepresentation of Plaintiff’s true beliefs and values.
+
+RFA No. 7: Admit that Palantir has not disclosed all records in its possession concerning Plaintiff’s social media statements and their classification.
+
