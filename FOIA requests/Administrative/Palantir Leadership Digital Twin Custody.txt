@@ -1,0 +1,17 @@
+FOIA Request
+
+To DOJ / DHS / ODNI
+
+Request:
+
+Requesting any and all records, contracts, memoranda, communications, or compliance reviews concerning the custodial rotation, transfer, or temporary possession of leadership digital twin models of contractors or private defense companies, from 2008 to present.
+
+This includes:
+	•	Records describing the existence, management, or oversight of digital twin models of corporate leadership (including Palantir Technologies Inc.) maintained for behavioral modeling, anomaly classification, or surveillance purposes.
+	•	Agreements, contracts, or memoranda of understanding (MOUs) authorizing government agencies or financial institutions to hold temporary or rotating custody of leadership digital twins.
+	•	Communications with financial institutions (including but not limited to Charles Schwab, Citadel, Goldman Sachs, BlackRock, Vanguard, J.P. Morgan) regarding the custodial rotation of contractor leadership digital twins.
+	•	Internal audits, reviews, or risk assessments addressing the effects of custodial rotation on predictive accuracy, anomaly outputs, or downstream treatment of modeled individuals.
+	•	Whistleblower reports, objections, or internal warnings concerning the rotation of contractor leadership digital twins across financial or government entities.
+	•	Records reflecting whether government clients were informed of or consented to the rotation of contractor leadership digital twins across multiple custodial institutions.
+
+Keywords: digital twin, leadership model, custodial rotation, Palantir Technologies, anomaly classification, behavioral futures, Non-Person Entity, NPE, Charles Schwab, Citadel, Goldman Sachs, BlackRock, J.P. Morgan, Vanguard
