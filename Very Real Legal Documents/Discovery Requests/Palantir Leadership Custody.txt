@@ -1,0 +1,86 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S COMBINED SET OF INTERROGATORIES AND REQUESTS FOR PRODUCTION TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+⸻
+
+INTERROGATORIES
+	1.	State whether Palantir Technologies Inc. maintains digital twin models of its leadership, executives, or officers.
+	2.	State whether such digital twins are ever placed into temporary or rotating custody by outside institutions, including but not limited to:
+a. Retail brokerages (Charles Schwab, Robinhood, Fidelity)
+b. Hedge funds and quant firms (Citadel, Two Sigma, Renaissance Technologies)
+c. Investment banks or government enforcement actors (Goldman Sachs, DOJ)
+d. Asset managers (BlackRock, Vanguard, State Street)
+e. Intelligence community agencies (CIA, NSA, DoD)
+f. Legacy banks (J.P. Morgan and affiliates)
+	3.	Describe the process by which custodial transfers of Palantir leadership digital twins are initiated, authorized, or logged.
+	4.	Identify all Palantir employees, contractors, or affiliates who are responsible for monitoring, coordinating, or approving the rotation of leadership digital twins through custodial institutions.
+	5.	State whether Palantir has ever conducted internal reviews, audits, or risk assessments of the impact of leadership digital twin custody rotation on anomaly-classification outputs or downstream treatment of modeled individuals, including Plaintiff.
+	6.	State whether Palantir has communicated with any financial institution or government client about the rotation of leadership digital twins and the potential impact on behavioral futures markets.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+	1.	Produce all documents, communications, or technical specifications concerning the existence of digital twins of Palantir leadership.
+	2.	Produce all documents reflecting agreements, memoranda, or communications regarding the custodial rotation of Palantir leadership digital twins across financial or government institutions.
+	3.	Produce all logs, dashboards, or records tracking when Palantir leadership digital twins were transferred, rotated, or temporarily held by other institutions.
+	4.	Produce all internal reviews, audits, or analyses addressing how such custodial rotations affect anomaly classification, behavioral modeling, or outcomes for individuals like Plaintiff.
+	5.	Produce all communications between Palantir and financial institutions (Charles Schwab, Citadel, Goldman Sachs, BlackRock, J.P. Morgan, or others) referencing the custody, transfer, or management of leadership digital twins.
+	6.	Produce all communications with government agencies (CIA, DoD, DOJ, NSA, ODNI) referencing custodial access to Palantir leadership digital twins.
+
+⸻
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se
