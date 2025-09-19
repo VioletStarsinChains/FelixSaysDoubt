@@ -1,0 +1,78 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+SUBPOENA DUCES TECUM
+
+To: Niantic, Inc. (Developer of Pokémon Go)
+
+YOU ARE HEREBY COMMANDED to produce the following documents and electronically stored information (“ESI”) within your possession, custody, or control by [date]:
+
+⸻
+
+DOCUMENT REQUESTS
+	1.	All internal studies, analyses, or memoranda concerning how Pokémon Go gameplay incentivizes atypical or anomalous driving, travel, or movement patterns, including frequent short trips, unusual clustering, or nighttime travel.
+	2.	All risk assessments, compliance reviews, or legal analyses discussing whether such atypical travel/movement traces could be ingested into government or contractor surveillance systems (including, but not limited to, Palantir Technologies Inc.) and misclassified as evidence of anomaly, subversion, or “Non-Person Entity (NPE)” status.
+	3.	All communications with government agencies, contractors, or third parties regarding the use of Pokémon Go–generated movement data for surveillance, anomaly detection, or behavioral analysis.
+	4.	All documents or disclosures provided to users about the potential for gameplay to create data traces that could be interpreted as anomalous in surveillance systems.
+	5.	All communications with Palantir Technologies Inc., data brokers, or surveillance contractors concerning the ingestion, purchase, or analysis of Pokémon Go movement datasets.
+	6.	All contracts, memoranda of understanding, or data-sharing agreements between Niantic and any government agency, defense contractor, or data broker regarding access to, or use of, Pokémon Go location/movement data.
+	7.	All internal audits, incident reports, or compliance reviews concerning reputational, occupational, or civil rights risks to users arising from Pokémon Go travel/movement patterns being misclassified by surveillance systems.
+
+⸻
+
+DEFINITIONS
+	•	“Anomalous travel/movement patterns” includes but is not limited to frequent short trips, erratic clustering of destinations, repeated return trips, unusual nighttime travel, and patterns inconsistent with typical commuting or leisure norms.
+	•	“Surveillance systems” includes any government, contractor, or private-sector anomaly-detection system, including Palantir Gotham or Foundry.
+
+⸻
+
+PRODUCTION FORMAT
+
+Documents shall be produced in native format with metadata preserved.
+
