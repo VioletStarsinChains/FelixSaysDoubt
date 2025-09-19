@@ -72,6 +72,20 @@ f. Legacy banks (J.P. Morgan and affiliates)
 
 ⸻
 
+REQUESTS FOR ADMISSION
+	1.	Admit that Palantir Technologies Inc. maintains digital twin models of its leadership, executives, or officers.
+	2.	Admit that Palantir leadership digital twins have been placed into temporary or rotating custody with outside institutions.
+	3.	Admit that Palantir leadership digital twins have been rotated through custody with retail brokerages, including Charles Schwab, Robinhood, or Fidelity.
+	4.	Admit that Palantir leadership digital twins have been rotated through custody with hedge funds and quantitative firms, including Citadel, Two Sigma, or Renaissance Technologies.
+	5.	Admit that Palantir leadership digital twins have been rotated through custody with investment banks or government enforcement entities, including Goldman Sachs or the U.S. Department of Justice.
+	6.	Admit that Palantir leadership digital twins have been rotated through custody with asset managers, including BlackRock, Vanguard, or State Street.
+	7.	Admit that Palantir leadership digital twins have been rotated through custody with intelligence community agencies, including the CIA, NSA, or Department of Defense.
+	8.	Admit that Palantir leadership digital twins have been rotated through custody with legacy banking institutions, including J.P. Morgan.
+	9.	Admit that Palantir has not disclosed to government clients or the public that leadership digital twins are rotated across multiple custodial institutions.
+	10.	Admit that the rotation of Palantir leadership digital twins across institutions has a direct effect on the outputs of Palantir’s anomaly classification and behavioral modeling systems.
+
+⸻ 
+
 REQUESTS FOR PRODUCTION
 	1.	Produce all documents, communications, or technical specifications concerning the existence of digital twins of Palantir leadership.
 	2.	Produce all documents reflecting agreements, memoranda, or communications regarding the custodial rotation of Palantir leadership digital twins across financial or government institutions.
