@@ -55,19 +55,32 @@ Subject Matter: Exclusive Contact Lens Use as Basis for Anomaly Classification, 
 
 ⸻
 
-INTERROGATORIES
+Interrogatory No. 1: Identify all Palantir datasets, anomaly tags, or analytic models that classify individuals by vision correction method, including exclusive contact lens use. For each dataset or model, provide the dataset name, date of ingestion, and purpose.
 
+Interrogatory No. 2: Describe all records Palantir maintains concerning Plaintiff’s exclusive contact lens use, including the source of the data, the method of ingestion, and the fields or variables in which it was stored.
+
+Interrogatory No. 3: Identify all Palantir anomaly detection models in which exclusive contact lens use was used as an input variable or classification factor, and state the rationale for its inclusion.
+
+Interrogatory No. 4: Identify all Palantir clients who received dashboards, anomaly tags, or reports in which Plaintiff’s exclusive contact lens use was included as a factor in classification. For each client, provide the name, date, and description of the deliverable.
+
+Interrogatory No. 5: State whether Palantir has linked Plaintiff’s exclusive contact lens use to monitoring, attrition, or denial of services, and if so, describe in detail the context, dates, and decision-making processes involved.
+
+Interrogatory No. 6: Identify all Palantir personnel, contractors, or accounts who accessed or analyzed records concerning Plaintiff’s exclusive contact lens use.
+
+Interrogatory No. 7: Identify all internal reviews, audits, compliance assessments, or ethics analyses Palantir has conducted regarding the use of vision correction traits, including exclusive contact lens use, in anomaly detection.
+
+Interrogatory No. 8: If Palantir denies that exclusive contact lens use was ever treated as an anomaly in Plaintiff’s records, describe in detail the safeguards or filters Palantir employs to ensure that statistically uncommon but non-pathological traits (such as contact lens use) are not misclassified as anomalies.
 Interrogatory No. 1: Identify all Palantir datasets, anomaly tags, or analytic models that classify individuals based on vision correction methods, including exclusive contact lens use.
 
-Interrogatory No. 2: State whether Palantir maintains records of Plaintiff’s vision correction status, including exclusive use of contact lenses, and describe how such records were stored, tagged, or analyzed.
+Interrogatory No. 9: State whether Palantir maintains records of Plaintiff’s vision correction status, including exclusive use of contact lenses, and describe how such records were stored, tagged, or analyzed.
 
-Interrogatory No. 3: Identify all Palantir clients who received reports, dashboards, or analytic outputs in which exclusive contact lens use was included as a factor in classification or anomaly detection.
+Interrogatory No. 10: Identify all Palantir clients who received reports, dashboards, or analytic outputs in which exclusive contact lens use was included as a factor in classification or anomaly detection.
 
-Interrogatory No. 4: Identify whether Palantir has linked exclusive contact lens use to monitoring, attrition, or denial of services, and if so, describe the rationale or model used.
+Interrogatory No. 11: Identify whether Palantir has linked exclusive contact lens use to monitoring, attrition, or denial of services, and if so, describe the rationale or model used.
 
-Interrogatory No. 5: Identify all Palantir personnel, contractors, or clients who accessed or analyzed records concerning Plaintiff’s vision correction status.
+Interrogatory No. 12: Identify all Palantir personnel, contractors, or clients who accessed or analyzed records concerning Plaintiff’s vision correction status.
 
-Interrogatory No. 6: State whether Palantir has conducted any internal review or external audit concerning discriminatory or erroneous outcomes arising from anomaly tagging of exclusive contact lens use.
+Interrogatory No. 13: State whether Palantir has conducted any internal review or external audit concerning discriminatory or erroneous outcomes arising from anomaly tagging of exclusive contact lens use.
 
 ⸻
 
@@ -103,3 +116,4 @@ RFA No. 6: Admit that Palantir has not disclosed all records in its possession c
 
 RFA No. 7: Admit that Palantir has not conducted adequate compliance or ethics reviews concerning the use of vision correction traits in anomaly detection.
 
+RFA No. 8: Admit that treating Plaintiff’s exclusive contact lens use as an anomaly constitutes disability discrimination, as the practice arises directly from accommodation of medical conditions including Superior Canal Dehiscence Syndrome and trigeminal neuropathy.
