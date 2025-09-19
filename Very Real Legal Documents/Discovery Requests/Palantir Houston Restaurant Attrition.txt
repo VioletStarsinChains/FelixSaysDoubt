@@ -1,0 +1,108 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S COMBINED DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Plaintiff’s Restaurant Employment in Houston Metro; Coordinated Attrition
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1: Identify all records, datasets, anomaly tags, or digital twin attributes maintained by Palantir referencing Plaintiff’s employment at:
+	•	Nancy’s Hustle, 2704 Polk St A, Houston, TX 77003
+	•	Food of Life Bakeshop, 2500 Marina Bay Dr Suite W, League City, TX 77573
+	•	Jersey Bagels, 9522 Huffmeister Rd #500, Houston, TX 77095
+
+Interrogatory No. 2: Identify all Palantir datasets, reports, or client-facing dashboards that included information about health code or food safety violations at these establishments.
+
+Interrogatory No. 3: State whether Palantir has ever classified or flagged Plaintiff’s opposition to unsafe food safety practices as anomalous behavior.
+
+Interrogatory No. 4: Identify all Palantir clients in the Greater Houston metropolitan area who received deliverables or dashboards that referenced Plaintiff’s employment or refusal to engage in unsafe food practices.
+
+Interrogatory No. 5: Describe all Palantir datasets, deliverables, or analytic products that reference “coordinated attrition” in the Greater Houston metro between January 1, 2022 and May 1, 2025.
+
+Interrogatory No. 6: Identify all Palantir personnel, contractors, or client accounts with access to datasets that referenced Plaintiff’s Houston-area employment or broader attrition strategies in the region.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+RFP No. 1: Produce all records, datasets, dashboards, or exports referencing Plaintiff’s employment at Nancy’s Hustle, Food of Life Bakeshop, or Jersey Bagels.
+
+RFP No. 2: Produce all communications (emails, memos, chats) between Palantir personnel and clients referencing Plaintiff’s refusal to participate in unsafe or unlawful food safety practices.
+
+RFP No. 3: Produce all records documenting or analyzing health code or food safety violations at Nancy’s Hustle, Food of Life Bakeshop, or Jersey Bagels.
+
+RFP No. 4: Produce all Palantir reports, slide decks, or analytic products concerning “coordinated attrition” in the Greater Houston metro between January 1, 2022 and May 1, 2025.
+
+RFP No. 5: Produce all compliance reviews, privacy assessments, or ethics memoranda concerning the classification of worker refusal to participate in unsafe or unlawful food practices.
+
+RFP No. 6: Produce all records of Palantir’s monitoring of restaurant-sector employment as part of behavioral futures market modeling in the Houston metro.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+RFA No. 1: Admit that Palantir has records referencing Plaintiff’s employment at Nancy’s Hustle, Food of Life Bakeshop, or Jersey Bagels.
+
+RFA No. 2: Admit that Palantir has records referencing Plaintiff’s opposition to unsafe or unlawful food safety practices at these establishments.
+
+RFA No. 3: Admit that Palantir has classified Plaintiff’s refusal to engage in unsafe food practices as anomalous behavior.
+
+RFA No. 4: Admit that Palantir has produced or delivered reports to clients referencing “coordinated attrition” in the Greater Houston metropolitan area between January 1, 2022 and May 1, 2025.
+
+RFA No. 5: Admit that Palantir has not disclosed to Plaintiff all records in its possession concerning Plaintiff’s Houston-area employment or broader attrition strategies in the region.
