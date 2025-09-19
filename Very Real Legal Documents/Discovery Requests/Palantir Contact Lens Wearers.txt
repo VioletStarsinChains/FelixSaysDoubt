@@ -1,0 +1,105 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S [__]TH SET OF DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Exclusive Contact Lens Use as Basis for Anomaly Classification, Monitoring, Attrition, or Service Denial
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1: Identify all Palantir datasets, anomaly tags, or analytic models that classify individuals based on vision correction methods, including exclusive contact lens use.
+
+Interrogatory No. 2: State whether Palantir maintains records of Plaintiff’s vision correction status, including exclusive use of contact lenses, and describe how such records were stored, tagged, or analyzed.
+
+Interrogatory No. 3: Identify all Palantir clients who received reports, dashboards, or analytic outputs in which exclusive contact lens use was included as a factor in classification or anomaly detection.
+
+Interrogatory No. 4: Identify whether Palantir has linked exclusive contact lens use to monitoring, attrition, or denial of services, and if so, describe the rationale or model used.
+
+Interrogatory No. 5: Identify all Palantir personnel, contractors, or clients who accessed or analyzed records concerning Plaintiff’s vision correction status.
+
+Interrogatory No. 6: State whether Palantir has conducted any internal review or external audit concerning discriminatory or erroneous outcomes arising from anomaly tagging of exclusive contact lens use.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+RFP No. 1: Produce all Palantir records, datasets, or analytic models in which exclusive contact lens use was identified as a factor in anomaly detection or classification.
+
+RFP No. 2: Produce all records referencing Plaintiff’s vision correction status, including anomaly tags, watchlist entries, or digital twin attributes indicating exclusive contact lens use.
+
+RFP No. 3: Produce all communications (emails, memos, slide decks, chats) within Palantir discussing vision correction traits as predictive signals or anomaly factors.
+
+RFP No. 4: Produce all contracts, deliverables, or client-facing outputs provided by Palantir that reference exclusive contact lens use or vision correction traits in classification models.
+
+RFP No. 5: Produce all Palantir compliance reviews, ethics reviews, or legal analyses concerning the use of vision correction status in anomaly detection.
+
+RFP No. 6: Produce all audit logs, custodial metadata, and access records showing Palantir account access to datasets referencing Plaintiff’s vision correction status.
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+RFA No. 1: Admit that Palantir maintains datasets that classify individuals based on vision correction methods, including exclusive contact lens use.
+
+RFA No. 2: Admit that Palantir maintains records referencing Plaintiff’s exclusive use of contact lenses.
+
+RFA No. 3: Admit that Palantir has classified exclusive contact lens use as an anomaly in one or more of its models.
+
+RFA No. 4: Admit that Palantir provided anomaly tags, watchlist entries, or dashboards to clients in which exclusive contact lens use was a factor in classification.
+
+RFA No. 5: Admit that Palantir has linked exclusive contact lens use to monitoring, attrition, or denial of services.
+
+RFA No. 6: Admit that Palantir has not disclosed all records in its possession concerning Plaintiff’s classification based on exclusive contact lens use.
+
+RFA No. 7: Admit that Palantir has not conducted adequate compliance or ethics reviews concerning the use of vision correction traits in anomaly detection.
+
