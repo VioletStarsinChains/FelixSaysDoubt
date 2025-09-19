@@ -1,0 +1,99 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+Memorandum
+
+Re: Ontology, Epistemology, and Epistemic Injustice in Computational Systems
+
+⸻
+
+Background
+
+In philosophy, ontology (the study of what exists) and epistemology (the study of how we know) are inseparable. A theory of being necessarily shapes, and is shaped by, a theory of knowledge. In computer science, however, ontology is used in a more technical sense: as a formal specification of entities and their relationships for purposes of data structuring, machine interoperability, and knowledge representation.
+
+This apparent separation—ontology without epistemology—creates the illusion of neutrality. Yet in practice, computer ontologies reintroduce deep epistemological problems under the guise of technical design choices.
+
+⸻
+
+Analysis
+	1.	Epistemic Authority in Category Design
+	•	The selection of classes and relationships in a computational ontology implicitly decides what is real enough to encode.
+	•	Exclusions (e.g., of certain medical diagnoses, social identities, or non-hierarchical biological processes) amount to epistemic erasure.
+	•	Philosophically, this reflects Miranda Fricker’s concept of epistemic injustice: entire groups or experiences may be rendered unintelligible to systems that increasingly mediate social, medical, and legal recognition.
+	2.	Bias Hidden in Formalism
+	•	Ontologies rely on formal, often hierarchical structures that present themselves as objective.
+	•	In fact, they encode culturally specific assumptions (e.g., privileging tree-like structures over networked or relational ones).
+	•	This creates what can be termed epistemic bias in code: invisible yet foundational distortions of how reality is modeled.
+	3.	Translation and Incommensurability
+	•	When multiple ontologies are aligned for interoperability, translation necessarily involves loss, distortion, or coercive standardization.
+	•	Analogous to Kuhn’s incommensurability of paradigms, divergent conceptual schemes cannot always be reconciled. Yet computational systems act as though they can, producing fragile integrations.
+	4.	Ontology as Political Epistemology
+	•	In surveillance and behavioral prediction systems (e.g., Palantir), ontologies define categories of risk, anomaly, compliance, or threat.
+	•	These categories are not neutral; they reflect institutional interests and power structures.
+	•	Ontology here functions as political epistemology: control over categories becomes control over what counts as knowledge, evidence, or reality in automated systems.
+	5.	Epistemic Fragility and Blind Spots
+	•	Encoded ontologies “know” only what they are designed to know. Emergent phenomena or novel categories cannot be recognized.
+	•	This creates epistemic blind spots that are both technical and philosophical: no ontology can exhaustively capture reality.
+	•	These blind spots can be exploited (e.g., coded speech online evading filters) or can lead to systematic harm (e.g., misclassification of marginalized populations).
+
+⸻
+
+Conclusion
+
+Although computer science treats ontology as severed from epistemology, in practice computational ontologies reinstantiate epistemological problems in technical form. The design and deployment of such ontologies in high-stakes domains (surveillance, policing, healthcare, finance) perpetuate epistemic injustices and political distortions of knowledge.
+
+Control over ontological categories thus becomes a lever of institutional power, with profound consequences for autonomy, recognition, and due process. Any system purporting to model reality through ontologies must therefore be scrutinized not only technically but also philosophically, as a site where epistemology and power converge.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
