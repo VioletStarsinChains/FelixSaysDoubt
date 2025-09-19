@@ -1,0 +1,35 @@
+FOIA Request
+
+To: Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Centers for Disease Control and Prevention (CDC) / Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA)
+
+Request:
+
+Requesting any and all records, reports, studies, contracts, or communications concerning the relationship between Sudden Infant Death Syndrome (SIDS) and neurotechnology from 1990 to present.
+
+This includes:
+	•	Research into whether neurotechnology, neural interface devices, or neuromodulation could affect infant respiration, cardiac regulation, or sleep cycles.
+	•	Records examining links between implantable, wearable, or environmental neurotech devices and unexplained infant mortality.
+	•	Contracts or grants awarded to universities, hospitals, or private contractors to study neurotech applications in infant health, mortality prevention, or neurological monitoring.
+	•	Internal communications or briefing materials discussing the potential role of neurotechnology in contributing to, preventing, or explaining SIDS.
+	•	Risk assessments, ethics reviews, or oversight documents regarding testing of neurotech in pediatric or neonatal contexts.
+	•	Whistleblower reports, concerns, or objections raised within federal agencies about SIDS research intersecting with neurotechnology.
+
+Keywords: Sudden Infant Death Syndrome, SIDS, neurotechnology, neural interface, neuromodulation, infant mortality, brain-computer interface, DARPA, NIH, DoD
+
+⸻ 
+
+To: U.S. Food and Drug Administration (FDA) / Center for Devices and Radiological Health (CDRH)
+
+Request:
+
+Requesting any and all records, testing reports, compliance reviews, or communications concerning infant monitoring devices (including but not limited to crib sensors, respiration monitors, wearable sleep trackers, or neural sensing devices) and their potential neuromodulatory effects or associations with Sudden Infant Death Syndrome (SIDS), from 1990 to present.
+
+This includes:
+	•	Safety testing reports addressing whether infant monitoring devices emit electromagnetic, neurological, or neuromodulatory signals that could influence infant respiration, cardiac rhythms, or sleep cycles.
+	•	Records of adverse event reports (AERs) or Medical Device Reports (MDRs) linking infant monitors to seizures, arrhythmias, apnea, or unexplained mortality.
+	•	Research or contractor reports assessing the possibility that infant monitoring devices could contribute to or prevent SIDS through neuromodulatory mechanisms.
+	•	Communications between FDA, device manufacturers, and external researchers regarding neurotechnology aspects of infant monitors.
+	•	Internal memoranda, ethics reviews, or briefing papers discussing whether infant monitors may pose unanticipated neurological or developmental risks.
+	•	Records of collaborations with other federal agencies (NIH, CDC, DoD, DARPA) related to infant monitoring, SIDS, and neurotechnology.
+
+Keywords: Sudden Infant Death Syndrome, SIDS, infant monitor, crib sensor, neural interface, neuromodulation, neurotechnology, respiration monitor, adverse events, FDA, CDRH
