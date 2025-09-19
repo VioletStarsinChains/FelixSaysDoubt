@@ -1,0 +1,95 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+EXHIBIT AN: Ontology as Political Epistemology in Predictive Systems
+
+⸻
+
+I. Background
+
+In philosophy, ontology (the study of what exists) and epistemology (the study of how we know) are inseparable. Any account of being presupposes a theory of knowledge, and vice versa.
+
+In computer science, by contrast, “ontology” is used in a more technical sense: a structured vocabulary or schema defining entities, classes, and relationships for purposes of data representation and interoperability. This technical redefinition creates the appearance that ontology can be detached from epistemology and treated as a neutral tool.
+
+⸻
+
+II. Findings
+	1.	Category Design as Epistemic Authority
+	•	Computational ontologies determine which entities and relationships are encoded as “real.”
+	•	Exclusions create systematic epistemic erasure (e.g., absent medical diagnoses, social identities, or relational categories).
+	•	This amounts to epistemic injustice, a term coined by philosopher Miranda Fricker to describe how marginalized groups can be rendered unintelligible within dominant conceptual frameworks.
+	2.	Bias Hidden in Formalism
+	•	Formal structures (e.g., class hierarchies, predicates) present themselves as objective.
+	•	In practice, they encode culturally specific assumptions that become naturalized once embedded in software.
+	•	This creates a bias in code: distortions masked as neutral engineering decisions.
+	3.	Translation and Fragility
+	•	Integrating multiple ontologies for interoperability requires translation across divergent conceptual schemes.
+	•	Translation necessarily involves loss, distortion, or coercive standardization, echoing Thomas Kuhn’s account of incommensurable paradigms.
+	•	Systems proceed as if these losses are trivial, creating fragile and error-prone knowledge infrastructures.
+	4.	Ontologies as Political Instruments
+	•	In surveillance and behavioral prediction systems, ontologies define key categories such as “risk,” “anomaly,” “compliance,” and “threat.”
+	•	These categories are not neutral: they reflect the political and economic interests of the institutions that design them.
+	•	Ontology here functions as political epistemology: whoever controls the categories controls what counts as knowledge, evidence, and reality within automated systems.
+	5.	Epistemic Blind Spots
+	•	Encoded ontologies cannot recognize phenomena that fall outside their design.
+	•	These blind spots both obscure emergent realities (e.g., novel forms of communication) and magnify harm to populations systematically misclassified.
+	•	As predictive systems scale, these blind spots create structural risks of misidentification, exclusion, and wrongful attribution.
+
+⸻
+
+III. Conclusion
+
+While presented as a neutral technical tool, computational ontology in fact re-introduces the core problems of epistemology under the guise of engineering. In high-stakes contexts (policing, surveillance, healthcare, finance), these problems translate into systematic epistemic injustice with material harms.
+
+Control over ontological categories thus becomes control over reality itself within predictive infrastructures. Any assessment of such systems must treat ontological design not as an engineering detail but as a matter of due process, recognition, and democratic accountability.
