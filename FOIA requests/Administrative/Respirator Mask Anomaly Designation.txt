@@ -1,0 +1,40 @@
+FOIA REQUEST
+
+To: U.S. Department of Homeland Security (DHS)
+To: U.S. Department of Justice (DOJ)
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I request any and all records, reports, datasets, communications, or analytic products referencing respirator mask use in public as a factor in anomaly detection or classification, particularly in datasets or systems developed by or integrated with Palantir Technologies Inc.
+
+This request includes, but is not limited to:
+	•	Records showing whether respirator mask use was ingested, tracked, or tagged in Palantir Gotham, Foundry, or related platforms.
+	•	Communications between DHS/DOJ and Palantir personnel regarding respirator masks as behavioral markers.
+	•	Compliance reviews, ethics assessments, or oversight reports concerning the use of respirator mask visibility in anomaly detection or monitoring.
+	•	Reports or dashboards provided to DHS/DOJ by Palantir or its contractors that included respirator mask use as a classification factor.
+	•	Records referencing Plaintiff, Kellyn Clay, in connection with respirator mask use and anomaly detection.
+	•	Records identifying whether respirator mask use was linked to monitoring, attrition, or denial of services.
+
+Keywords: Kellyn Clay, respirator mask, MCAS, Mast Cell Activation Syndrome, anomaly detection, anomaly classification, Palantir, Gotham, Foundry, behavioral modeling, attrition, denial of services, disability accommodation.
+
+Date Range: January 1, 2006 – Present.
+
+⸻ 
+
+To: U.S. Department of Health and Human Services (HHS)
+To: National Institutes of Health (NIH)
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I request any and all records, reports, datasets, communications, or analytic products referencing respirator mask use as a data point, classification factor, or anomaly marker within public health, medical surveillance, or research datasets managed in whole or in part by Palantir Technologies Inc.
+
+This request includes, but is not limited to:
+	•	Records describing ingestion, tagging, or tracking of respirator mask use in datasets related to Mast Cell Activation Syndrome (MCAS), allergy, immune dysregulation, or rare disease surveillance.
+	•	Communications between HHS/NIH and Palantir personnel regarding respirator mask use as a variable in behavioral, anomaly, or compliance modeling.
+	•	Reports, dashboards, or data visualizations provided to HHS/NIH by Palantir or its contractors that included respirator mask use as a marker of anomaly or behavioral divergence.
+	•	Records referencing Plaintiff, Kellyn Clay, in connection with respirator mask use or disability accommodations.
+	•	Compliance reviews, ethics assessments, or oversight reports concerning the inclusion of respirator mask use in datasets used for anomaly detection, attrition modeling, or service eligibility determinations.
+
+Keywords: Kellyn Clay, respirator mask, MCAS, Mast Cell Activation Syndrome, anomaly detection, anomaly classification, Palantir, Gotham, Foundry, behavioral modeling, disability accommodation, service denial.
+
+Date Range: January 1, 2006 – Present.
