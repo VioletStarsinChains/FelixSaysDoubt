@@ -55,7 +55,8 @@ I, Kellyn Clay, being duly sworn, hereby state as follows:
 	3.	I was unaware at the time that the travel and location data generated through my gameplay could be collected, purchased, or ingested by government contractors or surveillance systems, including but not limited to Palantir Technologies Inc.
 	4.	I had no knowledge or intent that playing Pokémon Go would create travel or movement patterns that could be misclassified as anomalous, subversive, or indicative of “Non-Person Entity (NPE)” status.
 	5.	My travel patterns while playing Pokémon Go reflected the requirements of the game design and not my independent lifestyle choices. Any classification of those patterns as anomalous would be erroneous and discriminatory.
-	6.	It is my sworn testimony that any data traces created by my Pokémon Go gameplay were induced by Niantic’s design incentives and were not indicative of risk, subversion, or anomaly in any legitimate sense.
+    6.  Because of my severe Mast Cell Activation Syndrome (MCAS), Pokémon Go was the only form of entertainment that was medically accessible to me. Any misclassification of my gameplay data as anomalous has an especially harmful impact on me because I am a person with severe medical disabilities. Treating game-induced travel patterns as suspicious or anomalous constitutes disability discrimination, as it compounds preexisting targeting and denial of services connected to my health conditions.
+	7.	It is my sworn testimony that any data traces created by my Pokémon Go gameplay were induced by Niantic’s design incentives and were not indicative of risk, subversion, or anomaly in any legitimate sense.
 
 I declare under penalty of perjury that the foregoing is true and correct to the best of my knowledge and belief.
 
