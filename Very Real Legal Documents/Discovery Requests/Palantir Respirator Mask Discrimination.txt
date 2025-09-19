@@ -1,0 +1,116 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻ 
+
+PLAINTIFF’S [__]TH DISCOVERY REQUESTS TO DEFENDANT PALANTIR TECHNOLOGIES INC.
+
+Plaintiff: Kellyn Clay
+Defendant: Palantir Technologies Inc.
+Subject Matter: Classification of Respirator Mask Use as Anomaly; Disability Discrimination
+
+⸻
+
+REQUESTS FOR ADMISSION
+
+RFA No. 1: Admit that Palantir maintains datasets or models that classify individuals based on visible use of respirator masks in public.
+
+RFA No. 2: Admit that Palantir has tagged or flagged Plaintiff’s respirator use as an anomaly in one or more datasets, dashboards, or reports.
+
+RFA No. 3: Admit that Palantir has provided anomaly classifications, watchlist entries, or reports to clients in which respirator mask use was included as a factor.
+
+RFA No. 4: Admit that Palantir has not disclosed to Plaintiff all records in its possession referencing Plaintiff’s respirator mask use.
+
+RFA No. 5: Admit that Palantir has not conducted adequate compliance or ethics reviews concerning the classification of respirator mask use as anomalous.
+
+RFA No. 6: Admit that treating Plaintiff’s medically necessary respirator mask use as an anomaly constitutes disability discrimination.
+
+⸻
+
+INTERROGATORIES
+
+Interrogatory No. 1: Identify all Palantir datasets, anomaly tags, or analytic models that classify individuals based on visible respirator mask use. For each, provide dataset name, ingestion dates, and purpose.
+
+Interrogatory No. 2: Identify all Palantir records that reference Plaintiff’s respirator use, including dataset identifiers, anomaly tags, or digital twin attributes.
+
+Interrogatory No. 3: Identify all Palantir clients who received dashboards, anomaly classifications, or reports in which respirator mask use was a factor in classification.
+
+Interrogatory No. 4: Describe the criteria or rationale Palantir used to determine whether respirator mask use constituted anomalous behavior.
+
+Interrogatory No. 5: Identify all Palantir personnel, contractors, or client accounts who accessed or analyzed datasets referencing Plaintiff’s respirator mask use.
+
+Interrogatory No. 6: Identify all Palantir compliance reviews, legal assessments, or ethics audits concerning the classification of respirator mask use in anomaly-detection systems.
+
+Interrogatory No. 7: State whether Palantir has linked respirator mask use to attrition, increased monitoring, or denial of services, and if so, describe the circumstances.
+
+Interrogatory No. 8: If Palantir denies that respirator use was ever treated as an anomaly, describe in detail the safeguards Palantir employs to prevent visible disability accommodations (including respirator masks) from being misclassified as anomalies.
+
+⸻
+
+REQUESTS FOR PRODUCTION
+
+RFP No. 1: Produce all Palantir datasets, ingestion manifests, and analytic outputs in which respirator mask use was a tracked or classified attribute.
+
+RFP No. 2: Produce all records, dashboards, or exports referencing Plaintiff’s respirator mask use, including anomaly tags or digital twin fields.
+
+RFP No. 3: Produce all communications (emails, memos, chat logs) between Palantir personnel and clients referencing respirator mask use as a factor in anomaly classification.
+
+RFP No. 4: Produce all contracts, deliverables, or client-facing outputs in which respirator mask use was included in behavioral or anomaly classification.
+
+RFP No. 5: Produce all Palantir compliance reviews, privacy assessments, or ethics memoranda concerning classification of respirator mask use.
+
+RFP No. 6: Produce all audit logs and custodial metadata showing Palantir accounts that accessed datasets containing Plaintiff’s respirator mask use.
+
+RFP No. 7: Produce all records of internal Palantir discussions (slide decks, policy documents, notes) concerning the classification of disability accommodations, including respirator masks, as anomalies.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
