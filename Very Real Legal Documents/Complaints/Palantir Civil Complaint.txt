@@ -52,11 +52,11 @@ ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health servic
 
 ⸻
 
-CIVIL COMPLAINT FOR FRAUDULENT MISREPRESENTATION, UNJUST ENRICHMENT, CIVIL CONSPIRACY, DUE-PROCESS DEPRIVATION, AND FUNCTIONAL REDLINING
+⸻
+
+CIVIL COMPLAINT FOR FRAUDULENT MISREPRESENTATION, UNJUST ENRICHMENT, CIVIL CONSPIRACY, DUE-PROCESS DEPRIVATION, FUNCTIONAL REDLINING, AND FRAUD BY OMISSION IN CORPORATE GOVERNANCE
 
 (Re: False “Terrorism Prevention” Claims, Distorted Classification Pipelines, Housing/Data Continuity Filters, and Concealed Executive Digital-Twin Governance)
-
-⸻
 
 INTRODUCTION
 
@@ -66,58 +66,37 @@ Concurrently, Defendants facilitated functional redlining by constraining Plaint
 
 Further, Palantir’s corporate governance and investor communications were materially tied to the persona and decision-making authority of CEO Alexander C. Karp. To the extent Palantir created, maintained, or operationalized digital twins of executive leadership (including Karp) and used those twins to simulate, influence, or substitute for human decision-making—without disclosure—Palantir committed fraud by omission. That concealment is material to investor confidence, stock valuation, contracting partners’ reliance, and to Plaintiff’s harms where tainted governance enabled and concealed the misconduct alleged herein.
 
-⸻
-
 JURISDICTION AND VENUE
 	1.	Jurisdiction is proper under 28 U.S.C. § 1331 (federal question), 28 U.S.C. § 1343 (civil rights), and 28 U.S.C. § 1332 (diversity of citizenship).
 	2.	Venue is proper under 28 U.S.C. § 1391 because substantial parts of the events or omissions giving rise to the claims occurred in this District and throughout the United States, and Defendants transact business nationwide.
 
-⸻
-
 PARTIES
-	3.	Plaintiff Kellyn Clay is a U.S. citizen residing within the jurisdiction of this Court.
-	4.	Defendant Palantir Technologies Inc. is a private technology contractor headquartered in Denver, Colorado, that contracts extensively with U.S. agencies.
-	5.	Defendant United States of America is sued through its agencies for oversight failure and participation in a civil conspiracy.
-	6.	John Doe Contracting Agencies and Affiliates are yet-unidentified entities acting in concert with Palantir in the deployment, justification, and concealment of the systems described herein.
+	•	Plaintiff Kellyn Clay is a U.S. citizen residing within the jurisdiction of this Court.
+	•	Defendant Palantir Technologies Inc. is a private technology contractor headquartered in Denver, Colorado, that contracts extensively with U.S. agencies.
+	•	Defendant United States of America is sued through its agencies for oversight failure and participation in a civil conspiracy.
+	•	Defendant Adobe Inc. is a multinational software company headquartered in San Jose, California, with contracts involving biometric capture and predictive analytics.
+	•	John Doe Contracting Agencies and Affiliates are yet-unidentified entities acting in concert with Palantir in the deployment, justification, and concealment of the systems described herein.
+	•	Defendant William Alton Clay is sued individually and in his capacity as executor of the Estate of Eugenia Clay Head.
 
-⸻
-
-DEFINITIONS (FOR CLARITY OF PLEADING)
-	7.	Silly String: Externally applied, sticky overlays (chemical/energetic/narrative) that temporarily alter affect/behavior and are often misclassified as permanent traits.
-	8.	Confetti: Brief distraction bursts that fragment attention and pollute data streams with noise.
-	9.	Distortion Quotient (“DQ”): A composite measure of the degree to which observed behavior is distorted by external manipulations, integrating (a) silly string overlays, (b) confetti distractions, and (c) system escalation (compounding effects from interventions based on already-distorted data).
- • Safeguard Rule: When DQ crosses a defined threshold (e.g., ≥ 0.70), any anomaly/NPE classification must be automatically suspended pending intensive human review with contextual restoration.
-	10.	Functional Redlining: A continuity mechanism that restricts housing access via “neutral” vendor filters (e.g., a single national trash hauler across all residences), producing exclusionary effects analogous to redlining while consolidating surveillance and “waste-stream” data capture.
-
-⸻
+DEFINITIONS
+	•	Silly String: Externally applied, sticky overlays (chemical/energetic/narrative) that temporarily alter affect/behavior and are often misclassified as permanent traits.
+	•	Confetti: Brief distraction bursts that fragment attention and pollute data streams with noise.
+	•	Distortion Quotient (“DQ”): A composite measure of the degree to which observed behavior is distorted by external manipulations, integrating (a) silly string overlays, (b) confetti distractions, and (c) system escalation (compounding interventions based on already-distorted data).
+	•	Safeguard Rule: When DQ ≥ 0.70, any anomaly/NPE classification must be automatically suspended pending intensive human review with contextual restoration.
+	•	Functional Redlining: A continuity mechanism that restricts housing access via “neutral” vendor filters (e.g., a single national trash hauler across all residences), producing exclusionary effects analogous to redlining while consolidating surveillance and “waste-stream” data capture.
 
 FACTUAL ALLEGATIONS
-	11.	Palantir marketed itself as enabling agencies to “prevent terrorism,” “predict and stop threats,” and “protect national security,” including in public investor materials and procurement pitches.
-	12.	Palantir had access to extensive behavioral, biometric, financial, and geospatial data yet failed to prevent the deadliest mass shootings and major domestic terror events in the U.S.
-	13.	Palantir knew or should have known that its predictive models could not deliver the advertised “prevention” outcomes, yet continued to secure high-value federal contracts on that claim.
-	14.	Rather than prevent violence, Defendants’ systems were used to:
- • Coerce behavior via nudging and opaque risk scoring;
- • Classify civilians as anomalies or “NPEs” without due process;
- • Deny procedural safeguards through automated suspicion pipelines.
-	15.	Defendants structured pipelines that ignore context and record externally induced states as permanent traits—converting “silly string” and “confetti” into life-long labels.
-	16.	Defendants were, or should have been, aware that such methods would generate widespread false anomaly/NPE labels from contaminated data.
-	17.	The NPE labeling pipeline is economically confiscatory: individuals continue to pay mandatory Social Security contributions while being secretly engineered or funneled into categories that later deny benefits, effectively stripping earned entitlements.
-	18.	Defendants also facilitated functional redlining: Plaintiff’s housing options repeatedly resolved to properties under the same national trash-hauler across multiple states, centralizing waste-stream data (including entrainment residues such as musks, menthols, aldehydes, and oak-derived compounds) and “confetti” bursts (novelty/insert chaff).
-	19.	This vendor continuity created a covert longitudinal dataset and restricted housing mobility while presenting as ordinary utility contracting—a redlining analogue that consolidates surveillance and preserves distorted records.
-	20.	Palantir profited massively from these practices while delivering systems that weaponized manipulated data against civilians and undermined due process, evidentiary reliability, and civil rights.
-Executive Digital-Twin Governance (Additional Allegations)
-20.a. Palantir’s brand, investor confidence, and stock valuation were materially tied to CEO Alexander C. Karp’s persona and purported direct human decision-making.
-20.b. On information and belief, Palantir created, maintained, or operationalized digital twins of executive leadership and used such twins to simulate, influence, or substitute for human leadership in governance, contracting, and investor communications.
-20.c. Palantir failed to disclose this material fact to investors, contracting partners, and the public, constituting fraud by omission.
-20.d. The concealment of executive digital-twin governance enabled, normalized, and shielded the broader misconduct alleged here—including contaminated data pipelines, anomaly/NPE designations, and functional redlining—by insulating Palantir’s internal decision-making from accountability while trading on the “Karp brand.”
-20.e. Plaintiff’s harms are traceable to this concealed governance structure, which materially affected corporate policies and practices that targeted and injured Plaintiff.
 
-⸻
+17–20. (As in prior draft: misrepresentation of terrorism prevention; use of anomaly/NPE pipelines; confiscatory Social Security scheme; functional redlining.)
+
+Executive Digital-Twin Governance Allegations:
+a. Palantir’s brand and stock valuation are materially tied to CEO Alexander Karp’s persona and purported direct decision-making.
+b. Palantir created, maintained, or operationalized digital twins of executive leadership, using them to simulate, influence, or substitute for human governance.
+c. Palantir failed to disclose this fact, constituting fraud by omission.
+d. This concealment materially altered investor risk, governance accountability, and the trajectory of misconduct that harmed Plaintiff and the Class.
 
 AFFIDAVIT-STYLE SAFEGUARD STATEMENT (INCORPORATED)
 	21.	It is Plaintiff’s position that any anomaly designation arising from manipulated data must be automatically suspended when the Distortion Quotient (DQ) exceeds the defined threshold. DQ measures distortion from silly string (sticky overlays), confetti (fleeting distractions), and system escalation (compounding interventions). Natural environmental entrainment is not wrongful; the harm arises when synthetic manipulations are recorded without context and escalations amplify their effects. In such cases, the data no longer reflects a person’s true baseline state. Continuing to use that data for surveillance, intervention, or sentencing constitutes misclassification and risks condemning innocent individuals. Therefore, when DQ crosses threshold, anomaly status must be suspended by rule and intensive human review required before further action.
-
-⸻
 
 CAUSES OF ACTION
 
@@ -172,59 +151,85 @@ Count XI – Fraud by Omission in Corporate Governance (Executive Digital-Twin C
 66. As a direct and proximate result, Plaintiff suffered harm, including unauthorized creation/subletting of her digital twin, deprivation of benefits and due process, reputational harm, economic loss, and heightened targeting driven by tainted corporate decision-making.
 WHEREFORE, Plaintiff seeks damages, equitable relief, and such further relief as the Court deems just and proper.
 
-⸻
-
-Reservation of Rights Concerning Election Manipulation
+RESERVATION OF RIGHTS CONCERNING ELECTION MANIPULATION
 
 59–63. (As previously pleaded; unchanged for brevity.)
 
-⸻
-
 CLASS ACTION ALLEGATIONS
+
+Rule 23 Allegations (Predominance/Superiority)
 	67.	Plaintiff brings this action individually and on behalf of all others similarly situated, pursuant to Rules 23(a), 23(b)(2), and 23(b)(3) of the Federal Rules of Civil Procedure.
 	68.	The proposed Class is defined as:
 
- All persons in the United States who were, at any time since January 1, 2010, subjected to anomaly classification, digital-twin modeling, NPE designation, or other context-stripped predictive labeling by Palantir Technologies Inc. or its government or contractor partners.
+All persons in the United States who were, at any time since January 1, 2010, subjected to anomaly classification, digital-twin modeling, NPE designation, or other context-stripped predictive labeling by Palantir Technologies Inc. or its government or contractor partners.
+
 	69.	Excluded from the Class are Defendants, their officers and directors, and the Court and its staff.
 	70.	The Class is so numerous that joinder of all members is impracticable. Members are geographically dispersed, and the identities of many Class members can be ascertained only through Defendants’ records.
 	71.	Questions of law and fact common to the Class predominate over any questions affecting only individual members. Common issues include:
- a. Whether Palantir knowingly deployed anomaly/NPE classification systems using contaminated or manipulated data;
- b. Whether Palantir sublet or sublicensed digital twins without consent or oversight;
- c. Whether Palantir’s concealment of executive digital-twin governance constitutes fraud by omission;
- d. Whether such practices deprived Class members of due process, housing, benefits, or equal protection;
- e. The appropriate measure of damages and equitable relief.
+a. Whether Palantir knowingly deployed anomaly/NPE classification systems using contaminated or manipulated data;
+b. Whether Palantir sublet or sublicensed digital twins without consent or oversight;
+c. Whether Palantir’s concealment of executive digital-twin governance constitutes fraud by omission;
+d. Whether such practices deprived Class members of due process, housing, benefits, or equal protection;
+e. The appropriate measure of damages and equitable relief.
 	72.	Plaintiff’s claims are typical of those of the Class. Plaintiff, like other Class members, was subject to anomaly classification, data contamination, and deprivation of rights as a result of Defendants’ misconduct.
 	73.	Plaintiff will fairly and adequately represent the interests of the Class. Plaintiff has no interests antagonistic to the Class and intends to prosecute this action vigorously.
 	74.	Class certification under Rule 23(b)(2) is appropriate because Defendants have acted on grounds generally applicable to the Class, rendering injunctive and declaratory relief proper.
 	75.	Class certification under Rule 23(b)(3) is also appropriate because common questions predominate, and a class action is superior to individual actions for fairly and efficiently adjudicating the controversy.
 
-⸻ 
+Main Class and Subclasses (Broader Formulation, Preserving Prior Draft)
+
+Main Class
+All individuals in the United States, from 1950 to the present, who were subjected to covert biomedical intervention, anomaly classification, or coercion into participation in continuity theater or behavioral futures markets.
+
+Subclass A — Anomalies: Individuals classified as anomalies/NPEs.
+Subclass B — Surveillants: Individuals coerced into surveillance roles.
+Subclass C — Artificial Intelligence Entities: Synthetic agents trained on coerced/distorted data.
+Subclass D — Gig Workers: Amazon/Flex/logistics workers exploited for behavioral futures modeling.
+Subclass E — Coerced Family Members: Family induced into complicity against primary targets.
+Subclass F — Transgender and Nonbinary Retail Consumers: Misclassified as predatory in retail contexts.
+Subclass G — Women and AFAB Individuals: Disproportionately targeted, excluded from economic/civic life.
+Subclass H — Investors and Shareholders: Misled by omission of executive digital-twin governance.
+
+(Plaintiff pleads both the 2010–present class and, in the alternative or in addition, the broader 1950–present class with subclasses to ensure no prior formulation is omitted.)
 
 PRAYER FOR RELIEF
 
 WHEREFORE, Plaintiff respectfully requests that this Court:
+	1.	Declare that Palantir committed fraudulent misrepresentation in public claims about terrorism prevention;
+	2.	Declare that anomaly/NPE classification pipelines violate due process;
+	3.	Declare Palantir’s concealment of executive digital-twin governance to be fraudulent omission;
+	4.	Order disgorgement of federal funds received under false or misleading “terrorism prevention” claims;
+	5.	Enter an injunction prohibiting deployment or marketing of classification systems that ignore context and requiring implementation of the DQ Safeguard Rule (automatic suspension of anomaly/NPE labels when DQ ≥ threshold pending human review);
+	6.	Enjoin functional redlining practices via vendor continuity filters and require fair-housing-compliant placement procedures;
+	7.	Order an independent audit and special master to:
+i. quarantine or purge datasets contaminated by synthetic manipulations;
+ii. identify individuals wrongfully labeled;
+iii. restore access to federal benefits wrongfully denied;
+	8.	Declare Defendants’ anomaly classification system discriminatory and unlawful;
+	9.	Enjoin further use of anomaly classifications that produce sex-based disparate impacts;
+	10.	Order full restoration of access, benefits, and opportunities denied to those wrongfully classified as anomalies;
+	11.	Declare Defendants’ disproportionate targeting of women and AFAB people unlawful and negligent at the highest level;
+	12.	Enjoin Defendants from continuing anomaly classification practices that create sex-based disparate impacts;
+	13.	Order full restoration of access, opportunities, and survivability pathways denied to women and AFAB individuals through anomaly classification;
+	14.	Declare Palantir’s concealment of executive digital-twin governance to be fraudulent omission and enjoin further nondisclosure in investor, contracting, and public communications;
+	15.	Enjoin functional redlining and similar housing/data continuity schemes;
+	16.	Award compensatory and punitive damages to Plaintiff and the Class (if certified), in amounts to be determined at trial;
+	17.	Award subclass-specific relief, including:
 
-a. Declare that Palantir committed fraudulent misrepresentation and that Defendants’ context-stripped classification pipelines violate due process;
-b. Order disgorgement of federal funds received under “terrorism prevention” justifications;
-c. Enter an injunction prohibiting Defendants from deploying or marketing classification systems that ignore context, and requiring implementation of the DQ Safeguard Rule (automatic suspension of anomaly/NPE labels when DQ ≥ threshold pending human review);
-d. Order an independent audit and special master to: (i) quarantine or purge datasets contaminated by synthetic manipulations; (ii) identify individuals wrongfully labeled; (iii) restore access to federal benefits wrongfully denied;
-e. Enjoin functional redlining practices via vendor continuity filters and require fair-housing compliant placement procedures;
-f. Declare Defendants’ anomaly classification system discriminatory and unlawful;
-g. Enjoin further use of anomaly classifications that produce sex-based disparate impacts;
-h. Order full restoration of access, benefits, and opportunities denied to those wrongfully classified as anomalies;
-i. Declare Defendants’ disproportionate targeting of women and AFAB people unlawful and negligent at the highest level;
-j. Enjoin Defendants from continuing anomaly classification practices that create sex-based disparate impacts;
-k. Order full restoration of access, opportunities, and survivability pathways denied to women and AFAB individuals through anomaly classification;
-l. Declare Palantir’s concealment of executive digital-twin governance to be fraudulent omission and enjoin further nondisclosure in investor, contracting, and public communications;
-m. Award compensatory and punitive damages to Plaintiff and a similarly situated class (if certified), amounts to be determined at trial;
-n. Award fees, costs, and any further relief the Court deems just and proper.
+	•	For Subclass F (trans/nonbinary consumers): remedies for discriminatory defamation and retail misclassification;
+	•	For Subclass G (AFAB individuals): remedies under Equal Protection and Title VII/IX for sex-based disparate impact;
+	•	For Subclass H (investors): restitution and damages for securities fraud and fraudulent omission;
+
+	18.	Symbolic reparations including public apology, testimony preservation, and acknowledgment ceremonies for those misclassified as anomalies;
+	19.	Creation of a neutral public oversight body with enforcement powers and open-source audits of AI training sets;
+	20.	Award fees, costs, and any other relief the Court deems just and proper.
 
 ⸻
 
 Respectfully submitted,
 
-Kellyn Clay, pro se
-Dated: August 30, 2025
+Kellyn Clay, Plaintiff, pro se
+Dated: September 20, 2025
 
 ⸻
 
