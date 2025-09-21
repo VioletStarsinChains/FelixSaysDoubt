@@ -50,3 +50,29 @@ This includes:
 	•	Program briefings, strategy documents, or oversight reviews discussing the integration of CRISPR into human enhancement, behavioral modulation, or biosurveillance initiatives
 
 Keywords: Peter Thiel, Founders Fund, Mithril Capital, Breakout Labs, CRISPR, gene editing, Editas Medicine, Intellia, Caribou Biosciences, CRISPR Therapeutics, synthetic biology, dual use, DARPA, IARPA, biosecurity, behavioral modeling, Palantir
+
+⸻ 
+
+To: Defense Advanced Research Projects Agency (DARPA) / Intelligence Advanced Research Projects Activity (IARPA) / National Institutes of Health (NIH) / Department of Health and Human Services (HHS) / Food and Drug Administration (FDA) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all research proposals, contracts, subcontracts, funding awards, program plans, technical reports, white papers, ethical/risk reviews, human subjects / IRB documentation, animal-use protocols (IACUC), memoranda, correspondence, procurement records, meeting minutes, or other records from 2010 to present that describe, evaluate, fund, or otherwise reference the deliberate combination of neuromodulation systems (electric, magnetic, optical, ultrasonic, or implanted electrode arrays) with genetic constructs, gene-delivery systems, or inducible gene-expression mechanisms intended to alter, modulate, or control neural gene expression or function.
+
+This includes, but is not limited to, documents addressing:
+	•	Demonstrations, pilot projects, or programs that pair implantable or wearable neuromodulation arrays (including electrode arrays, optoelectronic implants, focused ultrasound devices, or transcranial methods used in coordination with an implanted system) with gene-delivery vectors (viral or non-viral) or inducible genetic systems (drug-inducible promoters, light-activated promoters, chemically inducible switches, activity-dependent transcription systems) to trigger or gate expression of transgenes in neural tissue.
+	•	Program solicitations, Broad Agency Announcements (BAAs), funding opportunity notices, or concept papers soliciting proposals for integrated neurotech + synthetic biology projects.
+	•	Contracts, subcontracts, vendor agreements, or Cooperative Research and Development Agreements (CRADAs) involving private companies, universities, or contractors developing combined neuromodulation + inducible gene-expression capabilities.
+	•	Technical specifications, system architecture diagrams, test plans, or performance assessments describing coupling mechanisms between electrical/optical stimulation and inducible gene-expression control.
+	•	Preclinical or clinical study protocols, animal-model results, biosafety assessments, toxicity reports, or data describing behavioral, cognitive, or physiological outcomes following combined neuromodulation and inducible-gene interventions.
+	•	Risk assessments, dual-use analyses, ethical reviews, institutional biosafety committee (IBC) findings, and program-level deliberations about misuse, safety, or governance of work that links neuromodulation to controllable gene expression.
+	•	Human subjects protections, informed-consent templates, or records of human-subjects approvals (IRB) for trials that included both neuromodulation and gene-delivery/inducible systems.
+	•	Communications with other federal agencies, oversight bodies, or external advisory panels concerning policy, classification, or export-control implications for projects integrating neuromodulation and inducible genetic control.
+	•	Any assessments, briefings, or legal analyses concerning the feasibility, detection, or attribution of operations that would use neurotechnology to trigger or gate genetically encoded payloads in humans or animal models.
+	•	Lists of awarded performers, subcontractors, vendors, or collaborators on any such programs and the scopes of work they performed.
+
+Keywords: neuromodulation, implantable array, inducible gene expression, inducible promoter, viral vector, AAV, optogenetics, activity-dependent promoter, CRISPR, gene delivery, dual-use, neurotechnology
+
+————
+
+If possible, please provide responsive records in machine-readable searchable PDF format, and include any associated redaction logs or privilege assertions explaining withheld material. If a fee waiver is available for requests in the public interest, please consider this request for waiver given the public-health, biosecurity, and policy relevance. If you determine any portion of the request requires consultation with another agency, please notify me of the referral and provide a tracking number.
