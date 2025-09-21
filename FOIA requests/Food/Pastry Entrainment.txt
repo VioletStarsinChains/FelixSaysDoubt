@@ -72,3 +72,42 @@ This includes:
 	•	Communications with contractors, vendors, or allied research entities regarding the adaptation of commercial baking technology for information operations, psychological operations, or mass-exposure studies.
 
 Keywords: steam injection oven, aerosolization, laminated dough, puff pastry, dual-use research, behavioral modulation, cognitive entrainment, contaminant dispersion, food vector, field rations
+
+⸻ 
+
+To Food and Drug Administration (FDA) / Center for Food Safety and Applied Nutrition (CFSAN) / U.S. Department of Agriculture (USDA) / Environmental Protection Agency (EPA) / National Institute of Standards and Technology (NIST) / Department of Health and Human Services (HHS)
+
+Request:
+
+Requesting any and all documents, research proposals, technical studies, internal communications, contracts, or vendor partnerships from 1990 to present regarding the release of contaminants from food-contact papers and packaging (including parchment paper, grease-resistant wraps, bakery liners, and similar products) when heated in commercial ovens or food warmers, and the resulting ingestion or airborne exposure risks to consumers and bystanders.
+
+This includes:
+	•	Laboratory or field studies on volatile and semi-volatile chemical release (siloxanes, chromium compounds, PFAS, bleaching byproducts) from parchment and grease-resistant papers at typical warming/baking temperatures.
+	•	Reports on airborne dispersal of packaging-derived contaminants in shared airspaces such as cafés, bakeries, or quick-service restaurants.
+	•	Internal communications regarding parchment paper or other liners as potential sources of both ingestion and inhalation exposure when combined with laminated doughs (puff pastry, phyllo) or other fat-rich foods.
+	•	Contracts or vendor projects exploring interactions between food packaging, oven steam injection, and aerosolized emissions.
+	•	Risk assessments of secondary exposure (to customers, staff, or bystanders) from food-service use of parchment and grease-resistant papers.
+	•	Guidance, regulations, or standards concerning parchment or packaging safety under repeated commercial heating conditions.
+
+Keywords: parchment paper, grease-resistant wrap, PFAS, siloxanes, quilon, bakery emissions, airborne contaminants, laminated dough, puff pastry, commercial oven exposure, bystander risk
+
+⸻ 
+
+To Department of Defense (DoD) / Defense Advanced Research Projects Agency (DARPA) / Defense Threat Reduction Agency (DTRA) / U.S. Army Natick Soldier Research, Development and Engineering Center (NSRDEC) / Department of Homeland Security (DHS)
+
+Request:
+
+Requesting any and all documents, research proposals, technical studies, internal communications, contracts, or vendor partnerships from 1990 to present regarding the use of food-contact papers and packaging (including parchment paper, grease-resistant wraps, bakery liners, and similar substrates) as potential dual-use materials for contaminant release, aerosolization, or behavioral influence when heated in commercial or field-deployed ovens.
+
+This includes:
+	•	Research into parchment or grease-resistant coatings (silicone, quilon, PFAS, fluoropolymers) as sources of volatile or semi-volatile emissions under heating conditions.
+	•	Technical studies on the coupling of packaging emissions with laminated doughs or fat-rich foods as delivery vectors for neuroactive or immune-modulating compounds.
+	•	Internal communications concerning packaging materials as potential covert or controlled dispersal mediums in confined environments (cafés, barracks, field kitchens).
+	•	Contracts or vendor projects assessing parchment or liner off-gassing for military rations (MREs) or expeditionary food systems.
+	•	Risk assessments, ethical reviews, or legal analyses on non-consensual exposure of civilians or soldiers to contaminants released from heated food-contact substrates.
+	•	Communications with contractors, vendors, or allied agencies regarding the adaptation of commercial food-packaging technology for information operations, surveillance, or cognitive/behavioral entrainment research.
+
+Keywords: parchment paper, grease-resistant wrap, PFAS emissions, quilon, silicone off-gassing, dual-use packaging, aerosolization, laminated dough, puff pastry, behavioral modulation, field rations
+
+
+
