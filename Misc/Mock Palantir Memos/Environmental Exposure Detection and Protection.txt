@@ -1,0 +1,102 @@
+Pilot: Environmental Exposure Detection and Protection
+
+6-Month Implementation Plan
+
+⸻
+
+Goal
+
+Use Palantir’s existing data-integration capabilities to detect early signs of harmful chemical or environmental exposures (e.g., lead, PFAS, industrial pollutants, air particulates) and route anomalies to protective public health interventions instead of enforcement.
+
+⸻
+
+Scope
+	•	Geography: 1 metropolitan area + surrounding county (≈ 1.5M residents).
+	•	Focus: Air, water, and soil contaminants with proven links to neurological/immune destabilization.
+	•	Timeframe: 6 months (pilot, renewable).
+	•	Output:
+	1.	Early detection of exposure clusters.
+	2.	Protective alerts routed to public health partners.
+	3.	Public dashboard of anonymized signals + actions taken.
+
+⸻
+
+Data Sources
+	•	Public health: ER visit logs (anonymized, daily refresh), poison control call summaries, school absenteeism rates.
+	•	Environment: Air-quality sensors, water-utility contaminant test results, EPA/CDC datasets, satellite imagery (thermal + particulates).
+	•	Consumer signals (aggregate only): OTC sales (antihistamines, asthma meds), anonymized wearable health data.
+	•	Historical baseline: Prior exposure events and remediation efforts (EPA Superfund, state DEQ).
+
+⸻
+
+Technical Architecture
+	1.	Ingestion Layer: Pull daily feeds from health, environment, and consumer sources.
+	2.	Ontology Layer: Entities = Location, Exposure Type, Cluster, Health Signal. Relationships = “occurs_at,” “linked_to,” “suspected_exposure.”
+	3.	Analytics Layer:
+	•	Run anomaly detection across ER/OTC/absenteeism vs. baseline.
+	•	Correlate with environmental sensor spikes.
+	•	Assign confidence scores + uncertainty ranges.
+	4.	Protection Queue: All flagged clusters route to public health officials, not enforcement.
+	5.	Public Dashboard: Weekly anonymized map of flagged clusters, actions taken, outcome metrics.
+
+⸻
+
+Governance
+	•	Independent Oversight Board: local public health reps, community orgs, environmental scientists, ethicists.
+	•	Advocacy Gate: All escalations must be reviewed by a non-law-enforcement advocate (clinician or social worker) before any action.
+	•	Audit Trail: Immutable log of data sources, confidence scores, actions, and outcomes — published quarterly.
+
+⸻
+
+Timeline
+
+Month 1 — Planning & Setup
+	•	Convene partners + oversight board.
+	•	Finalize data-sharing agreements (HIPAA-compliant, DP safeguards).
+	•	Build protective ontology schema.
+	•	Hire 2 community liaison officers.
+
+Month 2 — Integration
+	•	Connect ingestion pipelines (ER data, utility data, sensors).
+	•	Stand up cloud environment with privacy layers (differential privacy + federated queries).
+	•	Draft protective response protocols with public health agencies.
+
+Month 3 — Pilot Launch (Soft)
+	•	Start daily ingestion + anomaly detection on 2–3 exposures (e.g., particulates, nitrates, lead).
+	•	Route flagged anomalies into Protection Queue.
+	•	Dry-run protective outreach (alerts to utility/public health only, no public alerts yet).
+
+Month 4 — Expansion
+	•	Add more exposure types.
+	•	Launch anonymized public dashboard (heat maps, not person-level).
+	•	Begin independent audit of first 6 weeks’ logs.
+
+Month 5 — Optimization
+	•	Refine anomaly thresholds using feedback from protective outreach outcomes.
+	•	Expand advocacy network (NGOs, clinics).
+	•	Issue first public “Protective Outcomes Report.”
+
+Month 6 — Evaluation & Scale Decision
+	•	Oversight board evaluates KPIs.
+	•	Publish independent Harms Assessment.
+	•	Decide: scale up to state level, replicate in second metro, or extend pilot 6 months.
+
+⸻
+
+Budget (approx., 6 months)
+	•	Tech stack & licenses: $2.5M (Palantir Foundry/Gotham seats, secure cloud hosting).
+	•	Data integration & privacy layer: $1M.
+	•	Staffing: $1.2M (data engineers, analysts, 2 community liaisons, 2 public health officers, oversight admin).
+	•	Audit & oversight board: $500k (stipends, independent auditors).
+	•	Protective interventions fund: $800k (filters, bottled water, medical outreach, community alerts).
+	•	Comms & public dashboard: $200k.
+
+Total: ≈ $6.2M.
+
+⸻
+
+Key KPIs
+	1.	Protective outreach rate: ≥90% of flagged clusters receive outreach within 48 hrs.
+	2.	Wrongful-flag reduction: ≥75% reduction after 3 months of feedback-loop optimization.
+	3.	Public trust metric: 70% of surveyed residents report increased trust in protective alerts.
+	4.	Independent audit compliance: 100% quarterly audit pass.
