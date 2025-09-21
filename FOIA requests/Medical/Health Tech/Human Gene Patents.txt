@@ -76,3 +76,30 @@ Keywords: neuromodulation, implantable array, inducible gene expression, inducib
 ————
 
 If possible, please provide responsive records in machine-readable searchable PDF format, and include any associated redaction logs or privilege assertions explaining withheld material. If a fee waiver is available for requests in the public interest, please consider this request for waiver given the public-health, biosecurity, and policy relevance. If you determine any portion of the request requires consultation with another agency, please notify me of the referral and provide a tracking number.
+
+⸻ 
+
+To: Food and Drug Administration (FDA) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Defense Advanced Research Projects Agency (DARPA) / Intelligence Advanced Research Projects Activity (IARPA) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all documents, contracts, proposals, grant awards, purchase orders, procurement records, technical reports, study protocols, preclinical or clinical data, regulatory filings, IRB/IACUC/IBC records, ethics/dual-use risk assessments, memoranda, meeting minutes, correspondence, vendor communications, and briefing materials from January 1, 2010 to present that describe, evaluate, fund, procure, test, or otherwise reference the combined use, co-administration, or coordinated study of GLP-1 receptor agonist compounds (including but not limited to semaglutide, liraglutide, exenatide, dulaglutide, tirzepatide, and other GLP-1/GIP or GLP-1 class agents) together with neurotechnology, neuromodulation systems, or genetic/inducible gene-expression systems for the purpose of altering, modulating, gating, or studying neural gene expression, neural function, behavior, cognition, appetite, motivation, or physiological state.
+
+This includes, but is not limited to, documents addressing:
+	•	Program solicitations, Broad Agency Announcements (BAAs), funding opportunity notices, concept papers, or White Papers soliciting work that pairs GLP-1 agents with neurostimulation, implantable electrode arrays, optogenetic/optogenomic systems, focused ultrasound neuromodulation, transcranial stimulation, closed-loop neuromodulation platforms, brain–machine interfaces, or activity-dependent/transcriptionally inducible gene systems.
+	•	Contracts, subcontracts, CRADAs, grants, cooperative agreements, vendor agreements, or purchase orders involving pharmaceutical companies, biotech firms, universities, or defense contractors that describe combined GLP-1 + neurotech or GLP-1 + inducible genetic system work.
+	•	Regulatory submissions, INDs, IDEs, EUA requests, clinical-trial applications, clinical protocols, investigator brochures, adverse-event reports, safety/toxicity assessments, or monitoring reports for studies that include co-administration of GLP-1 agents with neuromodulation, gene-delivery vectors, or inducible transgene systems in animal models or human subjects.
+	•	Preclinical or in-vivo study data (animal or cellular) describing effects of GLP-1 receptor agonists on activity-dependent gene expression in neural tissue, on inducible promoter systems, or on the efficacy/safety of neuromodulation when used in combination with metabolic/hormonal modulators.
+	•	Technical specifications, system architecture diagrams, test plans, or performance assessments describing mechanisms for coupling systemic pharmacologic agents (including GLP-1s) with device triggers or inducible genetic constructs (e.g., activity-dependent promoters, chemically/light-inducible promoters) that gate transgene expression.
+	•	Risk assessments, dual-use analyses, biosecurity briefings, and legal/ethical reviews addressing misuse, governance, detectability, or attribution of programs that combine systemic drugs (GLP-1 class) with neuromodulation or inducible genetic control.
+	•	Human-subjects protections, consent templates, IRB deliberations, or patient information sheets for trials combining GLP-1 agents with neuromodulation or genetic interventions, and any documentation of participant recruitment, enrollment, or follow-up.
+	•	Communications, meeting minutes, or memoranda discussing coordination with other federal agencies, commercial partners, or foreign collaborators concerning GLP-1 + neurotech research or procurement.
+	•	Lists of awardees, contractors, subcontractors, performers, or vendors on any responsive projects and descriptions of scope of work, deliverables, and budgets.
+	•	Any procurement or stockpile records showing acquisition, distribution, or provisioning of GLP-1 compounds for research programs linked to neurotechnology, behavioral research, or defense R&D.
+	•	Any records of inquiries, whistleblower complaints, or oversight reviews alleging unconsented administration of GLP-1 agents in research or operational settings tied to neuromodulation or behavior-modulation studies.
+
+Keywords: GLP-1 receptor agonist, semaglutide, liraglutide, exenatide, dulaglutide, tirzepatide, neuromodulation, implantable array, inducible gene expression, activity-dependent promoter, viral vector, DARPA, dual-use
+
+————
+
+If possible, please provide responsive records in machine-readable searchable PDF format and include any redaction logs or privilege assertions explaining withheld material. I request a fee waiver on the grounds that disclosure is in the public interest because the records concern public-health, biosecurity, and ethical questions about government-funded research. If you determine any portion of the request requires consultation with another agency, please notify me of the referral and provide a tracking number.
