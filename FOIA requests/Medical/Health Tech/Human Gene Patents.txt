@@ -1,0 +1,52 @@
+To: U.S. Patent and Trademark Office (USPTO) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Food and Drug Administration (FDA) / Department of Justice (DOJ) Antitrust Division / Office of Science and Technology Policy (OSTP)
+
+Request:
+
+Requesting any and all documents, contracts, licensing agreements, policy memoranda, legal opinions, internal communications, or external correspondence relating to the patentability of human genes and gene fragments from 2005 to present.
+
+This includes:
+	•	Communications referencing Association for Molecular Pathology v. Myriad Genetics, Inc. (2013) and its implications for gene patenting and genetic testing monopolies
+	•	Internal guidance on distinguishing between “naturally occurring DNA,” “cDNA,” and synthetic gene constructs for purposes of patent eligibility
+	•	Government contracts, partnerships, or grants involving CRISPR-related intellectual property, with particular focus on ownership disputes or licensing structures
+	•	Communications with private biotech firms (e.g., Myriad Genetics, Editas Medicine, Intellia, CRISPR Therapeutics) regarding exclusivity rights or testing limitations
+	•	Documents related to gene patents and their overlap with behavioral modeling, biosurveillance, or predictive analytics applications
+	•	Antitrust investigations or complaints concerning monopolistic control of genetic diagnostics or therapies
+	•	Policy discussions or white papers on ethical, legal, and social implications of human gene patents
+
+Keywords: gene patenting, Myriad Genetics, BRCA1, BRCA2, CRISPR, cDNA, USPTO, genetic monopoly, gene surveillance, behavioral modeling, biosurveillance, intellectual property
+
+⸻
+
+To: U.S. Securities and Exchange Commission (SEC) / U.S. Patent and Trademark Office (USPTO) / Department of Health and Human Services (HHS) / National Institutes of Health (NIH) / Food and Drug Administration (FDA)
+
+Request:
+
+Requesting any and all documents, filings, investment disclosures, communications, policy memoranda, or contracts referencing Peter Thiel, his affiliated funds (including Founders Fund, Mithril Capital, Breakout Labs, and associated entities), and CRISPR-related companies or technologies from 2010 to present.
+
+This includes:
+	•	SEC filings, investor disclosures, or oversight records naming Thiel-affiliated funds in connection with Editas Medicine, Intellia Therapeutics, CRISPR Therapeutics, Caribou Biosciences, or similar CRISPR startups
+	•	USPTO records, licensing agreements, or patent disputes referencing both Thiel-affiliated entities and CRISPR or gene-editing intellectual property
+	•	NIH or HHS grant records, cooperative agreements, or contracts involving Thiel-backed CRISPR firms, especially those involving human subjects research or large-scale genomic datasets
+	•	FDA communications regarding CRISPR clinical trial applications or regulatory approvals where Thiel-affiliated investors were disclosed stakeholders
+	•	Records of communications or advisory committee discussions where CRISPR technologies intersect with predictive analytics, biosurveillance, or behavioral modeling frameworks
+	•	Any conflict-of-interest assessments, ethics reviews, or antitrust inquiries involving Thiel and CRISPR-related intellectual property
+
+Keywords: Peter Thiel, Founders Fund, Mithril Capital, Breakout Labs, Editas Medicine, Intellia, CRISPR Therapeutics, Caribou Biosciences, CRISPR patents, gene editing, USPTO, SEC filings, biosurveillance, behavioral modeling
+
+⸻ 
+
+To: Defense Advanced Research Projects Agency (DARPA) / Intelligence Advanced Research Projects Activity (IARPA) / Department of Defense (DoD)
+
+Request:
+
+Requesting any and all research proposals, contracts, subcontracts, white papers, funding awards, program evaluations, internal communications, or external correspondence involving Peter Thiel or his affiliated funds (Founders Fund, Mithril Capital, Breakout Labs, or associated entities) in connection with CRISPR or gene-editing technologies from 2010 to present.
+
+This includes:
+	•	DARPA or IARPA programs involving CRISPR or gene editing for biosecurity, biodefense, or neurotechnology applications where Thiel-affiliated entities were investors, contractors, or partners
+	•	Communications between DARPA/IARPA program officers and Thiel-linked companies regarding synthetic biology, genomic data integration, or CRISPR delivery systems
+	•	Records referencing dual-use concerns, ethical reviews, or risk assessments of CRISPR projects tied to private venture capital, especially Thiel-backed startups (Editas Medicine, Intellia Therapeutics, CRISPR Therapeutics, Caribou Biosciences)
+	•	Contracts or research projects linking CRISPR technologies with predictive modeling, cognitive science, or behavioral surveillance frameworks
+	•	Internal memoranda or external reports assessing conflicts of interest where Thiel-affiliated entities held stakes in both defense analytics (e.g., Palantir) and CRISPR biotech ventures
+	•	Program briefings, strategy documents, or oversight reviews discussing the integration of CRISPR into human enhancement, behavioral modulation, or biosurveillance initiatives
+
+Keywords: Peter Thiel, Founders Fund, Mithril Capital, Breakout Labs, CRISPR, gene editing, Editas Medicine, Intellia, Caribou Biosciences, CRISPR Therapeutics, synthetic biology, dual use, DARPA, IARPA, biosecurity, behavioral modeling, Palantir
