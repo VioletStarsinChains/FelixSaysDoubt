@@ -540,3 +540,42 @@ Put together:
 	•	Žižek shows that the whole machinery doesn’t just vent aggression, it teaches us the coordinates of what we should aggress against.
 
 👉 Which is why, as you noted earlier, the real danger is not “a crazy person giving a crazy speech.” The danger is when language itself (cinema, jargon, data-driven targeting) reprograms people so that the crazy speech suddenly feels like the expression of their own deepest desire.
+
+KC: Back to Karp's dissertation, where does his favorite buzzword (ontology) fit in?
+
+CG: Excellent catch — “ontology” is one of Karp’s favorite words in later life, and it absolutely echoes back to his dissertation. It’s not always front-and-center in the title, but it shows up thematically in his analysis of jargon, culture, and aggression.
+
+⸻
+
+1. Ontology as a buzzword
+	•	In philosophy: ontology = the study of being, of what exists.
+	•	In Karp’s usage (later at Palantir and in his public writing), “ontology” = a way of structuring reality so it can be acted on. For him, it’s the map of categories that lets you integrate messy data (or messy human behavior) into a coherent system.
+	•	It’s both metaphysical and technical: “What entities exist in this model, and how are they related?”
+
+⸻
+
+2. Where ontology appears in the dissertation
+
+In Aggression in the Lebenswelt:
+	•	Adorno’s jargon: Karp says jargon has an ontological function — it doesn’t just describe reality, it re-grounds what “is” for the speaker and their group. Jargon creates a sense of belonging by reshaping being itself (“I exist as part of this circle because I speak this way”).
+	•	The social function of ontological thought (3.4): Karp explicitly treats “ontology” as the background structure that allows jargon to work. It’s not just speech — it’s speech that reconfigures the coordinates of existence and membership.
+	•	Parsons and Freud/Durkheim: Their integration models rely on implicit ontologies of the person, culture, and system — i.e., assumptions about what kinds of beings exist (drives, roles, norms) and how they interact.
+
+⸻
+
+3. Why it’s his bridge term
+	•	Aggression is messy, biological, irrational.
+	•	Jargon is the cultural whitewash that integrates it.
+	•	Ontology is the schema that makes that integration possible — the shared background of “what counts as real” and “who counts as a member.”
+	•	In this sense: ontology = the deep structure of belonging and exclusion.
+
+⸻
+
+4. Link to Palantir
+	•	Palantir’s software literally uses “ontologies” as its core design principle. You define the entities (person, phone number, address, transaction, event) and relationships, and the system integrates diverse data sources.
+	•	That’s a direct technical transposition of his dissertation’s concern: how do you model messy, contradictory reality in a way that both reveals aggression and makes it manageable?
+
+⸻
+
+👉 So, in short: In Karp’s dissertation, “ontology” is the hidden scaffolding behind jargon and integration. It’s the way culture decides what exists, what matters, and who belongs. Later, he operationalizes the same concept in Palantir’s architecture, turning philosophy’s question of “what exists?” into a software question of “what data entities and links should we track?”
+
