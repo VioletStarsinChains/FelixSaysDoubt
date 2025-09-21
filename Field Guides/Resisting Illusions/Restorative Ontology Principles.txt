@@ -1,0 +1,69 @@
+Restorative Ontology Principles
+
+A framework for designing data systems that preserve life rather than eliminate anomalies
+
+⸻
+
+1. Ontology as Disclosure, Not Erasure
+
+Traditional data ontologies conceal contradictions by forcing messy reality into rigid categories. Reparative ontologies instead make contradictions visible. Anomalies are not erased — they are highlighted as signals of where categories fail.
+
+⸻
+
+2. Soft Categories, Fluid Boundaries
+
+Rigid categories kill. Reparative ontologies adopt soft, overlapping, and contextual categories. Classification must always allow for uncertainty, multiplicity, and “unknown” states. If a person or event doesn’t fit, that failure belongs to the model, not the person.
+
+⸻
+
+3. Reflexivity at Every Layer
+
+Every entity and relationship in the ontology carries meta-data:
+	•	Who defined this category?
+	•	For what purpose?
+	•	What is excluded by it?
+	•	What harms might this category cause?
+This reflexive scaffold ensures users see not only the data but the politics of its construction.
+
+⸻
+
+4. Anomalies as Design Feedback, Not Threats
+
+Anomalies are inevitable. In a reparative ontology, anomalies trigger a design review process, not punitive action. Each anomaly is treated as a diagnostic window into the system’s blind spots. The ontology evolves by repairing itself where it misclassifies life.
+
+⸻
+
+5. Multiplicity of Worlds
+
+No single ontology can capture reality. Reparative ontologies allow for multiple coexisting schemas — even contradictory ones. Users can toggle between perspectives, making explicit that “what counts as real” depends on context. This protects against the tyranny of a single worldview.
+
+⸻
+
+6. Co-Design with the Marginalized
+
+Those most likely to be harmed by ontological misclassification must have a voice in ontology design. Reparative ontologies are built with participatory input from marginalized groups, ensuring categories reflect lived realities rather than just institutional convenience.
+
+⸻
+
+7. Incentives Reversed
+
+Success is not measured by control, efficiency, or anomaly suppression. Success is measured by:
+	•	Reduction in wrongful flags,
+	•	Preservation of diversity and plurality,
+	•	Demonstrated tolerance for ambiguity,
+	•	Increased visibility of systemic blind spots.
+
+⸻
+
+8. Ontology in the Service of Life
+
+The ultimate test of any ontology is simple: does it preserve life, or does it erase it?
+Reparative ontologies recognize that coherence at the cost of exclusion is not coherence at all — it is barbarism. A truly reparative ontology integrates by honoring difference, not by eliminating it.
+
+⸻
+
+Conclusion
+
+The age of ontologies built for domination and control must end. In their place, we propose reparative ontologies: systems that disclose rather than erase, that integrate through plurality rather than suppression, that turn anomalies into opportunities for repair rather than excuses for elimination.
+
+Ontology has always been about what counts as real. In the reparative frame, life itself is the baseline reality, and no schema may stand that destroys it.
