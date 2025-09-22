@@ -1,0 +1,20 @@
+FOIA REQUEST
+
+To: Social Security Administration (SSA)
+To: Centers for Medicare & Medicaid Services (CMS)
+
+Request:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I request any and all records, reports, datasets, communications, or analytic products referencing Kellyn Clay in which Palantir Technologies Inc. or its platforms (e.g., Gotham, Foundry) were used to classify, score, or model Plaintiff as a financial burden, cost risk, or excessive expenditure to federal benefit systems.
+
+This request includes, but is not limited to:
+	•	Records showing whether Palantir systems classified or flagged Plaintiff in connection with Social Security Disability Insurance (SSDI), Supplemental Security Income (SSI), Medicare, or Medicaid eligibility or expenditures.
+	•	Internal communications discussing whether Plaintiff was or could be a financial burden on public benefit programs.
+	•	Records showing any discrepancy between Plaintiff’s actual benefit use (none) and any Palantir classifications suggesting Plaintiff consumed greater-than-average expenditures.
+	•	Communications between SSA/CMS and Palantir personnel regarding Plaintiff’s cost classification, anomaly tags, or benefit eligibility status.
+	•	Oversight reviews, compliance audits, or ethics assessments concerning the misclassification of individuals as disability or cost burdens by Palantir platforms.
+	•	Records showing whether Palantir platforms were used to justify denial of services, benefits, or accommodations to Plaintiff.
+
+Keywords: Kellyn Clay, Palantir, Gotham, Foundry, anomaly classification, cost risk, financial burden, disability benefits, SSA, CMS, SSDI, SSI, Medicare, Medicaid, attrition, denial of services.
+
+Date Range: January 1, 2006 – Present.
