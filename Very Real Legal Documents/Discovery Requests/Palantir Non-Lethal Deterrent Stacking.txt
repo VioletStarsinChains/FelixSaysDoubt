@@ -58,7 +58,7 @@ Plaintiff: Kellyn Clay
 Defendant: Palantir Technologies Inc.
 Subject Matter: Use, Design, and Oversight of “Non-Lethal Deterrent” Tactics; Cumulative/Stacking Harm Risk
 
-Timeframe: January 1, 2000 – Present (narrow if desired)
+Timeframe: January 1, 2003 – Present m
 
 ⸻
 
@@ -88,7 +88,7 @@ Interrogatory No. 5: State whether Palantir has (a) guidance, (b) policies, or (
 
 Interrogatory No. 6: Describe Palantir’s process (if any) for monitoring downstream outcomes (health outcomes, service denial, increased morbidity/mortality) that may plausibly be caused by Palantir outputs recommending non-lethal deterrents. Identify the teams, clients, and datasets used to perform such monitoring.
 
-Interrogatory No. 7: Identify all Palantir contracts, statements of work, or client communications from January 1, 2000 to present in which Palantir recommended or approved the use of “stacking” tactics, sequencing of attrition measures, or escalation playbooks that contemplate layering interventions against an identified person or group.
+Interrogatory No. 7: Identify all Palantir contracts, statements of work, or client communications from January 1, 2003 to present in which Palantir recommended or approved the use of “stacking” tactics, sequencing of attrition measures, or escalation playbooks that contemplate layering interventions against an identified person or group.
 
 Interrogatory No. 8: State whether Palantir has ever received, possessed, or generated case-level evidence (e.g., an incident report, clinical outcome, death certificate, morgue report) connecting Palantir-generated outputs to an individual’s severe injury or death. If yes, for each instance identify the incident, date, client, and Palantir personnel notified.
 
