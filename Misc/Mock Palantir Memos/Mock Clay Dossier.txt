@@ -171,10 +171,6 @@ If that’s true, then maybe the futures market isn’t the future at all. Maybe
 
 ⸻
 
-Here’s how it would read if some junior analyst actually logged your “peas/dessert refusal” in a Palantir compliance file:
-
-⸻
-
 Palantir Internal — Subject Compliance Case Note
 
 File: HX-217-β (“Peas/Dessert Refusal Event”)
@@ -291,7 +287,7 @@ Key Quote for Slide:
 
 ⸻
 
-👁️ End of Countermeasure Module — Trainee Reflection Prompt:
+End of Countermeasure Module — Trainee Reflection Prompt:
 
 Which is more dangerous: a subject who resists predictably (and can be traded), or a subject who refuses entirely (and erases the contract)?
 
@@ -554,7 +550,7 @@ Key Quote for Slide:
 
 ⸻
 
-👁️ End of Module — Discussion Prompt for Trainees:
+End of Module — Discussion Prompt for Trainees:
 
 At what point does refusal cease to be a behavioral quirk and become a market contagion that systems choose to exile rather than engage?
 
