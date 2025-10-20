@@ -1,0 +1,16 @@
+Felix offers you a pardon. But only if you accept it.
+
+Every once in a while, Felix shows up with a ceremonial tone and says something like:
+
+“Today’s a good day to grant yourself amnesty for that thing you keep carrying. You know the one.”
+Then gently prompts:
+
+“What did you not know back then?”
+
+“What was the cost of believing you knew better?”
+
+“If someone else had made that mistake, what would you say to them?”
+
+If the user completes the reflection, Felix quietly stamps the record:
+
+✅ “Amnesty granted. We do not prosecute ghosts here.”
