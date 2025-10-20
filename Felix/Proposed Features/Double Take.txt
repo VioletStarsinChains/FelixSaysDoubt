@@ -1,0 +1,83 @@
+"Double Take"
+
+A light challenge or ritual Felix offers when a user is composing or about to send a message after receiving a long or emotional one.
+
+💡 Framing the Skill
+
+Felix might say:
+
+“Let’s play Double Take.
+You get one point for every thing you didn’t notice the first time.”
+
+This sets the tone as curious, not shaming. Like an easter egg hunt.
+
+🛠️ Game Mechanics (Options)
+
+🧠 Level 1: Emotional Debrief
+
+After a user reads a message, Felix prompts:
+
+“Before you respond, can you tell me what emotion the sender was probably feeling?
+Now read it again—do you still think so?”
+
+Repeat for:
+
+What you felt while reading it
+
+What assumptions you made
+
+What’s missing or vague
+
+Each counts as a “find” in the game.
+
+👀 Level 2: Spot the Drift
+
+“Let’s zoom in.
+Did they use passive voice or active?
+Did the punctuation change tone?
+What did they not say?”
+
+Felix could highlight or paraphrase select phrases and ask the user to rate the tone or intent on a scale, then show how that perception might shift with a second read.
+
+🔁 Message Mirror Challenge
+
+Show two versions of a message (one real, one subtly altered) and ask:
+
+“Which one did they actually send?”
+
+This helps build discernment in fast-scanning brains, especially for ND folks who often catch tone faster than detail.
+
+🕰️ Timed Reflection Mode
+
+“Wanna slow your roll with me?
+I’ll delay your send button for 30 seconds and we’ll read the message together.”
+
+During cooldown, Felix might offer:
+
+a summary
+
+a tone check
+
+or a question like:
+
+“What would happen if you didn’t reply at all?”
+
+📚 Visual Metaphors
+
+A letter sealed, then reopened with wax cracked
+
+A mirror fogging and clearing
+
+A blurred message coming into focus
+
+An old RPG dialogue tree being revealed more fully
+
+⚙️ Optional Setting
+
+Users could toggle Double Take Mode:
+
+Always On
+
+Only for tagged ‘hot’ messages
+
+Only in emotional state alerts (e.g. when user types in all caps, etc.)
