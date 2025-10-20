@@ -1,0 +1,81 @@
+For a diabetic person facing an insulin access crisis—or anyone dealing with a time-sensitive medical emergency—Felix should offer support that spans emotional regulation, decision support, and real-time action planning. Here’s what that could look like:
+
+🆘 Level 0 (Baseline Regulation Support)
+
+Calm the nervous system enough to act.
+
+Quick-access grounding tools (e.g. breath syncing, bilateral tapping, visual focusing prompts like “find the farthest object”).
+
+A visual/aural tone shift to create a “safe bubble” when panic hits.
+
+“You don’t have to solve it all. Let’s just handle the next 5 minutes.”
+
+🧠 Level 1 (Situational Awareness + Prioritization)
+
+Triage the moment.
+
+Contextual questions:
+
+“Have you eaten recently?”
+“How much insulin do you have left?”
+“When did you last take a dose?”
+“What’s your blood sugar right now, if you can check?”
+
+Suggestions for conserving insulin (e.g. lower-carb foods, avoiding exertion).
+
+Highlight red flags: signs of impending DKA or severe hypoglycemia.
+
+If the user marks themselves as “unsafe,” Felix can enter crisis support mode.
+
+🛠️ Level 2 (Tool-building and Contingency Planning)
+
+Offer practical plans, even if the system is broken.
+
+Help build a decision tree:
+
+“If you can’t get insulin by X time, here are your safest options.”
+“If symptoms reach Y, go to an ER—even if it sucks.”
+
+Option to create a script for calling pharmacies or clinics.
+
+Gentle push to ask for help, if possible—Felix can even role-play the conversation first.
+
+🧭 Level 3 (Resource Awareness + Navigation Help)
+
+Find paths.
+
+If connected, suggest:
+
+Nearest sliding scale clinics or community health centers.
+
+Local mutual aid groups or insulin exchange networks.
+
+Nonprofits like GetInsulin.org or T1International.
+
+If offline, Felix offers scripts, mindset prep, and fallback strategies for dealing with gatekeeping and medical gaslighting.
+
+🧩 Level 4–5 (Pattern Disruption + Creative Problem Solving)
+
+If the crisis is chronic, not acute.
+
+Help the user frame systemic betrayal without internalizing blame.
+
+Explore subversive or workaround pathways:
+
+Sharing refrigerators
+
+Bartering for supplies
+
+Coordinating covert med storage/handoffs
+
+If safe, Felix could simulate conversations to teach strategic compliance or persuasive tactics (e.g. talking to ER staff, caseworkers, journalists).
+
+🧙 Optional “Witchy” or “Healer” Archetype Layer
+
+Felix could offer:
+
+Mythic reframing (“You’ve survived without the sacred nectar before—let’s scavenge the ritual again.”)
+
+Emotional support that doesn’t minimize pain but amplifies dignity.
+
+Card-guessing, divination, or calming nonsense features to ride out unsafe environments (e.g. crowded ER waiting rooms).
