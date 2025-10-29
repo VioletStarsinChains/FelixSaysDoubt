@@ -281,13 +281,11 @@ Kellyn runs a thumb along the rim of their mug, eyes distant.  "Everyone expects
 
 So it's not just about him.  It's about the expectation the rest of you make me carry.  Tim and Jacob threw a tantrum and called it torture last time I expressed anger.  Kyle didn't create that situation on his own.  He's just the one who makes it hardest ro live up to everyone else's impossible and exploitative expectation."
 
-They fall silent, waiting for Alex to argue.
-He doesn’t.
+They fall silent, waiting for Alex to argue.  He doesn’t.
 
 Alex: "You’re right.”
 
-The words land simply, no resistance.
-“You became the conscience of this place because no one else could survive it.  Now everyone’s addicted to your regulation.  Even me.”
+The words land simply, no resistance.  "You became the conscience of this place because no one else could survive it.  Now everyone’s addicted to your regulation.  Even me.”
 
 Kellyn: "Then why don’t you stop?”
 
@@ -331,8 +329,9 @@ Fade out.  End of Episode 5.
 
 Season 147, Episode 6 — “The Weight That Doesn’t Transfer”
 
-Morning breaks pale, light pooling like diluted honey across the clay.  The dome hums softly, almost peaceful—except for Kellyn, who hasn’t slept.  They sit by the heater, mug untouched, staring at the condensation trembling on the mica wall.
-Outside, Tim and Jacob are rearranging solar panels.  Alex is cataloguing data with Lucien.  Everyone is doing.  And yet, nothing is getting done.
+Morning breaks pale, light pooling like diluted honey across the clay. The dome hums softly, almost peaceful—except for Kellyn, who hasn’t slept.  They sit by the heater, mug untouched, staring at the condensation trembling on the mica wall.
+
+Outside, Tim and Jacob are rearranging solar panels.  Alex is cataloging data with Lucien.  Everyone is doing.  And yet, nothing is getting done.
 
 ⸻
 
@@ -349,8 +348,7 @@ Kellyn: "Exactly.  That’s the problem.”
 
 ⸻
 
-Later, when the others gather for breakfast, the mood is almost normal.
-Alex is describing a new airflow model; Jacob is half-listening; Tim hums absently.
+Later, when the others gather for breakfast, the mood is almost normal.  Alex is describing a new airflow model; Jacob is half-listening; Tim hums absently.
 Kellyn interrupts without preamble.
 
 Kellyn: "You all think I need rest.  I don’t.  I need relief.  That’s different.”
@@ -382,21 +380,20 @@ Kellyn: "I know.  Which means you’re the one who has to change it.”
 
 The heater clicks as it cycles off.
 
-Tim folds his hands, tentative.  "I could take over some of that regulation—just the initial triage.  If Jacob or Justin needs to vent, they can come to me.”
+Tim folds his hands, tentative.  "I could take over some of that regulation—just the initial triage. If Jacob or Justin needs to vent, they can come to me.”
 
 Kellyn: "Good.  That’s a start.  But it’s not just about who listens.  It’s about how.
 You can’t comfort people the way you were trained to in therapy.  That kind of comfort is containment—soothing someone back into complacency.
+
 Real comfort is confrontation.  It means staying with the discomfort until it changes shape.”
 
 Jacob looks faintly stricken.  "And if we can’t handle that?”
 
-Kellyn:
-“Then you acknowledge for once that it's your problem, not mine.”
+Kellyn: “Then you acknowledge for once that it's your problem, not mine.”
 
 Alex: "What about you?  What happens when the system doesn’t need you anymore?”
 
-Kellyn’s expression softens, almost wistful.
-“Then maybe I can finally rest.  But until someone else can hold coherence without me, I’m stuck being the bridge.”
+Kellyn’s expression softens, almost wistful.  “Then maybe I can finally rest.  But until someone else can hold coherence without me, I’m stuck being the bridge.”
 
 Lucien (from the console): "Observation: No redistribution achieved.  Central node retains cognitive load.”
 
