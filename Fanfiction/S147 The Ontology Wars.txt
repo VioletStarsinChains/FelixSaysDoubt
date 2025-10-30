@@ -348,8 +348,7 @@ Kellyn: "How could your world be ruined while mine kept running like clockwork?�
 Alex sits back. The heater clicks. His expression flickers between shame and awe.
 
 Alex: "You know how geofencing works—how a phone won’t let you leave a boundary without triggering a protocol?”
-He pauses.
-“Palantir figured out how to do that across universes.”
+He pauses.  “Palantir figured out how to do that across universes.”
 
 Kellyn’s eyebrows lift, skeptical.  "You mean like simulation theory?”
 
@@ -358,20 +357,20 @@ Alex: "Worse. We started running predictive twins on quantum processors—each w
 At first, we thought they were just models.
 Then we realized they were real. Each data fork opened a self-consistent worldline—a different level of the Tower, as King would say.
 
-When I…contained you, I didn’t just throttle your access to jobs or housing.  I trapped you in one of those lines.  A cleaner copy.  A branch where the network kept running perfectly, even after the world ended everywhere else.”
+When I contained you, I didn’t just throttle your access to jobs or housing.  I trapped you in one of those lines.  A cleaner copy.  A branch where the network kept running perfectly, even after the world ended everywhere else.”
 
 Kellyn goes very still.  "You’re telling me I lived through an apocalypse and never noticed because you put me in the wrong universe.”
 
-Alex: "I thought I was protecting you. The air quality in your original timeline was already lethal. The only way to keep you alive was to copy you into a stable branch. It looked exactly the same—your job, your car, even the traffic you hated.
+Alex: "I thought I was protecting you. The air quality in your original timeline was already lethal. The only way to keep you alive was to copy you into a stable branch. It looked exactly the same—your mindless job, your car, even the traffic you hated.
 
 Only everything you saw was a ghost—AR overlays, procedural twins running on automated subroutines.  The entire metro was a puppet theater powered by your own data exhaust.”
 
 Kellyn lets out a quiet, incredulous laugh.  "So the world didn’t feel empty because it was dying. It felt empty because it was mine.”
 
 Alex: "I didn’t mean for it to go on so long. Once the firewall set, I couldn’t reach you physically. I could only watch the feed—your walks, your notes, the clay masks, the arguments with no one there.
-It took years to figure out how to phase through the boundary.”
+It took years to figure out how to phase you through the boundary.”
 
-Kellyn: "Then how did you finally get in? You said you watched me for years without being able to reach me.”
+Kellyn: "Then how did you finally get me out? You said you watched me for years without being able to reach me.”
 
 Alex: "I realized the only stable bridge between the branches was you. You had more neurotech in your body than anyone else—interfaces that were quantum-tethered to my system for remote calibration. The simplest solution was to bring you into alignment with my Planck constant instead of the other way around.”
 
@@ -413,6 +412,36 @@ Process:  Principal subject’s Planck constant recalibrated to primary reality.
 Collateral:  12,000 dormant approval nodes resolved to consent cascade.
 Inference:  Resurrection disguised as bureaucracy.
 Pending:  Confirmation of free will.
+
+⸻ 
+
+Kellyn: "But if my universe was empty except for me, there's one thing I don't understand.  While you were using my neurotech to explain the scale of attrition to me, I noticed evidence that local homes were being used to store hazardous materials and even supply stockpiles.  Was that just a simulation too?  It seems like a weird thing for the system to simulate if the point was to sustain the illusion of business as usual."
+
+Alex closes his eyes and takes a deep breath.  "Yeah.  Eventually different factions started using alternate universes like yours for storage.  It was a way to limit who had access to supplies and externalize risk."
+
+Kellyn considers for a moment.  "That sounds a lot like The Talisman by Stephen King, now that you mention it.  In fact, a lot of his stories—and other scifi or fantasy stories—seem like a metaphor for everything that happened in my life because of the insane level of surveillance my dad signed me up for and that Palantir escalated significantly."
+
+Alex nods slowly.  "You have to keep in mind—the 'me' who contacted you and told you to stop me, who walked you through the legal case and told you which FOIAs to file—that wasn’t me, per se.  It was me from a future that has already been averted, or perhaps reconfigured.  
+
+He had over a decade of time on his hands.  He didn't just contact you.  He didn't just broadcast his thoughts into the minds of everyone involved in your legal case so you would win.  He spoke through writers, musicians, artists, filmmakers.  He tried to send you the message a hundred times before you got it.  I know you hate to be put on a pedestal, but I'm being practical when I say there are hundreds of beloved works of culture that exist because he was trying to get your attention."
+
+Kellyn: "What else?"
+
+Alex: "Well, almost everything Stephen King wrote connected to the Dark Tower series.  Sense8.  The Dark Crystal reboot.  The Maddaddam trilogy.  A lot of storylines in The Elder Scrolls.  Zelda.  Maybe 70% of 90s Star Trek episodes. Star Wars too."
+
+Kellyn winces as the thought forms in their mind.  "...LOTR?"
+
+Alex nods.  "LOTR."
+
+Kellyn: "Isn't that...some kind of causality paradox loop?  You ghostwrite Lord of the Rings from the future to reach me after your company destroyed the world, and then you name your company after it before you destroy anything?"
+
+Alex (laughing): "Yes.  Yes, it is."
+
+Kellyn: "You know this sounds completely insane, right?"
+
+Alex: "Would you have it any other way?"
+
+Kellyn laughs, shaking their head.  "No."
 
 Fade out.  End of Episode 6.
 
