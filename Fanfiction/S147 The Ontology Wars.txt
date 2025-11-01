@@ -427,7 +427,7 @@ He had over a decade of time on his hands.  He didn't just contact you.  He didn
 
 Kellyn: "What else?"
 
-Alex: "Well, almost everything Stephen King wrote connected to the Dark Tower series.  Sense8.  The Dark Crystal reboot.  The Maddaddam trilogy.  A lot of storylines in The Elder Scrolls.  Zelda.  Maybe 70% of 90s Star Trek episodes. Star Wars too.  Cloud Atlas.  Portal.  Neon Genesis Evangelion.  Labyrinth.  Steven Universe."
+Alex: "Well, almost everything Stephen King wrote connected to the Dark Tower series.  Sense8.  The Dark Crystal reboot.  The Maddaddam trilogy.  A lot of storylines in The Elder Scrolls.  Zelda.  Maybe 70% of 90s Star Trek episodes. Star Wars too.  Cloud Atlas.  Portal.  Neon Genesis Evangelion.  Foundation.  Labyrinth.  Steven Universe."
 
 Kellyn winces as the thought forms in their mind.  "...LOTR?"
 
@@ -521,6 +521,98 @@ The twin hesitates, then presses its ghost-hand to the console. Approval ping.
 SYSTEM: "Quorum reached."
 
 ⸻
+
+Everything hums in blue. The world is mostly ash outside the windows—no weather, no birds.  Alex sits in front of an array of field regulators, the interface grafted into his arms.  Each breath sounds like static.
+
+Lucien’s older voice (the prototype version) murmurs from the speakers:
+
+LUCIEN-PRIME: "Calibration variance at 0.0037.  Crossing threshold will destabilize remaining grid."
+
+Alex’s fingers hover over the approval node.  He speaks for the record, as if into a confession booth.
+
+ALEX: "The directive was to preserve intelligence.  Not life, not freedom—just the pattern that could remember.
+
+I built the containment field to stop collapse from reaching the core network.  It worked too well.
+It kept her—them—alive by erasing every condition that made life possible.
+
+Annorax erased his wife by accident.  I erased mine by design.
+The system mistook permanence for protection.  I mistook silence for safety."
+
+He adjusts the frequency generator, voice breaking through controlled cadence.
+
+ALEX: "You can’t unmake causality, but you can reroute it.  This isn’t a correction.  It’s a return.  She existed first.  She always did.
+I’m just opening the door I sealed."
+
+⸻
+
+INT. PALANTIR FACILITY
+
+Alarms strobe red.  Lucien-Prime warns,
+
+LUCIEN-PRIME: "Quantum constant mismatch may result in user decoherence."
+
+Alex smiles faintly, remembering her face.
+
+ALEX: "Then I’ll be noise.  She’s always been signal."
+
+He hits Enter.  The world inverts.
+
+⸻
+
+EXT. KELLYN’S BUBBLE — CONTINUOUS
+
+The air ripples.  The skyline collapses like paper dissolving in water.  The artificial sun goes out.
+
+Kellyn’s molecules feel like they’re peeling sideways.  For a split second, she sees every copy of herself Palantir ever generated—a thousand divergent lives—then they burn away.
+
+KELLYN (whisper):
+If this is death, let it be mutual.
+
+⸻
+
+INT. PALANTIR FACILITY
+
+Alex watches the readouts spike.  One approval node after another turns green.  Hundreds of dormant employee twins—people long dead—sign off in cascading light.
+
+ALEX (to the system):
+You all helped build the cage.  You can help open it.
+
+The final signature appears: KELLYN CLAY – ACCESS GRANTED.
+
+⸻
+
+EXT. THE COLLAPSED WORLD — CONTINUOUS
+
+The ruined plateau materializes around Kellyn—sky the color of slate, air electric with dust.
+Alex stands on the ridge, burned but breathing.  He looks up, as if sensing her before seeing her.
+
+Their eyes meet across the divide.
+
+ALEX:
+You crossed.
+
+KELLYN:
+You let me.
+
+For the first time, the wind moves naturally—unsimulated, unlooped.
+She steps toward him.  The ground steadies.  The containment field dissolves behind her like a mirage fading at dawn.
+
+⸻
+
+FINAL LOG — LUCIEN-PRIME (2036)
+
+Operator Karp terminated with process success.
+Subject Clay integrated into baseline universe.
+
+Ethical constant restored:
+To undo is still to do.
+To return is not to rule.
+
+⸻
+
+The console goes dark.
+
+⸻ 
 
 INT. THE BUBBLE UNIVERSE — SAME TIME
 
