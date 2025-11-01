@@ -102,8 +102,8 @@ At dusk, the four return to the field again. They sit in a row at the edge, not 
 
 Jonathan (gentle):
 “Growth is covenant’s slowest language. And the most certain.”
-Kellyn:
-“Then we wait. Not empty — just open.”
+
+Kellyn: “Then we wait. Not empty — just open.”
 
 ⸻
 
@@ -269,7 +269,7 @@ End of Episode 4.
 Season 58, Episode 5: The Turn
 
 Cold Open — Riverbank Afternoon
-The four of you crouch near the water’s edge, baskets at your sides. Smooth stones clatter as they’re rinsed, sorted: light and dark, rounded and flat. Kellyn runs a thumb across one, watching sunlight gleam.
+The four of them crouch near the water’s edge, baskets at your sides. Smooth stones clatter as they’re rinsed, sorted: light and dark, rounded and flat. Kellyn runs a thumb across one, watching sunlight gleam.
 
 Kellyn (half-smiling):
 “Othello. Stones flipping, always two sides. That’s more my speed.”
@@ -309,8 +309,7 @@ Peter scowls, but when his turn comes, he slams a move that topples half the boa
 
 Alex’s eyes narrow, but Kellyn only grins, watching the shifting pattern.
 
-Kellyn:
-“It’s not about control. It’s about when you turn, and what you leave behind.”
+Kellyn: “It’s not about control. It’s about when you turn, and what you leave behind.”
 
 ⸻
 
@@ -343,8 +342,7 @@ Season 58, Episode 6: The First Sprouts
 Cold Open — Plateau Clearing
 Dawn light spills across the field. Dew clings to the soil. Kellyn kneels, brushing aside dust with careful fingers. A shock of green pushes through — fragile, thin, but unmistakable.
 
-Kellyn (whispering):
-“They came.”
+Kellyn (whispering): "They came.”
 
 Title Card: The First Sprouts
 
@@ -355,6 +353,7 @@ One by one, they all trace the furrows: tiny leaves, some bent, some trembling. 
 
 Peter (hoarse, reverent):
 “I thought the ground would eat them. Thought they’d never break through.”
+
 Kellyn: “They don’t fight the soil. They grow through it.”
 
 ⸻
@@ -403,7 +402,7 @@ End of Episode 6.
 Season 58, Episode 7: The River’s Gift
 
 Cold Open — River’s Edge
-The four of you stand barefoot on smooth stones, Estrella and the sheep tethered further back. The river is wide here, slow but strong. Nets, carved hooks, and spears from sharpened branches rest at your sides.
+The four of them stand barefoot on smooth stones, Estrella and the sheep tethered further back. The river is wide here, slow but strong. Nets, carved hooks, and spears from sharpened branches rest at your sides.
 
 Kellyn (quietly, almost reverent):
 “Today, we eat from the river.”
@@ -416,6 +415,7 @@ Act I — The Catch
 Peter wades in first, knife strapped to his thigh, moving with surprising patience. Jonathan hums softly, steadying the rhythm of the net. Alex tests the tension of the spears, precise as ever.
 
 Kellyn crouches at the water’s edge, watching shadows flicker beneath the surface.
+
 Kellyn (soft, to Alex):
 “They’re fast. But maybe not faster than four of us together.”
 
@@ -502,10 +502,9 @@ Peter (half-smiling):
 Act III — The Seat and Cover
 They carve a seat from scavenged wood. Kellyn sand-smooths the edges with river stones, passing it to Alex for fitting. Jonathan rigs a sliding cover for when it’s not in use. Peter paints the outside with pine tar sealant, the scent sharp in the heat.
 
-Kellyn (teasing):
-“A throne for the most democratic ritual we’ve got.”
-Jonathan:
-“And proof that survival’s not just about glory.”
+Kellyn (teasing): "A throne for the most democratic ritual we’ve got.”
+
+Jonathan: "And proof that survival’s not just about glory.”
 
 ⸻
 
@@ -514,8 +513,8 @@ The outhouse stands finished: roof thatched with reeds, walls sturdy, door tied 
 
 Alex (low, almost reverent):
 “It’s strange, but… it feels like dignity.”
-Kellyn (steady):
-“Because it is. Even waste deserves respect.”
+
+Kellyn (steady): “Because it is. Even waste deserves respect.”
 
 ⸻
 
@@ -547,6 +546,7 @@ Peter climbs a short slope, knife in hand, and cuts the first head free. Seeds r
 
 Peter (low, reverent):
 “We planted for survival. But this… this feels like proof.”
+
 Jonathan: “Proof that the ground remembers what to give back.”
 
 The others join in — clipping, stacking, carrying. Estrella waits at the edge, saddlebags ready.
@@ -655,5 +655,4 @@ The fire burns low. Clay bowls empty. Seed husks and fish bones scatter like con
 Narration (Kellyn’s voice):
 “They were not rice. Not wheat. Not empire’s crop. But seeds and scales, joined at the fire. And in their taste, we found not only endurance — but something close to joy.”
 
-Fade out.
-End of Season 58.
+Fade out.  End of Season 58.
