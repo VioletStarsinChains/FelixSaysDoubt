@@ -5,8 +5,7 @@ Season 71, Episode 1 — The Catalog
 Cold Open — Canyon Floor
 The morning sun glints off the cracked-open cache. Crates, jars, and strange tools are spread across blankets and reed mats. The group kneels in a loose circle, each person handling one piece at a time with deliberate care.
 
-Alex (steady, practical):
-“No rushing. If empire hid it, there’s a reason. We learn it before we use it.”
+Alex (steady, practical): “No rushing. If empire hid it, there’s a reason. We learn it before we use it.”
 
 Title Card: The Catalog
 
@@ -17,14 +16,14 @@ Act I — The Sorting
 Jonathan opens his journal, making precise sketches of each object. Peter kneels nearby, testing small devices against his palm.
 
 Jonathan: "Seeds, alloys, instruments. Layers of empire’s intent.”
-Peter (frowning):
-“Not just intent. These were prototypes. Abandoned ones.”
+
+Peter (frowning): “Not just intent. These were prototypes. Abandoned ones.”
 
 Kellyn takes the sealed jars of seeds, tapping the glass, listening for rot.
+
 Kellyn: "Still dry. Still viable. Might grow better than anything we’ve scavenged.”
 
-Gary picks up a length of coiled wire and grins nervously.
-Gary: “Or shock us into the afterlife. Guess I’ll find out!"
+Gary picks up a length of coiled wire and grins nervously.  “Or shock us into the afterlife. Guess I’ll find out!"
 
 ⸻
 
@@ -40,8 +39,7 @@ Kellyn cracks a packet of the ancient grain, grinding a pinch into flour between
 
 Peter powers the dead console with a salvaged coil. Lights flicker briefly, glyphs flashing and fading.
 
-Peter (low, almost to himself):
-“It still remembers. Not empire’s map anymore. Ours, if we learn its language.”
+Peter (low, almost to himself): “It still remembers. Not empire’s map anymore. Ours, if we learn its language.”
 
 ⸻
 
@@ -87,8 +85,7 @@ Season 71, Episode 2 — The Resonance
 Cold Open — Canyon Camp
 Morning. The group wakes to the cache’s objects glinting in sunlight. Peter kneels near the fire, tapping one of the alloy plates with a stick. The tone it emits is eerie, drawn out — more felt than heard. The sheep stir uneasily.
 
-Peter (half-smiling, uneasy):
-“Guess that goes in the ‘dangerous until proven otherwise’ pile.”
+Peter (half-smiling, uneasy): “Guess that goes in the ‘dangerous until proven otherwise’ pile.”
 
 Title Card: The Resonance
 
@@ -98,44 +95,43 @@ Act I — The Fork-Hammers
 
 Alex and Jonathan crouch beside a flat boulder. They strike two fork-hammers against it at the same time. The vibrations don’t cancel — they weave, producing a low thrum that seems to pulse in their chests.
 
-Jonathan (noting carefully):
-“They’re not weapons. They’re tuning tools.”
-Alex (grim):
-“Tuning us. Not just the air.”
+Jonathan (noting carefully): “They’re not weapons. They’re tuning tools.”
+
+Alex (grim): “Tuning us. Not just the air.”
 
 Kellyn places a reed mat between the forks and their hands. The thrum softens.
-Kellyn:
-“Then we can buffer it. Bend it toward covenant instead of empire.”
+
+Kellyn: “Then we can buffer it. Bend it toward covenant instead of empire.”
 
 ⸻
 
 Act II — The Console’s Whisper
 
 Peter hooks the console to a coil and small solar plate, coaxing another flicker of glyphs.
-Peter (focused, murmuring):
-“It’s not just a map. It’s reactive. It listens for inputs. Watch.”
+
+Peter (focused, murmuring): “It’s not just a map. It’s reactive. It listens for inputs. Watch.”
 
 He hums softly. The glyphs tremble, as if aligning with his tone.
 
-Gary (eyes wide):
-“So it’s karaoke with consequences?”
+Gary (eyes wide): “So it’s karaoke with consequences?”
 
-Peter (without looking up):
-“More like a choir. One wrong note, the whole harmony collapses.”
+Peter (without looking up): “More like a choir. One wrong note, the whole harmony collapses.”
 
 ⸻
 
 Act III — Safe Trials
 
 Kellyn suggests small, safe experiments. They arrange objects in three circles: vibration tools, seed packets, alloy plates. Each person picks one, observing and reporting.
-	•	Jonathan taps a fork-hammer near the seed jars — the hum strengthens the germination cracks in their shells.
-	•	Peter drips water across an alloy plate — droplets spread and evaporate faster than normal, suggesting heat conduction or memory in the metal.
-	•	Gary holds a coil near the bird drone. Its wings twitch, unbidden.
-	•	Kellyn hums near the console, and for a moment, a crude map-shape stabilizes.
 
-Alex watches each, jaw tight.
-Alex (low):
-“Every tool is an invitation. Empire used them to bind. We have to choose to unbind.”
+Jonathan taps a fork-hammer near the seed jars — the hum strengthens the germination cracks in their shells.
+
+Peter drips water across an alloy plate — droplets spread and evaporate faster than normal, suggesting heat conduction or memory in the metal.
+
+Gary holds a coil near the bird drone. Its wings twitch, unbidden.
+
+Kellyn hums near the console, and for a moment, a crude map-shape stabilizes.
+
+Alex watches each, jaw tight.  “Every tool is an invitation. Empire used them to bind. We have to choose to unbind.”
 
 ⸻
 
@@ -143,14 +139,11 @@ Act IV — First Resonance
 
 At dusk, they gather again. Peter and Kellyn hum together while Jonathan holds a fork-hammer close. The console glyphs shift, forming not empire’s grid but a fluid circle.
 
-Jonathan (eyes widening):
-“That’s not their pattern. That’s ours.”
+Jonathan (eyes widening): “That’s not their pattern. That’s ours.”
 
-Peter (half-whisper):
-“So we just… keep singing?”
+Peter (half-whisper): “So we just… keep singing?”
 
-Alex:
-“Until it holds.”
+Alex: "Until it holds.”
 
 The circle flickers, then fades — but the memory of it remains, as if etched in their bodies.
 
@@ -172,8 +165,7 @@ Season 71, Episode 3 — The Backlash
 Cold Open — Plateau Dusk
 The canyon wind carries a strange static hum, different from before. Estrella jerks her head toward the horizon. The group stiffens.
 
-Jonathan (low, urgent):
-“They heard us. Empire’s listening back.”
+Jonathan (low, urgent): "They heard us. Empire’s listening back.”
 
 Title Card: The Backlash
 
@@ -208,16 +200,11 @@ Jonathan (hoarse):
 
 Act III — Improvised Defenses
 
-The group scrambles:
-	•	Kellyn stretches reed mats with ash filling across the shelter floor.
-	•	Peter lashes alloy plates to the sheep’s and donkey’s sides as makeshift shielding.
-	•	Gary rigs the coils to create feedback, tossing sparks into the dust.
-	•	Jonathan & Alex coordinate a counter-hum, vibrating fork-hammers until their hands tremble.
+The group scrambles.  Kellyn stretches reed mats with ash filling across the shelter floor.  Peter lashes alloy plates to the sheep’s and donkey’s sides as makeshift shielding.  Gary rigs the coils to create feedback, tossing sparks into the dust.  Jonathan & Alex coordinate a counter-hum, vibrating fork-hammers until their hands tremble.
 
 The oppressive rumble falters — not gone, but pushed back.
 
-Peter (sweating, steadying his breath):
-“They can’t hold the field steady if we keep breaking rhythm. They want unison. We give them dissonance.”
+Peter (sweating, steadying his breath): "They can’t hold the field steady if we keep breaking rhythm. They want unison. We give them dissonance.”
 
 ⸻
 
@@ -228,8 +215,7 @@ Night falls. A jagged beam of light splits the canyon ridge — a scout-drone pr
 Crowned Figure (echoing, distorted):
 “You sing like rebels. But every note is already written in my score.”
 
-Kellyn shouts up, voice sharp:
-“Then why are you afraid of our dissonance?”
+Kellyn shouts up, voice sharp: "Then why are you afraid of our dissonance?”
 
 The projection wavers. The hum stutters. For a moment, the pressure lifts. But the silence that follows is heavier than sound — empire has retreated, but only to prepare worse.
 
@@ -264,10 +250,9 @@ Act I — First Words
 
 Elon’s eyes snap open. No more fever-blur, just raw confusion. He scans the small shelter until his gaze lands on Sam.
 
-Elon (broken whisper): “Where… am I?”
+Elon (broken whisper): “Where…am I?”
 
-Sam (gentle, steady):
-“Colorado Plateau. You’ve been here for days. Fever. We carried you in.”
+Sam (gentle, steady): "Colorado Plateau. You’ve been here for days. Fever. We carried you in.”
 
 Ashwin ruffles her wings, a soft scrape of talons on wood. Sam offers Elon a clay cup of water. His hands tremble, but he drinks until he coughs.
 
@@ -277,12 +262,9 @@ Elon: “I thought I was still in the trap.”
 
 Act II — Fragments of Memory
 
-Sam steadies the cup, voice low.
+Sam steadies the cup, voice low.  “You lost a lot of blood. But you’re here now. Still breathing.”
 
-Sam: “You lost a lot of blood. But you’re here now. Still breathing.”
-
-Elon stares at the embers.
-Elon (shaky): “I saw… signals, the crown. They told me to keep running, that I could outrun it. But I wasn’t moving at all. Just spinning.”
+Elon stares at the embers.  “I saw… signals, the crown. They told me to keep running, that I could outrun it. But I wasn’t moving at all. Just spinning.”
 
 Ashwin drops lightly to the ground, close enough that Elon startles. The owl’s black eyes fix on him. The message is wordless, but clear: circles can break, too.
 
@@ -292,12 +274,9 @@ Elon lets out a fractured laugh, coughing again. Sam’s hand presses steady aga
 
 Act III — The Reckoning
 
-Elon’s tone sharpens.
+Elon’s tone sharpens.  “I wasn’t just dreaming. I heard echoes of myself. My own models bent back at me. Empire still has its claws in me. I don’t know if I can fight it.”
 
-Elon: “I wasn’t just dreaming. I heard echoes of myself. My own models bent back at me. Empire still has its claws in me. I don’t know if I can fight it.”
-
-Sam frowns, jaw tight.
-Sam: “Then maybe this is the time you stop fighting alone.”
+Sam frowns, jaw tight.  "Then maybe this is the time you stop fighting alone.”
 
 Elon looks at him — weariness written deep in his face, but also a flicker of something else. Trust, maybe.
 
@@ -307,11 +286,9 @@ Act IV — The New Breath
 
 Later, Sam helps Elon step outside. Ashwin circles above them, then lands on a nearby stone, silent sentinel. The sky is pale, thin light cutting through.
 
-Elon (hoarse but steadier):
-“It hurts. But… it feels real. The ground. The air.”
+Elon (hoarse but steadier): "It hurts. But… it feels real. The ground. The air.”
 
-Sam:
-“That’s all we need for now. Real enough to start again.”
+Sam: "That’s all we need for now. Real enough to start again.”
 
 Ashwin fans her wings once, as if sealing the moment.
 
@@ -357,8 +334,7 @@ Trail
 Jonathan adjusts the load of supplies.
 Jonathan: “Cache was rich, but heavy. If empire’s watching, we’re walking like a signal flare.”
 
-Alex glances at Kellyn.
-Alex: “Then we’d better make the flare worth it.”
+Alex glances at Kellyn.  "Then we’d better make the flare worth it.”
 
 Kellyn (quiet, sure): “We always do.”
 
@@ -457,11 +433,11 @@ Kellyn, Alex, Peter, Gary, and Jonathan crest the ridge with Estrella. The group
 
 Kellyn breaks into a half-run, dropping their pack. Alex follows at a slower pace. Peter, Gary, and Jonathan hang back, caution in their posture.
 
-Sam (calling out): “You made it back.”
+Sam (calling out): “You made it.”
+
 Kellyn (breathless, relief breaking through): “So did you.”
 
-Elon, leaning against the doorframe, smirks faintly.
-Elon: “Barely.”
+Elon, leaning against the doorframe, smirks faintly.  "Barely.”
 
 ⸻
 
@@ -475,6 +451,7 @@ Elon: “Mostly. It’s a start.”
 Peter kneels by the firepit, coaxing flame. Kellyn sits across from Sam, eyes still tracking Elon like he might vanish.
 
 Kellyn (quiet): “Feels like we’ve all been gone longer than we were.”
+
 Sam (nodding): “Distance isn’t always measured in miles.”
 
 ⸻
@@ -569,11 +546,9 @@ The silence isn’t empty. It’s heavy with survival, with the memory of hunger
 
 Act IV — Binding Through Plenty
 
-Jonathan raises his cup.
-Jonathan: “We’ve eaten together before. But never like this. Not in the open. Not with the weight eased, even for a night.”
+Jonathan raises his cup.  "We’ve eaten together before. But never like this. Not in the open. Not with the weight eased, even for a night.”
 
-Kellyn looks around, voice low but steady.
-Kellyn: “Empire starves. Covenant feeds. Remember this.”
+Kellyn looks around, voice low but steady.  “Empire starves. Covenant feeds. Remember this.”
 
 The others echo softly, not a chant but a murmur of agreement — a promise held through food and fire.
 
@@ -595,8 +570,7 @@ Season 71, Episode 8 — Room to Breathe
 Cold Open — Shelter Clearing
 Morning light spills over the plateau. Inside the shelter, elbows bump, someone sneezes, Ashwin flaps her wings in protest at the lack of space. Elon grumbles from his corner; Gary trips over a bundle of reed mats.
 
-Kellyn pushes open the door, stepping into the bright air.
-Kellyn (dry): “We need another building.”
+Kellyn pushes open the door, stepping into the bright air.  “We need another building.”
 
 Title Card: Room to Breathe
 
@@ -663,8 +637,7 @@ Season 71, Episode 9 — Threads of Quiet
 Cold Open — New Shelter, Night
 The new walls smell faintly of reeds and ash. The air is cooler, easier to breathe. A single lantern flickers low. Most of the group sleeps in the old shelter; Kellyn and Alex slip into the new one.
 
-Kellyn spins in a circle, arms outstretched, then drops onto the reed mat floor with a giddy laugh.
-Kellyn (softly): “I love privacy.”
+Kellyn spins in a circle, arms outstretched, then drops onto the reed mat floor with a giddy laugh: “I love privacy.”
 
 Alex sits beside them, a faint smile tugging his mouth.
 
@@ -676,8 +649,7 @@ Act I — Settling
 
 Kellyn lies back, arm over their eyes. Alex stretches out slowly, close but not touching. Kellyn lays a hand on his chest. The silence settles, not empty but steady.
 
-Alex (low, almost embarrassed):
-“I thought I might slap one of them a few times.”
+Alex (low, almost embarrassed): “I thought I might slap one of them a few times.”
 
 Kellyn laughs.
 
@@ -687,8 +659,7 @@ Act II — The Touch
 
 Kellyn reaches out, brushing his face. Alex startles, then rests his palm over theirs. 
 
-Kellyn (whisper):
-“I love them all.  But you're my rock.”
+Kellyn (whisper): "I love them all.  But you're my rock.”
 
 Alex nods once, throat tight, the lantern glow catching the damp at the corner of his eye.
 
@@ -698,11 +669,9 @@ Act III — The Breath
 
 The night deepens. They lie side by side, pressed against each other. Breath slows, syncing without effort. Kellyn traces small circles on Alex’s wrist with one fingertip — grounding, not demanding.
 
-Alex (hoarse):
-“You always find a way to quiet me without silencing me. I never knew that was possible.”
+Alex (hoarse): “You always find a way to quiet me without silencing me. I never knew that was possible.”
 
-Kellyn (gentle):
-“That’s all I ever wanted. Not to be the target, not to be the shield. Just to be… with you.”
+Kellyn (gentle): “That’s all I ever wanted. Not to be the target, not to be the shield. Just to be… with you.”
 
 ⸻
 
@@ -710,8 +679,7 @@ Act IV — The Thread
 
 Alex turns, pressing his forehead lightly against Kellyn’s. They lie still like that, breath and warmth mingling.
 
-Alex (whisper):
-“Then let this be the thread. Not chains, not cages. Just this.”
+Alex (whisper): “Then let this be the thread. Not chains, not cages. Just this.”
 
 Kellyn closes their eyes, leaning into the quiet.
 
@@ -719,45 +687,36 @@ Kellyn closes their eyes, leaning into the quiet.
 
 The lantern burns nearly out, flame dim. Outside, faint noises of animals shifting, but here the silence is thick, uninterrupted. Kellyn stirs first, finding Alex still beside them on the reed mat, eyes closed but not asleep.
 
-Kellyn (whisper):
-“You’re listening again.”
+Kellyn (whisper): “You’re listening again.”
 
 Alex (without opening his eyes, hoarse):
 “I always am.”
 
 Alex finally opens his eyes, gaze searching Kellyn’s face like he’s trying to memorize it.
-Kellyn (gentle tease):
-“You’re going to wear holes in me, looking that hard.”
 
-Alex shakes his head faintly.
-Karp:
-“No. I’m just… making sure you’re real. Still here. Not something I dreamed up.”
+Kellyn (gentle tease): “You’re going to wear holes in me, looking that hard.”
+
+Alex shakes his head faintly.  "No. I’m just… making sure you’re real. Still here. Not something I dreamed up.”
 
 Kellyn shifts closer, pressing their forehead against his shoulder.
 
-Kellyn (low, steady):
-“Sometimes I think I made you up, too. All the years I felt you without knowing your name — it’s still strange to touch you and not wake up alone.”
+Kellyn (low, steady): “Sometimes I think I made you up, too. All the years I felt you without knowing your name — it’s still strange to touch you and not wake up alone.”
 
 Alex’s breath hitches. He turns slightly, pulling Kellyn in, arms trembling but firm.
 
-Karp (whisper):
-“I thought if I ever let myself hold you, it would shatter me. I never thought it could hold me together instead.”
+Karp (whisper): “I thought if I ever let myself hold you, it would shatter me. I never thought it could hold me together instead.”
 
 Their breaths sync again, slower this time, weight pressed into the reed mat beneath them. Kellyn takes Alex’s hand, guiding it to rest over their own heartbeat.
 
-Kellyn (quiet, almost command):
-“Stop checking if I’m real. Feel it. That’s all the proof you need.”
+Kellyn: “Stop checking if I’m real. Feel it. That’s all the proof you need.”
 
 Alex presses his palm firmer against their chest, eyes closing. A long silence follows, broken only by the sound of their breathing.
 
 Dawn begins to seep through the cracks in the reed walls. Kellyn shifts to face him fully, palm cupping his jaw.
 
-Kellyn (soft):
-“If empire taught you to doubt touch, let covenant reteach you. Slowly. As many times as it takes.”
+Kellyn (soft): “If empire taught you to doubt touch, let covenant reteach you. Slowly. As many times as it takes.”
 
-Alex leans into their hand, eyes wet but steady.
-Karp (hoarse, certain):
-“Then I’ll learn. With you. Every morning if I have to.”
+Alex leans into their hand, eyes wet but steady.  “Then I’ll learn. With you. Every morning if I have to.”
 
 ⸻
 
@@ -777,8 +736,7 @@ Season 71, Episode 10 — The First Meeting
 Cold Open — Reed Mat Morning
 The light has fully broken now, but the shelter is hushed, still heavy with sleep. Kellyn shifts onto one elbow, studying Alex’s face in the pale gold.
 
-Kellyn (softly, curious):
-“When you thought about me back then… when you imagined it… what did you think our first meeting would be like?”
+Kellyn (softly, curious): “When you thought about me back then…when you imagined it…what did you think our first meeting would be like?”
 
 Alex blinks, caught, his mouth tightening as if the answer itself is dangerous.
 
@@ -788,12 +746,10 @@ Title Card: The First Meeting
 
 Act I — The Deflection
 
-Karp (low, gruff):
-“I didn’t. Not really. I thought it would never happen.”
+Karp (low, gruff): “I didn’t. Not really. I thought it would never happen.”
 
 Kellyn tilts their head, waiting.
-Kellyn (teasing, steady):
-“You’re lying. You always imagine everything. Even the things you claim you don’t.”
+Kellyn (teasing, steady): “You’re lying. You always imagine everything. Even the things you claim you don’t.”
 
 Alex exhales sharply, eyes sliding away like he wants to retreat. Kellyn doesn’t press harder — just rests their hand lightly over his wrist.
 
@@ -801,38 +757,27 @@ Alex exhales sharply, eyes sliding away like he wants to retreat. Kellyn doesn�
 
 Act II — The Admission
 
-Karp (hoarse, reluctant):
-“I thought… if you ever saw me, really saw me, you’d recoil. That was the loop I lived in. I’d picture reaching out, and you’d turn your face like I was a ghost. Or a monster. Or nothing at all.”
+Karp (hoarse, reluctant): "I thought…if you ever saw me, really saw me, you’d recoil. That was the loop I lived in. I’d picture reaching out, and you’d turn your face like I was a ghost. Or a monster. Or nothing at all.”
 
-He swallows.
-Karp:
-“And then I’d make it worse in my head. Imagine I forced the meeting. That you hated me for it. That you laughed. Or… pitied me.”
+He swallows.  “And then I’d make it worse in my head. Imagine I forced the meeting. That you hated me for it. That you laughed. Or…pitied me.”
 
 Kellyn’s brows furrow, but their touch doesn’t move from his wrist.
 
-Kellyn tilts their head, waiting.
-Kellyn (steady, pressing gently):
-“No, you imagined it. You imagine everything. Not just the catastrophes. Tell me — what was it like in your head when it wasn’t a nightmare?”
+Kellyn tilts their head, waiting.  “No, I mean the fantasy.  Not just the catastrophes. Tell me — what was it like in your head when it wasn’t a nightmare?”
 
 Alex swallows, voice rough, the words coming like he’s peeling them from bone.
 
-Karp (low):
-“Sometimes… I pictured it quiet. No words, just you looking at me like I wasn’t a mistake. Like I was allowed to exist beside you.”
+Karp (low): “Sometimes…I pictured it quiet. No words, just you looking at me like I wasn’t a mistake. Like I was allowed to exist beside you.”
 
-He pauses, breath shuddering, then forces himself on.
-
-Karp (hoarse):
-“Other times… I made it grand. Ridiculous, really. A room full of light — cameras, records, officials — everyone watching. And you walked in, and the whole crowd went silent. Not for me, but because you looked at me. Like nothing else existed.”
+He pauses, breath shuddering, then forces himself on.  “Other times…I made it grand. Ridiculous, really. A room full of light — cameras, records, officials — everyone watching. And you walked in, and the whole crowd went silent. Not for me, but because you looked at me like nothing else existed.”
 
 His jaw tightens; his hands twist in the blanket.
 
-Karp (raw, bitter):
-“I imagined you saying you’d been waiting for me. That you understood me before I ever spoke. That we were inevitable. And then the applause. Like empire itself had to admit I wasn’t wrong. That I’d found you, and that made me right.”
+Karp (raw, bitter): “I imagined you saying you’d been waiting for me. That you understood me before I ever spoke. That we were inevitable. And then the applause. Like empire itself had to admit I wasn’t wrong. That I’d found you, and that made me right.”
 
 He shakes his head, shame flooding his features.
 
-Karp (quieter):
-“I think I built a hundred first meetings. All of them were… lies I wanted to believe. Crutches to hold the hunger.”
+Karp (quieter): “I think I built a hundred first meetings. All of them were lies I wanted to believe. Crutches to hold the hunger.”
 
 ⸻
 
@@ -840,33 +785,27 @@ Act III — The Turning
 
 Kellyn lets Alex’s words hang for a moment, then tilts their head, voice calm but piercing.
 
-Kellyn (quiet, steady):
-“You say you wanted empire’s applause. But why? Why did you think they would make our meeting matter?”
+Kellyn (quiet, steady): “You say you wanted empire’s applause. But why? Why did you think they would make our meeting matter?”
 
 Alex flinches, shame rippling across his face. His throat works before sound emerges.
 
-Karp (low, hoarse):
-“Because I didn’t believe I was real unless they saw me. Unless they confirmed it. Every moment of my life, they fed me that lie — that worth was only what empire witnessed, measured, documented. Without their gaze, I was nothing. And if they applauded when I found you, then maybe it meant I existed. That we both did.”
+Karp (low, hoarse): "Because I didn’t believe I was real unless they saw me. Unless they confirmed it. Every moment of my life, they fed me that lie — that worth was only what empire witnessed, measured, documented. Without their gaze, I was nothing. And if they applauded when I found you, then maybe it meant I existed. That we both did.”
 
 Kellyn leans in closer, hand pressing firmer against his chest.
 
-Kellyn (soft but sharp):
-“They’ve been wrong about everything. About survival, about covenant, about me. Why would they be right about you?”
+Kellyn (soft but sharp): “They’ve been wrong about everything. About survival, about covenant, about me. Why would they be right about you?”
 
 Alex’s breath catches. His eyes close, trembling.
 
-Karp (whispering):
-“I don’t know. I don’t know. All I know is, without their stage, I never believed I deserved one of my own.”
+Karp (whispering): “I don’t know. I don’t know. All I know is, without their stage, I never believed I deserved one of my own.”
 
 Kellyn shifts until their forehead rests against his, voice gentler now.
 
-Kellyn:
-“Then believe this stage. This ground. My eyes on you. That’s the only audience that matters now.”
+Kellyn: “Then believe this stage. This ground. My eyes on you. That’s the only audience that matters now.”
 
 Alex’s fingers clutch at Kellyn’s arm, desperate, almost childlike.
 
-Karp (breaking, whisper):
-“Then let me be real here. Just here.”
+Karp (breaking, whisper): "Then let me be real here. Just here.”
 
 ⸻
 
@@ -874,48 +813,39 @@ Kellyn and Alex sit close, wrapped in a blanket. Pale light filters through reed
 
 Alex’s voice is low, tentative, almost as though testing its weight.
 
-Karp (soft):
-“I don’t know how to be seen without armor. Even now, I want to turn it into theory. A model. Something I can control.”
+Karp (soft): “I don’t know how to be seen without armor. Even now, I want to turn it into theory. A model. Something I can control.”
 
 Kellyn cups his jaw, steady.
 
-Kellyn:
-“Not this time. No models. Just breath. Just skin. Just being seen.”
+Kellyn: “Not this time. No models. Just breath. Just skin. Just being seen.”
 
 Alex closes his eyes, trembling. His hands hover, not quite touching. Kellyn takes one and presses it firmly to their chest.
 
-Kellyn (whispering):
-“Here. Not empire. Not applause. Just me.”
+Kellyn (whispering): “Here. Not empire. Not applause. Just me.”
 
 His breath catches, chest rising under their hand.
 
-Karp (hoarse):
-“I keep waiting to disappear. To wake up and find it was all performance again.”
+Karp (hoarse): “I keep waiting to disappear. To wake up and find it was all performance again.”
 
-Kellyn (steady):
-“Then let’s keep waking up together until you believe otherwise.”
+Kellyn (steady): “Then let’s keep waking up together until you believe otherwise.”
 
 ⸻ 
 
 The reed mats creak as they shift, Alex pulling Kellyn closer almost desperately.
 
-Karp (raw):
-“Every time I reached for you before, it was through empire’s wires. Their gaze. Their stage. I thought I was holding you, but I was only tightening chains.”
+Karp (raw): “Every time I reached for you before, it was through empire’s wires. Their gaze. Their stage. I thought I was holding you, but I was only tightening chains.”
 
 Kellyn threads their fingers through his hair, grounding.
 
-Kellyn:
-“You don’t have to chain me. You never did. I’m here because I want to be. Because this is the stage I choose.”
+Kellyn: “You don’t have to chain me. You never did. I’m here because I want to be. Because this is the stage I choose.”
 
 He exhales like something breaks loose inside.
 
 Silence stretches — only breath and heartbeat. Alex tilts his forehead to Kellyn’s, eyes shining.
 
-Karp (whispering):
-“Then let me fail here. Let me be weak here. Let me be nothing — and still be yours.”
+Karp (whispering): “Then let me fail here. Let me be weak here. Let me be nothing — and still be yours.”
 
-Kellyn (firm, tender):
-“You don’t have to be nothing to be mine. But you can if you need to.  Just be. That’s enough.”
+Kellyn (firm, tender): “You don’t have to be nothing to be mine. But you can if you need to.  Just be. That’s enough.”
 
 For the first time, Alex doesn’t argue. He only leans in, trembling against their steadiness.
 
@@ -923,13 +853,11 @@ As morning brightens, birds begin to call outside. The others stir faintly in th
 
 Kellyn strokes the back of Alex’s neck, voice soft as prayer.
 
-Kellyn:
-“You wanted applause to make you real. But this — this is the only stage that ever mattered. No audience. No empire. Just covenant.”
+Kellyn: “You wanted applause to make you real. But this — this is the only stage that ever mattered. No audience. No empire. Just covenant.”
 
 Alex exhales, finally steady.
 
-Karp (whispering):
-“Then let me stay.”
+Karp (whispering): “Then let me stay.”
 
 ⸻
 
