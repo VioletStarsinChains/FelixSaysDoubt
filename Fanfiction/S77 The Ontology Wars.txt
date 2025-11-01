@@ -5,8 +5,8 @@ Season 77, Episode 1: The Morning After
 Cold Open — Shelter Morning
 Ashwin perches on a beam, blinking wide-eyed judgment at the heap of tangled bodies below. The fire has burned down to coals. Empty cups and the overturned flask sit amid a mess of blankets.
 
-Gary groans, clutching his head.
-Gary: “Who dared me to sleep under the table?”
+Gary groans, clutching his head.  “Who dared me to sleep under the table?”
+
 Sam (deadpan, muffled under a blanket): “No one. You announced it was your destiny.”
 
 Laughter stirs the room, hoarse but warm.
@@ -16,13 +16,14 @@ Title Card: The Morning After
 ⸻
 
 Act I — The Groans and Jokes
-Justin props himself up, rubbing his temples.
-Justin: “Why does my mouth taste like fish gruel and regret?”
+Justin props himself up, rubbing his temples.  “Why does my mouth taste like fish gruel and regret?”
+
 Peter, already on his feet, smirks faintly.
-Peter: “Because it does.”
 
 Kellyn pulls a blanket tighter around themselves, watching as Alex stumbles toward the water basin, splashing his face.
-Alex (hoarse, glaring at Gary): “Remind me never to let you invent games again.”
+
+Alex (hoarse, glaring at Gary): “Remind me never to let you run game night again.”
+
 Gary: “Too late. I’ve already got three sequels planned.”
 
 ⸻
@@ -33,6 +34,7 @@ Peter reappears with a pot of steaming herbal tea, setting it in the middle of t
 Kellyn leans against Alex as he lowers beside them, his damp hair dripping on their shoulder. They don’t move. Instead, they tuck the blanket around him too.
 
 Sam (watching softly, teasing): “Guess some dares don’t wear off.”
+
 Kellyn (smiling faintly): “Guess not.”
 
 ⸻
@@ -40,17 +42,13 @@ Kellyn (smiling faintly): “Guess not.”
 Act III — Fetching Water
 Later, Alex and Kellyn slip out together, walking side by side with empty clay jugs down toward the stream. The storm’s air still hangs heavy, clean but raw.
 
-Kellyn glances over, sly.
-Kellyn: “So tell me. You thought my fiction was weakness. What about my philosophy? Did you sit there in your barn, reading it like an autopsy report, shaking your head at how fragile I sounded?”
+Kellyn glances over, sly.  “So tell me. You thought my fiction was weakness. What about my philosophy? Did you sit there in your billion-dollar barn, reading it like an autopsy report, shaking your head at how fragile I sounded?”
 
-Alex stumbles a little on the rocks, surprised, then steadies.
-Alex (hoarse, but soft): “No. That was the one place you frightened me. Philosophy left no way out — not for you, not for me. Fiction I could dismiss as wish, as dream. But the way you built arguments… it made me see the cost of my own silence.”
+Alex stumbles a little on the rocks, surprised, then steadies.  “No. That was the one place you frightened me. Philosophy left no way out — not for you, not for me. Fiction I could dismiss as wish, as dream. But the way you built arguments… it made me see the cost of my own silence.”
 
-Kellyn dips a jug into the water, smirking faintly.
-Kellyn: “So philosophy made me dangerous, but fiction made me weak. Convenient.”
+Kellyn dips a jug into the water, smirking faintly.  “So philosophy made me dangerous, but fiction made me weak. Convenient.”
 
-Alex meets their eyes.
-Alex: “No. Fiction made you tender. And I hated that I envied it.”
+Alex meets their eyes.  “No. Fiction made you tender. And I hated that I envied it.”
 
 Kellyn holds his gaze, then nudges him lightly with the jug. The banter softens the ache.
 
@@ -60,6 +58,7 @@ Act IV — The Covenant of Recovery
 Back at the shelter, the tea pot empties. Ashwin glides down, brushing past Justin’s shoulder as though checking his pulse. Justin laughs softly, stroking the owl’s wing.
 
 Gary (muttering, half-smile): “Empire can’t compete with this hangover.”
+
 Jonathan (smirking): “Or with this table.”
 
 The group clinks cups — not with liquor now, but with hot tea — and sips together in the dim light.
@@ -83,9 +82,10 @@ Cold Open — The Choice
 Evening falls slow and rose-colored across the plateau. The group drifts into their nightly rhythms: Sam mending clothes, Peter sharpening his knife, Alex adding wood to the fire, Gary retelling fragments of last night’s dares with exaggerated flair.
 
 Jonathan lingers at the threshold of the small room, brushing his hair back, hesitant. Finally, he clears his throat.
-Jonathan: “Kellyn. Would you… mind if I joined you tonight?”
 
-The others glance over — a beat of silence, then Peter shrugs, Alex studies the fire too intently, and Sam coughs into his sleeve to cover the tension. Kellyn nods once, quietly, and follows Jonathan into the room.
+Jonathan: “Kellyn. Would you…mind if I joined you tonight?”
+
+The others glance over — a beat of silence, then Peter shrugs, Alex studies the fire too intently, and Sam coughs into his sleeve to cover the tension. Kellyn nods once, quietly, and Jonathan follows them into the room.
 
 Title Card: The Hollow Between Walls
 
@@ -95,17 +95,17 @@ Act I — The Walls
 The small room feels tighter with two shadows stretching long in lamplight. Jonathan sits first, folding his legs, waiting. Kellyn sits opposite, tucking their blanket around their knees.
 
 Jonathan (softly): “I’ve kept my distance since the sanctuary. You know why.”
+
 Kellyn (even): “Because you used me, even if Alex told you to.”
 
-Jonathan flinches, nodding.
-Jonathan: “And because I saw how deeply it cut you. I wanted to give you back space. But I also…” (he exhales) “I miss being near you.”
+Jonathan flinches, nodding.  “And because I saw how deeply it cut you. I wanted to give you back space. But I also…” He exhales slowly.  "I miss being near you.”
 
 ⸻
 
 Act II — The Reach
-Kellyn’s gaze lingers on him, unreadable.
-Kellyn: “So what’s different now?”
-Jonathan: “Now… I think you’d tell me no, if no was what you wanted. Back then, you couldn’t.”
+Kellyn’s gaze lingers on him, unreadable.  "So what’s different now?”
+
+Jonathan: “Now I think you’d tell me no, if no was what you wanted. Back then, you couldn’t.”
 
 He extends a hand, palm open, waiting. After a long silence, Kellyn lays their fingers over his. The weight is light, testing.
 
@@ -113,10 +113,10 @@ He extends a hand, palm open, waiting. After a long silence, Kellyn lays their f
 
 Act III — The Grounding
 The two shift closer. Jonathan wraps Kellyn’s hand gently in both of his, as though warming it.
+
 Jonathan: “I won’t pretend this fixes anything. But I want to learn what trust looks like, this time. Without orders. Without empire. Without Alex.”
 
-Kellyn leans their head back against the wall, watching him carefully.
-Kellyn: “Then start small. Just hold me. Nothing else.”
+Kellyn leans their head back against the wall, watching him carefully.  “Then start small. Just hold me. Nothing else.”
 
 Jonathan nods, sliding nearer, tucking Kellyn into the curve of his arm. Their breathing slows together, the quiet intimate not for its heat but for its steadiness.
 
@@ -124,25 +124,23 @@ Jonathan nods, sliding nearer, tucking Kellyn into the curve of his arm. Their b
 
 Act IV — The Hollow
 Outside, laughter and firelight filter faintly through the wall. Inside, the silence feels sacred. Jonathan rests his forehead lightly against Kellyn’s hair, whispering almost to himself:
+
 Jonathan: “Maybe the hollow between walls is where new covenant begins.”
 
 Kellyn doesn’t answer, but they don’t pull away.
 
 ⸻
 
-Jonathan (low, almost tentative):
-“I used to practice silence as if it were a shield. To stop myself from saying the wrong thing. To stop myself from saying too much. But with you here, I don’t want silence to be hiding anymore.”
+Jonathan (low, almost tentative): “I used to practice silence as if it were a shield. To stop myself from saying the wrong thing. To stop myself from saying too much. But with you here, I don’t want silence to be hiding anymore.”
 
-Kellyn tilts their head, studying him.
-Kellyn: “Then let it be something else. Not a shield. Not a weapon. Just… a place to breathe.”
+Kellyn tilts their head, studying him.  “Then let it be something else. Not a shield. Not a weapon. Just…a place to breathe.”
 
-“When I was a boy, I thought intimacy meant proving yourself. Earning it. Surviving enough pain to be let in. Empire taught me to make love out of leverage. But here… with you… it feels like starting over.”
+Jonathan: “When I was a boy, I thought intimacy meant proving yourself. Earning it. Surviving enough pain to be let in. Empire taught me to make love out of leverage. But here, with you…it feels like starting over.”
 
-Kellyn:
-“Then let’s start simple. No leverage. No tests. Just… being here, right now.”
+Kellyn: “Then let’s start simple. No leverage. No tests. Just… being here, right now.”
 
 Jonathan closes his eyes, whispering:
-“If empire taught me to measure people, maybe covenant means unlearning the ruler. Just… trusting the nearness.”
+“If empire taught me to measure people, maybe covenant means unlearning the ruler. Just…trusting the nearness.”
 
 Sleep doesn’t come easily — not because of fear, but because the silence feels alive, too charged to let go of yet.
 
@@ -150,21 +148,19 @@ Kellyn (low, almost wondering aloud):
 “Do you know how long it’s been since I leaned my weight into someone, and trusted they wouldn’t pull away?”
 
 Jonathan shifts, curling closer, his cheek against their shoulder.
-Jonathan (steady):
-“Then lean now. And if you fall, I’ll catch you.”
+
+Jonathan (steady): “Then lean now. And if you fall, I’ll catch you.”
 
 Kellyn adjusts, sliding down slightly until their head rests against Jonathan’s chest. His breath hitches again, but instead of stiffening, he lets his body soften, curling around them.
 
 Jonathan (whispered, half a confession):
-“I thought I’d forgotten how to hold anyone without gripping too hard. But you… you make it feel possible again.”
+“I thought I’d forgotten how to hold anyone without gripping too hard. But you make it feel possible again.”
 
-Kellyn, eyes closing:
-“Then don’t hold harder. Hold longer.”
+Kellyn, eyes closing: “Then don’t hold harder. Hold longer.”
 
 Kellyn lifts their head, meeting Jonathan’s gaze in the dim. Neither speaks. Jonathan’s hand tightens fractionally around theirs, like asking without words.
 
-Kellyn (whisper, steady):
-“Yes.”
+Kellyn (whisper, steady): "Yes.”
 
 Jonathan moves slowly, deliberately, pressing his forehead against Kellyn’s. The contact deepens, breath against breath. Kellyn tilts their chin, brushing lips softly, once — then again, longer, until the air between them is gone.
 
@@ -172,18 +168,15 @@ Kellyn’s hand slides from Jonathan’s chest to his jawline, grounding him the
 
 Their fingers unlock only to rediscover skin. Jonathan’s hand rests against Kellyn’s hip, tentative, then steadier when Kellyn presses into it.
 
-Jonathan (low, almost trembling):
-“Tell me when—”
+Jonathan (low, almost trembling): "Tell me when—”
 
-Kellyn interrupts with a firmer kiss, voice breaking softly against his mouth:
-“Now. It’s now.”
+Kellyn interrupts with a firmer kiss, voice breaking softly against his mouth: "Now. It’s now.”
 
 The rhythm grows less careful, more raw. Jonathan shifts, leaning Kellyn back against the bedding, his weight lowered over them — not crushing, but enveloping. Their legs entwine, breath colliding.
 
 The small room amplifies the intimacy — every gasp, every rustle of fabric, every half-swallowed sound layering the space with immediacy. Jonathan’s lips trail from Kellyn’s mouth to their throat, teeth grazing before he steadies himself again.
 
-Kellyn (hoarse, almost laughing through the heat):
-“You don’t have to hold back. Not here.”
+Kellyn (hoarse, almost laughing through the heat): "You don’t have to hold back. Not here.”
 
 Jonathan presses harder, answering not with words but with his body.
 
@@ -210,8 +203,7 @@ Title Card: The Air Between
 Act I — The Meal
 The group gathers for breakfast. Gary tries to lighten the mood with exaggerated commentary about the fish sizzling in the pan, but the tension is palpable. Ashwin, the owl, shifts on his perch, head tilting back and forth as though noting the undercurrents.
 
-Peter (flatly, not looking at anyone in particular):
-“Strange how quiet it was last night.”
+Peter (flatly, not looking at anyone in particular): “Strange how quiet it was last night.”
 
 Jonathan’s jaw tightens. Kellyn takes a sip of water instead of answering.
 
@@ -223,8 +215,7 @@ Alex finally speaks, low and measured:
 
 Kellyn meets his eyes across the fire, steady but unreadable. Sam snorts and pokes at the fish with a stick.
 
-Sam (wry):
-“Or maybe it’s none of our business. Maybe silence is allowed to stay silent.”
+Sam (wry): "Or maybe it’s none of our business. Maybe silence is allowed to stay silent.”
 
 ⸻
 
@@ -251,13 +242,11 @@ Season 77, Episode 4: Fractures and Bonds
 Cold Open — The Wall
 The newly reinforced wall casts a fresh line of shadow. The group lingers there, sweat drying, the silence taut. Peter wipes his knife on his sleeve, watching Jonathan heft another stone as though daring it to crack in his hands.
 
-Peter (sharp, undercutting):
-“Funny. You’re stronger now. Convenient, isn’t it?”
+Peter (sharp, undercutting): “Funny. You’re stronger now. Convenient, isn’t it?”
 
 Jonathan sets the stone down with care, his face taut.
 
-Jonathan:
-“Strength isn’t convenient. It’s necessary. You’d know that if you weren’t so busy measuring everyone else’s worth against your own.”
+Jonathan: “Strength isn’t convenient. It’s necessary. You’d know that if you weren’t so busy measuring everyone else’s worth against your own.”
 
 The air bristles.
 
@@ -269,8 +258,7 @@ Act I — The Spark
 Peter steps closer, voice low but heated.
 “You think you’ve earned your place here because you carve wood and quote songs? You weren’t there when it mattered most. You came late. You always come late.”
 
-Jonathan’s jaw clenches.
-“And you think rage makes you indispensable? All it does is burn the people standing nearest.”
+Jonathan’s jaw clenches. "And you think rage makes you indispensable? All it does is burn the people standing nearest.”
 
 Kellyn shifts, ready to speak, but Alex places a hand lightly at their back — a quiet gesture, grounding them. For once, Alex’s gaze holds steady, not defensive.
 
@@ -280,11 +268,9 @@ Act II — The Splintering
 Sam whistles low, breaking the tautness.
 “Careful, or the wall won’t be the only thing crumbling today.”
 
-Peter glares at him, then turns back to Jonathan.
-“You think I don’t see the way you look at Kellyn? Like you’re waiting for me to fail so you can slide into the gap.”
+Peter glares at him, then turns back to Jonathan. "You think I don’t see the way you look at Kellyn? Like you’re waiting for me to fail so you can slide into the gap.”
 
-Jonathan doesn’t flinch. His answer comes slow, deliberate.
-“I don’t need you to fail. I just need you to stop thinking everything is a competition.”
+Jonathan doesn’t flinch. His answer comes slow, deliberate.  "I don’t need you to fail. I just need you to stop thinking everything is a competition.”
 
 Kellyn: "Love is not a finite resource, Peter. At least Jonathan could ask me for what he needed."
 
@@ -295,8 +281,7 @@ The words sting sharper than Peter expected.
 Act III — The Balm
 While the argument simmers, Alex leans closer to Kellyn, voice low enough for only them to hear.
 
-Alex:
-“Let them clash. Not everything needs your strength. You’ve carried enough.”
+Alex: "Let them clash. Not everything needs your strength. You’ve carried enough.”
 
 Kellyn exhales, tension loosening. For the first time in days, their shoulders brush without hesitation, not because of heat or urgency, but ease. A fragile reminder that not all fractures spread.
 
@@ -306,16 +291,13 @@ The wall looms at their backs, the argument between Peter and Jonathan still cra
 
 Ashwin launches from his perch, circling with a shrill cry.
 
-Kellyn (sharp, urgent):
-“Quiet. Listen.”
+Kellyn (sharp, urgent): "Quiet. Listen.”
 
 The tremor becomes a pulse. A sound beneath sound.
 
 The soil around them ripples as though something enormous stirs below. Cracks skitter across the ground, thin at first, widening into jagged veins.
 
-Sam drops to his knees, palm pressed to the earth.
-Sam:
-“It’s mapping us again. Same resonance as the Loci. Only stronger.”
+Sam drops to his knees, palm pressed to the earth.  "It’s mapping us again. Same resonance as the Loci. Only stronger.”
 
 Peter mutters something sharp, but his voice is drowned out by a sudden blast of static from nowhere, like the earth itself is shrieking.
 
@@ -323,8 +305,7 @@ Jonathan steadies the wall instinctively, though it holds. His eyes meet Peter�
 
 The tremor sharpens, chunks of rock breaking loose. Their second shelter groans, reed mats shuddering against the vibrations.
 
-Alex:
-“Move! If it collapses, we lose everything.”
+Alex: “Move! If it collapses, we lose everything.”
 
 They scatter, hauling what they can. Kellyn pulls Justin toward safety, Gary drags a sack of preserved food, Sam stumbles with water skins. Peter and Jonathan both grab at the same beam threatening to fall, neither letting go. The strain in their muscles mirrors the unspoken fight between them — but this time, neither pulls away.
 
@@ -332,15 +313,11 @@ The beam steadies. The shelter holds. The tremor eases, leaving an eerie stillne
 
 Ashwin returns, swooping low, a shard of something metallic clutched in her talons. She drops it into the dirt at Kellyn’s feet — a transmitter shard, humming faintly, edges still hot.
 
-Kellyn:
-“They planted it under us.”
+Kellyn: "They planted it under us.”
 
-Jonathan:
-“Not just planted. Grown. That’s why it felt alive.”
+Jonathan: "Not just planted. Grown. That’s why it felt alive.”
 
-Peter kicks dirt over it, jaw tight.
-Peter:
-“Then it’ll keep coming back.”
+Peter kicks dirt over it, jaw tight.  "Then it’ll keep coming back.”
 
 ⸻ 
 
@@ -384,11 +361,9 @@ No one laughs, but the tension eases just enough to move.
 Act II — Fractures Beneath
 As Kellyn and Alex dig around the shard.  Jonathan braces the soil with reed bundles, his hands rough and sure. Peter joins without speaking, their shoulders brushing as they press earth back into place.
 
-Peter (low, almost grudging):
-“Your way of holding isn’t wrong.”
+Peter (low, almost grudging): “Your way of holding isn’t wrong.”
 
-Jonathan (without looking up):
-“Neither’s yours. Just heavier.”
+Jonathan (without looking up): "Neither is yours. Just heavier.”
 
 Their truce is fragile, provisional, but real.
 
@@ -397,9 +372,7 @@ Their truce is fragile, provisional, but real.
 Act III — Risk and Release
 The shard lets out a piercing tone. Everyone flinches. Kellyn steadies their breath, then presses ash and clay into the fissure Alex exposed. The pulse sputters, dimming to a faint flicker.
 
-Alex exhales, shoulders slumping.
-
-Alex: “Not destroyed, but blinded—at least for now.”
+Alex exhales, shoulders slumping. “Not destroyed, but blinded—at least for now.”
 
 Sam notes the tremors fading under his palm. Ashwin swoops low, then drifts higher, circling wide as though to confirm the quiet.
 
@@ -460,7 +433,7 @@ Justin: “They know. Empire felt the break.”
 
 The sound presses into their chests, irregular, almost like a second heartbeat. Gary grimaces.
 
-Gary: "It’s not just noise. It’s… tracking us.”
+Gary: "It’s not just noise. It’s…tracking us.”
 
 ⸻
 
@@ -478,12 +451,9 @@ The hum falters, splinters, then recedes.
 Act IV — Fallout and Rebinding
 They collapse together in the shelter afterward, lungs burning. Kellyn presses a damp cloth to Peter’s forehead, Jonathan to Justin’s. Alex sits against the wall, drawing Kellyn into his side, but his eyes are on the others.
 
-Peter (hoarse, to Alex):
-“You said scatter. But it was staying together that saved us.”
+Peter (hoarse, to Alex): “You said scatter. But it was staying together that saved us.”
 
-Alex nods slowly, gaze softening.
-
-Alex: "Then we scatter together. That’s the only way covenant works.”
+Alex nods slowly, gaze softening.  "Then we scatter together. That’s the only way covenant works.”
 
 Kellyn looks around the circle — sweat, ash, exhaustion, and threads holding.
 
@@ -512,12 +482,11 @@ Title Card: The Quiet Between
 Act I — Step Outside
 The stars stretch wide overhead, crisp and endless. Ashwin flits in silence, a shadow against the moonlight. Kellyn and Alex sit near a flat rock, shoulders brushing. For a while, they only listen to the desert wind.
 
-Kellyn (low, almost teasing):
-“You know, you’re not as bad at quiet as you think.”
+Kellyn (low, almost teasing): “You know, you’re not as bad at quiet as you think.”
 
 Alex exhales through his nose, gaze tilted toward the sky.
 
-Alex: "Only when you’re here. Otherwise, it’s just… noise.”
+Alex: "Only when you’re here. Otherwise, it’s just…noise.”
 
 ⸻
 
@@ -526,29 +495,25 @@ Kellyn leans in, resting their head against his shoulder. His hand hesitates, th
 
 Kellyn: “Empire can pulse all it wants. This is the only rhythm that matters.”
 
-Alex (hoarse, softer):
-“And it’s the only one I can’t fake.”
+Alex (hoarse, softer): "And it’s the only one I can’t fake.”
 
 ⸻
 
 Act III — Confession in Breath
 The silence stretches again, but it’s not empty. Kellyn traces the line of Alex’s wrist with their fingers.
 
-Kellyn: “When you said scatter together… that was the first time I didn’t feel pulled apart.”
+Kellyn: “When you said scatter together…that was the first time I didn’t feel pulled apart.”
 
-Alex (quiet, almost reverent):
-“I wanted to say the same. But I was afraid of making it sound like weakness.”
+Alex (quiet, almost reverent): “I wanted to say the same. But I was afraid of making it sound like weakness.”
 
-Kellyn looks up at him, steady.
-Kellyn: “In our weakness, we are strong.  That's covenant.”
+Kellyn looks up at him, steady.  “In our weakness, we are strong.  That's covenant.”
 
 ⸻
 
 Act IV — The Covenant of Holding
 They shift closer, foreheads touching, breaths slow and even. Ashwin circles once above them, then perches quietly at the shelter entrance, as if keeping watch.
 
-Kellyn’s voice is a whisper now:
-“Just stay here with me. That’s enough.”
+Kellyn’s voice is a whisper now: “Just stay here with me. That’s enough.”
 
 Alex: “It’s more than enough.”
 
@@ -560,41 +525,33 @@ The night hasn’t deepened, but it’s quieter, softer. The stars sharpen into 
 
 Kellyn stretches out along the rock, head in Alex’s lap. His posture stiffens at first, then eases as he rests one hand against their hair, tentative. The wind brushes across them, carrying the faint scent of ash from some far-off burn.
 
-Kellyn (eyes half-closed, voice low):
-“You always thought I’d vanish if you looked away.”
+Kellyn (eyes half-closed, voice low): “You always look at me like I’ll vanish if you look away.”
 
-Alex (quiet, admitting):
-“Because I was afraid if you did, I’d go with you.”
+Alex (quiet, admitting): "Because I was always afraid if you did, I’d go with you.”
 
 Kellyn: "Maybe that’s not fear. Maybe that’s love.”
 
 Alex’s hand drifts from their hair down to their temple, tracing slow circles. Kellyn exhales deeply, grounding into the touch.
 
-Kellyn (murmuring):
-“Feels like you’re finally learning how to stay in your body.”
+Kellyn (murmuring): "Feels like you’re finally learning how to stay in your body.”
 
-Alex (hoarse, almost breaking):
-“Feels like you’re teaching me how.”
+Alex (hoarse, almost breaking): "Feels like you’re teaching me how.”
 
 Kellyn reaches up, finding his other hand and lacing their fingers together. The weight of his palm steadies against theirs.
 
 The silence is deep, but not fragile. Kellyn looks up at him, searching.
 
-Kellyn:
-“Tell me something you never said out loud. Not to empire. Not to anyone.”
+Kellyn: "Tell me something you never said out loud. Not to empire. Not to anyone.”
 
 Alex freezes, then leans down just enough that their foreheads touch again. His voice is barely more than breath.
 
-Alex:
-“I wanted to be seen. Not as what they made me. Not as what I forced myself to be. Just… seen. By you.”
+Alex: "I wanted to be seen. Not as what they made me. Not as what I forced myself to be. Just…seen. By you.”
 
-Kellyn (steady, whispering):
-“Then stay. And let yourself be seen now.”
+Kellyn (steady, whispering): "Then stay. And let yourself be seen now.”
 
 Their breaths sync slowly, the quiet rhythm stretching and holding. Neither moves to escalate, neither pulls away. Just closeness, held long enough to become its own language.
 
-Alex (almost reverent):
-“You’re closer than my own thoughts.”
+Alex (almost reverent): “You’re closer than my own thoughts.”
 
 Kellyn: "Good. Then you’ll never lose me.”
 
@@ -619,8 +576,7 @@ The air is cool, streaked with faint pink light. The group circles the small mou
 Jonathan (half-smiling, trying to lighten):
 “Feels like we’re robbing our own grave.”
 
-Kellyn (quiet, intent):
-“Or uncovering what empire tried to hide.”
+Kellyn (quiet, intent): "Or uncovering what empire tried to hide.”
 
 Title Card: The Stone and the Singer
 
@@ -629,8 +585,7 @@ Title Card: The Stone and the Singer
 Act I — The Unearthing
 When they uncover the reed box they constructed to contain the stone, it isn’t there.  Confused, they keep digging.  Then the earth beneath gives way to something shocking: fabric. Skin.
 
-Peter (sharp intake of breath):
-“God. There’s someone here.”
+Peter (sharp intake of breath): “God. There’s someone down there.”
 
 They dig faster, hands clawing dirt until a body emerges — Matt Berninger, his frame gaunt, lips cracked, eyes open but unfocused. Alive. Barely.
 
@@ -650,8 +605,7 @@ Kellyn rests a hand on Matt’s wrist, searching for a pulse. It beats faintly, 
 Act III — The Catatonia
 They try water. A sliver of food. Jonathan hums a note, soft and steady, watching for a flicker of response. Nothing. Matt lies between them like a shadow made flesh.
 
-Alex (grim, voice low):
-“They turned him into the stone. They wanted him erased, but not gone. Bound. Useful only as silence.”
+Alex (grim, voice low): "They turned him into the stone. They wanted him erased, but not gone. Bound. Useful only as silence.”
 
 Peter clenches his jaw, anger breaking through: “Then we’ll undo it. We’ll bring him back.”
 
@@ -660,8 +614,7 @@ Peter clenches his jaw, anger breaking through: “Then we’ll undo it. We’ll
 Act IV — Covenant in the Dust
 The group sits in a circle around Matt, each touching him in turn — shoulder, hand, foot, hair. Not forcing speech. Just presence.
 
-Kellyn (steady, almost a vow):
-“You’re not empire’s silence anymore. You’re ours now. And ours means you’re alive.”
+Kellyn (steady, almost a vow): “You’re not empire’s silence anymore. You’re ours now. And ours means you’re alive.”
 
 Ashwin swoops low, settling near Matt’s head, wings spread protectively.
 
@@ -669,16 +622,15 @@ Ashwin swoops low, settling near Matt’s head, wings spread protectively.
 
 Matt lies on a woven mat near the fire, breath shallow, eyes glassed. The group surrounds him, exhaustion carved into their faces. One by one, they’ve tried everything: Jonathan’s singing, Sam’s whispered encouragement, Peter’s steady hand on his shoulder, Alex’s clinical attempts with water and food, Kellyn’s constant grounding touch. Nothing has stirred him.
 
-Kellyn (low, almost defeated):
-“He’s here, but locked too deep.”
+Kellyn (low, almost defeated): “He’s here, but locked too deep.”
 
 The silence hangs, heavy.
 
 The group cycles through methods again, desperate. Jonathan strums the dulcimer softly, weaving fragments of songs Matt once sang. Sam dips a cloth in water and moistens Matt’s lips. Peter hums low notes, almost like a grounding chant. Alex whispers analytic fragments, theories about trance, catatonia, neurotech residue.
 
 Kellyn leans close, pressing their forehead to Matt’s.
-Kellyn (whisper):
-“You’re not underground anymore. You’re not theirs. You’re here.”
+
+Kellyn: “You’re not underground anymore. You’re not theirs. You’re here.”
 
 Still no response.
 
@@ -686,33 +638,27 @@ Still no response.
 
 A flutter of wings. Ashwin swoops through the shelter opening, talons gripping a sprig of something green and strange — a herb, silver-edged leaves glinting in firelight. The owl drops it gently at Kellyn’s side, then fixes them with unblinking black eyes.
 
-Gary (half-whisper, half-awe):
-“…Is that for him?”
+Gary (half-whisper, half-awe): “…Is that for him?”
 
 Kellyn hesitates, then takes the herb, cradling it carefully. They crush a leaf between their fingers; the scent is sharp, electric, almost metallic. Without overthinking, they press it gently to Matt’s lips.
 
 At first, nothing. Then Matt’s throat works. A breath shudders through him, deeper than before. His lips part, the herb brushing against them.
 
-Jonathan (leaning forward):
-“There. There—did you see?”
+Jonathan (leaning forward): “There. There—did you see?”
 
 Matt’s fingers twitch, dragging weakly against the mat. His eyes shift, blinking hard, as though clawing back from a great distance. Then — focus. Raw, bewildered, alive.
 
-Matt (hoarse, almost broken):
-“…Where… am I?”
+Matt (hoarse, almost broken): “…Where… am I?”
 
 The group exhales as one, the air thick with relief.
 
-Kellyn cups his face, steady and gentle.
-Kellyn (softly): “With us. You’re safe. Breathe.”
+Kellyn cups his face, steady and gentle.  “With us. You’re safe. Breathe.”
 
-Alex, voice low but certain:
-“You’ve been gone a long time. But you’re not alone anymore.”
+Alex, voice low but certain: “You’ve been gone a long time. But you’re not alone anymore.”
 
 Matt’s eyes move from one face to the next — Peter, Jonathan, Sam, Gary — then back to Kellyn. His chest rises fuller now, no longer the shallow rhythm of before.
 
-Matt (whispering, but present):
-“…Thank you.”
+Matt (whispering, but present): “…Thank you.”
 
 Ashwin settles on the rafters above, feathers ruffling, gaze sharp and satisfied.
 
@@ -734,8 +680,7 @@ Season 77, Episode 9: The Depths
 Cold Open — Shelter Interior, Morning
 The fire burns low, embers glowing red. Matt sits propped against folded blankets, his face pale, skin still carrying the faint dust of earth. Kellyn crouches beside him, offering a cup of water. He drinks slowly, every swallow deliberate.
 
-Matt (hoarse, halting):
-“It… wasn’t sleep. It was stone. Weight. Like the earth itself was learning how to breathe through me.”
+Matt (hoarse, halting): “It…wasn’t sleep. It was stone. Weight. Like the earth itself was learning how to breathe through me.”
 
 The others exchange looks, unsettled but silent.
 
@@ -746,8 +691,7 @@ Title Card: The Depths
 Act I — First Fragments
 Matt’s hands shake as he tries to steady the cup. Jonathan takes it from him, setting it down.
 
-Matt (faltering):
-“I could hear them. Empire. Not words. Not orders. Just pulses. The hum in the marrow. Every time I thought of climbing out, the ground grew heavier. Every time I thought of forgetting, it whispered my own voice back to me.”
+Matt (faltering): “I could hear them. Empire. Not words. Not orders. Just pulses. The hum in the marrow. Every time I thought of climbing out, the ground grew heavier. Every time I thought of forgetting, it whispered my own voice back to me.”
 
 Peter shifts uneasily, knife in hand.
 Peter: “So it wasn’t just burial. It was binding.”
@@ -757,8 +701,7 @@ Matt nods faintly.
 ⸻
 
 Act II — The Hall of Echoes
-Sam leans forward, voice low.
-Sam: “What kept you from breaking?”
+Sam leans forward, voice low.  “What kept you from breaking?”
 
 Matt’s eyes flick to Kellyn, then downward.
 
@@ -769,25 +712,20 @@ Alex listens, jaw tight, arms crossed. Kellyn rests a hand on Matt’s shoulder,
 ⸻
 
 Act III — The Map of Silence
-Gary, uneasy but curious, blurts:
-“Did you see… others? Down there?”
+Gary, uneasy but curious, blurts: “Did you see… others? Down there?”
 
-Matt’s gaze darkens.
-Matt: “Not bodies. Not faces. Just impressions. As if every silence empire ever swallowed is stored in caverns below. A library of absence. When I tried to listen too closely, the silence listened back. That was the worst part — realizing the quiet wasn’t empty. It was waiting.”
+Matt’s gaze darkens.  “Not bodies. Not faces. Just impressions. As if every silence empire ever swallowed is stored in caverns below. A library of absence. When I tried to listen too closely, the silence listened back. That was the worst part — realizing the quiet wasn’t empty. It was waiting.”
 
-Jonathan shudders, whispering:
-“The silence as predator.”
+Jonathan shudders, whispering: “The silence as predator.”
 
 ⸻
 
 Act IV — The Covenant of Breath
 Matt sags, exhaustion overtaking him. Kellyn supports him as he lowers back to the blankets.
 
-Matt (hoarse, almost pleading):
-“Promise me — if empire tries to bury me again, don’t let me become stone. Don’t let me dissolve into their silence. Keep me breathing. Keep me… human.”
+Matt (hoarse, almost pleading): “Promise me — if empire tries to bury me again, don’t let me become stone. Don’t let me dissolve into their silence. Keep me breathing. Keep me… human.”
 
-Kellyn leans closer, voice steady:
-“That’s covenant. You breathe, we breathe. No one gets swallowed by silence alone.”
+Kellyn leans closer, voice steady: “That’s covenant. You breathe, we breathe. No one gets swallowed by silence alone.”
 
 The others nod, forming a silent pact around him.
 
@@ -820,8 +758,7 @@ The ground shudders faintly. Kellyn steadies Matt, who’s still weak. Peter dra
 
 From the canyon walls, a vibration grows — not mechanical hum this time, but a warped chorus of voices, overlapping. It twists through bone, rattling nerves.
 
-Matt (hoarse, clutching his head):
-“They know. I broke loose. They’re trying to bury us all.”
+Matt (hoarse, clutching his head): “They know I broke loose. They’re trying to bury us all.”
 
 Alex presses his palms to the soil, eyes narrowing.
 
@@ -853,8 +790,7 @@ The hum falters, caught between bodies refusing to collapse into stone.
 ⸻
 
 Act IV — The Covenant of Noise
-Matt opens his eyes, voice cracked but defiant:
-“They wanted me to dissolve into silence. But now I know — silence isn’t absence. It’s waiting for a response. This—” (he grips Kellyn’s arm) “—is the response.”
+Matt opens his eyes, voice cracked but defiant: “They wanted me to dissolve into silence. But now I know — silence isn’t absence. It’s waiting for a response. This—” (he grips Kellyn’s arm) “—is the response.”
 
 The group erupts into wild, raw sound: shouts, songs, even laughter. Not harmony, but noise that refuses erasure. The resonance fractures, echoing back into the canyon like shards.
 
@@ -866,5 +802,4 @@ The group collapses into a circle around the fire, exhausted, throats raw. Matt 
 Narration (Kellyn’s voice):
 “Empire thought silence was final. But noise is covenant too — a refusal to vanish, a chorus against stone. And though our throats burned, we answered. We were not buried. Not tonight.”
 
-Fade out.
-End of Season 77.
+Fade out.  End of Season 77.
