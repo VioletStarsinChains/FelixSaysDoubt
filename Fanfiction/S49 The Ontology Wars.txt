@@ -3,14 +3,6 @@ Season 49, Episode 1: The Flight South
 Cold Open — Sanctuary Courtyard
 The morning is gray, smoke faint in the distance. Kellyn stands at the edge of the courtyard, staring north. Estrella stomps nervously. The sheep bleat. Jonathan adjusts his pack. Alex and Peter exchange a sharp, wordless glance.
 
-Kellyn (low, almost whispering):
-“Still isn’t coming back, is he?”
-
-Silence. Then Alex, voice hoarse:
-
-Karp:
-“Empire has him.”
-
 The air itself feels like it drops in temperature.
 
 Title Card: The Flight South
@@ -22,8 +14,6 @@ Jonathan releases the bird drone. It circles, then darts back, panicked, wings r
 
 Peter (grim):
 “Controlled burns. No — not controlled. Directed.”
-Kellyn:
-“By Still.”
 
 The words break against the silence.
 
@@ -34,10 +24,6 @@ Inside the capsule, hurried packing: woven sacks, jars of grain, soap, pottery s
 
 Jonathan (steady, decisive):
 “We head south. Plateau’s dry, but safer. Fire won’t follow as fast.”
-Kellyn:
-“And if Still—”
-Karp (cutting in, raw):
-“Then we pray he remembers who he was before they took him.”
 
 ⸻
 
@@ -70,7 +56,7 @@ Closing Image
 Four figures, a donkey, and two sheep trudging south against a red-stained sky. Behind them, the sanctuary disappears into smoke. Ahead, only open road and the unknown.
 
 Narration (Kellyn’s voice):
-“They took Still from us, turned his hands against our home. But covenant wasn’t stone or fire. Covenant was what fled together, carrying what could not burn.”
+“They took our home from us, turned his hands against our home. But covenant wasn’t stone or fire. Covenant was what fled together, carrying what could not burn.”
 
 Fade out.
 End of Episode 1.
@@ -82,9 +68,6 @@ Season 49, Episode 2: The Ashes Between
 Cold Open — Roadside Hollow
 Night. The air still tastes of smoke. The four sit around a dim fire, Estrella tied nearby, the sheep huddled close. No one speaks at first. The silence itself feels like a weight.
 
-Kellyn (finally, voice low):
-“I keep listening for him. Like he’ll just walk back into camp.”
-
 Peter stares into the fire, jaw tight.
 
 Title Card: The Ashes Between
@@ -92,52 +75,11 @@ Title Card: The Ashes Between
 ⸻
 
 Act I — The First Break
-Jonathan slowly strums the dulcimer, soft and irregular. Alex sits with his hands locked around his knees, gaze fixed downward.
-
-Peter (hoarse, sudden):
-“I hated him. At first. Every word out of his mouth felt like mockery. And now—”
-He breaks off, fists trembling.
-
-Kellyn (soft):
-“You didn’t hate him. You hated the part of yourself you saw in him. That’s why it hurts so much now.”
-
-Peter looks away, ashamed but listening.
+Jonathan slowly strums the dulcimer, soft and irregular. Alex sits with his hands locked around his knees, gaze fixed downward.  The four fall into quiet, memory softening the edges of grief.
 
 ⸻
 
-Act II — The Guilt
-Alex finally speaks, voice raw.
-
-Karp:
-“He left because of me. Empire’s hooks dug in where I could never reach. If I’d tried harder—”
-
-Jonathan (firm, interrupting):
-“No. Don’t you dare carry that alone. Empire plays on all of us. You’re not the reason.”
-
-Kellyn shifts closer, laying a hand over Alex’s.
-
-Kellyn (steady):
-“He isn’t gone. Not all the way. He’s still in there somewhere. Empire doesn’t get to erase him.”
-
-⸻
-
-Act III — The Memory
-Jonathan leans back, eyes distant.
-
-Jonathan:
-“You know what I remember most? The way he laughed at his own terrible jokes. That clipped, dry little cough of a laugh. Like he wasn’t sure he was allowed.”
-
-Peter exhales sharply, almost a laugh, almost a sob.
-Peter:
-“He was awful at jokes.”
-Kellyn:
-“And perfect at them.”
-
-The four fall into quiet, the memory softening the edges of grief.
-
-⸻
-
-Act IV — The Covenant of Ashes
+Act II — The Covenant of Ashes
 The fire burns low. One by one, they press something small into the ashes: a scrap of yarn, a pebble, a carved shard of wood, a dulcimer string. Tokens, fragile but real.
 
 Kellyn (whispering):
@@ -147,7 +89,7 @@ They sit shoulder to shoulder, silent but not alone, the warmth of the fire hold
 
 ⸻
 
-Act V — The Break
+Act III — The Break
 The fire is out. The four lie close together under blankets, the sheep shifting softly nearby. Night stretches heavy.
 
 Kellyn lies stiff, eyes open. Breath catches. At first it’s silent — a tremor in the chest, a shake in the hands. Then it breaks loose.
@@ -173,11 +115,9 @@ Alex doesn’t speak again. He just holds, steady as stone, breathing slow again
 Closing Image 
 The four lie close in the dark, but only two are locked tight together — Kellyn finally breaking, Alex holding without control or condition. Smoke still clings to the air, grief still heavy, but covenant is flesh against flesh, breath against breath.
 
-Narration (Kellyn’s voice, softer than usual):
-“I thought ignoring grief was strength. I thought philosophy was enough. But covenant was breath in the dark, arms holding when the body shook apart. Covenant was letting myself be weak.”
+Narration (Kellyn’s voice, softer than usual): "I thought ignoring grief was strength. I thought philosophy was enough. But covenant was breath in the dark, arms holding when the body shook apart. Covenant was letting myself be weak.”
 
-Fade out.
-End of Episode 2.
+Fade out.  End of Episode 2.
 
 ⸻ 
 
@@ -188,8 +128,7 @@ Dew glistens on grass. Estrella brays softly as Kellyn brushes her coat, while A
 
 Kellyn watches him for a long moment, then speaks.
 
-Kellyn (low, steady):
-“Alex… who all in my family did Palantir kill?”
+Kellyn (low, steady): “Alex… who all in my family did Palantir kill?”
 
 Alex freezes, the feed slipping through his fingers.
 
@@ -200,11 +139,9 @@ Title Card: The Tally
 Act I — The Hesitation
 Alex kneels, gathering the spilled grain. His voice is tight, almost breaking.
 
-Karp:
-“You really want to know?”
+Karp: “You really want to know?”
 
-Kellyn:
-“I asked. That means yes.”
+Kellyn: “I asked. That means yes.”
 
 He keeps his head down, hands shaking as the sheep nose at the feed.
 
@@ -213,15 +150,13 @@ He keeps his head down, hands shaking as the sheep nose at the feed.
 Act II — The Names
 Alex finally lifts his eyes, voice hoarse.
 
-Karp:
-“Your aunt in Florida. Your cousin in Atlanta. Both your grandparents. The rest — they didn’t have to push. The system just… waited. Watched. Let neglect and poison do the work.”
+Karp: “Your aunt in Florida. Your cousin in Atlanta. Both your grandmothers. The rest — they didn’t have to push. The system just…waited. Watched. Let neglect and poison do the work.”
 
 Kellyn strokes Estrella’s neck, jaw tight.
 
 Kellyn narrows their eyes, steady but sharp.
 
-Kellyn:
-“What does that mean? Are my parents still alive? My siblings? Don’t blur it, Alex. I need to hear the words.”
+Kellyn: “What does that mean? Are my parents still alive? My siblings? Don’t blur it, Alex. I need to hear the words.”
 
 Alex freezes, throat working.
 
@@ -230,62 +165,49 @@ Karp (hoarse, almost whispering):
 
 Kellyn exhales, ragged, their voice low and sharp.
 
-Kellyn:
-“I barely knew them. Never cared for them. And that makes it worse. It was senseless, grotesque. It served no purpose in modeling me. I wasn’t allowed to form a bond with them. No response was even possible.”
+Kellyn: “I barely knew them. Never cared for them. And that makes it worse. It was senseless, grotesque. It served no purpose in modeling me. I wasn’t allowed to form a bond with them. No response was even possible.”
 
 Alex looks down, shame pressing his shoulders heavy.
 
-Karp (trembling):
-“I know. That’s why I couldn’t say it until now.  That’s the part I can’t forgive myself for. Not just the deaths. The emptiness they left you with. A hollow network. Silence where there should have been care.”
+Karp (trembling): “I know. That’s why I couldn’t say it until now.  That’s the part I can’t forgive myself for. Not just the deaths. The emptiness they left you with. A hollow network. Silence where there should have been care.”
 
-Kellyn (quiet, cutting):
-“Their deaths didn't leave me empty.  Knowing them was even emptier than losing them.  The only difference is that now I know it wasn’t just me. It was never just me.”
+Kellyn (quiet, cutting): “Their deaths didn't leave me empty.  Knowing them was even emptier than losing them.  The only difference is that now I know it wasn’t just me.”
 
-Karp (whispering):
-“It was never just you. But it was always you I couldn’t look away from.”
+Karp (whispering): “It was never just you. But it was always you I couldn’t look away from.”
 
-Kellyn (firm, calm):
-“Then here’s what I need from you: no more silence. No more letting me find out pieces at a time. If covenant means anything, it means no more secrets between us.”
+Kellyn (firm, calm): “Then here’s what I need from you: no more silence. No more letting me find out pieces at a time. If covenant means anything, it means no more secrets between us.”
 
 Alex nods, shame heavy in his eyes.
 
-Karp (hoarse):
-“Then ask me everything. I’ll answer. Even if it ruins me.”
+Karp (hoarse): “Then ask me everything. I’ll answer. Even if it ruins me.”
 
 ⸻
 
 Act IV — The Question of Looking
 The animals shift nearby, quiet chewing filling the silence. Kellyn studies Alex, sharp but steady.
 
-Kellyn:
-“Then tell me. Why couldn’t you look away? I'm really not that interesting."
+Kellyn: “Then tell me. Why couldn’t you look away? I'm really not that interesting."
 
 Alex’s hands freeze over the grain sack. He swallows hard.
 
-Karp (hoarse):
-“At first, it was hunger disguised as control, maybe. Then guilt. Every time I pulled strings, I told myself it was necessary. But when I watched you… when you didn’t break the way I thought you would… it stopped being guilt. It became… unbearable awe. Reverence, yes. But twisted, because I didn’t know how to honor it. I only knew how to use it.”
+Karp (hoarse): “At first, it was hunger disguised as control, maybe. Then guilt. Every time I pulled strings, I told myself it was necessary. But when I watched you… when you didn’t break the way I thought you would… it stopped being guilt. It became… unbearable awe. Reverence, yes. But twisted, because I didn’t know how to honor it. I only knew how to use it.”
 
-Kellyn (low, unflinching):
-“So you punished the very thing you revered.”
+Kellyn (low, unflinching): “So you punished the very thing you revered.”
 
-Karp (voice cracking):
-“Yes. Because I thought if I could reduce it, control it, then I wouldn’t have to face how much I had lost in myself.”
+Karp (voice cracking): “Yes. Because I thought if I could reduce it, control it, then I wouldn’t have to face how much I had lost in myself.”
 
 Kellyn doesn’t move closer, but their voice softens, nearly a whisper.
 
-Kellyn:
-“And now?”
+Kellyn: “And now?”
 
-Karp (long pause, trembling):
-“Now I don’t want to reduce you. Or control you. I want to learn how to look without needing to break what I see.”
+Karp (long pause, trembling): "Now I don’t want to reduce you. Or control you. I want to learn how to look without needing to break what I see.”
 
 ⸻
 
 Closing Image
 The fire crackles low, shadows bending across the animals huddled close. Kellyn strokes Estrella’s mane, jaw tight, eyes fixed on the dark beyond the flames. Alex shifts, voice low and halting:
 
-Alex (rough, uncertain):
-“You didn’t need them to be whole. But I… I need you to know — I saw what they took. And it wasn’t nothing.”
+Alex (rough, uncertain): “You didn’t need them to be whole. But I… I need you to know — I saw what they took. And it wasn’t nothing.”
 
 Kellyn doesn’t look up, but their hand stills on the donkey’s mane. A breath shudders out of them — not grief, but recognition.
 
@@ -294,8 +216,7 @@ The silence after isn’t collapse, but it isn’t comfort either. It’s the fr
 Narration (Kellyn’s voice):
 “They thought they could starve me of meaning by cutting every tie. But meaning wasn’t in blood or branches. It was here — in the ones who stayed, who dared to name what empire tried to erase. Survival was never lineage. It was covenant. And covenant lived.”
 
-Fade out.
-End of Episode 3.
+Fade out.  End of Episode 3.
 
 ⸻
 
@@ -328,8 +249,7 @@ They stop at a dry wash for water. Jonathan crouches to fill skins. Peter tends 
 Kellyn (quiet, strained):
 “I don’t know how to mourn what I never had.”
 
-Alex:
-“Then don’t mourn. Let me carry the grief, if all you can hold is the witness.”
+Alex: “Then don’t mourn. Let me carry the grief, if all you can hold is the witness.”
 
 Kellyn finally looks at him, unreadable.
 
@@ -338,8 +258,7 @@ Kellyn finally looks at him, unreadable.
 Act III — The Fire
 That night, they sit around a small fire, food sparse. Peter jokes weakly about “apocalypse portions.” Jonathan chuckles, breaking tension. But when silence returns, Alex speaks again.
 
-Alex (measured):
-“Empire fed on silence. On things unnamed. If covenant means anything, it means we choose not to starve each other that way.”
+Alex (measured): “Empire fed on silence. On things unnamed. If covenant means anything, it means we choose not to starve each other that way.”
 
 Kellyn stares at the flames, then lets their shoulder brush his — the smallest sign of permission.
 
@@ -351,8 +270,7 @@ Four figures under stars: one humming, one restless, one watchful, one leaning j
 Narration (Kellyn’s voice):
 “They thought survival was scarcity. But covenant meant abundance, even when all we had was firelight and the choice not to look away.”
 
-Fade out.
-End of Episode 4.
+Fade out.  End of Episode 4.
 
 ⸻ 
 
@@ -384,8 +302,7 @@ They sink down onto the sand, backs against a rock. Alex’s hand hovers, then s
 Kellyn (barely above a whisper):
 “Always measuring.”
 
-Alex:
-“No. Tonight, just feeling.”
+Alex: “No. Tonight, just feeling.”
 
 Kellyn turns their wrist, letting Alex’s palm rest fully against their skin.
 
@@ -394,11 +311,9 @@ Kellyn turns their wrist, letting Alex’s palm rest fully against their skin.
 Act III — The Lean
 The night deepens. Kellyn shifts until their head rests against Alex’s shoulder. He stiffens at first, then exhales, letting the weight settle. His cheek brushes their hair.
 
-Kellyn (eyes closed):
-“I didn’t think I had anything left to give. Not after Still. Not after everything. But maybe… leaning counts.”
+Kellyn (eyes closed): “I didn’t think I had anything left to give. Not after everything. But maybe… leaning counts.”
 
-Alex (hoarse, steady):
-“Leaning is everything.”
+Alex (hoarse, steady): “Leaning is everything.”
 
 ⸻
 
@@ -413,8 +328,7 @@ Two figures wrapped in one cloak, bodies pressed close against the desert night.
 Narration (Kellyn’s voice):
 “Empire taught us to starve for touch. But covenant let us breathe again — not in hunger, not in conquest, but in the simple miracle of leaning and being leaned upon.”
 
-Fade out.
-End of Episode 5.
+Fade out.  End of Episode 5.
 
 ⸻ 
 
@@ -442,11 +356,9 @@ Kellyn (whisper, almost to themself):
 Act II — The Waking
 Alex stirs, eyes fluttering open. For a moment he doesn’t pull back, doesn’t armor himself — he just blinks, dazed, then focuses on Kellyn.
 
-Alex (rough with sleep):
-“Still here.”
+Alex (rough with sleep): “Still here.”
 
-Kellyn (quiet smile):
-“Where else would I be?”
+Kellyn (quiet smile): “Where else would I be?”
 
 He exhales, almost a laugh, almost a sob.
 
@@ -455,16 +367,13 @@ He exhales, almost a laugh, almost a sob.
 Act III — The Touch
 Kellyn lifts their hand, tracing a slow line along his jaw, down to the hollow of his throat. Alex’s pulse jumps beneath their fingers.
 
-Kellyn (gentle, steady):
-“Even when the world burns, there’s this. Touch. Breath. Staying.”
+Kellyn (gentle, steady): “Even when the world burns, there’s this. Touch. Breath. Staying.”
 
 Alex closes his eyes, leaning into the hand.
 
-Alex (whisper, almost breaking):
-“Don’t let me forget.”
+Alex (whisper, almost breaking): “Don’t let me forget.”
 
-Kellyn:
-“Then I’ll remind you. Every morning, if I have to.”
+Kellyn: "Then I’ll remind you. Every morning, if I have to.”
 
 ⸻
 
@@ -490,6 +399,7 @@ Peter lingers at the back, scanning the horizon, silent. Jonathan hums under his
 
 Kellyn (gently, glancing at Peter):
 “You’ll walk yourself ragged if you keep staring backwards.”
+
 Peter (low, not looking up):
 “Better than being caught blind.”
 
@@ -500,6 +410,7 @@ By midday, heat bears down. Packs dig into shoulders. Jonathan shifts the weight
 
 Jonathan (dry, to break the silence):
 “Remind me again why humans didn’t just evolve wheels?”
+
 Kellyn (half-smiling):
 “We did. Then we broke them.”
 
@@ -535,8 +446,7 @@ Four figures, one donkey, two sheep silhouetted against a vast copper horizon. N
 Narration (Kellyn’s voice):
 “We could not undo loss. Could not unburn what empire set aflame. But step by step, covenant carried forward — fragile, stubborn, alive.”
 
-Fade out.
-End of Episode 6.
+Fade out.  End of Episode 6.
 
 ⸻ 
 
@@ -547,8 +457,8 @@ The wind sweeps dust low across the ground. The group shoulders their packs, Est
 
 Jonathan (squinting at the horizon):
 “Sky’s clear. At least the weather’s with us.”
-Peter (flat):
-“For now.”
+
+Peter (flat): “For now.”
 
 They step onto the trail, leaving the night’s hollow behind.
 
@@ -571,8 +481,8 @@ By midday, they veer off trail to search a shaded ravine. Jonathan points out pr
 
 Peter finds nothing, then kicks a stone loose. Beneath it, a cluster of pale mushrooms.
 
-Peter (grim):
-“Edible or poison?”
+Peter (grim): “Edible or poison?”
+
 Kellyn (kneeling, examining):
 “Neither. Fodder for the sheep.”
 
@@ -612,8 +522,7 @@ Four figures, one donkey, two sheep, huddled close against a backdrop of red dus
 Narration (Kellyn’s voice):
 “Empire burned futures into ash. But covenant walked on — one blister, one breath, one step at a time.”
 
-Fade out.
-End of Episode 7.
+Fade out.  End of Episode 7.
 
 ⸻ 
 
@@ -655,13 +564,11 @@ Alex exhales, long and low, letting his weight tip against Kellyn’s shoulder.
 Act III — The Confession
 After a long quiet, Alex murmurs:
 
-Alex (low):
-“Every night I expect to wake to fire. Still turning against us. Or empire finding another way. But here, like this… the fear loosens. Only with you.”
+Alex (low):b“Every night I expect to wake to fire. Still turning against us. Or empire finding another way. But here, like this… the fear loosens. Only with you.”
 
 Kellyn closes their eyes, forehead brushing his temple.
 
-Kellyn (steady):
-“Then let tonight be a reprieve. Tomorrow’s weight will come soon enough.”
+Kellyn (steady): “Then let tonight be a reprieve. Tomorrow’s weight will come soon enough.”
 
 ⸻
 
@@ -670,6 +577,7 @@ They lie down close, sharing one blanket. Breath slows in tandem. Dust still cli
 
 Kellyn (whispering into the dark):
 “Even dust can be holy, if it means we’re still breathing together.”
+
 Alex (hoarse, almost broken):
 “Then breathe with me. Until morning.”
 
@@ -680,8 +588,8 @@ The horizon glows pale orange. Estrella snorts softly, the sheep stir. Jonathan 
 
 Peter crouches near the fire pit, hesitant with the flint. Kellyn joins him, carrying a bundle of kindling.
 
-Kellyn (gently teasing):
-“Looks like you’ve been glaring at those sparks longer than they’ve been glaring at you.”
+Kellyn (gently teasing): “Looks like you’ve been glaring at those sparks longer than they’ve been glaring at you.”
+
 Peter (dry): “They’re stubborn.”
 
 Kellyn kneels, steady hands guiding the strike. Flame catches, soft and small.
@@ -691,8 +599,8 @@ Kellyn kneels, steady hands guiding the strike. Flame catches, soft and small.
 Act VI — The First Meal
 Kellyn lays out what little they carried: cracked grain, dried greens, a strip of smoked meat. Peter arranges them into the pot, slow, careful.
 
-Peter (low):
-“I never learned this. Someone always cooked for me. Or I bought it ready. Even when I lived alone.”
+Peter (low): “I never learned this. Someone always cooked for me. Or I bought it ready. Even when I lived alone.”
+
 Kellyn (calm, stirring):
 “Then now you learn. Fire doesn’t care where you came from. Only what you bring to it.”
 
@@ -701,15 +609,11 @@ Peter nods, eyes fixed on the slow swirl of the pot.
 ⸻
 
 Act VII — The Confession
-Silence lingers. Then Peter speaks, voice hoarse:
+Silence lingers. Then Peter speaks, voice hoarse: “When I watched you before… I never imagined doing something as ordinary as this. Cooking together. It seemed too… human. Too soft. Almost unbearable.”
 
-Peter:
-“When I watched you before… I never imagined doing something as ordinary as this. Cooking together. It seemed too… human. Too soft. Almost unbearable.”
+Kellyn (gently): “And now?”
 
-Kellyn (gently):
-“And now?”
-Peter:
-“Now it feels like the only thing that makes sense.”
+Peter: “Now it feels like the only thing that makes sense.”
 
 Kellyn hands him the spoon. He stirs, awkward but steady.
 
@@ -720,8 +624,7 @@ Jonathan wanders over, sniffing the air. Alex stays where he is, watching but no
 
 Peter notices, jaw tight. Kellyn lightly nudges his shoulder.
 
-Kellyn (quiet, steady):
-“Don’t cook for them. Cook with me. Just for us. They’ll eat, but this is ours.”
+Kellyn (quiet, steady): “Don’t cook for them. Cook with me. Just for us. They’ll eat, but this is ours.”
 
 Peter breathes, shoulders easing, and keeps stirring.
 
@@ -730,8 +633,8 @@ Peter breathes, shoulders easing, and keeps stirring.
 Act IX — The Covenant of Breakfast
 The pot bubbles, smell sharp and earthy. Kellyn ladles the food into four rough bowls, handing Peter the first.
 
-Kellyn:
-“Not empire’s feast. But covenant’s offering.”
+Kellyn: “Not empire’s feast. But covenant’s offering.”
+
 Peter (softly, almost reverent):
 “Then it’s more than enough.”
 
@@ -743,8 +646,7 @@ Two figures crouched close at the fire, steam curling from bowls into the dawn. 
 Narration (Kellyn’s voice):
 “Empire devoured banquets and called it power. But covenant made breakfast holy. Not for plenty. Not for mastery. But because it was shared.”
 
-Fade out.
-End of Episode 8.
+Fade out.  End of Episode 8.
 
 ⸻ 
 
@@ -753,12 +655,11 @@ Season 49, Episode 9: The Morning Table
 Cold Open — Campsite Clearing
 Steam rises from the pot over the fire. Alex sits with his back against Estrella’s flank, Jonathan cross-legged beside the sheep. Peter stays close to the fire, shoulders tight, bowl untouched.
 
-Kellyn (teasing):
-“You’re staring at it like it’s a ledger.”
-Peter (grumbling):
-“It feels… ceremonial.”
-Jonathan (dry smile):
-“Everything does, these days.”
+Kellyn (teasing): "You’re staring at it like it’s a ledger.”
+
+Peter (grumbling): “It feels… ceremonial.”
+
+Jonathan (dry smile): “Everything does, these days.”
 
 Title Card: The Morning Table
 
@@ -769,6 +670,7 @@ The four sit in a rough square, bowls steaming. For a while, only the sound of s
 
 Jonathan (lightly, breaking the quiet):
 “Better than I expected. The sheep were jealous, though.”
+
 Estrella brays as if in agreement.
 
 Alex almost smiles, tension easing. Kellyn catches the flicker and files it away.  Kellyn stands, walks over to Estrella, and gives her a hug, as much for Estrella's sake as their own.
@@ -778,13 +680,11 @@ Alex almost smiles, tension easing. Kellyn catches the flicker and files it away
 Act II — The Confession
 Peter stares down into his bowl, voice low.
 
-Peter:
-“I never knew meals could feel like this. Not just eating. But… belonging. It makes me want to stay. Which terrifies me.”
+Peter: “I never knew meals could feel like this. Not just eating. But…belonging. It makes me want to stay. Which terrifies me.”
 
 Alex watches him sharply but doesn’t interrupt. Jonathan keeps his gaze steady, supportive.
 
-Kellyn (quiet, steady):
-“That’s what covenant does. It terrifies because it lasts.”
+Kellyn (quiet, steady): “That’s what covenant does. It terrifies because it lasts.”
 
 Peter nods once, chewing slowly, almost reverently.
 
@@ -793,15 +693,13 @@ Peter nods once, chewing slowly, almost reverently.
 Act III — The Release
 When the bowls are empty, Alex and Jonathan begin packing. Peter starts to rise, but his body moves stiff, shoulders tight, back rigid. Kellyn notices, kneeling beside him.
 
-Kellyn (gently):
-“Stay still. You’re wound too tight.”
+Kellyn (gently): “Stay still. You’re wound too tight.”
 
 Their hands press into his back and ribs, slow and firm, working across hardened fascia. Peter shudders, breath stuttering, then exhales.
 
-Peter (hoarse, half-joking):
-“Feels like you’re unraveling me.”
-Kellyn (softly):
-“Not unraveling. Releasing. You’re not a knot to be untied.”
+Peter (hoarse, half-joking): “Feels like you’re unraveling me.”
+
+Kellyn (softly): “Not unraveling. Releasing. You’re not a knot to be untied.”
 
 Peter’s jaw unclenches. For a rare moment, he closes his eyes, letting it happen.
 
@@ -810,10 +708,9 @@ Peter’s jaw unclenches. For a rare moment, he closes his eyes, letting it happ
 Act IV — The Covenant of Table and Touch
 By the time the packs are tied to Estrella, Peter stands easier, shoulders looser. He glances at Kellyn, voice almost tender.
 
-Peter:
-“Thank you. For the food. For this. For seeing it before I admitted it.”
-Kellyn (smiling faintly):
-“Then you’re starting to understand how covenant works.”
+Peter: “Thank you. For the food. For this. For seeing it before I admitted it.”
+
+Kellyn (smiling faintly): “Then you’re starting to understand how covenant works.”
 
 ⸻
 
@@ -823,8 +720,7 @@ Four figures gather their things, bowls tucked away, the fire’s smoke curling 
 Narration (Kellyn’s voice):
 “Empire turned meals into fuel and bodies into machines. But covenant made them both tender — bowls passed hand to hand, knots softened by touch. Not unraveling, but releasing.”
 
-Fade out.
-End of Episode 9.
+Fade out.  End of Episode 9.
 
 ⸻ 
 
@@ -833,8 +729,7 @@ Season 49, Episode 10: The Ashfall
 Cold Open — The Trail South
 The group moves single file along a narrow path. Estrella trudges under her load, sheep trotting alongside. Kellyn notices a haze in the distance — not dust, not fog. Ash drifts faintly from the sky, coating the scrub.
 
-Kellyn (low):
-“Not storm. Not snow. Ash.”
+Kellyn (low): “Not storm. Not snow. Ash.”
 
 Title Card: The Ashfall
 
@@ -843,10 +738,9 @@ Title Card: The Ashfall
 Act I — The First Signs
 The air thickens as they press on. Jonathan covers his mouth with cloth. Alex slows to watch the treeline, scanning. Peter lags, coughing harshly.
 
-Peter (hoarse):
-“It burns.”
-Alex (grim):
-“Fire nearby. Wind carried it this way.”
+Peter (hoarse): “It burns.”
+
+Alex (grim): “Fire nearby. Wind carried it this way.”
 
 Kellyn ties a damp cloth over Peter’s face, adjusting the knot.
 
@@ -855,10 +749,9 @@ Kellyn ties a damp cloth over Peter’s face, adjusting the knot.
 Act II — The Turn Back
 The haze grows dense. Black flakes fall on their shoulders. Estrella stomps, uneasy.
 
-Jonathan (firm):
-“We can’t keep walking blind into it. Shelter or we choke.”
-Kellyn (pointing):
-“Outcrop. Stone walls — there.”
+Jonathan (firm): “We can’t keep walking blind into it. Shelter or we choke.”
+
+Kellyn (pointing): “Outcrop. Stone walls — there.”
 
 They guide Estrella and the sheep to a shallow cave just as the sky dims with heavier ash.
 
@@ -867,10 +760,9 @@ They guide Estrella and the sheep to a shallow cave just as the sky dims with he
 Act III — The Confession in Smoke
 Inside the cave, coughing subsides. The four sit close, listening to the faint roar of distant fire. Peter rubs his face, ash streaking his skin.
 
-Peter (low, shaken):
-“It feels like empire. The air itself against us. Like no matter where we walk, the punishment follows.”
-Kellyn (steady):
-“Empire burns fast. Covenant lasts. Don’t mistake the ash for the fire.”
+Peter (low, shaken): “It feels like empire. The air itself against us. Like no matter where we walk, the punishment follows.”
+
+Kellyn (steady): “Empire burns fast. Covenant lasts. Don’t mistake the ash for the fire.”
 
 Alex watches Kellyn for a long moment, then nods. Jonathan lays his hand briefly on Peter’s shoulder — grounding, silent.
 
@@ -881,8 +773,7 @@ Hours pass. The air clears slightly. When they step back outside, the ground is 
 
 Kellyn crouches, pulling a dry brush from their pack. They start with the sheep, sweeping ash from their wool.
 
-Kellyn (softly):
-“They can’t carry this with them. It’ll choke their skin.”
+Kellyn (softly): “They can’t carry this with them. It’ll choke their skin.”
 
 Jonathan kneels beside them, following their rhythm. Peter joins, brushing Estrella’s flank. She stomps once, then settles under the steady strokes.
 
@@ -890,12 +781,11 @@ Alex wipes ash from his own arms, then kneels behind Kellyn to help with the las
 
 When the animals stand clean — coats lighter, eyes calmer — the group pauses to breathe.
 
-Peter (quiet, half-wonder):
-“It looks almost like snow.”
-Kellyn (soft, sharp):
-“Snow feeds rivers. This only poisons.”
-Alex (low):
-“Then we keep walking. Not for empire’s ash, but for covenant’s water.”
+Peter (quiet, half-wonder): “It looks almost like snow.”
+
+Kellyn (soft, sharp): “Snow feeds rivers. This only poisons.”
+
+Alex (low): “Then we keep walking. Not for empire’s ash, but for covenant’s water.”
 
 They shoulder their packs again, setting off with slower, deliberate steps.
 
@@ -904,8 +794,7 @@ They shoulder their packs again, setting off with slower, deliberate steps.
 Act V —  Ash Plains
 Morning light struggles through a haze. The air smells faintly of smoke and minerals. Kellyn, Alex, Peter, Jonathan, and the animals walk in single file across a barren stretch. Every step leaves a shallow print in the powdery ground.
 
-Kellyn (dry, steady):
-“Feels like walking through flour. Except flour doesn’t burn your lungs.”
+Kellyn (dry, steady): “Feels like walking through flour. Except flour doesn’t burn your lungs.”
 
 ⸻
 
@@ -914,20 +803,18 @@ They pace themselves carefully. Estrella carries most of the heavier gear, thoug
 
 The silence of travel is broken only by coughing and the crunch of shifting ash.
 
-Jonathan (low):
-“Funny thing about landscapes like this. They look empty. But emptiness has weight. Makes you feel it in the legs.”
-Kellyn (grim smile):
-“Weight’s fine. Means we’re still standing.”
+Jonathan (low): “Funny thing about landscapes like this. They look empty. But emptiness has weight. Makes you feel it in the legs.”
+
+Kellyn (grim smile): “Weight’s fine. Means we’re still standing.”
 
 ⸻
 
 Act VII — The Trial of Breath
 By midday the air thickens. They pause, covering mouths with damp cloth. Estrella snorts, tossing her head.
 
-Peter (hoarse, muttering):
-“If empire wanted us slow, they’ve done it.”
-Kellyn (firm):
-“Then we keep walking slow. Slow is still forward.”
+Peter (hoarse, muttering): "If empire wanted us slow, they’ve done it.”
+
+Kellyn (firm): "Then we keep walking slow. Slow is still forward.”
 
 Jonathan passes around a flask, just enough to wet throats. No one lingers; the pause is brief.
 
@@ -959,5 +846,5 @@ Four figures and their animals move across an ash-strewn plain, faint footprints
 Narration (Kellyn’s voice):
 “Empire burned the world to ash. But ash cannot hold. Footsteps pass through, winds scatter. Covenant kept walking — breath by breath, step by step — until even fire could not follow.”
 
-Fade out.
-End of Season 49.
+Fade out.  End of Season 49.
+
