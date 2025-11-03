@@ -72,7 +72,7 @@ A: A nod to The Mule (Foundation) + Number Six (The Prisoner) + the "sixth man" 
 
 Q: What are you hoping to get out of this?
 
-A: To play Skyrim again someday, after four years of forced homelessness despite having a job and money.
+A: To get back to where I belong.
 
 Q: Have you considered the possibility that you're insane?
 
