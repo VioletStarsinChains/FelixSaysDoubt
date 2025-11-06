@@ -16,4 +16,4 @@ The point is simple: the record continues.
 
 Q: What are you hoping to get out of this?
 
-A: To get back to where I belong.
+A: To get back to a sustainable timeline instead of this nightmare Planck prison.
