@@ -1,0 +1,81 @@
+IN THE UNITED STATES DISTRICT COURT
+
+KELLYN CLAY,
+  Plaintiff,
+
+v.
+
+UNITED STATES OF AMERICA,
+by and through its agencies including but not limited to
+the Central Intelligence Agency (CIA), Department of Defense (DoD),
+and Department of Justice (DOJ),
+
+and
+
+WILLIAM ALTON CLAY,
+individually and in his capacity as executor of the Estate of Eugenia Clay Head,
+
+and
+
+PALANTIR TECHNOLOGIES INC.,
+a private defense contractor headquartered in Denver, Colorado,
+
+and
+
+JOHN DOE CONTRACTING AGENCIES AND AFFILIATES,
+whose names and identities are presently unknown,
+
+and
+
+STARBUCKS CORPORATION,
+a multinational coffeehouse and beverage company headquartered in Seattle, Washington,
+
+and
+
+AMAZON.COM, INC.,
+a multinational e-commerce corporation headquartered in Seattle, Washington,
+
+and
+
+REV.COM, INC.,
+a transcription and captioning services company headquartered in Austin, Texas,
+
+and
+
+PAPERBOY MARKETING,
+a flyer distribution company operating in the Twin Cities under successive ownership during the period of Plaintiff’s employment,
+
+and
+
+ELLIE FAMILY SERVICES, n/k/a ELLIE MENTAL HEALTH, a private mental health services corporation headquartered in Mendota Heights, Minnesota,
+  Defendants.
+
+⸻
+
+PLAINTIFF’S REQUEST FOR PRODUCTION OF DOCUMENTS
+
+⸻
+
+Request No. 6 – Dental Imaging Records
+Produce the complete and unredacted dental imaging records of Plaintiff maintained by Metro Dentalcare Richfield, 6601 Lyndale Ave S, Suite 230, Richfield, MN 55423, including but not limited to:
+	1.	All dental X-rays (bitewing, periapical, panoramic, and cephalometric images) taken during Plaintiff’s care, in their original digital format (DICOM or JPEG).
+	2.	Any cone beam CT scans (CBCT) performed, including raw DICOM files and any associated 3D reconstructions.
+	3.	Technologist and dental assistant logs documenting image acquisition, including machine settings, date/time, and any notes regarding unusual findings.
+	4.	Radiology or dental reports interpreting the images, including preliminary or draft notes not transmitted to Plaintiff.
+	5.	Internal communications among Metro Dentalcare staff, or between Metro Dentalcare and external consultants, concerning interpretation of Plaintiff’s imaging results.
+	6.	All versions of treatment plans that reference imaging findings, including notes regarding “non-dental” anomalies observed.
+	7.	Policies and protocols governing retention and release of imaging records to patients, and any exceptions applied to Plaintiff.
+
+⸻
+
+Request No. 7 – Data Sharing
+Produce all records reflecting whether Plaintiff’s dental X-rays or cone beam CT scans were shared with third-party providers, insurance companies, or research databases.
+
+⸻
+
+PURPOSE
+
+These requests are intended to ensure Plaintiff has access to the full imaging record necessary to independently evaluate the presence of potential anomalies or covert implants, and to determine whether Metro Dentalcare withheld, altered, or transmitted such data without Plaintiff’s knowledge or consent.
+
+Respectfully submitted,
+Kellyn Clay, Plaintiff, pro se 
