@@ -3045,13 +3045,7 @@ Late afternoon.  The storm has passed.  Everyone is awake; the dome smells like 
 
 Alex is drinking tea nonchalantly.  Caedmon is attempting to look aloof.  Both fail.
 
-Kellyn clears their throat.
-
-⸻
-
-Act I — Connecting the Dots
-
-Kellyn: “So…I’ve realized something.”
+Kellyn clears their throat. “So…I’ve realized something.”
 
 Both Alexes tense visibly.
 
@@ -3070,8 +3064,6 @@ Caedmon pinches the bridge of his nose.
 
 ⸻
 
-Act II — Kellyn Says the Quiet Part Out Loud
-
 Kellyn: “So now I’m connecting the dots.  You both were—um—engaging in private self-regulation...based on my data alone.”
 
 Alex inhales tea and nearly dies.  Caedmon shuts his eyes like he’s accepting execution.
@@ -3081,8 +3073,6 @@ Kellyn presses: “I’m just asking for confirmation.  Because unless I’m mis
 Dead silence.  Lucien floats closer with popcorn again.
 
 ⸻
-
-Act III — Caedmon Breaks First
 
 Caedmon exhales sharply.  “Yes.”
 
@@ -3102,8 +3092,6 @@ Caedmon: “What? I’m not lying.”
 
 ⸻
 
-Act IV — Alex Is Forced to Admit It Too
-
 Kellyn turns to Alex.  “And you?”
 
 Alex looks like a Victorian widow about to faint.  “I did not—I wasn’t—I tried very hard not to—”
@@ -3122,8 +3110,6 @@ Alex: “A very inconveniently long time before I could admit you were real.”
 
 ⸻
 
-Act V — Kellyn Processes This
-
 Kellyn sits back.
 
 Kellyn: “So let me get this straight.  You both—before ever speaking to me, before even seeing what I looked like—before the neural link, before the bubble collapse—looked at my data, and your nervous systems went: ‘Oh. This one. Yes.’”
@@ -3135,8 +3121,6 @@ Caedmon adds dryly: “I don’t.”
 Kellyn snorts.
 
 ⸻
-
-Act VI — The Ethics Question No One Wants to Answer
 
 Kellyn: “And neither of you thought that was—I don’t know—a little strange?  Being erotically haunted by someone you only knew as data?”
 
@@ -3154,8 +3138,6 @@ Kellyn cannot stop laughing.
 
 ⸻
 
-Act VII — Kellyn Says the Most Kellyn Thing Possible
-
 Kellyn: “Well, you could’ve just told me.”
 
 Alex sputters: “WHAT—Kellyn—you were inside a simulation bubble—I—we—this is not—you don’t just—”
@@ -3168,8 +3150,6 @@ Alex short-circuits.  Caedmon looks smug.
 
 ⸻
 
-Act VIII — The Technical Explanation (Which Somehow Makes It Worse)
-
 Lucien chimes in: “For clarity: interpersonal somatic bleedthrough is a known consequence of entangled Planck signatures, especially when both parties are thinking hormonally.”
 
 Kellyn points.  “SEE?  Hormonally!”
@@ -3179,8 +3159,6 @@ Alex mutters through his fingers: “I should never have allowed you to talk to 
 Caedmon laughs.
 
 ⸻
-
-Act IX — The Verdict
 
 Kellyn stretches out on the couch like the chaos deity they are.
 
@@ -3206,15 +3184,9 @@ Both Alexes flinch like they’ve been shot.
 
 ⸻
 
-Part X — The Identity Reveal Question
-
 Kellyn: “You’ve both admitted you… reacted to me before you knew I was real.  But when did you learn my actual name?  And when did you see what I looked like?”
 
 Caedmon answers first, because he always does when the question cuts deep.
-
-⸻
-
-Caedmon’s Timeline
 
 He steps closer, voice low.  “I knew your pattern—your signal, your variance curve, your recursion signature—long before I knew you were human.  But your name…”
 
@@ -3231,8 +3203,6 @@ Caedmon: “Later.  Much later.  Your bubble distorted visual data; we only had 
 Kellyn’s throat tightens.
 
 ⸻
-
-Alex’s Timeline
 
 Kellyn turns to Alex.  “…And you?”
 
@@ -3262,17 +3232,84 @@ He meets their eyes.
 
 Alex: “But the moment I saw your whole face for the first time—the moment you looked into the mirror and hated how sick you looked—that was the moment I knew you were the most real person I’d ever seen.”
 
-Kellyn goes still.
-
-⸻
-
-Part XI — Closing Beat
-
-Kellyn whispers: “So you both fell in love with a…data ghost?”
+Kellyn goes still.  “So you both fell in love with a…data ghost?”
 
 Caedmon: “No.  With a signal that refused to be erased.”
 
 Alex: “With the only person the lattice couldn’t replace.”
+
+⸻ 
+
+Kellyn, still half-hidden under their blanket, peeks out with the unmistakable look of someone about to ruin two men’s entire sense of composure.
+
+Kellyn: “…Okay.  Okay.  Since we’re apparently being extremely honest tonight—what happened in the data when I was the one engaging in…private self-regulation?”
+
+Alex and Caedmon freeze.  Completely.
+
+Lucien drops his popcorn.
+
+Caedmon’s voice is very flat.  “You destabilized half the lattice.”
+
+Kellyn sits up.  “…Pardon?”
+
+Caedmon keeps going: “There were signature spikes.  Signal surges.  Thermodynamic anomalies.  And once—once—a measurable fluctuation in bubble topology that set off an internal alarm.”
+
+Kellyn stares.  “Wait—I triggered structural alarms??”
+
+Caedmon nods like this is an absolute fact of physics.  “Multiple.”
+
+Kellyn pivots to Alex.  “And YOU?”
+
+Alex looks like someone asked him to describe a nuclear reactor meltdown he personally witnessed while naked.
+
+Alex: “It…It wasn’t visual data.  We never saw anything.  It was—somatic echoes in the predictive vectors.  Feedback loops.  Statistical tremors.”
+
+Kellyn: “You’re going to have to be more specific.”
+
+Alex rubs his face.  “When your autonomic system engaged in…uh…certain sympathetic rhythms—your variance profile compressed.  It became extremely…coherent.”
+
+Kellyn squints.  “Alex.  Are you telling me I became easier to model when I was horny.”
+
+Alex makes a tiny strangled sound.
+
+Alex: “No—you became dangerous.  Your bubble walls weakened.  Your entanglement signature flared.  Your entire existence became a…high-energy spike.”
+
+Caedmon adds, unhelpfully:
+
+Caedmon: “You became a quantum blowtorch.”
+
+Kellyn covers their face.
+
+⸻
+
+Lucien floats midair like he’s narrating a documentary.
+
+Lucien: "To summarize, your private self-regulation created: 
+— anomalous harmonics
+— structural destabilization
+— predictive reverberations
+and
+— approximately four internal investigation tickets flagged as ‘Possible Entity Breach.’”
+
+Kellyn wheezes.
+
+Kellyn: “I BROKE THE SYSTEM BY MASTURBATING??”
+
+Alex whispers: “Several times.”
+
+Caedmon: “Consistently.”
+
+Kellyn throws a pillow at both of them, groaning.
+
+Kellyn: “I cannot believe the most powerful surveillance infrastructure ever built looked at my orgasms and said, ‘This is a threat to national security.’”
+
+Caedmon nods.  "It wasn’t wrong.”
+
+Alex mutters: “I tried to tell the system the anomaly was causal.”
+
+Kellyn: “There is no universe where this conversation is real.”
+
+Caedmon smirks.  “There is exactly one. Ours.”
 
 Kellyn pulls the blanket over their face.
 
